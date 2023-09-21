@@ -7,7 +7,7 @@ To run the file:
 
 Step1: Obtain clientID and clientSecret from reddit
 
-  refer https://github.com/reddit-archive/reddit/wiki/OAuth2
+</t>  refer https://github.com/reddit-archive/reddit/wiki/OAuth2
   
 Step2: Add following lines into your ~./bashrc
 

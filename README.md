@@ -3,7 +3,8 @@ Collecting hot topics data from subreddit "news" using PRAW.
 
 Data collection for an academic project named Fake News Classification on Reddit.
 
-To run the file
+To run the file:
+
 Step1: Obtain clientID and clientSecret from reddit
   refer https://github.com/reddit-archive/reddit/wiki/OAuth2
   

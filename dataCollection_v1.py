@@ -2,12 +2,11 @@ import praw
 import os
 import pandas as pd
 import datetime
-import sys
 
 # Creating a reddit obj and authorizing it with client ID and client Secret using Environment variable
 reddit = praw.Reddit(
-    client_id = sys.argv[1],
-    client_secret = sys.argv[2],
+    client_id = os.getenv("clientid"),
+    client_secret = os.getenv("clientsecret"),
     user_agent = "FakeNewsClassificaiton by /u/shnk_reddy",
     redirect_uri="http://www.example.com/unused/redirect/uri",
 )

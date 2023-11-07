@@ -11,9 +11,9 @@ reddit = praw.Reddit(
     redirect_uri="http://www.example.com/unused/redirect/uri",
 )
 
-subs = ['news', 'WhitePeopleTwitter', 'Politics', 'WorldNews', 'NotTheOnion']
+subs = ['news', 'WhitePeopleTwitter', 'Politics', 'WorldNews', 'NotTheOnion', 'fakenews']
 
-# setting up columnds for dataframe
+# setting up columns for dataframe
 columns = ['title', 'selftext', 'author', \
             'subreddit', 'created_utc', \
             'upvote_ratio', 'num_comments', \

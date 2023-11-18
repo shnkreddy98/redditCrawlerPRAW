@@ -15,7 +15,7 @@ def merge_csv_files(folder_path, output_file):
                 current_data = pd.read_csv(file_path)
 
                 # Append the current DataFrame to the overall DataFrame
-                all_data = all_data.append(current_data, ignore_index=True)
+                all_data = pd.concat([all_data, current_data], ignore_index=True)
             except Exception as e:
                 print(f"Error reading file {file_name}: {e}")
 
@@ -25,9 +25,9 @@ def merge_csv_files(folder_path, output_file):
 
 if __name__ == "__main__":
     # Path to the folder
-    csv_folder_path = '~/data'
+    csv_folder_path = 'data'
 
     # Output file name
-    output_csv_file = 'merged_data.csv'
+    output_csv_file = 'data/merged_data.csv'
 
     merge_csv_files(csv_folder_path, output_csv_file)

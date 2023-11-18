@@ -1,7 +1,10 @@
+import pandas as pd
+import numpy as np
 import requests
 import os
 import cv2
 import pytesseract
+import time
 
 def extractImage(path):
 
@@ -20,7 +23,11 @@ def extractImage(path):
         print(f"Error processing image at index {ix}: {e}")
 
 
-def DownloadImageExtractText(index, url):
+def DownloadImage(index, url):
+
+    # Create the 'images' directory if it doesn't exist
+    if not os.path.exists("images"):
+        os.makedirs("images")
     
     save_path = "images/"+str(index)+".jpg"
 
@@ -31,7 +38,7 @@ def DownloadImageExtractText(index, url):
 
     else:        
         try:
-            response = requests.get(url)
+            response = requests.get(url, timeout = 0.001)
             response.raise_for_status()  # Raise an exception for bad responses
 
             with open(save_path, 'wb') as file:
@@ -48,9 +55,16 @@ if __name__ == "__main__":
 
     # Read csv file
     df = pd.read_csv("data/merged_data.csv")
+    print(df.head())
+
+    count = 0
 
     for ix, row in df.iterrows():
-        df.loc[ix, 'image_text'] = str(pytesseract.image_to_string(img))
+        if count == 10:
+            time.sleep(5)
+            count = 0
+        df.loc[ix, 'image_text'] = DownloadImage(ix, row['url'])
+        count += 1
         
     # Output file name
     output_csv_file = 'data/merged_data_with_image_data.csv'

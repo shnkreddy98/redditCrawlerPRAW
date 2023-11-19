@@ -1,0 +1,2086 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-7de20fdcb72d0357be8",applicationID:"529481584"};;/*! For license information please see nr-loader-rum-1.248.0.min.js.LICENSE.txt */
+(()=>{var e,t,n={234:(e,t,n)=>{"use strict";n.d(t,{P_:()=>h,Mt:()=>m,C5:()=>s,DL:()=>w,OP:()=>j,lF:()=>R,Yu:()=>_,Dg:()=>v,CX:()=>c,GE:()=>A,sU:()=>T});var r=n(8632),i=n(9567);const a={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const n=(0,r.ek)(e);n&&(n.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=n(7056),l=n(50);const f=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector=t+",[data-nr-mask]":null===t?e.mask_selector=t:(0,l.Z)("An invalid session_replay.mask_selector was provided and will not be used",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},g={},p="All configuration objects require an agent identifier!";function h(e){if(!e)throw new Error(p);if(!g[e])throw new Error("Configuration for ".concat(e," was never set"));return g[e]}function v(e,t){if(!e)throw new Error(p);g[e]=(0,i.D)(t,f());const n=(0,r.ek)(e);n&&(n.init=g[e])}function m(e,t){if(!e)throw new Error(p);var n=h(e);if(n){for(var r=t.split("."),i=0;i<r.length-1;i++)if("object"!=typeof(n=n[r[i]]))return;n=n[r[r.length-1]]}return n}const b={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},y={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!y[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return y[e]}function A(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");y[e]=(0,i.D)(t,b);const n=(0,r.ek)(e);n&&(n.loader_config=y[e])}const _=(0,r.mF)().o;var x=n(385),D=n(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(x._A?.performance?.timeOrigin||x._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+x._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof x._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},E={};function j(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!E[e])throw new Error("Runtime for ".concat(e," was never set"));return E[e]}function T(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");E[e]=(0,i.D)(t,k);const n=(0,r.ek)(e);n&&(n.runtime=E[e])}function R(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,n)=>{"use strict";n.d(t,{D:()=>i});var r=n(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,r.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,r.Z)("Setting a Configurable requires a model to set its initial properties");const n=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(n).length?e:n;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?n[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?n[o]=i(e[o],t[o]):n[o]=e[o]}catch(e){(0,r.Z)("An error occurred while setting a property of a Configurable",e)}return n}catch(e){(0,r.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,n)=>{"use strict";n.d(t,{Re:()=>i,gF:()=>a,q4:()=>r});const r="1.248.0",i="PROD",a="CDN"},385:(e,t,n)=>{"use strict";n.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>r,ux:()=>c,v6:()=>i,w1:()=>u});const r="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=r?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(r&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,n)=>{"use strict";n.d(t,{w:()=>a});var r=n(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,r.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,n]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=n)}))}catch(e){(0,r.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,n)=>{"use strict";n.d(t,{L:()=>d,R:()=>c});var r=n(8325),i=n(1284),a=n(4322),o=n(3325);const s={};function c(e,t){const n={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,n)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const n=[...s[e]];function o(t){const n=e?r.ee.get(e):r.ee,o=a.X.handlers;if(n.backlog&&o){var s=n.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,n){n[0].on(e,n[1])}))}))}delete o[t],n.backlog[t]=null,n.emit("drain-"+t,[])}}n.every((e=>{let[t,n]=e;return n.staged}))&&(n.sort(((e,t)=>e[1].priority-t[1].priority)),n.forEach((t=>{let[n]=t;s[e].delete(n),o(n)})))}function l(e,t){var n=e[1];(0,i.D)(t[n],(function(t,n){var r=e[0];if(n[0]===r){var i=n[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,n)=>{"use strict";n.d(t,{A:()=>c,ee:()=>u});var r=n(8632),i=n(2210),a=n(234);class o{constructor(e){this.contextId=e}}var s=n(3117);const c="nr@context:".concat(s.a),u=function e(t,n){var r={},s={},d={},f=!1;try{f=16===n.length&&(0,a.OP)(n).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var n=r[e];if(!n)return;for(var i=0;i<n.length;i++)n[i]===t&&n.splice(i,1)},emit:function(e,n,r,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,n,r);for(var o=p(r),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,n);var f=b()[s[e]];f&&f.push([g,e,n,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const n=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[r,i]=e;s[i]=t,t in n||(n[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:n,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){r[e]=v(e).concat(t)}function v(e){return r[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,r.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,n)=>{"use strict";n.d(t,{E:()=>r,p:()=>i});var r=n(8325).ee.get("handle");function i(e,t,n,i,a){a?(a.buffer([e],i),a.emit(e,t,n)):(r.buffer([e],i),r.emit(e,t,n))}},4322:(e,t,n)=>{"use strict";n.d(t,{X:()=>a});var r=n(5546);a.on=o;var i=a.handlers={};function a(e,t,n,a){o(a||r.E,i,e,t,n)}function o(e,t,n,i,a){a||(a="feature"),e||(e=r.E);var o=t[a]=t[a]||{};(o[n]=o[n]||[]).push([e,i])}},3239:(e,t,n)=>{"use strict";n.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var r=n(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};r._A.addEventListener("test",null,e),r._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(n,r))}function c(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(n,r))}},3117:(e,t,n)=>{"use strict";n.d(t,{a:()=>r});const r=(0,n(4402).Rl)()},4402:(e,t,n)=>{"use strict";n.d(t,{Rl:()=>o,ky:()=>s});var r=n(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=r._A?.crypto||r._A?.msCrypto;let t,n=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(31))),i.split("").map((e=>"x"===e?a(t,++n).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=r._A?.crypto||r._A?.msCrypto;let n,i=0;t&&t.getRandomValues&&(n=t.getRandomValues(new Uint8Array(31)));const o=[];for(var s=0;s<e;s++)o.push(a(n,++i).toString(16));return o.join("")}},7056:(e,t,n)=>{"use strict";n.d(t,{Bq:()=>r,Hb:()=>a,oD:()=>i});const r="NRBA",i=144e5,a=18e5},7894:(e,t,n)=>{"use strict";function r(){return Math.round(performance.now())}n.d(t,{z:()=>r})},50:(e,t,n)=>{"use strict";function r(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}n.d(t,{Z:()=>r})},2825:(e,t,n)=>{"use strict";n.d(t,{N:()=>d,T:()=>l});var r=n(8325),i=n(5546),a=n(3325),o=n(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const n=r.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,r]=e;c[t]?c[t].forEach((e=>{r?(0,i.p)("feat-"+t,[],void 0,e,n):(0,i.p)("block-"+t,[],void 0,e,n),(0,i.p)("rumresp-"+t,[Boolean(r)],void 0,e,n)})):r&&(0,i.p)("feat-"+t,[],void 0,void 0,n),l[t]=Boolean(r)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,n))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,n)=>{"use strict";n.d(t,{X:()=>i});var r=Object.prototype.hasOwnProperty;function i(e,t,n){if(r.call(e,t))return e[t];var i=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,n)=>{"use strict";n.d(t,{D:()=>r});const r=(e,t)=>Object.entries(e||{}).map((e=>{let[n,r]=e;return t(n,r)}))},4351:(e,t,n)=>{"use strict";n.d(t,{P:()=>a});var r=n(8325);const i=()=>{const e=new WeakSet;return(t,n)=>{if("object"==typeof n&&null!==n){if(e.has(n))return;e.add(n)}return n}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{r.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,n)=>{"use strict";n.d(t,{KB:()=>o,b2:()=>a});var r=n(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,r.bP)("load",e,t)}function o(e){if(i())return e();(0,r.iz)("DOMContentLoaded",e)}},8632:(e,t,n)=>{"use strict";n.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var r=n(7894),i=n(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let n=o();n.initializedAgents??={},t.initializedAt={ms:(0,r.z)(),date:new Date},n.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,n)=>{"use strict";n.d(t,{N:()=>i});var r=n(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],n=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,r.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),n,i)}},3081:(e,t,n)=>{"use strict";n.d(t,{gF:()=>a,mY:()=>i,t9:()=>r,vz:()=>s,xS:()=>o});const r=n(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,n)=>{"use strict";n.d(t,{t:()=>r});const r=n(3325).D.pageViewEvent},9251:(e,t,n)=>{"use strict";n.d(t,{t:()=>r});const r=n(3325).D.pageViewTiming},5938:(e,t,n)=>{"use strict";n.d(t,{W:()=>i});var r=n(8325);class i{constructor(e,t,n){this.agentIdentifier=e,this.aggregator=t,this.ee=r.ee.get(e),this.featureName=n,this.blocked=!1}}},7530:(e,t,n)=>{"use strict";n.d(t,{j:()=>b});var r=n(3325),i=n(234),a=n(5546),o=n(8325),s=n(7894),c=n(8e3),u=n(3960),d=n(385),l=n(50),f=n(3081),g=n(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var n=arguments.length,r=new Array(n),i=0;i<n;i++)r[i]=arguments[i];return function(t){for(var n=arguments.length,r=new Array(n>1?n-1:0),i=1;i<n;i++)r[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...r))})),a.length>1?a:a[0]}(t,...r)}}))}var h=n(2825);const v=e=>{const t=e.startsWith("http");e+="/",n.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,n,r,a){const o=(0,i.C5)(e);return null===n?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:n}}),A(v,r,!0,a||null===n?"session":void 0)(t,n)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,r.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,r.D.spa),g.setPageViewName=function(t,n){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(n||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",n);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,r.D.metrics,p);const n=Object.values(r.D);if(void 0===e)e=n;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!n.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(n));e.includes(r.D.pageViewEvent)||e.push(r.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,r.D.metrics,p),(0,a.p)("recordReplay",[],void 0,r.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,r.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,r.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var n={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,r.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,n],i,r.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],n),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],n),e}finally{h.emit("fn-end",[(0,s.z)()],n)}}}};function A(e,t,n,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,r.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],n?null:this,i,p),n?void 0:this}}function _(){n.e(75).then(n.bind(n,7438)).then((t=>{let{setAPI:n}=t;n(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,r.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,r.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,r.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,n)=>{n.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,n)=>{"use strict";n.d(t,{D:()=>r,p:()=>i});const r={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[r.pageViewEvent]:1,[r.pageViewTiming]:2,[r.metrics]:3,[r.jserrors]:4,[r.ajax]:5,[r.sessionTrace]:6,[r.pageAction]:7,[r.spa]:8,[r.sessionReplay]:9}}},r={};function i(e){var t=r[e];if(void 0!==t)return t.exports;var a=r[e]={exports:{}};return n[e](a,a.exports,i),a.exports}i.m=n,i.d=(e,t)=>{for(var n in t)i.o(t,n)&&!i.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,n)=>(i.f[n](e,t),t)),[])),i.u=e=>"nr-rum-1.248.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.248.0.PROD:",i.l=(n,r,a,o)=>{if(e[n])e[n].push(r);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==n||l.getAttribute("data-webpack")==t+a){s=l;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=n,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),s.integrity=i.sriHashes[o],s.crossOrigin="anonymous"),e[n]=[r];var f=(t,r)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[n];if(delete e[n],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(r))),t)return t(r)},g=setTimeout(f.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=f.bind(null,s.onerror),s.onload=f.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",i.sriHashes={75:"sha512-5mWtMwj7hrXT5aUkfvBtjH6FJXsR+zdeMBfc721nzrOx36xa23yTrCB1VVOAQa+zIioAbWPW4m7UsPp7hW1WPw=="},(()=>{var e={50:0,832:0};i.f.j=(t,n)=>{var r=i.o(e,t)?e[t]:void 0;if(0!==r)if(r)n.push(r[2]);else{var a=new Promise(((n,i)=>r=e[t]=[n,i]));n.push(r[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(n=>{if(i.o(e,t)&&(0!==(r=e[t])&&(e[t]=void 0),r)){var a=n&&("load"===n.type?"missing":n.type),o=n&&n.target&&n.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,r[1](s)}}),"chunk-"+t,t)}};var t=(t,n)=>{var r,a,[o,s,c]=n,u=0;if(o.some((t=>0!==e[t]))){for(r in s)i.o(s,r)&&(i.m[r]=s[r]);if(c)c(i)}for(t&&t(n);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},n=self["webpackChunk:NRBA-1.248.0.PROD"]=self["webpackChunk:NRBA-1.248.0.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{"use strict";i(1926);var e=i(50);class t{addPageAction(t,n){(0,e.Z)("Call to agent api addPageAction failed. The page action feature is not currently initialized.")}setPageViewName(t,n){(0,e.Z)("Call to agent api setPageViewName failed. The page view feature is not currently initialized.")}setCustomAttribute(t,n,r){(0,e.Z)("Call to agent api setCustomAttribute failed. The js errors feature is not currently initialized.")}noticeError(t,n){(0,e.Z)("Call to agent api noticeError failed. The js errors feature is not currently initialized.")}setUserId(t){(0,e.Z)("Call to agent api setUserId failed. The js errors feature is not currently initialized.")}setApplicationVersion(t){(0,e.Z)("Call to agent api setApplicationVersion failed. The agent is not currently initialized.")}setErrorHandler(t){(0,e.Z)("Call to agent api setErrorHandler failed. The js errors feature is not currently initialized.")}finished(t){(0,e.Z)("Call to agent api finished failed. The page action feature is not currently initialized.")}addRelease(t,n){(0,e.Z)("Call to agent api addRelease failed. The js errors feature is not currently initialized.")}start(t){(0,e.Z)("Call to agent api addRelease failed. The agent is not currently initialized.")}recordReplay(){(0,e.Z)("Call to agent api recordReplay failed. The agent is not currently initialized.")}pauseReplay(){(0,e.Z)("Call to agent api pauseReplay failed. The agent is not currently initialized.")}}var n=i(3325),r=i(234);const a=Object.values(n.D);function o(e){const t={};return a.forEach((n=>{t[n]=function(e,t){return!1!==(0,r.Mt)(t,"".concat(e,".enabled"))}(n,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,n){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,n),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,r.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,n)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const n=l.il&&!0===(0,r.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let r;try{if(n){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));r=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,r))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:n}=await e(this.featureName,"aggregate");this.featAggregate=new n(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==n.D.sessionReplay||!!r.Yu.MO&&(!1!==(0,r.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,n),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,n,r,i){var a=this.getBucket(e,t,n,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,n){t[e]=b(n,t[e])})),t}(r,a.metrics),a}merge(e,t,n,r,i){var a=this.getBucket(e,t,r,i);if(a.metrics){var o=a.metrics;o.count+=n.count,(0,v.D)(n,(function(e,t){if("count"!==e){var r=o[e],i=n[e];i&&!i.c?o[e]=b(i.t,r):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=n}storeMetric(e,t,n,r){var i=this.getBucket(e,t,n);return i.stats=b(r,i.stats),i}getBucket(e,t,n,r){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:n||{}},r&&(i.custom=r)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},n="",r=!1,i=0;i<e.length;i++)t[n=e[i]]=w(this.aggregatedData[n]),t[n].length&&(r=!0),delete this.aggregatedData[n];return r?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),T=i(7894),R=i(9251);class S extends f{static featureName=R.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,n),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,T.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,T.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class C extends f{static featureName=I.t9;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,n),this.importAggregator()}}new class extends t{constructor(t){let n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=n,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(n,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,r.C5)(this.agentIdentifier),init:(0,r.P_)(this.agentIdentifier),loader_config:(0,r.DL)(this.agentIdentifier),runtime:(0,r.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>n.p[e.featureName]-n.p[t.featureName])),r.forEach((r=>{if(t[r.featureName]||r.featureName===n.D.pageViewEvent){const i=function(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.sessionReplay:return[n.D.sessionTrace];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}(r.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(r.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[r.featureName]=new r(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const n=(0,_.fP)();return delete n.initializedAgents[this.agentIdentifier]?.api,delete n.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,n.ee?.abort(),delete n.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,S,C],loaderType:"lite"})})()})();</script>
+<script>window['sa_metadata'] = {"title":"Bangladesh: Shipping Firms Profit from Labor Abuse","langcode":"en","node_id":"385971","entity_type":"node","node_type":"news","created":"1695859200","region_country":["Asia","Bangladesh"],"topic":["Economic Justice and Rights","Environment and Health","Exploitation, Forced Labor &amp; Trafficking"],"news_type":["News Release"],"division":"Asia"};</script>
+<script async defer src="/libraries/custom/simpleanalytics.js"></script>
+<script src="/modules/custom/hrw_consent/js/hrwconsent.js?v=1.7"></script>
+<script>
+        HrwConsent = new HrwConsent;
+        HrwConsentSettings.domain = 'hrw.org';
+        HrwConsentSettings.expires = 365;
+      </script>
+<script>var _mtm = window._mtm = window._mtm || [];_mtm.push({"mtm.startTime": (new Date().getTime()), "event": "mtm.Start"});var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];g.type = "text/javascript";g.async = true;g.src="https://open-analytics.hrw.org/js/container_MOFt5fSb.js";s.parentNode.insertBefore(g, s);</script>
+<meta name="description" content="Many European shipping companies are knowingly sending their end-of-life ships for scrap in dangerous and polluting yards in Bangladesh. A new report finds that Bangladeshi shipbreaking yards often take shortcuts on safety measures, dump toxic waste, and deny workers living wages." />
+<link rel="canonical" href="https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" />
+<meta name="google" content="H_DzcJuJMJKVAO6atlPsK4HHr2WienspT6e74P5fVFY" />
+<meta property="og:site_name" content="Human Rights Watch" />
+<meta property="og:url" content="https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" />
+<meta property="og:title" content="Bangladesh: Shipping Firms Profit from Labor Abuse" />
+<meta property="og:description" content="Many European shipping companies are knowingly sending their end-of-life ships for scrap in dangerous and polluting yards in Bangladesh. A new report finds that Bangladeshi shipbreaking yards often take shortcuts on safety measures, dump toxic waste, and deny workers living wages." />
+<meta property="og:image" content="https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?h=08b866d1&amp;itok=l1o1WVed" />
+<meta property="og:image:secure_url" content="https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?h=08b866d1&amp;itok=l1o1WVed" />
+<meta property="og:updated_time" content="2023-09-27T20:00:00-0400" />
+<meta property="og:image:alt" content="Workers dismantling a ship without adequate protective equipment in Chattogram Bangladesh." />
+<meta property="article:publisher" content="https://www.facebook.com/HumanRightsWatch" />
+<meta property="article:published_time" content="2023-09-27T20:00:00-0400" />
+<meta property="article:modified_time" content="2023-09-27T20:00:00-0400" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Many European shipping companies are knowingly sending their end-of-life ships for scrap in dangerous and polluting yards in Bangladesh. A new report finds that Bangladeshi shipbreaking yards often take shortcuts on safety measures, dump toxic waste, and deny workers living wages." />
+<meta name="twitter:title" content="Bangladesh: Shipping Firms Profit from Labor Abuse" />
+<meta name="twitter:site" content="@hrw" />
+<meta name="twitter:site:id" content="14700316" />
+<meta name="twitter:image:alt" content="Workers dismantling a ship without adequate protective equipment in Chattogram Bangladesh." />
+<meta name="twitter:image" content="https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?h=08b866d1&amp;itok=l1o1WVed" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Bangladesh: Shipping Firms Profit from Labor Abuse",
+            "description": "Many European shipping companies are knowingly sending their end-of-life ships for scrap in dangerous and polluting yards in Bangladesh. A new report finds that Bangladeshi shipbreaking yards often take shortcuts on safety measures, dump toxic waste, and deny workers living wages.",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?h=08b866d1\u0026itok=l1o1WVed"
+            },
+            "datePublished": "2023-09-27T20:00:00-0400",
+            "dateModified": "2023-09-27T20:00:00-0400",
+            "publisher": {
+                "@type": "NGO",
+                "@id": "https://www.hrw.org/",
+                "name": "Human Rights Watch",
+                "url": "https://www.hrw.org/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "representativeOfPage": "False",
+                    "url": "https://www.hrw.org//themes/custom/hrw_design/dist/app-drupal/assets/logo.svg"
+                }
+            },
+            "mainEntityOfPage": "https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse",
+            "speakable": {
+                "@type": "SpeakableSpecification",
+                "cssSelector": "#block-hrw-design-content"
+            }
+        }
+    ]
+}</script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "VideoObject",
+            "thumbnailUrl": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/09/202204ASIA_Bangladesh_Ship_Breaking.jpg?h=d1cb525d\u0026itok=rh3WW1BF",
+            "@id": "https://www.hrw.org/video-photos/video/2023/09/27/shipping-companies-profit-expense-bangladeshi-lives-and-environment",
+            "uploadDate": "2023-09-27T20:47:25-0400",
+            "name": "Shipping Companies Profit at the Expense of Bangladeshi Lives and the Environment",
+            "description": "EU Should Revise Law to Promote Safe, Sustainable Ship Recycling",
+            "embedUrl": "https://youtu.be/djXg2_5Cww8"
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/hrw_tag_manager/google_tag.script.js?s484p5" defer></script>
+<link rel="preload" as="font" href="/themes/custom/hrw_design/dist/app-drupal/assets/fonts/main/Fonts/38b5004a-00f0-4ad8-a6f6-4c8fe48b074b.woff2" type="font/woff2" crossorigin />
+<link rel="preload" as="font" href="/themes/custom/hrw_design/dist/app-drupal/assets/fonts/main/Fonts/32a02776-64bf-464c-9c4f-4f57df3d72d6.woff2" type="font/woff2" crossorigin />
+<link rel="preload" as="font" href="/themes/custom/hrw_design/dist/app-drupal/assets/fonts/main/Fonts/b273cf7b-f375-4188-9216-9101312446b2.woff2" type="font/woff2" crossorigin />
+<link rel="preload" as="image" href="/sites/default/files/styles/480w/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?itok=abXBhh7-" fetchpriority="high" />
+
+    <title>Bangladesh: Shipping Firms Profit from Labor Abuse | Human Rights Watch</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_2Nvs2I-Ii_ikng_uO-eGfYeG0CEemrutA3GFI-iT9W4.css?delta=0&amp;language=en&amp;theme=hrw_design&amp;include=eJxVUFGywjAIvFA0R8rQZLU8E1IDrfb2L1Y71h-GXXZ3gERGmVY0P2CkhWtTN7ZHiFUUYv7QO13VUPxAik2ToHwV_3ef0daNuXA2NPUNOnUTLwhGQ4Ye9bG2X__8NJpqD31N9jg8LbPcfGrzRPn8gUffpYqFzBF9u1CIxamRsRpH3W1f5h1eJcIVFi6Ug47UqQ86bcgtjIf6rZ5LTXOGex_lI03GVVz_BNsaUAaknfwHkDuAtw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_QckKDWjwu22jkHlUF7MPDgwIUUm1DREyumOmoP3DrO0.css?delta=1&amp;language=en&amp;theme=hrw_design&amp;include=eJxVUFGywjAIvFA0R8rQZLU8E1IDrfb2L1Y71h-GXXZ3gERGmVY0P2CkhWtTN7ZHiFUUYv7QO13VUPxAik2ToHwV_3ef0daNuXA2NPUNOnUTLwhGQ4Ye9bG2X__8NJpqD31N9jg8LbPcfGrzRPn8gUffpYqFzBF9u1CIxamRsRpH3W1f5h1eJcIVFi6Ug47UqQ86bcgtjIf6rZ5LTXOGex_lI03GVVz_BNsaUAaknfwHkDuAtw" />
+<link rel="stylesheet" media="print" href="//fast.fonts.net/t/1.css?apiType=css&amp;projectid=b0af8052-798a-4f60-9b66-62993aa79ad2" />
+
+    
+  </head>
+  <body class="ltr">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5D7ZP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page page--node--news">
+      <header>
+            <a href="#hrw-cookie-dialog" id="hrw-cookie-popup-skip-link" class="visually-hidden focusable" aria-hidden="true" tabindex="-1">
+        Skip to cookie privacy notice
+      </a>
+      <a href="#main-content" class="visually-hidden focusable">
+        Skip to main content
+      </a>
+        <div>
+    
+<div id="block-donationcalloutheaderbar">
+	
+		
+
+                    
+  
+
+
+
+
+<div class="donation__outer hidden lg:block w-full py-3 px-6 hover:bg-orange-600 focus:bg-orange-600 mx-auto bg-orange-500" style="z-index: 21; position: relative;">
+  
+      <a href="https://donate.hrw.org/page/131514/donate/1?ea.tracking.id=EW2023SMwbst1&amp;promo_id=1006"
+       class="donation__simple block max-w-sm mx-auto hover:underline focus:underline">
+      <p
+        class="hrw-large-text-bold text-white text-center hover:underline">Human rights abuses are happening right now &ndash; start a monthly gift today.</p>
+    </a>
+  </div>
+
+            
+</div>
+
+
+  </div>
+
+
+                <div>
+          
+<div class="header-bar flex w-full justify-center relative z-30">
+  <span class="bg-gray-900 absolute h-16 w-full z-n10"></span>
+  <div class="header-bar__container flex w-lg mt-4">
+    <div class="header-bar__logo block absolute z-10 w-14 h-14 xl:w-24 xl:h-24 xl:relative flex-shrink-0">
+       <a href="/">         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" preserveAspectRatio="xMinYMin" class="max-w-full"><title>Human Rights Watch</title><path fill="#0071CE" d="M0 700h700V0H0z"/><path fill="#fff" d="M177 232v-56h-12v22h-16v-22h-11v56h11v-25h16v25zm94-18v-38h-12v41c0 4-3 6-8 6-4 0-7-1-8-4l-1-6v-37h-11v39c0 5 0 7 2 10 3 5 9 8 18 8 12 0 18-6 19-11l1-8zm110 18l-5-56h-14l-8 28-2 9-2-9-7-28h-15l-5 56h11l2-29 1-11 2 10 8 30h10l8-31 3-8v9l2 30h11zm94 0l-17-56h-12l-19 56h12l4-13h16l4 13h12zm-18-23h-11l3-10 2-11 3 10 3 11zm105 23v-56h-11l1 23 1 15-7-16-10-22h-13v56h11v-24l-1-16 8 18 9 22h12zM178 380l-13-22-2-3c7 0 12-7 12-15 0-10-6-17-16-17h-21v57h11v-24l2 1c2 1 3 3 9 13l5 10h13zm-15-40c0 3 0 5-2 6-1 1-3 2-8 2h-4v-15h10c3 1 4 4 4 7zm70 40v-57h-12v57zm88-5v-27h-22l2 10h8v12l-6 2c-4 0-7-1-9-3-3-3-4-8-4-16 0-9 1-15 5-18 2-2 4-3 8-3s8 1 11 4l6-7c-4-4-11-6-17-6s-10 1-14 4c-8 5-12 13-12 25 0 8 2 14 6 20 5 5 11 8 19 8 7 0 13-1 19-5zm85 5v-57h-11v22h-16v-22h-12v57h12v-25h16v25zm83-57h-41v10h14v47h12v-47h13zm78 39c0-8-5-14-14-17l-7-2c-5-1-6-2-6-5 0-4 3-7 8-7 4 0 8 1 13 5l5-9c-5-3-12-5-19-5-12 0-20 7-20 17l3 9c2 3 5 5 11 7l6 1c5 2 7 4 7 8 0 5-3 7-10 7-5 0-10-1-15-4l-4 9c5 3 13 5 19 5 14 0 23-8 23-19zM199 471h-12l-4 21-3 19-3-15-5-25h-12l-5 23-3 18-3-19-5-22h-12l14 57h12l5-23 3-16 2 16 5 23h13l13-57zm95 56l-17-56h-13l-18 56h12l4-13h16l4 13h12zm-19-22h-10a160 160 0 005-22 1386 1386 0 015 22zm103-34h-40v10h14v46h11v-46h13zm90 52l-5-7c-4 3-7 3-10 3-5 0-8-2-11-6-1-3-2-7-2-15 0-6 1-11 3-14s6-5 10-5l9 3 5-8c-3-2-9-4-15-4-9 0-17 5-21 13-3 5-4 10-4 17 0 9 2 15 7 20 5 6 11 8 18 8s11-1 16-5zm94 4v-56h-11v22h-16v-22h-12v56h12v-25h16v25z"/></svg>
+       </a>     </div>
+    <div class="header-bar__content flex flex-col w-full">
+      <div class="header-bar__content-inner flex justify-end w-full xl:justify-between xl:pl-6 bg-gray-900 text-white">
+      <button title="The main menu" aria-label="Open the main menu" aria-expanded="false"
+              data-toggle-label="Close the main menu"
+              class="header-bar__toggle my-2 ml-16 pl-2 pr-2 flex border-r border-gray-800 xl:hidden">
+        <div class="toggle-menu">
+          
+
+
+
+<div class="icon fill-current  w-6 block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-header-menu"></use>
+  </svg>
+</div>
+        </div>
+        <div class="toggle-close rotate-away">
+          
+
+
+
+<div class="icon fill-current  w-6 block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-header-cross"></use>
+  </svg>
+</div>
+        </div>
+      </button>
+        <div class="header-bar__language hidden xl:inline-flex items-center">
+          
+
+
+
+  <nav aria-label="Languages" class="translations-bar items-baseline inline-flex flex-wrap ">
+    <ul class="translations-bar__languages-list inline-flex flex-wrap ">
+          <li class="translations-bar__language">
+                  <a href="/ar"
+             title="Arabic"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="ar" lang="ar">
+            العربية
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/zh-hans"
+             title="Chinese Simplified"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="zh-hans" lang="zh-hans">
+            简中
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/zh-hant"
+             title="Chinese Traditional"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="zh-hant" lang="zh-hant">
+            繁中
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                <span
+           class=" font-sans text-xs lg:text-sm px-1 x2l:px-2 active underline text-gray-400"
+           xml:lang="en" lang="en">
+          English
+        </span>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/fr/news/2023/09/27/bangladesh-des-compagnies-maritimes-tirent-profit-de-pratiques-abusives"
+             title="French"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="fr" lang="fr">
+            Français
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/de"
+             title="German"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="de" lang="de">
+            Deutsch
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/ja"
+             title="Japanese"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="ja" lang="ja">
+            日本語
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/ru"
+             title="Russian"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="ru" lang="ru">
+            Русский
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/pt"
+             title="Portugese"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="pt" lang="pt">
+            Português
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/es"
+             title="Spanish"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white"
+             xml:lang="es" lang="es">
+            Español
+          </a>
+        
+      </li>
+              <li class="translations-bar__language">
+        <a href="/languages?language=en"
+           title="More"
+           class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-gray-400 hover-focus:text-white">
+          More <span class='sr-only'>languages</span>
+          
+
+
+
+<div class="icon fill-current  w-4 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-plus"></use>
+  </svg>
+</div>
+        </a>
+      </li>
+      </ul>
+</nav>
+
+
+        </div>
+        <div class="header-bar__utilities flex flex-col-reverse w-full xl:w-auto xl:flex-row xl:items-center">
+          <div class="header-bar__search hidden xl:p-0 xl:mr-2 xl:flex">
+                          <div class="search-input">
+      <form class="search-form" action="/sitesearch" method="get"
+          id="search_form_1462258505" accept-charset="UTF-8">
+      <div class="flex">
+        <div class="form-item form-type-textfield inline-block flex-grow">
+          <label class="sr-only text-white" for="apachesolr_panels_search_form_1973259744">Search</label>
+          <input title="Enter the terms you wish to search for."
+                 type="text"
+                 id="apachesolr_panels_search_form_1973259744"
+                 name="search"
+                 value=""
+                 size="15"
+                 maxlength="128"
+                 class="form-text relative bg-gray-700 text-white h-8 py-1 px-2 text-sm font-light w-full">
+        </div>
+        <button type="submit" value="Search" title="Search" class="form-submit inline-flex justify-center h-8 w-8 bg-gray-900 hover-focus:bg-black text-white xl:bg-gray-800">
+          
+
+
+
+<div class="icon fill-current self-center w-4 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-search"></use>
+  </svg>
+</div>
+        </button>
+      </div>
+    </form>
+  </div>
+                      </div>
+          <div class="header-bar__cta flex justify-end xl:block">
+                          
+
+
+
+
+
+
+<a   class="uppercase btn btn-secondary btn-lg  h-12 font-bold w-full" href=https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&amp;promo_id=1000>
+        <span class="btn-text ">Donate Now</span>
+  </a>
+                      </div>
+        </div>
+      </div>
+      <div class="header-bar__nav flex mobile-hide-position flex-col max-h-0 overflow-hidden transition justify-start xl:flex-row xl:overflow-visible xl:max-h-full">
+        <div class="header-bar__search-mobile px-6 pt-6 bg-gray-800 xl:hidden">
+                      <div class="search-input">
+      <form class="search-form" action="/sitesearch" method="get"
+          id="search_form_1874660892" accept-charset="UTF-8">
+      <div class="flex">
+        <div class="form-item form-type-textfield inline-block flex-grow">
+          <label class="sr-only text-white" for="apachesolr_panels_search_form_196541551">Search</label>
+          <input title="Enter the terms you wish to search for."
+                 type="text"
+                 id="apachesolr_panels_search_form_196541551"
+                 name="search"
+                 value=""
+                 size="15"
+                 maxlength="128"
+                 class="form-text relative bg-gray-700 text-white h-8 py-1 px-2 text-sm font-light w-full">
+        </div>
+        <button type="submit" value="Search" title="Search" class="form-submit inline-flex justify-center h-8 w-8 bg-gray-900 hover-focus:bg-black text-white xl:bg-gray-800">
+          
+
+
+
+<div class="icon fill-current self-center w-4 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-search"></use>
+  </svg>
+</div>
+        </button>
+      </div>
+    </form>
+  </div>
+                  </div>
+                  <div class="header-bar__nav-wrapper w-full xl:pt-1 xl:pl-5">
+            
+<noscript>
+  <header class="w-full">
+    <div class="nav-desktop">
+              <div class="nav-desktop__content flex w-full justify-start">
+          <ul role="tablist" class="nav-desktop__primary flex flex-row flex-wrap flex-grow mb-4 relative list-none p-0 border-b border-gray-200">
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/countries">Countries</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/topic/womens-rights">Topics</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/publications">Reports</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/video-photos">Videos &amp; Photos</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/impact">Impact</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/join-us/take-action">Take Action</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/about/about-us">About</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="/join-us/human-rights-watch-council">Join Us</a>
+                </div>
+              </li>
+                          <li itemid="" role="tab" class="nav-desktop__menu-item items-baseline p-0 relative separator-bar-absolute">
+                <div class="menu-item__item-content py-2 xl:p-1 x2l:px-3 x3l:px-5 bg-white text-blue-700 text-xl font-light relative hover:text-white hover-focus:bg-blue-700">
+                  <a href="https://donate.hrw.org/page/16059/donate/1?promo_id=1004">Give Now</a>
+                </div>
+              </li>
+                      </ul>
+        </div>
+                </div>
+  </header>
+</noscript>
+            
+<div id="vue-header"></div>
+          </div>
+                <div class="header-bar__language-mobile inline-flex items-center pl-4 pt-6 bg-white transition xl:hidden">
+          
+
+
+
+  <nav aria-label="Languages" class="translations-bar items-baseline inline-flex flex-wrap ">
+    <ul class="translations-bar__languages-list inline-flex flex-wrap ">
+          <li class="translations-bar__language">
+                  <a href="/ar"
+             title="Arabic"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="ar" lang="ar">
+            العربية
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/zh-hans"
+             title="Chinese Simplified"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="zh-hans" lang="zh-hans">
+            简中
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/zh-hant"
+             title="Chinese Traditional"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="zh-hant" lang="zh-hant">
+            繁中
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                <span
+           class=" font-sans text-xs lg:text-sm px-1 x2l:px-2 active underline text-gray-800"
+           xml:lang="en" lang="en">
+          English
+        </span>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/fr/news/2023/09/27/bangladesh-des-compagnies-maritimes-tirent-profit-de-pratiques-abusives"
+             title="French"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="fr" lang="fr">
+            Français
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/de"
+             title="German"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="de" lang="de">
+            Deutsch
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/ja"
+             title="Japanese"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="ja" lang="ja">
+            日本語
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/ru"
+             title="Russian"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="ru" lang="ru">
+            Русский
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/pt"
+             title="Portugese"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="pt" lang="pt">
+            Português
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/es"
+             title="Spanish"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="es" lang="es">
+            Español
+          </a>
+        
+      </li>
+              <li class="translations-bar__language">
+        <a href="/languages?language=en"
+           title="More"
+           class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800">
+          More <span class='sr-only'>languages</span>
+          
+
+
+
+<div class="icon fill-current  w-4 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-plus"></use>
+  </svg>
+</div>
+        </a>
+      </li>
+      </ul>
+</nav>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+
+          </header>
+    <main class="main" role="main">
+    <a id="main-content" tabindex="-1"></a>    
+    
+      <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-hrw-design-content">
+  
+    
+      
+
+
+
+<div class="multi-header-bar fixed top-0 left-0 h-12 sticky-header scroll-fade transition hidden xl:flex w-full justify-center z-20">
+  <span class="multi-header-bar__runner bg-white h-12 absolute w-full z-1"></span>
+  <div class="multi-header-bar__container flex w-lg">
+    <div class="multi-header-bar__logo block absolute z-10 w-14 h-14">
+      <a href="/">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" preserveAspectRatio="xMinYMin" class="max-w-full"><title>Human Rights Watch</title><path fill="#0071CE" d="M0 700h700V0H0z"/><path fill="#fff" d="M177 232v-56h-12v22h-16v-22h-11v56h11v-25h16v25zm94-18v-38h-12v41c0 4-3 6-8 6-4 0-7-1-8-4l-1-6v-37h-11v39c0 5 0 7 2 10 3 5 9 8 18 8 12 0 18-6 19-11l1-8zm110 18l-5-56h-14l-8 28-2 9-2-9-7-28h-15l-5 56h11l2-29 1-11 2 10 8 30h10l8-31 3-8v9l2 30h11zm94 0l-17-56h-12l-19 56h12l4-13h16l4 13h12zm-18-23h-11l3-10 2-11 3 10 3 11zm105 23v-56h-11l1 23 1 15-7-16-10-22h-13v56h11v-24l-1-16 8 18 9 22h12zM178 380l-13-22-2-3c7 0 12-7 12-15 0-10-6-17-16-17h-21v57h11v-24l2 1c2 1 3 3 9 13l5 10h13zm-15-40c0 3 0 5-2 6-1 1-3 2-8 2h-4v-15h10c3 1 4 4 4 7zm70 40v-57h-12v57zm88-5v-27h-22l2 10h8v12l-6 2c-4 0-7-1-9-3-3-3-4-8-4-16 0-9 1-15 5-18 2-2 4-3 8-3s8 1 11 4l6-7c-4-4-11-6-17-6s-10 1-14 4c-8 5-12 13-12 25 0 8 2 14 6 20 5 5 11 8 19 8 7 0 13-1 19-5zm85 5v-57h-11v22h-16v-22h-12v57h12v-25h16v25zm83-57h-41v10h14v47h12v-47h13zm78 39c0-8-5-14-14-17l-7-2c-5-1-6-2-6-5 0-4 3-7 8-7 4 0 8 1 13 5l5-9c-5-3-12-5-19-5-12 0-20 7-20 17l3 9c2 3 5 5 11 7l6 1c5 2 7 4 7 8 0 5-3 7-10 7-5 0-10-1-15-4l-4 9c5 3 13 5 19 5 14 0 23-8 23-19zM199 471h-12l-4 21-3 19-3-15-5-25h-12l-5 23-3 18-3-19-5-22h-12l14 57h12l5-23 3-16 2 16 5 23h13l13-57zm95 56l-17-56h-13l-18 56h12l4-13h16l4 13h12zm-19-22h-10a160 160 0 005-22 1386 1386 0 015 22zm103-34h-40v10h14v46h11v-46h13zm90 52l-5-7c-4 3-7 3-10 3-5 0-8-2-11-6-1-3-2-7-2-15 0-6 1-11 3-14s6-5 10-5l9 3 5-8c-3-2-9-4-15-4-9 0-17 5-21 13-3 5-4 10-4 17 0 9 2 15 7 20 5 6 11 8 18 8s11-1 16-5zm94 4v-56h-11v22h-16v-22h-12v56h12v-25h16v25z"/></svg>
+      </a>
+    </div>
+    <div class="multi-header-bar__content flex w-full">
+                    <div class="multi-header-bar__title-wrapper   ml-16  grid items-center text-gray-800 font-bold text-sm font-sans-main pl-2 z-1">
+          <h2 class="multi-header-bar__title z-1 truncate"></h2>
+        </div>
+            <div class="multi-header-bar__utilities flex  ">
+                                  <div class="multi-header-bar__print relative items-center lg:flex z-10">
+            <a href="/node/385971/printable/print" class="download-item-title pl-2 text-sm text-gray-800 font-bold font-sans-main">
+              <button class="multi-header-bar__print-button flex hover:bg-gray-200 border-gray-400 border items-center leading-snug my-1 h-8 px-2 ">
+                Print
+                
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-print"></use>
+  </svg>
+</div>
+              </button>
+            </a>
+          </div>
+                                  <div class="multi-header-bar__cta z-1">
+                          
+
+
+
+
+
+
+<a   class="uppercase btn btn-secondary btn-lg-sm h-12 text-sm md:text-lg lg:font-bold" href=https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&amp;promo_id=1000>
+        <span class="btn-text ">Donate Now</span>
+  </a>
+                      </div>
+              </div>
+    </div>
+  </div>
+</div>
+
+<article>
+  <div>
+      
+
+
+
+<div class="container-large max-w-lg mx-auto px-6 sm:px-8 md:pr-14 md:pl-24 x2l:px-0 x2l:mx-32 x3l:mx-auto">
+  
+        
+                  <div >
+            <div>
+  
+    
+      
+        
+
+
+<header class="news-header max-w-lg mt-6 md:mt-0 mb-4 sm:mb-6 md:mb-12">
+  <div class="news-header__info mb-5 pb-3 flex flex-col justify-between items-baseline lg:flex-row border-gray-200 lg:flex-row lg:border-b">
+    <div class="news-header__dateline pb-2 flex flex-row text-gray-700 items-baseline border-b border-gray-200 w-full lg:w-auto lg:border-0 lg:pb-0">
+      <time class="news-header__dateline-date flex font-sans text-base lg:text-base"
+            datetime="2023-09-27T20:00:00-0400">September 27, 2023 8:00PM EDT</time>
+          </div>
+          
+
+
+
+  <nav aria-label="Available In" class="translations-bar items-baseline inline-flex flex-wrap ">
+      <span class="font-sans text-xs lg:text-sm font-bold pr-2 text-gray-800 ">
+      Available In
+    </span>
+    <ul class="translations-bar__languages-list inline-flex flex-wrap ">
+          <li class="translations-bar__language">
+                <span
+           class=" font-sans text-xs lg:text-sm px-1 x2l:px-2 active underline text-gray-800"
+           xml:lang="en" lang="en">
+          English
+        </span>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/bn/news/2023/09/28/bangladesh-shipping-firms-profit-labor-abuse"
+             title="Bengali"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="bn" lang="bn">
+            বাংলা
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/fr/news/2023/09/27/bangladesh-des-compagnies-maritimes-tirent-profit-de-pratiques-abusives"
+             title="French"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="fr" lang="fr">
+            Français
+          </a>
+        
+      </li>
+          <li class="translations-bar__language">
+                  <a href="/hi/news/2023/09/29/bangladesh-shipping-firms-profit-labor-abuse"
+             title="Hindi"
+             class="language-link font-sans text-xs lg:text-sm px-1 x2l:px-2 hover-focus:underline text-blue-700 hover-focus:text-blue-800"
+             xml:lang="hi" lang="hi">
+            हिन्दी
+          </a>
+        
+      </li>
+          </ul>
+</nav>
+
+
+      </div>
+
+  <div class="news-header__main text-gray-800">
+    <h1 class="news-header__title text-2xl font-medium leading-tight break-words md:text-4xl lg:text-5xl xl:text-6xl ">Bangladesh: Shipping Firms Profit from Labor Abuse</h1>
+    <p class="news-header__subtitle text-base md:text-2xl ">EU Should Revise Law to Promote Safe, Sustainable Ship Recycling</p>
+  </div>
+
+  
+      
+
+
+<div class="byline__container mt-3 flex flex-wrap text-gray-800 flex-col">
+    </div>
+  
+          <div class="hrw-share hrw-share--gray flex lg:hidden"><p class="minimal-share"><a href="https://www.facebook.com/sharer.php?u=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via Facebook" class="facebook ms-icon" data-ms="facebook">
+      <span class="sr-only">Share this via Facebook</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 571.4 1000" role="img" focusable="false" aria-hidden="true"><path d="M535.2 6.7V154h-87.7q-47.9 0-64.7 20.1t-16.7 60.3v105.4h163.5L507.8 505H366.1v423.6H195.3V505H53V339.8h142.3V218.2q0-103.8 58-161T407.9 0Q490 0 535.2 6.7z" /></svg>
+
+</a>
+<a href="https://twitter.com/intent/tweet?text=Bangladesh: Shipping Firms Profit from Labor Abuse&amp;url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via Twitter" class="twitter ms-icon" data-ms="twitter">
+      <span class="sr-only">Share this via Twitter</span>
+  <svg viewbox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" role="img" focusable="false" aria-hidden="true" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.374-1.337.647-2.085.794-.598-.638-1.45-1.036-2.396-1.036-1.812 0-3.282 1.468-3.282 3.28 0 .258.03.51.085.75C5.152 5.39 2.733 4.084 1.114 2.1.83 2.583.67 3.147.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.415-.02-.616-.058.418 1.304 1.63 2.253 3.067 2.28-1.123.88-2.54 1.404-4.076 1.404-.265 0-.526-.015-.783-.045 1.454.93 3.18 1.474 5.033 1.474 6.038 0 9.34-5 9.34-9.337 0-.143-.004-.284-.01-.425.64-.463 1.198-1.04 1.638-1.7z" fill-rule="nonzero" /></svg>
+</a>
+<a href="whatsapp://send?text=Bangladesh: Shipping Firms Profit from Labor Abuse%20-%20https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via WhatsApp" class="whatsapp ms-icon" data-ms="whatsapp">
+      <span class="sr-only">Share this via WhatsApp</span>
+  <svg viewbox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" role="img" focusable="false" aria-hidden="true" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M11.665 9.588c-.2-.1-1.177-.578-1.36-.644-.182-.067-.315-.1-.448.1-.132.197-.514.643-.63.775-.116.13-.232.147-.43.05-.2-.1-.842-.31-1.602-.985-.592-.525-.99-1.174-1.107-1.373-.116-.198-.013-.305.087-.404.09-.09.2-.232.3-.348.098-.116.13-.198.198-.33.066-.133.033-.248-.017-.348-.05-.1-.448-1.074-.614-1.47-.16-.387-.325-.334-.448-.34-.115-.006-.248-.007-.38-.007-.134 0-.35.05-.532.247-.182.2-.696.678-.696 1.653s.713 1.917.812 2.05c.1.132 1.404 2.133 3.4 2.99.476.205.846.327 1.136.418.476.15.91.13 1.253.08.383-.058 1.178-.48 1.344-.943.168-.463.168-.86.118-.943-.05-.083-.182-.133-.382-.232M8.034 14.52H8.03c-1.187 0-2.353-.318-3.37-.918l-.24-.143-2.507.653.67-2.43-.16-.25c-.662-1.05-1.012-2.263-1.01-3.508 0-3.633 2.97-6.59 6.623-6.59 1.77.002 3.43.688 4.68 1.934 1.252 1.244 1.94 2.9 1.94 4.66-.003 3.634-2.973 6.59-6.623 6.59m5.636-12.2C12.163.83 10.163.003 8.03 0 3.642 0 .07 3.556.067 7.928c0 1.397.366 2.76 1.063 3.964L0 16l4.223-1.102c1.164.63 2.474.964 3.807.965h.004c4.39 0 7.964-3.557 7.966-7.93 0-2.117-.827-4.11-2.33-5.608" /></svg>
+
+</a>
+<a href="mailto:?subject=Bangladesh: Shipping Firms Profit from Labor Abuse&amp;body=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via Email" class="email ms-icon" data-ms="email">
+      <span class="sr-only">Share this via Email</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 33 32" role="img" focusable="false" aria-hidden="true"><path d="M.064 24.032V5.6q0-.032.096-.608l10.848 9.28-10.816 10.4q-.128-.448-.128-.64zm1.44-20.32q.224-.096.544-.096h29.216q.288 0 .576.096l-10.88 9.312-1.44 1.152-2.848 2.336-2.848-2.336-1.44-1.152zm.032 22.208l10.912-10.464 4.224 3.424 4.224-3.424L31.808 25.92q-.256.096-.544.096H2.048q-.256 0-.512-.096zm20.8-11.648l10.816-9.28q.096.288.096.608v18.432q0 .288-.096.64z" /></svg>
+
+</a>
+<a href="" title="Share this via Share" class="share ms-icon" data-ms="share">
+      <span class="sr-only">Other ways to share</span>
+  <svg fill="#fff" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30 30" width="30px" height="30px" role="img" focusable="false" aria-hidden="true"><path d="M 23 3 A 4 4 0 0 0 19 7 A 4 4 0 0 0 19.09375 7.8359375 L 10.011719 12.376953 A 4 4 0 0 0 7 11 A 4 4 0 0 0 3 15 A 4 4 0 0 0 7 19 A 4 4 0 0 0 10.013672 17.625 L 19.089844 22.164062 A 4 4 0 0 0 19 23 A 4 4 0 0 0 23 27 A 4 4 0 0 0 27 23 A 4 4 0 0 0 23 19 A 4 4 0 0 0 19.986328 20.375 L 10.910156 15.835938 A 4 4 0 0 0 11 15 A 4 4 0 0 0 10.90625 14.166016 L 19.988281 9.625 A 4 4 0 0 0 23 11 A 4 4 0 0 0 27 7 A 4 4 0 0 0 23 3 z" /></svg>
+
+</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse&amp;title=Bangladesh: Shipping Firms Profit from Labor Abuse" title="Share this via LinkedIn" class="linkedin ms-icon" data-ms="linkedin">
+      <span class="sr-only">Share this via LinkedIn</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 857.1 1000" role="img" focusable="false" aria-hidden="true"><path d="M194.8 348.8v553H10.6v-553h184.2zM206.5 178q.5 40.8-28.2 68.1t-75.6 27.3h-1.1q-45.8 0-73.7-27.3T0 178q0-41.3 28.7-68.3t75.1-27.1 74.2 27.1 28.5 68.3zm650.6 406.8v317H673.5V606q0-58.6-22.6-91.8T580.4 481q-35.2 0-58.9 19.3T486 548q-6.1 16.7-6.1 45.2v308.6H296.3q1.1-222.7 1.1-361.1t-.5-165.1l-.6-26.8h183.6v80.3h-1.1q11.2-17.8 22.9-31.2t31.5-29 48.6-24.3 63.8-8.7q95.5 0 153.5 63.4t58 185.5z" /></svg>
+
+</a>
+<a href="http://reddit.com/submit?url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse&amp;title=Bangladesh: Shipping Firms Profit from Labor Abuse" title="Share this via Reddit" class="reddit ms-icon" data-ms="reddit">
+      <span class="sr-only">Share this via Reddit</span>
+  <svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30 30" width="30px" height="30px" role="img" focusable="false" aria-hidden="true"><path d="M 17.662109 2 C 15.565005 2 14 3.7131367 14 5.6621094 L 14 9.0351562 C 11.24971 9.1810926 8.7344872 9.9143634 6.7265625 11.064453 C 5.9527826 10.321405 4.9166871 9.991448 3.9121094 9.9921875 C 2.8229214 9.9929893 1.7094525 10.370413 0.94140625 11.234375 L 0.92382812 11.253906 L 0.90625 11.273438 C 0.16947928 12.194228 -0.12225605 13.427747 0.07421875 14.652344 C 0.25365009 15.770711 0.90137168 16.893419 2.0273438 17.628906 C 2.0199689 17.753058 2 17.874618 2 18 C 2 22.962 7.832 27 15 27 C 22.168 27 28 22.962 28 18 C 28 17.874618 27.980031 17.753058 27.972656 17.628906 C 29.098628 16.893419 29.74635 15.770711 29.925781 14.652344 C 30.122256 13.427747 29.830521 12.194228 29.09375 11.273438 L 29.076172 11.253906 L 29.058594 11.234375 C 28.290448 10.370294 27.177168 9.9929893 26.087891 9.9921875 C 25.08323 9.991448 24.046988 10.321133 23.273438 11.064453 C 21.265513 9.9143634 18.75029 9.1810926 16 9.0351562 L 16 5.6621094 C 16 4.6830821 16.565214 4 17.662109 4 C 18.182797 4 18.817104 4.2609042 19.810547 4.609375 C 20.650361 4.9039572 21.743308 5.2016984 23.140625 5.2910156 C 23.474875 6.2790874 24.402814 7 25.5 7 C 26.875 7 28 5.875 28 4.5 C 28 3.125 26.875 2 25.5 2 C 24.561213 2 23.747538 2.5304211 23.320312 3.3007812 C 22.125831 3.2346294 21.248238 2.9947078 20.472656 2.7226562 C 19.568849 2.4056271 18.738422 2 17.662109 2 z M 3.9121094 11.992188 C 4.3072494 11.991896 4.6826692 12.095595 4.9921875 12.263672 C 3.8881963 13.18517 3.0505713 14.261821 2.5449219 15.4375 C 2.2764358 15.106087 2.114647 14.734002 2.0507812 14.335938 C 1.9430146 13.664243 2.1440212 12.966045 2.4628906 12.552734 C 2.7642172 12.228395 3.3144613 11.992626 3.9121094 11.992188 z M 26.085938 11.992188 C 26.683756 11.992627 27.235874 12.22849 27.537109 12.552734 C 27.855979 12.966045 28.056985 13.664243 27.949219 14.335938 C 27.885353 14.734002 27.723564 15.106087 27.455078 15.4375 C 26.949429 14.261821 26.111804 13.18517 25.007812 12.263672 C 25.316626 12.095792 25.690955 11.991896 26.085938 11.992188 z M 10 14 C 11.105 14 12 14.895 12 16 C 12 17.105 11.105 18 10 18 C 8.895 18 8 17.105 8 16 C 8 14.895 8.895 14 10 14 z M 20 14 C 21.105 14 22 14.895 22 16 C 22 17.105 21.105 18 20 18 C 18.895 18 18 17.105 18 16 C 18 14.895 18.895 14 20 14 z M 20.238281 19.533203 C 19.599281 21.400203 17.556 23 15 23 C 12.444 23 10.400719 21.400969 9.7617188 19.667969 C 10.911719 20.600969 12.828 21.267578 15 21.267578 C 17.172 21.267578 19.088281 20.600203 20.238281 19.533203 z" /></svg>
+
+</a>
+<a href="https://telegram.me/share/url?url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse&amp;text=Bangladesh: Shipping Firms Profit from Labor Abuse" title="Share this via Telegram" class="telegram ms-icon" data-ms="telegram">
+      <span class="sr-only">Share this via Telegram</span>
+  <svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24px" height="24px" role="img" focusable="false" aria-hidden="true"><path d="M 19.976562 3.1210938 L 19.611328 3.2695312 C 19.611328 3.2695312 6.6375504 8.5740484 2.6132812 10.267578 L 2.0019531 10.525391 L 2.0019531 12.779297 L 6.9472656 14.755859 L 8.6796875 19.996094 L 10.251953 20.005859 L 12.955078 17.720703 L 16.355469 20.996094 L 18.808594 20.996094 L 21.964844 3.875 L 19.976562 3.1210938 z M 19.646484 5.4179688 L 17.146484 18.980469 L 13.044922 15.029297 L 10.224609 17.410156 L 11 14.375 L 17.28125 8 L 17.082031 7.7988281 C 17.082031 7.7988281 10.706702 11.473998 8.0019531 13.023438 L 4.5371094 11.638672 C 9.0770415 9.7455758 18.697943 5.8058761 19.646484 5.4179688 z" /></svg>
+
+</a>
+<a href="/node/385971/printable/print" title="Share this via Printer" class="printer ms-icon" data-ms="printer">
+      <span class="sr-only">Share this via Printer</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 924 1000" role="img" focusable="false" aria-hidden="true"><path d="M0 900V567l116-129h85v64h-56l-80 89v245h795V591l-80-89h-56v-64h85l115 129v333H0zm201-319V251l151-151h372v481H201zm60-61h403V160H412v151H261v209z" /></svg>
+
+</a>
+</p>
+</div>
+    </header>
+
+
+  </div>
+
+
+<div class="mb-8 md:mb-14">
+  
+    
+      
+  </div>
+
+          </div>
+        
+            
+    </div>
+
+    
+    
+  
+
+
+
+<div class="container-large max-w-lg mx-auto px-6 sm:px-8 md:pr-14 md:pl-24 x2l:px-0 x2l:mx-32 x3l:mx-auto">
+                            
+
+
+
+
+
+
+<div class="grid-2-1-content x2l:flex lg:flex mx-auto justify-between ">
+  <div class="grid-2 w-full flex-col  lg:flex lg:w-3/5 lg:px-0 ">
+            <div >
+          
+
+<div class="mb-8 md:mb-14">
+  
+    
+      
+
+<div>
+      <div class="article-body article-body--contained rich-text mx-auto">
+      
+
+
+
+<div class="embed embedded-entity embedded-entity-type-media embedded-entity-bundle-image embedded-entity-viewmode-embeddable">
+      
+
+<div>
+  
+  
+
+
+
+<figure class="figure figure--expand text-center"><div class="figure__media relative inline-block mx-auto">
+          <a href="/modal/103407" rel="modal:open" class="figure__link">
+                    <img srcset="/sites/default/files/styles/480w/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?itok=abXBhh7- 480w, /sites/default/files/styles/embed_xxl/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?itok=tDVkrsOa 850w" sizes="(max-width: 524px) 100px, 500px" width="850" height="638" data-responsive-image-style="embedded_images" src="/sites/default/files/styles/embed_xxl/public/media_2023/09/202309asia_bangladesh_shipbreaking.JPG?itok=tDVkrsOa" alt="Workers dismantling a ship without adequate protective equipment in Chattogram Bangladesh." loading="lazy"><div class="figure__expand absolute block bottom-0 right-0 w-8 h-8 bg-white text-gray-700">
+          <span class="sr-only">Click to expand Image</span>
+          
+
+
+
+<div class="icon fill-current  w-full inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor" role="img" focusable="false" aria-hidden="true"><use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-expand" xmlns:xlink="http://www.w3.org/1999/xlink" /></svg></div>
+        </div>
+                      </a>
+      </div>
+        <figcaption class="figure__info text-left font-serif text-xs md:text-sm lg:text-base mx-auto text-gray-700 mt-1"><span class="figure__caption">Workers dismantling a ship without adequate protective equipment in Chattogram Bangladesh.</span>
+                    <span class="figure__credit">© 2023 Anukta</span>
+          </figcaption></figure></div>
+
+  </div>
+<ul><li>Many European shipping companies are knowingly sending their end-of-life ships for scrap in dangerous and polluting yards in Bangladesh.</li>
+	<li>Companies scrapping ships in Bangladesh’s yards use loopholes in international rules to profit at the expense of Bangladeshi lives and the environment.</li>
+	<li>Shipping companies should invest in building stable platform facilities at a standard that fully protects workers’ rights and handles waste disposal. The EU should revise its rules to close loopholes.</li>
+</ul><p>(Dhaka) – Many European shipping companies are knowingly sending their end-of-life ships for scrap in dangerous and polluting yards in <a href="https://www.hrw.org/asia/bangladesh">Bangladesh</a>, Human Rights Watch and the NGO Shipbreaking Platform said in a report released today.</p>
+
+<p>The 90-page report, “<a href="https://www.hrw.org/node/385988">Trading Lives for Profit: How the Shipping Industry Circumvents Regulations to Scrap Toxic Ships on Bangladesh’s Beaches</a>” finds that Bangladeshi shipbreaking yards often take shortcuts on safety measures, dump toxic waste directly onto the beach and the surrounding environment, and deny workers living wages, rest, or compensation in case of injuries. The report reveals an entire network used by shipowners to circumvent international regulations prohibiting the export of ships to facilities like those in Bangladesh that do not have adequate environmental or labor protections.</p>
+
+<p>“Companies scrapping ships in Bangladesh’s dangerous and polluting yards are making a profit at the expense of Bangladeshi lives and the environment,” said <a href="https://www.hrw.org/about/people/julia-bleckner-0">Julia Bleckner</a>, senior Asia researcher at Human Rights Watch. “Shipping companies should stop using loopholes in international regulations and take responsibility for safely and responsibly managing their waste.”</p>
+
+
+
+
+
+<div class="embed embedded-entity embedded-entity-type-node embedded-entity-bundle-video embedded-entity-viewmode-embeddable">
+      
+
+<div class="video__embeddable video--orientation--landscape mb-6">
+  <div>
+            
+
+<div class="video overflow-hidden">
+          <div class="video__frame relative h-0 pb-video">
+                    <div class="video__image js-video-hide-on-play absolute z-10 w-full h-full m-auto">
+                                          
+            <div>    <img srcset="/sites/default/files/styles/16x9_medium/public/media_2023/09/202204ASIA_Bangladesh_Ship_Breaking.jpg?h=d1cb525d&amp;itok=9CU1w-mr 500w, /sites/default/files/styles/16x9_large/public/media_2023/09/202204ASIA_Bangladesh_Ship_Breaking.jpg?h=d1cb525d&amp;itok=v158kguY 700w, /sites/default/files/styles/16x9_xlarge/public/media_2023/09/202204ASIA_Bangladesh_Ship_Breaking.jpg?h=d1cb525d&amp;itok=nZYmbfmM 1000w, /sites/default/files/styles/16x9_xxl/public/media_2023/09/202204ASIA_Bangladesh_Ship_Breaking.jpg?h=d1cb525d&amp;itok=tifhxOu3 1400w" sizes="(max-width: 524px) 100px, 100vw" width="500" height="281" data-responsive-image-style="16x9" src="/sites/default/files/styles/16x9_medium/public/media_2023/09/202204ASIA_Bangladesh_Ship_Breaking.jpg?h=d1cb525d&amp;itok=9CU1w-mr" alt="Broken Ship" loading="lazy"></div>
+      
+
+                                </div>
+        <button class="video__icon js-video-hide-on-play cursor-pointer absolute h-16 w-16 video-position block z-20" aria-label="click to play video">
+          
+
+
+
+<div class="icon fill-current  w-full inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor" role="img" focusable="false" aria-hidden="true"><use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-play" xmlns:xlink="http://www.w3.org/1999/xlink" /></svg></div>
+        </button>
+                                    <iframe class="video__iframe bg-black w-full h-full absolute" title="Shipping Companies Profit at the Expense of Bangladeshi Lives and the Environment" data-src="https://www.youtube.com/embed/djXg2_5Cww8?rel=0;&amp;autoplay=1;&amp;enablejsapi=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+      </div>
+
+  </div>
+</div>
+
+  </div>
+<p>The Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, which will enter into force in 2025, should be strengthened to ensure a safe and sustainable ship recycling industry, the groups said. Countries should adhere to existing international labor and environmental laws regulating the disposal of ships, including the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal.</p>
+
+<p>The report draws on interviews with 45 shipbreaking workers and workers’ relatives and 10 doctors and experts on ship recycling and Bangladesh environmental and labor laws, as well as analysis of public shipping databases, company financial reports and websites, Bangladesh maritime import records, and leaked import certificates. Human Rights Watch wrote to 21 companies seeking a response to our findings, including shipbreaking yards, shipping companies, flag registries, and cash buyers as well as the International Maritime Organization and four Bangladeshi government agencies.</p>
+
+<p>Bangladesh is a top destination for scrapping ships. Since 2020, approximately 20,000 Bangladeshi workers have ripped apart more than 520 ships, far more tonnage than in any other country.</p>
+
+<p>The International Labour Organization (ILO) has described shipbreaking as one of the world’s most dangerous jobs. Workers consistently said that they are not provided with adequate protective equipment, training, or tools to safely do their jobs. Workers described using their socks as gloves to avoid burning their hands as they cut through molten steel, wrapping their shirts around their mouths to avoid inhaling toxic fumes, and carrying chunks of steel barefoot.</p>
+
+<p>Workers described injuries from falling chunks of steel or being trapped inside a ship when it caught fire or pipes exploded. Lack of accessible emergency medical care at shipyards meant that, in many cases, workers were forced to carry their injured coworkers from the beach to the road and find a private vehicle to take them to a hospital. In Bangladesh, the life expectancy for men in the shipbreaking industry is 20 years lower than the average. As a 31-year-old worker said, “If I am distracted for even a moment in the place where I work, I could die immediately.”</p>
+
+<p><a href="https://shipbreakingplatform.org/wp-content/uploads/2022/01/Child20Labor20Final_compressed.pdf">A 2019 survey</a> of shipbreaking workers estimated that 13 percent of the workforce are children. Researchers noted, however, that this number jumps to 20 percent during illegal night shifts. Many workers interviewed began working at about age 13.</p>
+
+<p>Shipbreaking workers said that they are often denied breaks or sick leave, even when they are injured on the job, violating Bangladesh labor laws. In most cases, workers are paid a fraction of what they are legally entitled to under Bangladesh’s minimum wage regulations for shipbreaking workers. Workers are rarely given formal contracts, which means that yard owners can cover up worker deaths and injuries. When workers attempt to unionize or protest conditions, they are fired and harassed.</p>
+
+<p>Shipyards in Bangladesh use a method called “beaching” in which ships sail full steam onto the beach during high tide to be taken apart directly on the sand instead of using a dock or contained platform. Since the work is done directly on the sand, the worksite itself is full of hazards and toxic waste is dumped directly into the sand and sea. Toxic materials from the vessels, including asbestos, is handled without protective equipment and in some cases sold on the second-hand market, affecting health in surrounding communities.</p>
+
+<p>International and regional laws prohibit the export of ships to places like the yards in Bangladesh that do not have adequate environmental or labor protections. Yet many shipping companies have simply found ways to circumvent regulations and avoid culpability, Human Rights Watch and the NGO Shipbreaking Platform said.</p>
+
+<p>Ships sailing under an EU flag are required to recycle their ships in an EU-approved facility, none of which are in Bangladesh. Companies avoid the requirements by using a “flag of convenience” from another country.</p>
+
+<p>Flags of convenience are sold by flag registries which, in many cases, are private companies operating in a different country from their flag state. <a href="https://unctad.org/rmt2022">In 2022</a>, while over 30 percent of the world’s end-of-life fleet was owned by European companies, less than 5 percent had an EU flag when they were sold for scrap.</p>
+
+<p>Shipping companies hoping to dump their ships in Bangladesh usually sell their ship to a scrap dealer called a cash buyer. In many cases, the buyer uses a shell company during its sale to scrapyards in Bangladesh, making it difficult to track the entity that actually controls and benefits from the sale.</p>
+
+<p>A lack of enforcement of international laws and regulatory standards further enables ships to be scrapped under dangerous and environmentally damaging conditions. Waste declarations for ships imported to Bangladesh are often completed without any oversight, transparency, or clear accreditation, with potentially fatal consequences. Exporting countries outright ignore the requirements under the Basel Convention to obtain prior informed consent from the importing country and to ensure that end-of-life ships are only sent to countries with sufficient capacity for environmentally sustainable management of toxic waste.</p>
+
+<p>While the International Maritime Organization (IMO), shipping companies, and shipbreaking yards promote the Hong Kong Convention as the solution to a safe and sustainable ship recycling industry, experts and activists have long-lamented major gaps in the convention that weaken its ability to provide an adequate level of regulation.</p>
+
+<p>Instead of investing time and resources in greenwashing unsafe practices, companies should invest in proven safe methods of ship recycling, and they should stop insisting that beaching ships is safe, Human Rights Watch and the NGO Shipbreaking Platform said.</p>
+
+<p>To ensure global capacity to safely recycle the projected massive influx in end-of-life ships over the next decade, shipping companies should invest in building stable platform facilities at a standard that fully protects workers’ rights and include mechanisms for the downstream management and disposal of waste, Human Rights Watch and the NGO Shipbreaking Platform said. The EU should revise its Ship Recycling Regulation to effectively hold shipping companies liable and stop them from circumventing the law.</p>
+
+<p>“Taking ships apart on tidal mudflats exposes workers to unacceptable risks with fatal consequences and causes irreparable damage to sensitive coastal ecosystems,” said Ingvild Jenssen, executive director and founder of the NGO Shipbreaking Platform. “The cost of sustainable ship recycling must be borne by the shipping sector, not people and the environment in Bangladesh.”</p>
+
+<p><strong>Selected Quotes, Accounts:</strong></p>
+
+<p><em>Pseudonyms are used to protect the workers.</em></p>
+
+<p>“We are not safe in the shipyard while working,” said Kamrul, 39, who has worked in shipbreaking since he was 12. “Nails hit us, or flames hit us. Most of the workers at some point get burned. I never feel safe.”</p>
+
+<p>“The ship is big,” said Ahmed, 26. “We cut the ship while hanging off the side using a rope ladder. Workers sometimes slip and fall into the water.”</p>
+
+<p>Hasan, 25, said he left the job in April 2021 after he fell from the second floor of a ship: “I did not have a safety harness, so I fell about 4.5 meters to the ground floor.”</p>
+
+<p>“I only make 200 taka per day, so I cannot afford gumboots that cost 800 taka,” said Sohrab, 27. “I work barefoot. This is why workers often get injured due to fire or with wire or nails stabbing into our feet. The company provides nothing for our safety. If I ask for safety equipment, the company owners say, ‘If you have a problem then leave.’”</p>
+
+<p>On November 19, 2017, during an illegal night shift at around midnight, Rakib, 20, was cutting a heavy piece of iron when the piece fell, chopping off his left leg, while an iron rod pierced his stomach. He was pinned to the ground for 45 minutes before other workers were able to rescue him. Because he was working in the middle of the night, there were no cars or rikshaws immediately available, so his coworkers carried him on their shoulders to a hospital. Rakib said the yard owners were only willing to pay for lifesaving treatment, and so he was discharged after 17 days. He developed gangrene on his leg, and the family had to take loans to pay for private healthcare. Rakib said that the shipyard owners have refused to pay any compensation. “I'm only 20 years old and my life is totally ruined by this accident,” Rakib said.</p>
+
+<p>On June 19, 2019, Sakawat, 28, was carrying an iron bundle on his shoulder when he slipped and the bundle fell, smashing his right foot. He went to a hospital where his foot was ultimately amputated. The yard owners refused to cover his medical costs, and so he used his entire savings and borrowed from friends. He is now homeless and sleeps at the railway station where he begs for money.</p>
+
+<p>When workers burn through ships without respirators and other recommended protective equipment they can inhale extremely toxic substances. Tanvir, 50, who works as a cutter, said “When we do the cutting, the smoke gives us respiratory problems like coughing and breathing difficulties. We are not provided any respirators, so we try to use our own clothes as masks but still the smoke gets through.”</p>
+
+<p>Workers said they are rarely given breaks or space to safely rest, despite working six days per week in 8-12 hours shifts. Ariful, 28, said that they are reprimanded for resting: “If the foreman or the yard authorities find us sitting or taking rest, they scold,” he said.</p>
+
+<p>“Workers have no written contracts,” Rashed, a worker and labor rights activist, explained. “This means employers can refuse to pay wages. Employers do not pay the minimum wage announced by the&nbsp;government. Owners just pay according to their will.”</p>
+
+<p>“Some companies take signatures from workers only for official purposes,” said Asok, 27. “But really these ‘contracts’ are not handed over to the workers. Sometimes we sign on a contract paper but also sometimes just a blank piece of paper.”</p>
+
+<p>“We do not have any workers union which can fight for our rights,” said Syed, 22. No one works on our behalf or about our rights.” Kamrul, 39, said “If workers raise their voice, they will lose their jobs.” Ahmed, 26, said:</p>
+
+<p>“If the company finds out that I spoke with you then I will face retaliation and could lose my job,” said Ahmed, 26. “But what I am telling you is true. I don’t know if the ship breaking yard companies will ever think of us as human and provide us with safety equipment.”</p>
+
+<p>“The life of the shipbreaking workers inside the yards or outside always remains hidden because of the pressure of the company owners,” said Sohel, 28. “If we talk or raise our voice, we will lose our jobs.”</p>
+
+<p>Asok, 45, who has worked in shipbreaking since he was 10 years old, said that in recent years the shipyard owners created some storage rooms for waste, but that “they are throwing that waste into the sea.” Aijaz, 25, said that he used to be a fisherman but started working in shipbreaking because he had lost his livelihood: “Water is polluted by the ship when they throw the fuel and chemicals in the water that is harmful for the sea plants and fish. Fishermen are not getting fish as they got before. There is a scarcity of fish in the coastal areas here.”</p>
+
+<p>“The sea water is being polluted by the ships and it is poisonous in the sea water, so the fisherman are not finding any fish,” said Masum, 44, who started selling fish after he was injured in the shipbreaking yards, “the fish are dying.”</p>
+    </div>
+  </div>
+
+  </div>
+
+<div>
+  
+    
+
+            
+
+
+<div class="mb-8 md:mb-14">
+      
+<div class="donation-block">
+	<div class="donation-block__content bg-cover bg-top bg-black text-white border-t-4 border-orange-500 md:bg-center">
+    <div class="donation-block__content-inner p-6 background-vert md:background-horz">
+      <div class="donation-block__form-wrapper pt-40 sm:pt-48 md:pt-0 md:w-1/2">
+        <h2 class="donation-block__form-heading mb-6 text-xl sm:text-2xl leading-tight">Your tax deductible gift can help stop human rights violations and save lives around the world.</h2>
+        <form action="https://donate.hrw.org/page/107245/donate/1" id="donation-block__form" class="donation-block__form" method="get">
+          <input type="hidden" name="transaction.recurrpay" value="N" />
+                      <input type="hidden" name="ea.tracking.id" value="EP2022EVpgnewscta" />
+                    <div class="flex flex-wrap">
+                          <div class="donation-block__form-toggle w-1/2 sm:w-1/3 p-px">
+                
+<div class="toggle">
+  <input id="$50" name="Donation Amount" type="radio" value="50" />
+  <label for="$50" class="block relative z-10 w-full py-2 border border-white bg-white text-center text-gray-800 text-xl leading-tight font-bold cursor-pointer sm:text-2xl">$50</label>
+  
+  </div>
+              </div>
+                          <div class="donation-block__form-toggle w-1/2 sm:w-1/3 p-px">
+                
+<div class="toggle">
+  <input id="$100" name="Donation Amount" type="radio" value="100" />
+  <label for="$100" class="block relative z-10 w-full py-2 border border-white bg-white text-center text-gray-800 text-xl leading-tight font-bold cursor-pointer sm:text-2xl">$100</label>
+  
+  </div>
+              </div>
+                          <div class="donation-block__form-toggle w-1/2 sm:w-1/3 p-px">
+                
+<div class="toggle">
+  <input id="$250" name="Donation Amount" type="radio" value="250" />
+  <label for="$250" class="block relative z-10 w-full py-2 border border-white bg-white text-center text-gray-800 text-xl leading-tight font-bold cursor-pointer sm:text-2xl">$250</label>
+  
+  </div>
+              </div>
+                          <div class="donation-block__form-toggle w-1/2 sm:w-1/3 p-px">
+                
+<div class="toggle">
+  <input id="$500" name="Donation Amount" type="radio" value="500" />
+  <label for="$500" class="block relative z-10 w-full py-2 border border-white bg-white text-center text-gray-800 text-xl leading-tight font-bold cursor-pointer sm:text-2xl">$500</label>
+  
+  </div>
+              </div>
+                          <div class="donation-block__form-toggle w-1/2 sm:w-1/3 p-px">
+                
+<div class="toggle">
+  <input id="$1000" name="Donation Amount" type="radio" value="1000" />
+  <label for="$1000" class="block relative z-10 w-full py-2 border border-white bg-white text-center text-gray-800 text-xl leading-tight font-bold cursor-pointer sm:text-2xl">$1000</label>
+  
+  </div>
+              </div>
+                        <div class="donation-block__form-toggle other-input w-1/2 sm:w-1/3 p-px">
+              
+<div class="toggle">
+  <input id="Other" name="Donation Amount" type="radio" value="" />
+  <label for="Other" class="block relative z-10 w-full py-2 border border-white bg-white text-center text-gray-800 text-xl leading-tight font-bold cursor-pointer sm:text-2xl">Other</label>
+                    <label class="other-input-prefix hidden" for="OtherInput">$</label>
+                  <input class="block w-full py-2 border border-gray-200 bg-blue-700 text-white text-center text-xl leading-tight font-bold cursor-pointer sm:text-2xl hidden" id="OtherInput" aria-label="Other amount" type="text" inputmode="numeric" pattern="[0-9]*" />
+                </div>
+            </div>
+          </div>
+          <div class="donation-block__form-action p-px">
+            
+
+
+
+
+    
+
+<button type="submit" value="Donate Now" class="uppercase btn btn-secondary btn-xl-sm w-full" form=donation-block__form>
+        <span class="btn-text ">Donate Now</span>
+  </button>
+          </div>
+        </form>
+      </div>
+    </div>
+	</div>
+</div>
+  </div>
+
+      
+</div>
+
+
+<div class="mb-2 md:mb-0">
+  
+    
+      
+
+    
+
+<div>
+  
+<div class="tag-block">
+      <div class="tag-block__region flex flex-wrap">
+      <div class="tag-block__region-title text-gray-800 text-lg flex pr-2">Region / Country</div>
+      <ul class="tag-block__region-list flex flex-wrap">
+                  <li class="tag-block__region-item text-lg text-blue-700 pl-1"><a href="/asia" class="tag-block__region-link">Asia</a></li>                  <li class="tag-block__region-item text-lg text-blue-700 pl-1"><a href="/asia/bangladesh" class="tag-block__region-link">Bangladesh</a></li>              </ul>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+
+<div class="mb-8 md:mb-14">
+  
+    
+      
+
+      
+
+<div>
+  
+<div class="tag-block">
+      <div class="tag-block__region flex flex-wrap">
+      <div class="tag-block__region-title text-gray-800 text-lg flex pr-2">Topic</div>
+      <ul class="tag-block__region-list flex flex-wrap">
+                  <li class="tag-block__region-item text-lg text-blue-700 pl-1"><a href="/topic/economic-justice-and-rights" class="tag-block__region-link">Economic Justice and Rights</a></li>                  <li class="tag-block__region-item text-lg text-blue-700 pl-1"><a href="/topic/health/environment-and-health" class="tag-block__region-link">Environment and Health</a></li>                  <li class="tag-block__region-item text-lg text-blue-700 pl-1"><a href="/topic/refugees-and-migrants/exploitation-forced-labor-trafficking" class="tag-block__region-link">Exploitation, Forced Labor &amp; Trafficking</a></li>              </ul>
+    </div>
+  </div>
+</div>
+
+  </div>
+<div>
+  
+    
+      
+
+<div class="related-content mb-8 md:mb-14">
+  
+
+
+
+
+
+<div class="media-list mx-auto flex flex-col">
+      
+
+
+<div class="block-header flex justify-between items-baseline  pb-3 border-b border-gray-200 ">
+  <h2 class="block-header__title font-sans media-list__title text-base font-medium uppercase text-gray-800">
+    More Reading
+  </h2>
+  </div>
+    <div class="media-list__content">
+    <ul class="media-list__list flex flex-wrap ">
+              <li class="media-list__item py-4 w-full md:pr-4 md:w-1/2">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full flex-row-reverse justify-end ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-11-16T11:11:59-0500">November 16, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Commentary
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/11/16/your-brand-paying-its-share-reduce-bangladesh-workers-wage-despair"><span>Is Your Brand Paying Its Share to Reduce Bangladesh Workers’ Wage Despair?</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none mr-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/11/202311asia_bangladesh_garmet_workers_protest.jpg?h=56d0ca2e&amp;itok=obCu5P0s" alt="Police confront garment industry workers on the streets as they protest for a wage increase, Mirpur, Dhaka, Bangladesh, November 12, 2023." loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/11/16/your-brand-paying-its-share-reduce-bangladesh-workers-wage-despair" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="media-list__item py-4 w-full md:pr-4 md:w-1/2">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full flex-row-reverse justify-end ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-10-05T00:01:00-0400">October 5, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          News Release
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/10/05/imf/world-bank-systemic-reforms-needed"><span>IMF / World Bank: Systemic Reforms Needed</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none mr-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/10/202310ejr_imf_building_videopresser.jpg?h=a7105d9e&amp;itok=7NPG5W0C" alt="The International Monetary Fund building" loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/10/05/imf/world-bank-systemic-reforms-needed" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+          </ul>
+  </div>
+</div>
+</div>
+
+  </div>
+<div>
+  
+    
+      
+
+<div class="related-report mb-8 md:mb-14">
+  
+
+
+
+
+
+<div class="media-list mx-auto flex flex-col">
+      
+
+
+<div class="block-header flex justify-between items-baseline  pb-3 border-b border-gray-200 ">
+  <h2 class="block-header__title font-sans media-list__title text-base font-medium uppercase text-gray-800">
+    Reports
+  </h2>
+  </div>
+    <div class="media-list__content">
+    <ul class="media-list__list flex flex-wrap ">
+              <li class="media-list__item py-4 w-full md:pr-4 md:w-1/2">
+    
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full flex-row-reverse justify-end ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-09-28T12:18:51-0400">September 28, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Report
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/report/2023/09/28/trading-lives-profit/how-shipping-industry-circumvents-regulations-scrap-toxic"><span>Trading Lives for Profit</span>
+</a>
+          </h3>
+          <p class="media-block__subtitle text-gray-700 text-sm">How the Shipping Industry Circumvents Regulations to Scrap Toxic Ships on Bangladesh’s Beaches</p>
+                              </div>
+        <div class="media-block__image relative flex-none mr-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/09/202309asia_bangladesh_shipbreaking_frontcover.jpg?h=c6e4c459&amp;itok=IoEx-7oV" alt="202309asia_bangladesh_shipbreaking_frontcover" loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/report/2023/09/28/trading-lives-profit/how-shipping-industry-circumvents-regulations-scrap-toxic" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="media-list__item py-4 w-full md:pr-4 md:w-1/2">
+    
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full flex-row-reverse justify-end ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-06-14T15:22:11-0400">June 14, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Report
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/report/2023/06/14/no-internet-means-no-work-no-pay-no-food/internet-shutdowns-deny-access-basic"><span>“No Internet Means No Work, No Pay, No Food”</span>
+</a>
+          </h3>
+          <p class="media-block__subtitle text-gray-700 text-sm">Internet Shutdowns Deny Access to Basic Rights in “Digital India”</p>
+                              </div>
+        <div class="media-block__image relative flex-none mr-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/06/202306asia_india_rural_woman_government_app_0.jpg?h=4fe84e45&amp;itok=IdVUuBVj" alt="A woman using a phone outside" loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/report/2023/06/14/no-internet-means-no-work-no-pay-no-food/internet-shutdowns-deny-access-basic" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+          </ul>
+  </div>
+</div>
+</div>
+
+  </div>
+
+        </div>
+        </div>
+  <div class="grid-1  flex-col  lg:flex lg:w-3/10 lg:px-0 ">
+            <div >
+          <div>
+  
+    
+      
+
+<div class="related-content-sidebar mb-8 md:mb-14">
+  
+
+
+
+
+
+<div class="media-list mx-auto hidden lg:flex flex-col">
+      
+
+
+<div class="block-header flex justify-between items-baseline  pb-3 border-b border-gray-200 ">
+  <h2 class="block-header__title font-sans media-list__title text-base font-medium uppercase text-gray-800">
+    More Reading
+  </h2>
+  </div>
+    <div class="media-list__content">
+    <ul class="media-list__list flex flex-wrap flex-col">
+              <li class="media-list__item py-4 border-t border-gray-200 first:border-0">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full flex-row-reverse justify-end ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-11-16T11:11:59-0500">November 16, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Commentary
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/11/16/your-brand-paying-its-share-reduce-bangladesh-workers-wage-despair"><span>Is Your Brand Paying Its Share to Reduce Bangladesh Workers’ Wage Despair?</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none mr-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/11/202311asia_bangladesh_garmet_workers_protest.jpg?h=56d0ca2e&amp;itok=obCu5P0s" alt="Police confront garment industry workers on the streets as they protest for a wage increase, Mirpur, Dhaka, Bangladesh, November 12, 2023." loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/11/16/your-brand-paying-its-share-reduce-bangladesh-workers-wage-despair" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="media-list__item py-4 border-t border-gray-200 first:border-0">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full flex-row-reverse justify-end ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-10-05T00:01:00-0400">October 5, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          News Release
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/10/05/imf/world-bank-systemic-reforms-needed"><span>IMF / World Bank: Systemic Reforms Needed</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none mr-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/10/202310ejr_imf_building_videopresser.jpg?h=a7105d9e&amp;itok=7NPG5W0C" alt="The International Monetary Fund building" loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/10/05/imf/world-bank-systemic-reforms-needed" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+          </ul>
+  </div>
+</div>
+</div>
+
+  </div>
+<div class="views-element-container">
+  
+      
+
+
+<div class="block-header flex justify-between items-baseline  pb-3 border-b border-gray-200 ">
+  <h2 class="block-header__title font-sans most-viewed__title text-base font-medium uppercase text-gray-800">
+    Most Viewed
+  </h2>
+  </div>
+    
+      
+<div class="form-group mx-sm-3"><div class="js-view-dom-id-df70c72ab964a03c5325cf740911695bce04e97636ef5ca40be5e9dbf7be0e50">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+
+<div class="most-viewed">
+  <div class="most-viewed__list-container">
+    <ol class="most-viewed__list list-decimal font-sans text-gray-600">
+              <li class="most-viewed__list-item flex mt-4 font-medium w-full leading-tight">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full justify-between ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-10-18T04:00:00-0400">October 18, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          News Release
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/10/18/israel/palestine-videos-hamas-led-attacks-verified"><span>Israel/Palestine: Videos of Hamas-Led Attacks Verified</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none ml-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/10/202310mena_Israel_Palestine_dashcam_stills.jpg?h=c673cd1c&amp;itok=fHlgGpvx" alt="202310mena_Israel_Palestine_dashcam_stills" loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/10/18/israel/palestine-videos-hamas-led-attacks-verified" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="most-viewed__list-item flex mt-4 font-medium w-full leading-tight">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full justify-between ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-11-16T00:00:00-0500">November 16, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Dispatches
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/11/16/belgium-overcomes-eu-struggles-send-strong-message-gaza"><span>Belgium Overcomes EU Struggles to Send Strong Message on Gaza </span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none ml-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/11/202311eca_belgium__caroline_gennez_and_alexander_de_croo.jpg?h=4362216e&amp;itok=g5uAwXM1" alt="Minister for Development Cooperation and Metropolitan Policy Caroline Gennez and Prime Minister Alexander De Croo during a plenary session of the Chamber at the Federal Parliament in Brussels, October 19, 2023. " loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/11/16/belgium-overcomes-eu-struggles-send-strong-message-gaza" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="most-viewed__list-item flex mt-4 font-medium w-full leading-tight">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full justify-between ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2021-04-27T15:51:42-0400">April 27, 2021</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Report
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution"><span>A Threshold Crossed</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none ml-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2021/04/202104mena_israelpalestine_barrier.jpg?h=8fd0f494&amp;itok=-AudwxNw" alt="A boy runs alongside a tall concrete wall" loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="most-viewed__list-item flex mt-4 font-medium w-full leading-tight">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full justify-between ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2013-03-07T03:45:22-0500">March 7, 2013</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          Report
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/report/2013/03/07/old-man-can-feed-us-you-will-marry-him/child-and-forced-marriage-south-sudan"><span>&quot;This Old Man Can Feed Us, You Will Marry Him&quot;</span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none ml-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/multimedia_images_2015/southsudan0313_coverimage1.jpg?itok=qq3Avjlk" alt="A young, unmarried girl stands amid a herd of cattle outside Bor, the capital of Jonglei State.  Cattle carry significant social, economic, and cultural importance for South Sudan&#039;s pastoralist ethnic groups, which use cows for payment of dowry." loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/report/2013/03/07/old-man-can-feed-us-you-will-marry-him/child-and-forced-marriage-south-sudan" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+              <li class="most-viewed__list-item flex mt-4 font-medium w-full leading-tight">
+  
+
+
+
+
+
+
+
+
+<article class="media-block flex w-full justify-between ">
+      <div class="media-block__content">
+    <div class="media-block__info text-sm text-gray-700">
+              <time class="media-block__date" datetime="2023-10-12T16:40:00-0400">October 12, 2023</time>
+                    <span class="media-block__tag separator-bar font-serif">
+          News Release
+        </span>
+          </div>
+    <h3 class="media-block__title text-gray-800 media-block__link-gray text-lg font-medium mt-1">
+              <a href="/news/2023/10/12/israel-white-phosphorus-used-gaza-lebanon"><span>Israel: White Phosphorus Used in Gaza, Lebanon </span>
+</a>
+          </h3>
+                              </div>
+        <div class="media-block__image relative flex-none ml-4  w-24">
+
+        <div class="media-block__image-wrapper relative">
+                                  
+      <img src="/sites/default/files/styles/square/public/media_2023/10/202310mena_palestine_white_phosphorous_artillery_gaza.jpg?h=8aa5fa2d&amp;itok=Sy9D5Bpc" alt="Airbursts of artillery-fired white phosphorus fall over the Gaza city port, October 11, 2023. " loading="lazy"  class="w-24 unloaded"  width="374"  height="374" />
+                              </div>
+              <a href="/news/2023/10/12/israel-white-phosphorus-used-gaza-lebanon" class="hrw-fill" aria-hidden="true" tabindex="-1"></a>
+            </div>
+  
+  </article>
+</li>
+          </ol>
+  </div>
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+        </div>
+        </div>
+</div>
+  
+      
+    </div>
+
+    
+
+    <div class="hrw-share hrw-share--vertical hidden lg:block"><p class="minimal-share"><a href="https://www.facebook.com/sharer.php?u=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via Facebook" class="facebook ms-icon" data-ms="facebook">
+      <span class="sr-only">Share this via Facebook</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 571.4 1000" role="img" focusable="false" aria-hidden="true"><path d="M535.2 6.7V154h-87.7q-47.9 0-64.7 20.1t-16.7 60.3v105.4h163.5L507.8 505H366.1v423.6H195.3V505H53V339.8h142.3V218.2q0-103.8 58-161T407.9 0Q490 0 535.2 6.7z" /></svg>
+
+</a>
+<a href="https://twitter.com/intent/tweet?text=Bangladesh: Shipping Firms Profit from Labor Abuse&amp;url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via Twitter" class="twitter ms-icon" data-ms="twitter">
+      <span class="sr-only">Share this via Twitter</span>
+  <svg viewbox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" role="img" focusable="false" aria-hidden="true" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.374-1.337.647-2.085.794-.598-.638-1.45-1.036-2.396-1.036-1.812 0-3.282 1.468-3.282 3.28 0 .258.03.51.085.75C5.152 5.39 2.733 4.084 1.114 2.1.83 2.583.67 3.147.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.415-.02-.616-.058.418 1.304 1.63 2.253 3.067 2.28-1.123.88-2.54 1.404-4.076 1.404-.265 0-.526-.015-.783-.045 1.454.93 3.18 1.474 5.033 1.474 6.038 0 9.34-5 9.34-9.337 0-.143-.004-.284-.01-.425.64-.463 1.198-1.04 1.638-1.7z" fill-rule="nonzero" /></svg>
+</a>
+<a href="whatsapp://send?text=Bangladesh: Shipping Firms Profit from Labor Abuse%20-%20https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via WhatsApp" class="whatsapp ms-icon" data-ms="whatsapp">
+      <span class="sr-only">Share this via WhatsApp</span>
+  <svg viewbox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" role="img" focusable="false" aria-hidden="true" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M11.665 9.588c-.2-.1-1.177-.578-1.36-.644-.182-.067-.315-.1-.448.1-.132.197-.514.643-.63.775-.116.13-.232.147-.43.05-.2-.1-.842-.31-1.602-.985-.592-.525-.99-1.174-1.107-1.373-.116-.198-.013-.305.087-.404.09-.09.2-.232.3-.348.098-.116.13-.198.198-.33.066-.133.033-.248-.017-.348-.05-.1-.448-1.074-.614-1.47-.16-.387-.325-.334-.448-.34-.115-.006-.248-.007-.38-.007-.134 0-.35.05-.532.247-.182.2-.696.678-.696 1.653s.713 1.917.812 2.05c.1.132 1.404 2.133 3.4 2.99.476.205.846.327 1.136.418.476.15.91.13 1.253.08.383-.058 1.178-.48 1.344-.943.168-.463.168-.86.118-.943-.05-.083-.182-.133-.382-.232M8.034 14.52H8.03c-1.187 0-2.353-.318-3.37-.918l-.24-.143-2.507.653.67-2.43-.16-.25c-.662-1.05-1.012-2.263-1.01-3.508 0-3.633 2.97-6.59 6.623-6.59 1.77.002 3.43.688 4.68 1.934 1.252 1.244 1.94 2.9 1.94 4.66-.003 3.634-2.973 6.59-6.623 6.59m5.636-12.2C12.163.83 10.163.003 8.03 0 3.642 0 .07 3.556.067 7.928c0 1.397.366 2.76 1.063 3.964L0 16l4.223-1.102c1.164.63 2.474.964 3.807.965h.004c4.39 0 7.964-3.557 7.966-7.93 0-2.117-.827-4.11-2.33-5.608" /></svg>
+
+</a>
+<a href="mailto:?subject=Bangladesh: Shipping Firms Profit from Labor Abuse&amp;body=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" title="Share this via Email" class="email ms-icon" data-ms="email">
+      <span class="sr-only">Share this via Email</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 33 32" role="img" focusable="false" aria-hidden="true"><path d="M.064 24.032V5.6q0-.032.096-.608l10.848 9.28-10.816 10.4q-.128-.448-.128-.64zm1.44-20.32q.224-.096.544-.096h29.216q.288 0 .576.096l-10.88 9.312-1.44 1.152-2.848 2.336-2.848-2.336-1.44-1.152zm.032 22.208l10.912-10.464 4.224 3.424 4.224-3.424L31.808 25.92q-.256.096-.544.096H2.048q-.256 0-.512-.096zm20.8-11.648l10.816-9.28q.096.288.096.608v18.432q0 .288-.096.64z" /></svg>
+
+</a>
+<a href="" title="Share this via Share" class="share ms-icon" data-ms="share">
+      <span class="sr-only">Other ways to share</span>
+  <svg fill="#fff" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30 30" width="30px" height="30px" role="img" focusable="false" aria-hidden="true"><path d="M 23 3 A 4 4 0 0 0 19 7 A 4 4 0 0 0 19.09375 7.8359375 L 10.011719 12.376953 A 4 4 0 0 0 7 11 A 4 4 0 0 0 3 15 A 4 4 0 0 0 7 19 A 4 4 0 0 0 10.013672 17.625 L 19.089844 22.164062 A 4 4 0 0 0 19 23 A 4 4 0 0 0 23 27 A 4 4 0 0 0 27 23 A 4 4 0 0 0 23 19 A 4 4 0 0 0 19.986328 20.375 L 10.910156 15.835938 A 4 4 0 0 0 11 15 A 4 4 0 0 0 10.90625 14.166016 L 19.988281 9.625 A 4 4 0 0 0 23 11 A 4 4 0 0 0 27 7 A 4 4 0 0 0 23 3 z" /></svg>
+
+</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse&amp;title=Bangladesh: Shipping Firms Profit from Labor Abuse" title="Share this via LinkedIn" class="linkedin ms-icon" data-ms="linkedin">
+      <span class="sr-only">Share this via LinkedIn</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 857.1 1000" role="img" focusable="false" aria-hidden="true"><path d="M194.8 348.8v553H10.6v-553h184.2zM206.5 178q.5 40.8-28.2 68.1t-75.6 27.3h-1.1q-45.8 0-73.7-27.3T0 178q0-41.3 28.7-68.3t75.1-27.1 74.2 27.1 28.5 68.3zm650.6 406.8v317H673.5V606q0-58.6-22.6-91.8T580.4 481q-35.2 0-58.9 19.3T486 548q-6.1 16.7-6.1 45.2v308.6H296.3q1.1-222.7 1.1-361.1t-.5-165.1l-.6-26.8h183.6v80.3h-1.1q11.2-17.8 22.9-31.2t31.5-29 48.6-24.3 63.8-8.7q95.5 0 153.5 63.4t58 185.5z" /></svg>
+
+</a>
+<a href="http://reddit.com/submit?url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse&amp;title=Bangladesh: Shipping Firms Profit from Labor Abuse" title="Share this via Reddit" class="reddit ms-icon" data-ms="reddit">
+      <span class="sr-only">Share this via Reddit</span>
+  <svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30 30" width="30px" height="30px" role="img" focusable="false" aria-hidden="true"><path d="M 17.662109 2 C 15.565005 2 14 3.7131367 14 5.6621094 L 14 9.0351562 C 11.24971 9.1810926 8.7344872 9.9143634 6.7265625 11.064453 C 5.9527826 10.321405 4.9166871 9.991448 3.9121094 9.9921875 C 2.8229214 9.9929893 1.7094525 10.370413 0.94140625 11.234375 L 0.92382812 11.253906 L 0.90625 11.273438 C 0.16947928 12.194228 -0.12225605 13.427747 0.07421875 14.652344 C 0.25365009 15.770711 0.90137168 16.893419 2.0273438 17.628906 C 2.0199689 17.753058 2 17.874618 2 18 C 2 22.962 7.832 27 15 27 C 22.168 27 28 22.962 28 18 C 28 17.874618 27.980031 17.753058 27.972656 17.628906 C 29.098628 16.893419 29.74635 15.770711 29.925781 14.652344 C 30.122256 13.427747 29.830521 12.194228 29.09375 11.273438 L 29.076172 11.253906 L 29.058594 11.234375 C 28.290448 10.370294 27.177168 9.9929893 26.087891 9.9921875 C 25.08323 9.991448 24.046988 10.321133 23.273438 11.064453 C 21.265513 9.9143634 18.75029 9.1810926 16 9.0351562 L 16 5.6621094 C 16 4.6830821 16.565214 4 17.662109 4 C 18.182797 4 18.817104 4.2609042 19.810547 4.609375 C 20.650361 4.9039572 21.743308 5.2016984 23.140625 5.2910156 C 23.474875 6.2790874 24.402814 7 25.5 7 C 26.875 7 28 5.875 28 4.5 C 28 3.125 26.875 2 25.5 2 C 24.561213 2 23.747538 2.5304211 23.320312 3.3007812 C 22.125831 3.2346294 21.248238 2.9947078 20.472656 2.7226562 C 19.568849 2.4056271 18.738422 2 17.662109 2 z M 3.9121094 11.992188 C 4.3072494 11.991896 4.6826692 12.095595 4.9921875 12.263672 C 3.8881963 13.18517 3.0505713 14.261821 2.5449219 15.4375 C 2.2764358 15.106087 2.114647 14.734002 2.0507812 14.335938 C 1.9430146 13.664243 2.1440212 12.966045 2.4628906 12.552734 C 2.7642172 12.228395 3.3144613 11.992626 3.9121094 11.992188 z M 26.085938 11.992188 C 26.683756 11.992627 27.235874 12.22849 27.537109 12.552734 C 27.855979 12.966045 28.056985 13.664243 27.949219 14.335938 C 27.885353 14.734002 27.723564 15.106087 27.455078 15.4375 C 26.949429 14.261821 26.111804 13.18517 25.007812 12.263672 C 25.316626 12.095792 25.690955 11.991896 26.085938 11.992188 z M 10 14 C 11.105 14 12 14.895 12 16 C 12 17.105 11.105 18 10 18 C 8.895 18 8 17.105 8 16 C 8 14.895 8.895 14 10 14 z M 20 14 C 21.105 14 22 14.895 22 16 C 22 17.105 21.105 18 20 18 C 18.895 18 18 17.105 18 16 C 18 14.895 18.895 14 20 14 z M 20.238281 19.533203 C 19.599281 21.400203 17.556 23 15 23 C 12.444 23 10.400719 21.400969 9.7617188 19.667969 C 10.911719 20.600969 12.828 21.267578 15 21.267578 C 17.172 21.267578 19.088281 20.600203 20.238281 19.533203 z" /></svg>
+
+</a>
+<a href="https://telegram.me/share/url?url=https://www.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse&amp;text=Bangladesh: Shipping Firms Profit from Labor Abuse" title="Share this via Telegram" class="telegram ms-icon" data-ms="telegram">
+      <span class="sr-only">Share this via Telegram</span>
+  <svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24px" height="24px" role="img" focusable="false" aria-hidden="true"><path d="M 19.976562 3.1210938 L 19.611328 3.2695312 C 19.611328 3.2695312 6.6375504 8.5740484 2.6132812 10.267578 L 2.0019531 10.525391 L 2.0019531 12.779297 L 6.9472656 14.755859 L 8.6796875 19.996094 L 10.251953 20.005859 L 12.955078 17.720703 L 16.355469 20.996094 L 18.808594 20.996094 L 21.964844 3.875 L 19.976562 3.1210938 z M 19.646484 5.4179688 L 17.146484 18.980469 L 13.044922 15.029297 L 10.224609 17.410156 L 11 14.375 L 17.28125 8 L 17.082031 7.7988281 C 17.082031 7.7988281 10.706702 11.473998 8.0019531 13.023438 L 4.5371094 11.638672 C 9.0770415 9.7455758 18.697943 5.8058761 19.646484 5.4179688 z" /></svg>
+
+</a>
+<a href="/node/385971/printable/print" title="Share this via Printer" class="printer ms-icon" data-ms="printer">
+      <span class="sr-only">Share this via Printer</span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 924 1000" role="img" focusable="false" aria-hidden="true"><path d="M0 900V567l116-129h85v64h-56l-80 89v245h795V591l-80-89h-56v-64h85l115 129v333H0zm201-319V251l151-151h372v481H201zm60-61h403V160H412v151H261v209z" /></svg>
+
+</a>
+</p>
+</div>
+  </div>
+</article>
+
+  </div>
+
+  </div>
+
+            <div>
+    
+<div id="block-donationfooterblock">
+  
+    
+
+                    
+
+<div class="donation-footer-block">
+  
+
+
+
+
+<div class="donation__outer w-full mx-auto bg-orange-500">
+       <a href="https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgfooter&amp;promo_id=1005" class="donation__wrapper block hover:bg-orange-600 focus:bg-orange-600 px-6">     <div
+      class="donation__inner mx-auto pt-6 pb-6 flex flex-col justify-between max-w-sm xl:flex-row">
+      <div class="donation__main text-white xl:w-3/5">
+                  <h3
+            class="donation__standard-title text-white mb-2 text-2xl md:text-4xl">Protecting Rights, Saving Lives</h3>
+          <p
+            class="donation__standard-subtitle hrw-large-text-bold">Human Rights Watch defends the rights of people in close to 100 countries worldwide, spotlighting abuses and bringing perpetrators to justice
+
+</p>
+                      </div>
+
+      <div
+        class="donation__secondary flex xl:border-l border-orange-400 xl:w-3/10">
+                  <div class="self-center mx-auto sm:m-0 pt-4 xl:p-0 xl:ml-auto">
+            <div class="uppercase btn btn-secondary-invert btn-lg-wide font-bold">
+              <span class="btn-text ">Donate Now</span>
+            </div>
+          </div>
+              </div>
+    </div>
+    </a>  
+  </div>
+</div>
+
+            
+</div>
+<div id="block-signupbarblock">
+  
+    
+      
+
+<div class="clear-both">
+  <div data-scroll class="email-sign-up-bar w-full fixed left-0 bottom-0 flex justify-between gap-4 bg-gray-800 px-5 py-5 opacity-0 z-30">
+  <div class="mx-auto flex flex-col md:flex-row gap-8 justify-around md:items-center">
+          <p class="email-sign-up-bar__text text-white leading-tight text-md sm:text-lg lg:text-2xl">Get updates on human rights issues from around the globe. Join our movement today.</p>
+              <div class="email-sign-up-bar__form my-4">
+        <form id="fixed-bottom-rollup-signup" class="footer--sticky--form flex relative" action="/hrw-newsletter/subscribe" method="post" data-signup-id="signup">
+          <label class="absolute text-md text-white w-full" for="supporterEmailAddress">Enter an email address</label>
+          <input name="supporter.emailAddress" id="supporterEmailAddress" class="form-text form-email" type="email" size="18" required />
+
+                    <div class="hidden">
+            <label class="absolute text-md text-white w-full"
+                   for="supporterFirstName">Leave blank</label>
+            <input type="text" name="supporter.firstName" id="supporterFirstName" class="form-text" autocomplete="off">
+            <label class="absolute text-md text-white w-full"
+                   for="supporterLastName">Leave blank</label>
+            <input type="text" name="supporter.lastName" id="supporterLastName" class="form-text" autocomplete="off">
+            <label class="absolute text-md text-white w-full"
+                   for="supporterCountry">Leave blank</label>
+            <input type="text" name="supporter.country" id="supporterCountry" class="form-text" autocomplete="off">
+            <input type="hidden" name="hp" value="supporter.country">
+          </div>
+
+          <input name="supporter.questions.96991" type="hidden" value="Y">
+          <input checked="checked" name="supporter.questions.1748" type="hidden" value="Y">
+          <input type="hidden" name="subscribeTo" value="a2X3i0000001Nn4EAE">
+          <input type="hidden" name="subscribemd" value="1">
+          <input type="hidden" name="source" value="hrw_newsletter_rollup">
+          <input type="hidden" name="submitF" value="true">
+          <input type="submit" class="form-submit" value="Sign up"
+            onclick="if (!this.form.reportValidity()) {return false;} this.form.submit(); this.disabled = true;"
+          />
+        </form>
+        <div class="confirmation-message processing hidden">Processing..
+          <img src="/themes/custom/hrw_design/dist/app-drupal/assets/loading.svg" alt="" class="ml-2 w-8 inline-block" aria-hidden="true"/>
+        </div>
+        <div class="confirmation-message complete hidden">Thank you for signing up!</div>
+        <div class="confirmation-message error hidden">An error occurred while subscribing your email address. Please try again.</div>
+      </div>
+      </div>
+  <div class="email-sign-up-bar__close cursor-pointer text-white flex items-center">
+    
+
+
+
+<div class="icon fill-current  w-4 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-close"></use>
+  </svg>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+<div id="block-rollupnewslettersignup">
+  
+    
+      
+
+<div class="clear-both">
+  <div data-scroll class="email-sign-up-bar w-full fixed left-0 bottom-0 flex justify-between gap-4 bg-gray-800 px-5 py-5 opacity-0 z-30">
+  <div class="mx-auto flex flex-col md:flex-row gap-8 justify-around md:items-center">
+          <p class="email-sign-up-bar__text text-white leading-tight text-md sm:text-lg lg:text-2xl">Every weekday, get the world’s top human rights news, explored and explained by Andrew Stroehlein.</p>
+              <div class="email-sign-up-bar__form my-4">
+        <form id="rollup-DB-signup-on-inline-page" class="footer--sticky--form flex relative" action="/hrw-newsletter/subscribe" method="post" data-signup-id="signup">
+          <label class="absolute text-md text-white w-full" for="supporterEmailAddress">Enter an email address</label>
+          <input name="supporter.emailAddress" id="supporterEmailAddress" class="form-text form-email" type="email" size="18" required />
+
+                    <div class="hidden">
+            <label class="absolute text-md text-white w-full"
+                   for="supporterFirstName">Leave blank</label>
+            <input type="text" name="supporter.firstName" id="supporterFirstName" class="form-text" autocomplete="off">
+            <label class="absolute text-md text-white w-full"
+                   for="supporterLastName">Leave blank</label>
+            <input type="text" name="supporter.lastName" id="supporterLastName" class="form-text" autocomplete="off">
+            <label class="absolute text-md text-white w-full"
+                   for="supporterCountry">Leave blank</label>
+            <input type="text" name="supporter.country" id="supporterCountry" class="form-text" autocomplete="off">
+            <input type="hidden" name="hp" value="supporter.country">
+          </div>
+
+          <input name="supporter.questions.96991" type="hidden" value="Y">
+          <input checked="checked" name="supporter.questions.1748" type="hidden" value="Y">
+          <input type="hidden" name="subscribeTo" value="a2X3i0000001NmbEAE">
+          <input type="hidden" name="subscribemd" value="1">
+          <input type="hidden" name="source" value="hrw_newsletter_rollup">
+          <input type="hidden" name="submitF" value="true">
+          <input type="submit" class="form-submit" value="Sign up"
+            onclick="if (!this.form.reportValidity()) {return false;} this.form.submit(); this.disabled = true;"
+          />
+        </form>
+        <div class="confirmation-message processing hidden">Processing..
+          <img src="/themes/custom/hrw_design/dist/app-drupal/assets/loading.svg" alt="" class="ml-2 w-8 inline-block" aria-hidden="true"/>
+        </div>
+        <div class="confirmation-message complete hidden">Thank you for signing up!</div>
+        <div class="confirmation-message error hidden">An error occurred while subscribing your email address. Please try again.</div>
+      </div>
+      </div>
+  <div class="email-sign-up-bar__close cursor-pointer text-white flex items-center">
+    
+
+
+
+<div class="icon fill-current  w-4 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-close"></use>
+  </svg>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+      </main>
+
+</div>
+              <div>
+    
+<footer class="footer bg-gray-900 text-gray-500 w-full pt-16 pb-32 px-6 xl:px-0" role="contentinfo">
+    <div class="footer__content flex max-w-sm mx-auto flex-wrap-reverse md:flex-no-wrap">
+    <div class="footer__main flex flex-col w-full">
+      <div class="footer__upper flex flex-col h-fit justify-between border-b border-gray-600 lg:flex-row">
+        <div class="footer__signup pb-4 border-b border-gray-600 lg:border-0">
+                                  <div class="signup-form" id="signup-form--footer-md-signup">
+      <label class="signup-form__header text-2xl font-sans text-white leading-snug" for="signup-email-address">Get Updates On Rights Issues Worldwide</label>
+    <div class="signup-form__content pt-2">
+    <form id="footer-md-signup" action="/hrw-newsletter/subscribe" class="signup-form__form flex flex-wrap"
+          method="post">
+      <input type="email" autocomplete="email" class="signup-form__input bg-gray-800 px-2 py-1 text-sm text-white" name="supporter.emailAddress" id="signup-email-address" required  placeholder="Enter an email address"  >
+
+            <div class="hidden">
+        <label class="absolute text-md text-white w-full"
+               for="supporterFirstName">Leave blank</label>
+        <input type="text" name="supporter.firstName" id="supporterFirstName" class="form-text" autocomplete="off">
+        <label class="absolute text-md text-white w-full"
+               for="supporterLastName">Leave blank</label>
+        <input type="text" name="supporter.lastName" id="supporterLastName" class="form-text" autocomplete="off">
+        <label class="absolute text-md text-white w-full"
+               for="supporterCountry">Leave blank</label>
+        <input type="text" name="supporter.country" id="supporterCountry" class="form-text" autocomplete="off">
+        <input type="hidden" name="hp" value="supporter.country">
+      </div>
+
+      
+
+
+
+
+    
+
+<button type="submit" value="Sign Up" class="btn btn-primary btn-sm"  onclick="if (!this.form.reportValidity()) {return false;} this.form.submit(); this.disabled = true;">
+        <span class="btn-text ">Sign Up</span>
+  </button>
+      <input name="supporter.questions.96991" type="hidden" value="Y">
+      <input checked="checked" name="supporter.questions.1748" type="hidden" value="Y">
+              <input type="hidden" name="subscribeTo" value="a2X3i0000001Nn4EAE">
+            <input type="hidden" name="subscribemd" value="1">
+      <input type="hidden" name="source" value="hrw_footer">
+      <input type="hidden" name="submitF" value="true">
+    </form>
+  </div>
+</div>
+            <div class="signup-form" id="signup-form--footer-alt-signup">
+      <label class="signup-form__header text-2xl font-sans text-white leading-snug" for="signup-email-address">Get Daily Updates On Rights Issues Worldwide</label>
+    <div class="signup-form__content pt-2">
+    <form id="footer-alt-signup" action="/hrw-newsletter/subscribe" class="signup-form__form flex flex-wrap"
+          method="post">
+      <input type="email" autocomplete="email" class="signup-form__input bg-gray-800 px-2 py-1 text-sm text-white" name="supporter.emailAddress" id="signup-email-address" required  placeholder="Enter an email address"  >
+
+            <div class="hidden">
+        <label class="absolute text-md text-white w-full"
+               for="supporterFirstName">Leave blank</label>
+        <input type="text" name="supporter.firstName" id="supporterFirstName" class="form-text" autocomplete="off">
+        <label class="absolute text-md text-white w-full"
+               for="supporterLastName">Leave blank</label>
+        <input type="text" name="supporter.lastName" id="supporterLastName" class="form-text" autocomplete="off">
+        <label class="absolute text-md text-white w-full"
+               for="supporterCountry">Leave blank</label>
+        <input type="text" name="supporter.country" id="supporterCountry" class="form-text" autocomplete="off">
+        <input type="hidden" name="hp" value="supporter.country">
+      </div>
+
+      
+
+
+
+
+    
+
+<button type="submit" value="Sign Up" class="btn btn-primary btn-sm"  onclick="if (!this.form.reportValidity()) {return false;} this.form.submit(); this.disabled = true;">
+        <span class="btn-text ">Sign Up</span>
+  </button>
+      <input name="supporter.questions.96991" type="hidden" value="Y">
+      <input checked="checked" name="supporter.questions.1748" type="hidden" value="Y">
+              <input type="hidden" name="subscribeTo" value="a2X3i0000001NmbEAE">
+            <input type="hidden" name="subscribemd" value="1">
+      <input type="hidden" name="source" value="hrw_footer">
+      <input type="hidden" name="submitF" value="true">
+    </form>
+  </div>
+</div>
+            <script>
+              const formIds = ['signup-form--footer-md-signup', 'signup-form--footer-alt-signup'];
+              let idToRemove = formIds[Math.floor(Math.random() * formIds.length)];
+                            if (window.location.href.indexOf('location_override') > 0) {
+                idToRemove = 'signup-form--footer-alt-signup';
+              }
+              document.getElementById(idToRemove).remove();
+            </script>
+                  </div>
+        <div class="footer__social pt-4 lg:pt-0">
+                      
+<div class="social-links flex flex-wrap justify-between py-1 lg:flex-col lg:items-end">
+    <h2 class="social-links__heading text-white text-2xl font-light font-sans">Connect With Us</h2>
+    <div class="social-links__content">
+    <ul class="social-links__items flex">
+                                        <li class="social-link__item px-1">
+            
+
+
+
+
+
+
+
+<a href="https://twitter.com/hrw" class="text-white   text-3xl font-sans font-medium" title="Twitter">
+          <span class="sr-only">Twitter</span>
+      
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-twitter-nopad"></use>
+  </svg>
+</div>
+</a>
+          </li>
+                                 <li class="social-link__item px-1">
+            
+
+
+
+
+
+
+
+<a href="https://www.facebook.com/HumanRightsWatch" class="text-white   text-3xl font-sans font-medium" title="Facebook">
+          <span class="sr-only">Facebook</span>
+      
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-facebook"></use>
+  </svg>
+</div>
+</a>
+          </li>
+                                 <li class="social-link__item px-1">
+            
+
+
+
+
+
+
+
+<a href="https://www.youtube.com/user/HumanRightsWatch" class="text-white   text-3xl font-sans font-medium" title="YouTube">
+          <span class="sr-only">YouTube</span>
+      
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-youtube"></use>
+  </svg>
+</div>
+</a>
+          </li>
+                                 <li class="social-link__item px-1">
+            
+
+
+
+
+
+
+
+<a href="https://www.instagram.com/humanrightswatch/" class="text-white   text-3xl font-sans font-medium" title="Instagram">
+          <span class="sr-only">Instagram</span>
+      
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-instagram"></use>
+  </svg>
+</div>
+</a>
+          </li>
+                                                <li class="social-link__item px-1">
+            
+
+
+
+
+
+
+
+<a href="https://www.linkedin.com/company/human-rights-watch/" class="text-white   text-3xl font-sans font-medium" title="LinkedIn">
+          <span class="sr-only">LinkedIn</span>
+      
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-linkedin"></use>
+  </svg>
+</div>
+</a>
+          </li>
+                                 <li class="social-link__item px-1">
+            
+
+
+
+
+
+
+
+<a href="https://www.tiktok.com/@humanrightswatch" class="text-white   text-3xl font-sans font-medium" title="TikTok">
+          <span class="sr-only">TikTok</span>
+      
+
+
+
+<div class="icon fill-current  w-6 inline-block">
+  <svg viewBox="0 0 20 20" fill="currentColor"  role="img"  focusable="false"  aria-hidden="true"  >
+        <use xlink:href="/themes/custom/hrw_design/dist/app-drupal/assets/spritemap.svg?cacheBuster=#sprite-tiktok"></use>
+  </svg>
+</div>
+</a>
+          </li>
+                  </ul>
+  </div>
+</div>
+                  </div>
+      </div>
+      <div class="footer__lower flex flex-col max-w-sm">
+        <div class="flex flex-col justify-between border-b border-gray-600 lg:flex-row">
+          <div class="footer__region-content">
+                          <nav role="navigation" class="inline-block" aria-labelledby="block-hrw-design-footer-menu" id="block-hrw-design-footer"><h2 class="visually-hidden" id="block-hrw-design-footer-menu">Footer menu</h2><div class="footer-nav"><ul class="nav-list py-2"><li class="nav-item inline-block my-2 px-2 leading-none border-r border-gray-500"><a href="/contact-us" class="nav-lint text-sm text-white hover:underline focus:underline">Contact Us</a></li><li class="nav-item inline-block my-2 px-2 leading-none border-r border-gray-500"><a href="/corrections" class="nav-lint text-sm text-white hover:underline focus:underline">Corrections</a></li><li class="nav-item inline-block my-2 px-2 leading-none border-r border-gray-500"><a href="/privacy-policy" class="nav-lint text-sm text-white hover:underline focus:underline">Privacy Policy</a></li><li class="nav-item inline-block my-2 px-2 leading-none border-r border-gray-500"><a href="/permissions" class="nav-lint text-sm text-white hover:underline focus:underline">Permissions</a></li><li class="nav-item inline-block my-2 px-2 leading-none border-r border-gray-500"><a href="/sitemap" class="nav-lint text-sm text-white hover:underline focus:underline">Site Map</a></li><li class="nav-item inline-block my-2 px-2 leading-none border-r border-gray-500"><a href="/child-safeguarding-human-rights-watch" class="nav-lint text-sm text-white hover:underline focus:underline">Child Safeguarding</a></li></ul></div></nav><div class="inline-block my-4" id="block-hrw-textonly-link">
+  
+    
+      <a href="//text.hrw.org/news/2023/09/27/bangladesh-shipping-firms-profit-labor-abuse" class="inline-block text-sm text-white leading-none px-2 hover:underline focus:underline" hreflang="en">Text Version</a>
+  </div>
+                    </div>
+          <span class="copyright text-sm text-gray-500 py-4 border-t border-gray-600 my-auto lg:py-2 lg:border-0">© 2023 Human Rights Watch</span>
+        </div>
+
+        <div class="footer__info flex-col">
+          <div class="footer__info-address v-card font-sans text-gray-500 text-sm py-2 flex-row">
+            <strong>Human Rights Watch</strong> | 350 Fifth Avenue, 34th Floor | New York, <abbr>NY</abbr> 10118-3299 <abbr>USA</abbr> | <strong>t</strong> 1.212.290.4700
+          </div>
+          <div class="footer__info-reg py-2">
+            <p class="text-sm text-gray-500 font-sans"><strong>Human Rights Watch </strong> is a 501(C)(3) nonprofit registered in the US under EIN: 13-2875808</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer__logo block w-24 text-white mx-auto mb-10 md:m-0 md:ml-auto md:pl-8 md:w-auto">
+      <a href="https://www.hrw.org/">
+        <svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 700 700" preserveAspectRatio="xMinYMin" class="max-w-full h-auto"><title>Human Rights Watch</title><path fill="#0071CE" d="M0 700h700V0H0z"/><path fill="#fff" d="M177 232v-56h-12v22h-16v-22h-11v56h11v-25h16v25zm94-18v-38h-12v41c0 4-3 6-8 6-4 0-7-1-8-4l-1-6v-37h-11v39c0 5 0 7 2 10 3 5 9 8 18 8 12 0 18-6 19-11l1-8zm110 18l-5-56h-14l-8 28-2 9-2-9-7-28h-15l-5 56h11l2-29 1-11 2 10 8 30h10l8-31 3-8v9l2 30h11zm94 0l-17-56h-12l-19 56h12l4-13h16l4 13h12zm-18-23h-11l3-10 2-11 3 10 3 11zm105 23v-56h-11l1 23 1 15-7-16-10-22h-13v56h11v-24l-1-16 8 18 9 22h12zM178 380l-13-22-2-3c7 0 12-7 12-15 0-10-6-17-16-17h-21v57h11v-24l2 1c2 1 3 3 9 13l5 10h13zm-15-40c0 3 0 5-2 6-1 1-3 2-8 2h-4v-15h10c3 1 4 4 4 7zm70 40v-57h-12v57zm88-5v-27h-22l2 10h8v12l-6 2c-4 0-7-1-9-3-3-3-4-8-4-16 0-9 1-15 5-18 2-2 4-3 8-3s8 1 11 4l6-7c-4-4-11-6-17-6s-10 1-14 4c-8 5-12 13-12 25 0 8 2 14 6 20 5 5 11 8 19 8 7 0 13-1 19-5zm85 5v-57h-11v22h-16v-22h-12v57h12v-25h16v25zm83-57h-41v10h14v47h12v-47h13zm78 39c0-8-5-14-14-17l-7-2c-5-1-6-2-6-5 0-4 3-7 8-7 4 0 8 1 13 5l5-9c-5-3-12-5-19-5-12 0-20 7-20 17l3 9c2 3 5 5 11 7l6 1c5 2 7 4 7 8 0 5-3 7-10 7-5 0-10-1-15-4l-4 9c5 3 13 5 19 5 14 0 23-8 23-19zM199 471h-12l-4 21-3 19-3-15-5-25h-12l-5 23-3 18-3-19-5-22h-12l14 57h12l5-23 3-16 2 16 5 23h13l13-57zm95 56l-17-56h-13l-18 56h12l4-13h16l4 13h12zm-19-22h-10a160 160 0 005-22 1386 1386 0 015 22zm103-34h-40v10h14v46h11v-46h13zm90 52l-5-7c-4 3-7 3-10 3-5 0-8-2-11-6-1-3-2-7-2-15 0-6 1-11 3-14s6-5 10-5l9 3 5-8c-3-2-9-4-15-4-9 0-17 5-21 13-3 5-4 10-4 17 0 9 2 15 7 20 5 6 11 8 18 8s11-1 16-5zm94 4v-56h-11v22h-16v-22h-12v56h12v-25h16v25z"/></svg>
+      </a>
+    </div>
+  </div>
+</footer>
+    <div id="hrw-design-cookie-container"></div>
+  </div>
+
+      
+
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"Human Rights Watch","entityCreated":"1695859200","entityType":"node","entityBundle":"news","entityId":"385971","entityTitle":"Bangladesh: Shipping Firms Profit from Labor Abuse","division":{"value":"Asia","_attributes":[]},"entityTaxonomy":{"news_type":{"9435":"News Release"},"region_country":{"9452":"Asia","9540":"Bangladesh"},"topic":{"9682":"Economic Justice and Rights","9728":"Environment and Health","9740":"Exploitation, Forced Labor \u0026 Trafficking"}},"userUid":0});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/385971","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-38},"hy":{"id":"hy","name":"Armenian","direction":"ltr","weight":-37},"sq":{"id":"sq","name":"Albanian","direction":"ltr","weight":-36},"am":{"id":"am","name":"Amharic","direction":"ltr","weight":-35},"ar":{"id":"ar","name":"Arabic","direction":"rtl","weight":-34},"ay":{"id":"ay","name":"Aymara","direction":"ltr","weight":-34},"az":{"id":"az","name":"Azerbaijani","direction":"ltr","weight":-33},"bn":{"id":"bn","name":"Bengali","direction":"ltr","weight":-32},"bs":{"id":"bs","name":"Bosnian","direction":"ltr","weight":-31},"sh":{"id":"sh","name":"Bosnian\/Croatian\/Serbian","direction":"ltr","weight":-30},"bg":{"id":"bg","name":"Bulgarian","direction":"ltr","weight":-29},"my":{"id":"my","name":"Burmese","direction":"ltr","weight":-28},"ca":{"id":"ca","name":"Catalan","direction":"ltr","weight":-27},"ceb":{"id":"ceb","name":"Cebuano","direction":"ltr","weight":-26},"zh-hans":{"id":"zh-hans","name":"Chinese, Simplified","direction":"ltr","weight":-25},"zh-hant":{"id":"zh-hant","name":"Chinese, Traditional","direction":"ltr","weight":-24},"hr":{"id":"hr","name":"Croatian","direction":"ltr","weight":-23},"cs":{"id":"cs","name":"Czech","direction":"ltr","weight":-22},"da":{"id":"da","name":"Danish","direction":"ltr","weight":-21},"gbz":{"id":"gbz","name":"Dari","direction":"rtl","weight":-20},"nl":{"id":"nl","name":"Dutch","direction":"ltr","weight":-19},"et":{"id":"et","name":"Estonian","direction":"ltr","weight":-18},"fi":{"id":"fi","name":"Finnish","direction":"ltr","weight":-17},"fr":{"id":"fr","name":"French","direction":"ltr","weight":-16},"ka":{"id":"ka","name":"Georgian","direction":"ltr","weight":-15},"de":{"id":"de","name":"German","direction":"ltr","weight":-14},"el":{"id":"el","name":"Greek","direction":"ltr","weight":-13},"ht":{"id":"ht","name":"Haitian Creole","direction":"ltr","weight":-12},"he":{"id":"he","name":"Hebrew","direction":"rtl","weight":-11},"hi":{"id":"hi","name":"Hindi","direction":"ltr","weight":-10},"hu":{"id":"hu","name":"Hungarian","direction":"ltr","weight":-9},"id":{"id":"id","name":"Indonesian","direction":"ltr","weight":-8},"it":{"id":"it","name":"Italian","direction":"ltr","weight":-7},"ja":{"id":"ja","name":"Japanese","direction":"ltr","weight":-6},"kk":{"id":"kk","name":"Kazakh","direction":"ltr","weight":-5},"km":{"id":"km","name":"Khmer","direction":"ltr","weight":-4},"rw":{"id":"rw","name":"Kinyarwanda","direction":"ltr","weight":-3},"ko":{"id":"ko","name":"Korean","direction":"ltr","weight":-2},"ku":{"id":"ku","name":"Kurdish","direction":"ltr","weight":-1},"lv":{"id":"lv","name":"Latvian","direction":"ltr","weight":0},"lt":{"id":"lt","name":"Lithuanian","direction":"ltr","weight":1},"mk":{"id":"mk","name":"Macedonian","direction":"ltr","weight":2},"ms":{"id":"ms","name":"Malay","direction":"ltr","weight":3},"mr":{"id":"mr","name":"Marathi","direction":"ltr","weight":4},"ne":{"id":"ne","name":"Nepali","direction":"ltr","weight":5},"nb":{"id":"nb","name":"Norwegian Bokm\u00e5l","direction":"ltr","weight":6},"nn":{"id":"nn","name":"Norwegian Nynorsk","direction":"ltr","weight":7},"om":{"id":"om","name":"Oromo","direction":"ltr","weight":8},"ps":{"id":"ps","name":"Pashto","direction":"rtl","weight":9},"fa":{"id":"fa","name":"Persian","direction":"rtl","weight":10},"pl":{"id":"pl","name":"Polish","direction":"ltr","weight":11},"pt":{"id":"pt","name":"Portuguese, International","direction":"ltr","weight":12},"qu":{"id":"qu","name":"Quechua","direction":"ltr","weight":13},"rom":{"id":"rom","name":"Romani","direction":"ltr","weight":14},"ro":{"id":"ro","name":"Romanian","direction":"ltr","weight":15},"ru":{"id":"ru","name":"Russian","direction":"ltr","weight":16},"sr":{"id":"sr","name":"Serbian","direction":"ltr","weight":17},"si":{"id":"si","name":"Sinhalese","direction":"ltr","weight":18},"sk":{"id":"sk","name":"Slovak","direction":"ltr","weight":19},"sl":{"id":"sl","name":"Slovenian","direction":"ltr","weight":20},"so":{"id":"so","name":"Somali","direction":"ltr","weight":21},"ku-so":{"id":"ku-so","name":"Sorani","direction":"rtl","weight":22},"es":{"id":"es","name":"Spanish","direction":"ltr","weight":23},"sw":{"id":"sw","name":"Swahili","direction":"ltr","weight":24},"sv":{"id":"sv","name":"Swedish","direction":"ltr","weight":25},"tl":{"id":"tl","name":"Tagalog","direction":"ltr","weight":26},"tg":{"id":"tg","name":"Tajik","direction":"ltr","weight":27},"ta":{"id":"ta","name":"Tamil","direction":"ltr","weight":28},"tet":{"id":"tet","name":"Tetum","direction":"ltr","weight":29},"th":{"id":"th","name":"Thai","direction":"ltr","weight":30},"vi":{"id":"vi","name":"Ti\u1ebfng Vi\u1ec7t","direction":"ltr","weight":31},"ti":{"id":"ti","name":"Tigrinya","direction":"ltr","weight":32},"tr":{"id":"tr","name":"Turkish","direction":"ltr","weight":33},"tk":{"id":"tk","name":"Turkmen","direction":"ltr","weight":34},"uk":{"id":"uk","name":"Ukrainian","direction":"ltr","weight":35},"ur":{"id":"ur","name":"Urdu","direction":"rtl","weight":36},"uz":{"id":"uz","name":"Uzbek","direction":"ltr","weight":37},"dv":{"id":"dv","name":"Dhivehi","direction":"rtl","weight":38}}},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":["hrw.org","www.hrw.org"]}},"statistics":{"data":{"nid":"385971"},"url":"\/core\/modules\/statistics\/statistics.php"},"minimalShare":{"sizes":{"printer":{"width":600,"height":600},"telegram":{"width":600,"height":500},"reddit":{"width":600,"height":500},"linkedin":{"width":520,"height":570},"share":{"width":600,"height":500},"twitter":{"width":600,"height":260},"facebook":{"width":600,"height":500}}},"hrwHeader":{"data":[{"id":"menu_link_content:2cddc307-64ce-4763-90a6-8129bf70afe4","text":"Countries","url":"","sub":{"type":"countries","data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9450","text":"Africa","url":"\/africa","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9457","text":"Angola","url":"\/africa\/angola"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9460","text":"Burkina Faso","url":"\/africa\/burkina-faso"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9461","text":"Burundi","url":"\/africa\/burundi"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9462","text":"Cameroon","url":"\/africa\/cameroon"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9464","text":"Central African Republic","url":"\/africa\/central-african-republic"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9465","text":"Chad","url":"\/africa\/chad"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9468","text":"C\u00f4te d\u0027Ivoire","url":"\/africa\/cote-divoire"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9469","text":"Democratic Republic of Congo","url":"\/africa\/democratic-republic-congo"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9471","text":"Equatorial Guinea","url":"\/africa\/equatorial-guinea"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9472","text":"Eritrea","url":"\/africa\/eritrea"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9498","text":"Eswatini (formerly Swaziland)","url":"\/africa\/eswatini"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9473","text":"Ethiopia","url":"\/africa\/ethiopia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9475","text":"Gambia","url":"\/africa\/gambia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9476","text":"Ghana","url":"\/africa\/ghana"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9477","text":"Guinea","url":"\/africa\/guinea"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9479","text":"Kenya","url":"\/africa\/kenya"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9481","text":"Liberia","url":"\/africa\/liberia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9483","text":"Malawi","url":"\/africa\/malawi"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9484","text":"Mali","url":"\/africa\/mali"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9904","text":"Mauritius","url":"\/africa\/mauritius"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9486","text":"Mozambique","url":"\/africa\/mozambique"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9488","text":"Niger","url":"\/africa\/niger"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9489","text":"Nigeria","url":"\/africa\/nigeria"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9490","text":"Rwanda","url":"\/africa\/rwanda"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9491","text":"Senegal","url":"\/africa\/senegal"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9493","text":"Sierra Leone","url":"\/africa\/sierra-leone"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9494","text":"Somalia","url":"\/africa\/somalia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9495","text":"South Africa","url":"\/africa\/south-africa"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9496","text":"South Sudan","url":"\/africa\/south-sudan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9497","text":"Sudan","url":"\/africa\/sudan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9499","text":"Tanzania","url":"\/africa\/tanzania-and-zanzibar"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9501","text":"Uganda","url":"\/africa\/uganda"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9502","text":"Zambia","url":"\/africa\/zambia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9503","text":"Zimbabwe","url":"\/africa\/zimbabwe"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9451","text":"Americas","url":"\/americas","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9505","text":"Argentina","url":"\/americas\/argentina"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9509","text":"Bolivia","url":"\/americas\/bolivia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9510","text":"Brazil","url":"\/americas\/brazil"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9511","text":"Canada","url":"\/americas\/canada"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9512","text":"Chile","url":"\/americas\/chile"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9513","text":"Colombia","url":"\/americas\/colombia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9514","text":"Costa Rica","url":"\/americas\/costa-rica"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9515","text":"Cuba","url":"\/americas\/cuba"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9516","text":"Dominican Republic","url":"\/americas\/dominican-republic"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9517","text":"Ecuador","url":"\/americas\/ecuador"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9518","text":"El Salvador","url":"\/americas\/el-salvador"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9521","text":"Guatemala","url":"\/americas\/guatemala"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9523","text":"Haiti","url":"\/americas\/haiti"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9524","text":"Honduras","url":"\/americas\/honduras"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9525","text":"Jamaica","url":"\/americas\/jamaica"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9526","text":"Mexico","url":"\/americas\/mexico"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9527","text":"Nicaragua","url":"\/americas\/nicaragua"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9529","text":"Paraguay","url":"\/americas\/paraguay"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9530","text":"Peru","url":"\/americas\/peru"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9536","text":"Uruguay","url":"\/americas\/uruguay"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9537","text":"Venezuela","url":"\/americas\/venezuela"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9452","text":"Asia","url":"\/asia","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9538","text":"Afghanistan","url":"\/asia\/afghanistan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9539","text":"Australia","url":"\/asia\/australia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9540","text":"Bangladesh","url":"\/asia\/bangladesh"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9541","text":"Bhutan","url":"\/asia\/bhutan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9542","text":"Brunei","url":"\/asia\/brunei"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9544","text":"Cambodia","url":"\/asia\/cambodia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9545","text":"China and Tibet","url":"\/asia\/china-and-tibet"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9549","text":"Fiji","url":"\/asia\/fiji"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9550","text":"India","url":"\/asia\/india"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9551","text":"Indonesia","url":"\/asia\/indonesia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9552","text":"Japan","url":"\/asia\/japan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9554","text":"Laos","url":"\/asia\/laos"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9555","text":"Malaysia","url":"\/asia\/malaysia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9556","text":"Maldives","url":"\/asia\/maldives"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9543","text":"Myanmar (Burma)","url":"\/asia\/myanmar-burma"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9559","text":"Nauru","url":"\/asia\/nauru"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9560","text":"Nepal","url":"\/asia\/nepal"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9563","text":"North Korea","url":"\/asia\/north-korea"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9564","text":"Pakistan","url":"\/asia\/pakistan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9566","text":"Papua New Guinea","url":"\/asia\/papua-new-guinea"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9567","text":"Philippines","url":"\/asia\/philippines"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9569","text":"Singapore","url":"\/asia\/singapore"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9571","text":"South Korea","url":"\/asia\/south-korea"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9572","text":"Sri Lanka","url":"\/asia\/sri-lanka"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9573","text":"Taiwan","url":"\/asia\/taiwan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9574","text":"Thailand","url":"\/asia\/thailand"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9547","text":"Timor-Leste","url":"\/asia\/timor-leste"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9578","text":"Vietnam","url":"\/asia\/vietnam"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9453","text":"Europe\/Central Asia","url":"\/europe\/central-asia","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9579","text":"Albania","url":"\/europe\/central-asia\/albania"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9581","text":"Armenia","url":"\/europe\/central-asia\/armenia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9583","text":"Azerbaijan","url":"\/europe\/central-asia\/azerbaijan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9584","text":"Belarus","url":"\/europe\/central-asia\/belarus"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9585","text":"Belgium","url":"\/europe\/central-asia\/belgium"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9586","text":"Bosnia and Herzegovina","url":"\/europe\/central-asia\/bosnia-and-herzegovina"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9587","text":"Bulgaria","url":"\/europe\/central-asia\/bulgaria"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9588","text":"Croatia","url":"\/europe\/central-asia\/croatia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9590","text":"Czech Republic","url":"\/europe\/central-asia\/czech-republic"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9591","text":"Denmark","url":"\/europe\/central-asia\/denmark"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9593","text":"European Union","url":"\/europe\/central-asia\/european-union"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9595","text":"France","url":"\/europe\/central-asia\/france"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9596","text":"Georgia","url":"\/europe\/central-asia\/georgia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9597","text":"Germany","url":"\/europe\/central-asia\/germany"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9598","text":"Greece","url":"\/europe\/central-asia\/greece"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9599","text":"Holy See","url":"\/europe\/central-asia\/holy-see"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9600","text":"Hungary","url":"\/europe\/central-asia\/hungary"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9602","text":"Ireland","url":"\/europe\/central-asia\/ireland"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9603","text":"Italy","url":"\/europe\/central-asia\/italy"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9604","text":"Kazakhstan","url":"\/europe\/central-asia\/kazakhstan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9605","text":"Kyrgyzstan","url":"\/europe\/central-asia\/kyrgyzstan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9606","text":"Latvia","url":"\/europe\/central-asia\/latvia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9608","text":"Lithuania","url":"\/europe\/central-asia\/lithuania"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9614","text":"Netherlands","url":"\/europa-und-zentralasien\/netherlands"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9615","text":"Norway","url":"\/europe\/central-asia\/norway"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9616","text":"Poland","url":"\/europe\/central-asia\/poland"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9617","text":"Portugal","url":"\/europe\/central-asia\/portugal"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9618","text":"Romania","url":"\/europe\/central-asia\/romania"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9619","text":"Russia","url":"\/europe\/central-asia\/russia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9621","text":"Serbia\/Kosovo","url":"\/europe\/central-asia\/serbia\/kosovo"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9624","text":"Spain","url":"\/europe\/central-asia\/spain"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9625","text":"Sweden","url":"\/europe\/central-asia\/sweden"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9626","text":"Switzerland","url":"\/europe\/central-asia\/switzerland"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9627","text":"Tajikistan","url":"\/europe\/central-asia\/tajikistan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9628","text":"Turkey","url":"\/europe\/central-asia\/turkey"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9629","text":"Turkmenistan","url":"\/europe\/central-asia\/turkmenistan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9630","text":"Ukraine","url":"\/europe\/central-asia\/ukraine"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9631","text":"United Kingdom","url":"\/europe\/central-asia\/united-kingdom"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9632","text":"Uzbekistan","url":"\/europe\/central-asia\/uzbekistan"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9455","text":"Middle East\/North Africa","url":"\/middle-east\/north-africa","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9633","text":"Algeria","url":"\/middle-east\/north-africa\/algeria"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9634","text":"Bahrain","url":"\/middle-east\/north-africa\/bahrain"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9635","text":"Egypt","url":"\/middle-east\/n-africa\/egypt"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9636","text":"Iran","url":"\/middle-east\/north-africa\/iran"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9637","text":"Iraq","url":"\/middle-east\/north-africa\/iraq"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9638","text":"Israel\/Palestine","url":"\/middle-east\/north-africa\/israel\/palestine"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9639","text":"Jordan","url":"\/middle-east\/n-africa\/jordan"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9640","text":"Kuwait","url":"\/middle-east\/n-africa\/kuwait"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9641","text":"Lebanon","url":"\/middle-east\/n-africa\/lebanon"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9642","text":"Libya","url":"\/middle-east\/n-africa\/libya"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9485","text":"Mauritania","url":"\/middle-east\/north-africa\/mauritania"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9644","text":"Morocco\/Western Sahara","url":"\/middle-east\/north-africa\/morocco\/western-sahara"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9645","text":"Oman","url":"\/middle-east\/n-africa\/oman"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9646","text":"Qatar","url":"\/middle-east\/north-africa\/qatar"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9647","text":"Saudi Arabia","url":"\/middle-east\/north-africa\/saudi-arabia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9648","text":"Syria","url":"\/middle-east\/n-africa\/syria"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9649","text":"Tunisia","url":"\/middle-east\/north-africa\/tunisia"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9650","text":"United Arab Emirates","url":"\/middle-east\/north-africa\/united-arab-emirates"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9651","text":"Yemen","url":"\/middle-east\/n-africa\/yemen"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9456","text":"United States","url":"\/united-states","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9785","text":"Criminal Justice","url":"\/united-states\/criminal-justice"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9659","text":"Immigration and Border Rights","url":"\/united-states\/immigration"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9856","text":"Racial Discrimination","url":"\/united-states\/racial-discrimination"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9653","text":"US Foreign Policy","url":"\/united-states\/us-foreign-policy"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.region.9855","text":"US Poverty and Economic Inequality","url":"\/united-states\/poverty-and-economic-inequality"}]}}]}},{"id":"menu_link_content:73c3de2d-949e-4270-b46c-a51cba0071a9","text":"Topics","url":"","sub":{"type":"list","data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9681","text":"Arms","url":"\/topic\/arms","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9703","text":"Cluster Munitions","url":"\/topic\/arms\/cluster-munitions"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9705","text":"Killer Robots","url":"\/topic\/arms\/killer-robots"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9706","text":"Landmines","url":"\/topic\/arms\/landmines"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9810","text":"Explosive Weapons in Populated Areas","url":"\/topic\/arms\/explosive-weapons-populated-areas"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9704","text":"Incendiary Weapons","url":"\/topic\/arms\/incendiary-weapons"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9683","text":"Children\u0027s Rights","url":"\/topic\/childrens-rights","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9713","text":"Education","url":"\/topic\/childrens-rights\/education"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9714","text":"Attacks on Education","url":"\/topic\/childrens-rights\/attacks-education"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9712","text":"Children and Armed Conflict","url":"\/topic\/childrens-rights\/children-and-armed-conflict"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9711","text":"Child Labor","url":"\/topic\/childrens-rights\/child-labor"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9715","text":"Youth Justice","url":"\/topic\/childrens-rights\/youth-justice"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9717","text":"Migrant and Refugee Children","url":"\/topic\/childrens-rights\/refugees-and-migrants"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9870","text":"Intersex Children","url":"\/topic\/childrens-rights\/intersex-children"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9716","text":"Children Separated from Families","url":"\/topic\/childrens-rights\/children-separated-from-families"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9861","text":"Crisis and Conflict","url":"\/topic\/crisis-and-conflict"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9685","text":"Disability Rights","url":"\/topic\/disability-rights","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9910","text":"Shackling","url":"\/topic\/disability-rights\/shackling"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9682","text":"Economic Justice and Rights","url":"\/topic\/economic-justice-and-rights","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9898","text":"Corporate Accountability","url":"\/topic\/economic-justice-and-rights\/corporate-accountability"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9871","text":"Poverty and Inequality","url":"\/topic\/economic-justice-and-rights\/poverty-and-inequality"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9686","text":"Environment and Human Rights","url":"\/topic\/environment","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9876","text":"Climate Change","url":"\/topic\/climate-change"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9877","text":"Deforestation","url":"\/topic\/environment\/deforestation"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9878","text":"Fossil Fuels","url":"\/topic\/environment\/fossil-fuels"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9688","text":"Free Speech","url":"\/topic\/free-speech","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9763","text":"Press Freedom","url":"\/topic\/free-speech\/press-freedom"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9764","text":"Religious Freedom","url":"\/topic\/free-speech\/religious-freedom"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9689","text":"Health","url":"\/topic\/health","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9732","text":"Sexual and Reproductive Health","url":"\/topic\/health\/sexual-and-reproductive-health"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9726","text":"Detention Centers","url":"\/topic\/health\/detention-centers"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9727","text":"Disasters and Displaced Populations","url":"\/topic\/health\/disasters-and-displaced-populations"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9728","text":"Environment and Health","url":"\/topic\/health\/environment-and-health"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9729","text":"Health Care Access","url":"\/topic\/health\/health-care-access"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9730","text":"HIV\/AIDS and Tuberculosis","url":"\/topic\/health\/hiv\/aids-and-tuberculosis"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9731","text":"Palliative Care","url":"\/topic\/health\/palliative-care"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9808","text":"Attacks on Health","url":"\/topic\/health\/attacks-health"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9691","text":"LGBT Rights","url":"\/topic\/lgbt-rights"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9693","text":"Refugees and Migrants","url":"\/topic\/refugees-and-migrants","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9741","text":"Asylum Seekers","url":"\/topic\/refugees-and-migrants\/asylum-seekers"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9742","text":"Internally Displaced People","url":"\/topic\/refugees-and-migrants\/internally-displaced-people"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9740","text":"Exploitation, Forced Labor \u0026 Trafficking","url":"\/topic\/refugees-and-migrants\/exploitation-forced-labor-trafficking"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9813","text":"Rights of Older People","url":"\/topic\/rights-older-people"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9690","text":"International Justice","url":"\/topic\/international-justice","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9735","text":"International Criminal Court","url":"\/topic\/international-justice\/international-criminal-court"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9737","text":"Peace and Justice","url":"\/topic\/international-justice\/peace-and-justice"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9762","text":"Technology and Rights","url":"\/topic\/technology-and-rights","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9902","text":"Digital Investigations Lab","url":"\/topic\/technology-and-rights\/digital-investigations-lab"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9684","text":"Terrorism \/ Counterterrorism","url":"\/topic\/terrorism-counterterrorism","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9720","text":"CIA Activities","url":"\/topic\/terrorism\/counterterrorism\/cia-activities"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9721","text":"Detention without Trial","url":"\/topic\/terrorism-counterterrorism\/detention-without-trial"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9722","text":"Edward Snowden","url":"\/topic\/terrorism-counterterrorism\/edward-snowden"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9723","text":"Guantanamo","url":"\/topic\/terrorism-counterterrorism\/guantanamo"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9724","text":"Guantanamo - Military Commissions","url":"\/topic\/terrorism-counterterrorism\/guantanamo-military-commissions"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9725","text":"Targeted Killings and Drones","url":"\/topic\/terrorism-counterterrorism\/targeted-killings-and-drones"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9696","text":"Torture","url":"\/topic\/torture"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9697","text":"United Nations","url":"\/topic\/united-nations","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9744","text":"Human Rights Council","url":"\/topic\/united-nations\/human-rights-council"}]}},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9698","text":"Women\u0027s Rights","url":"\/topic\/womens-rights","sub":{"data":[{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9746","text":"Child Marriage","url":"\/topic\/womens-rights\/child-marriage"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9747","text":"Domestic Violence","url":"\/topic\/womens-rights\/domestic-violence"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9748","text":"Domestic Workers","url":"\/topic\/womens-rights\/domestic-workers"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9757","text":"Gender Equality","url":"\/topic\/womens-rights\/gender-equality"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9752","text":"Reproductive Rights and Abortion","url":"\/topic\/womens-rights\/reproductive-rights-and-abortion"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9753","text":"Sexual Violence and Rape","url":"\/topic\/womens-rights\/sexual-violence-and-rape"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9840","text":"Labor Rights in the Garment Industry","url":"\/topic\/womens-rights\/labor-rights-garment-industry"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9805","text":"Women and Armed Conflict","url":"\/topic\/womens-rights\/women-and-armed-conflict"},{"id":"taxonomy_menu.menu_link:taxonomy_menu.menu_link.topic.9811","text":"Women\u2019s Health and FGM","url":"\/topic\/womens-rights\/womens-health-and-fgm"}]}}]}},{"id":"menu_link_content:688f2c40-b121-4f88-9b77-ab9843172122","text":"Reports","url":"\/publications"},{"id":"menu_link_content:bdabecec-539f-481a-bd96-8330a90e11f4","text":"Video \u0026 Photos","url":"\/video-photos"},{"id":"menu_link_content:44a0b2bc-0a01-41c2-ab89-1f9a122d54f7","text":"Impact","url":"\/impact"},{"id":"menu_link_content:16a16958-2180-4210-b758-10627e179382","text":"Take Action","url":"\/join-us\/take-action"},{"id":"menu_link_content:1e9465e3-d8ab-4c32-9a9d-931a2f8f2ee6","text":"About","url":"","sub":{"type":"list","data":[{"id":"menu_link_content:c886a3d6-09c0-4096-bc30-d6ffc1148060","text":"Careers","url":"\/careers"},{"id":"menu_link_content:4779f30c-10fe-4d29-9fdf-017d4b053fc5","text":"About Us","url":"\/about\/about-us","sub":{"data":[{"id":"menu_link_content:9f8bfec4-b2bb-4b60-8b66-5ffc27210fab","text":"History","url":"\/about\/about-us\/history"}]}},{"id":"menu_link_content:310bd01c-9d16-4c34-9b23-6604b3d181a9","text":"People","url":"\/about\/people","sub":{"data":[{"id":"menu_link_content:d2f6e4ff-b631-46ae-a7e3-8ac7c5c1829d","text":"Board of Directors","url":"\/about\/people\/board-directors"},{"id":"menu_link_content:b02522ff-0596-41b8-8172-860dadadc458","text":"Advisory Committees","url":"\/about\/people\/advisory-committees"}]}},{"id":"menu_link_content:9024bfba-62a8-47dd-9886-13ce86585a28","text":"Social Media","url":"\/about\/social-media"},{"id":"menu_link_content:176aa7b8-32e6-4584-bce1-e37c853c6aeb","text":"Human Rights Education","url":"\/students-and-educators"},{"id":"menu_link_content:010635c7-0b93-4d6d-9355-4f6b215fb947","text":"Partners","url":"\/about\/partners","sub":{"data":[{"id":"menu_link_content:ec92a81a-8d12-4618-aca2-7e0972ca9324","text":"Partner Resources","url":"\/about\/partner-resources"}]}},{"id":"menu_link_content:3ae9a269-bb44-4a98-a86b-d28959c2c436","text":"Financials and Fundraising Policy","url":"\/financials"},{"id":"menu_link_content:b99911d7-9d45-4491-8dfd-985c4667d6f8","text":"Accessibility","url":"\/about\/accessibility"},{"id":"menu_link_content:43ff1889-b3e7-42eb-999a-f429c1a3b2a0","text":"Contact","url":"\/contact-us"}]}},{"id":"menu_link_content:84b24d98-ad08-4460-bf04-66042e2169be","text":"Join Us","url":"","sub":{"type":"list","data":[{"id":"menu_link_content:100b8237-f160-4bdc-9a91-f0f5300c4afe","text":"Our Committees","url":"\/join-us\/human-rights-watch-council"},{"id":"menu_link_content:a999d85f-2064-4e0f-834c-d662e2a5b798","text":"Film Festival","url":"\/join-us\/film-festival"},{"id":"menu_link_content:0feaff34-a33a-4cc8-9150-14fd0169d7d2","text":"Newsletter","url":"https:\/\/action.hrw.org\/page\/34570\/subscribe\/1"},{"id":"menu_link_content:e0c2f12e-f8e4-4279-a533-d80e5ccbefc1","text":"Legacies for Justice","url":"https:\/\/legacy.hrw.org\/legacies-for-justice-society"},{"id":"menu_link_content:50ceb9b0-d273-480b-be7a-8e1a16855589","text":"Voices for Justice","url":"\/join-us\/voices-for-justice"}]}},{"id":"menu_link_content:c8cfbd7f-a8a7-4393-9e73-30d8c4fff1cb","text":"Give Now","url":"","sub":{"type":"list","data":[{"id":"menu_link_content:4308130f-0b2e-47a5-8221-b0562d69bc2b","text":"Make a One-time Gift","url":"https:\/\/bit.ly\/3qP09tb"},{"id":"menu_link_content:5d7fa4d0-20a9-4591-82b3-507ecffcc390","text":"Give Monthly","url":"https:\/\/bit.ly\/3C4SbCq"},{"id":"menu_link_content:8628c6c5-05bb-49a4-8791-62f1d0aac24a","text":"Gifts in Wills and Trusts","url":"https:\/\/www.hrw.org\/give-now\/legacy-giving"},{"id":"menu_link_content:5e178f12-1c58-44b5-95f4-4edc0c38ae15","text":"Partners for Justice","url":"https:\/\/donate.hrw.org\/page\/85608\/action\/1?promo_id=1008"},{"id":"menu_link_content:1a109a7b-8d09-4032-81fc-4601ae2ab008","text":"Stock or Wire Transfer","url":"https:\/\/donate.hrw.org\/page\/14723\/action\/1"},{"id":"menu_link_content:ca1120bb-1967-4ea5-a0d9-5bc490fbdc33","text":"Give from Your IRA","url":"https:\/\/www.freewill.com\/QCD\/HRW"}]}}],"buttons":[],"header_type":"internal","trending":[{"text":"Trending","data":[{"id":"d71c00be-6a83-46f8-a973-3f65dfd375d0","text":"Sudan","url":"\/africa\/sudan","count":0,"post_dates":[]},{"id":"88113031-856a-4089-ac2c-c32854d0f916","text":"Israel\/Palestine","url":"\/middle-east\/north-africa\/israel\/palestine","count":0,"post_dates":[]},{"id":"bbd34801-ad8f-4b08-b609-37cbaea6a8de","text":"COP28","url":"\/tag\/cop28-climate-change-conference","count":0,"post_dates":[]},{"id":"d90faf21-bd01-4c95-a94c-451fc69e2698","text":"Social Security","url":"\/tag\/right-social-security","count":0,"post_dates":[]},{"id":"4dd43135-4484-4c1d-b06d-547d2c8c1314","text":"Russia-Ukraine War","url":"\/tag\/russia-ukraine-war","count":0,"post_dates":[]},{"id":"3ddccbe6-2db3-4815-bb1e-3b9b3887a7ac","text":"Tigray Conflict","url":"\/tag\/tigray-conflict","count":0,"post_dates":[]}]}]},"user":{"uid":0,"permissionsHash":"76d0a8cb16fbd0c649914442354392881459e01d00db35239e4ff2eee7e55ace"}}</script>
+<script src="/sites/default/files/js/js_qKmzPlpFTZhvEejmz6whdch9X_nH-YcmUyZWAdYA5i0.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=hrw_design&amp;include=eJxVUFGywjAIvFA0R8rQZLU8E1IDrfb2L1Y71h-GXXZ3gERGmVY0P2CkhWtTN7ZHiFUUYv7QO13VUPxAik2ToHwV_3ef0daNuXA2NPUNOnUTLwhGQ4Ye9bG2X__8NJpqD31N9jg8LbPcfGrzRPn8gUffpYqFzBF9u1CIxamRsRpH3W1f5h1eJcIVFi6Ug47UqQ86bcgtjIf6rZ5LTXOGex_lI03GVVz_BNsaUAaknfwHkDuAtw"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-7de20fdcb72d0357be8","applicationID":"529481584","transactionName":"b1xaNxcHVhVXBxddX1YWexYWElcLGQENQFlMQBYNCgJdSFUFDVteUVpZD18IXRFF","queueTime":0,"applicationTime":900,"atts":"QxtZQV8dRRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,856 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script src="/cdn-cgi/apps/head/pgKekZJAdZgr1knbfEp9BdEKv5o.js"></script><script>
+        !(function(n){function t(e){n.addEventListener(e,B)}function o(e){n.removeEventListener(e,B)}function u(e,n,t){L?C(e,n):(t||u.lazy&&void 0===t?q:S).push(e,n)}function c(e){k.head.appendChild(e)}function i(e,n){z.call(e.attributes)[y](n)}function r(e,n,t,o){return o=(n?k.getElementById(n):o)||k.createElement(e),n&&(o.id=n),t&&(o.onload=t),o}function s(e,n,t){(t=e.src)&&((n=r(m)).rel="preload",n.as=h,n.href=t,(t=e[g](w))&&n[b](w,t),(t=e[g](x))&&n[b](x,t),c(n))}function a(e,n){return z.call((n||k).querySelectorAll(e))}function f(e,n){e.parentNode.replaceChild(n,e)}function l(t,e){a("source,img",t)[y](l),i(t,function(e,n){(n=/^data-(.+)/.exec(e.name))&&t[b](n[1],e.value)}),"string"==typeof e&&e&&(t.className+=" "+e),p in t&&t[p]()}function e(e,n,t){u(function(t){(t=a(e||N))[y](s),(function o(e,n){(e=t[E]())&&((n=r(e.nodeName)).text=e.text,i(e,function(e){"type"!=e.name&&n[b](e.name,e.value)}),n.src&&!n[g]("async")?(n.onload=n.onerror=o,f(e,n)):(f(e,n),o()))})()},n,t)}var d="Defer",m="link",h="script",p="load",v="pageshow",y="forEach",g="getAttribute",b="setAttribute",E="shift",w="crossorigin",x="integrity",A=["mousemove","keydown","touchstart","wheel"],I="on"+v in n?v:p,N=h+"[type=deferjs]",j=n.IntersectionObserver,k=n.document||n,C=n.setTimeout,L=/p/.test(k.readyState),S=[],q=[],z=S.slice,B=function(e,n){for(n=I==e.type?(o(I),L=u,A[y](t),S):(A[y](o),q);n[0];)C(n[E](),n[E]())};e(),u.all=e,u.dom=function(e,n,i,c,r){u(function(t){function o(e){c&&!1===c(e)||l(e,i)}t=!!j&&new j(function(e){e[y](function(e,n){e.isIntersecting&&(t.unobserve(n=e.target),o(n))})},r),a(e||"[data-src]")[y](function(e){e[d]!=u&&(e[d]=u,t?t.observe(e):o(e))})},n,!1)},u.css=function(n,t,e,o,i){u(function(e){(e=r(m,t,o)).rel="stylesheet",e.href=n,c(e)},e,i)},u.js=function(n,t,e,o,i){u(function(e){(e=r(h,t,o)).src=n,c(e)},e,i)},u.reveal=l,n[d]=u,L||t(I)})(this);
+    </script>
+<script type="application/javascript">
+            document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+            var setNptTechAdblockerCookie = function(adblocker) {
+                var d = new Date();
+                d.setTime(d.getTime() + 60 * 5 * 1000);
+                document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+            };
+            var script = document.createElement("script");
+            script.setAttribute("async", true);
+            script.setAttribute("src", "//www.npttech.com/advertising.js");
+            script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+            document.getElementsByTagName("head")[0].appendChild(script);
+        </script>
+<meta name="csrf-token" content="HZ6KCH5Ci4dD34vEW4oUg3dHNzH6vCX0qQKN7ieX">
+<meta charset="utf-8">
+<meta name="referrer" content="origin">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-itunes-app" content="app-id=1078564301">
+<meta name="p:domain_verify" content="8948a77d334a5a512e1a94f7df2371e4" />
+<meta property="fb:pages" content />
+<meta property="fb:app_id" content />
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="icon" href="/images/favicons/com.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicons/com.ico" />
+<link rel="apple-touch-icon" sizes="120x120" href="/images/com/image/apple-touch-icon/120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/com/image/apple-touch-icon/152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/images/com/image/apple-touch-icon/167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/com/image/apple-touch-icon/180.png">
+<meta name="theme-color" content="#EF6C00" />
+<link rel="canonical" href="https://www.thelocal.com/20230928/three-people-killed-in-12-hours-as-sweden-records-deadliest-month-in-years" />
+<title>Three people killed in 12 hours as Sweden records deadliest month for shootings in four years - The Local</title>
+<meta property="news_keywords" content="crime,breaking" />
+<meta property="article:published_time" content="2023-09-28T09:17:16Z" />
+<meta property="article:modified_time" content="2023-09-28T09:17:15Z" />
+<meta name="cXenseParse:articleid" content="227937" />
+<meta property="cXenseParse:image" content="https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2023/09/sdlqeL10dQJ12M-nh.jpg" />
+<meta property="cXenseParse:url" content="https://www.thelocal.com/20230928/three-people-killed-in-12-hours-as-sweden-records-deadliest-month-in-years" />
+<meta property="og:article:author" content="The Local Sweden" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.thelocal.com/20230928/three-people-killed-in-12-hours-as-sweden-records-deadliest-month-in-years" />
+<meta property="og:title" content="Three people killed in 12 hours as Sweden records deadliest month for shootings in four years" />
+<meta property="og:description" content="Three people died in two shootings and one explosion in Stockholm and Uppsala overnight, bringing the total number of people killed in shootings to 11 in just one month." />
+<meta property="og:image" content="https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2023/09/watermarks-logo-sdlqeL10dQJ12M-nh.jpg" />
+<meta property="og:image:width" content="855" />
+<meta property="og:image:height" content="524" />
+<meta property="og:site_name" content="The Local Europe" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@thelocaleurope" />
+<meta name="twitter:title" content="Three people killed in 12 hours as Sweden records deadliest month for shootings in four years" />
+<meta name="twitter:description" content="Three people died in two shootings and one explosion in Stockholm and Uppsala overnight, bringing the total number of people killed in shootings to 11 in just one month." />
+<meta name="twitter:image" content="https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2023/09/watermarks-logo-sdlqeL10dQJ12M-nh.jpg" />
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="The Local Sweden">
+<meta name="description" content="Three people died in two shootings and one explosion in Stockholm and Uppsala overnight, bringing the total number of people killed in shootings to 11 in just one month." />
+
+<link href="/css/app.css?id=c302b9c2dae34de30436420b1cb6a99d" rel="stylesheet">
+<noscript><link rel="stylesheet" href="/css/app.css?id=c302b9c2dae34de30436420b1cb6a99d"></noscript>
+<script type="text/javascript">window.PianoESPConfig={id:39},function(){function e(e){location.reload()}tp=window.tp||[],tp.push(["addHandler","externalCheckoutComplete",e]),tp.push(["setAid","lGr3ciYmC7"]),tp.push(["setCxenseSiteId","1135224483242056712"]),tp.push(["setEndpoint","https://buy.tinypass.com/api/v3"]),tp.push(["setUseTinypassAccounts",!1]),tp.push(["setUsePianoIdUserProvider",!0]),tp.push(["setApplePayMerchantId","merchant.com.thelocal"]),tp.push(["addHandler","setResponseVariable",function(e){void 0!==e.responseVariables&&void 0!==e.responseVariables.newsletter_subscriber&&!0===e.responseVariables.newsletter_subscriber&&tp.push(["setCustomVariable","newsletter_subscriber","True"])}]),tp.push(["addHandler","checkoutClose",function(e){"close"===e.state&&tp.pianoId.getUser()&&window.PianoESP&&"function"==typeof window.PianoESP.handleUserDataPromise&&window.PianoESP.handleUserDataPromise({email:tp.pianoId.getUser().email,squads:[9494]})}]),tp.push(["addHandler","checkoutComplete",function(e){}]),tp.push(["addHandler","checkoutClose",function(e){e&&"checkoutCompleted"==e.state&&location.reload()}]),tp.push(["addHandler","checkoutCustomEvent",function(){}]),tp.push(["addHandler","checkoutCancel",function(){}]),tp.push(["addHandler","checkoutError",function(){}]),tp.push(["addHandler","checkoutSubmitPayment",function(){}]),tp.push(["addHandler","showOffer",function(e){void 0!==window.webkit&&window.webkit.messageHandlers.showOffer.postMessage({})}]),tp.push(["addHandler","startCheckout",function(){void 0!==window.webkit&&window.webkit.messageHandlers.startCheckout.postMessage({})}]),tp.push(["addHandler","loginSuccess",function(e){void 0!==window.webkit&&window.webkit.messageHandlers.checkoutComplete.postMessage({}),tp.api.callApi("/access/list",{},(function(e){if(void 0!==e.data)for(var t in e.data)e.data[t].granted&&(tp.offer.close())}))}]),tp.push(["addHandler","checkoutComplete",function(e){void 0!==window.webkit&&window.webkit.messageHandlers.checkoutComplete.postMessage({})}]),tp.push(["addHandler","loginRequired",function(){return!1}]),tp.push(["addHandler","experienceExecute",function(e){"object"==typeof localStorage&&"function"==typeof localStorage.setItem&&"object"==typeof e&&"user"in e&&"uid"in e.user&&e.user.uid&&"anon"!=e.user.uid&&localStorage.setItem("piano-uid",e.user.uid)}]),tp.push(["addHandler","experienceExecutionFailed",function(e){}]),tp.push(["addHandler","externalCheckoutComplete",e]),tp.push(["init",function(){tp.pianoId.isUserValid()||tp.pianoId.init(),tp.experience.init()}])}();</script>
+<script type="text/javascript">!function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="//cdn.tinypass.com/api/tinypass.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)}();</script>
+
+<script type="application/xml" src="https://cdn.cookielaw.org/consent/53648e04-03c2-42f9-b569-36efa7617910/OtAutoBlock.js"></script>
+<script async src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="53648e04-03c2-42f9-b569-36efa7617910"></script>
+<script type="text/javascript">
+        function OptanonWrapper() { }
+        </script>
+
+<script type="application/javascript" async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script type="application/javascript" async="async" src="https://protagcdn.com/s/thelocal.com/post.js"></script>
+<script type="application/javascript">
+                window.googletag = window.googletag || { cmd: [] };
+                googletag.cmd.push(function () {
+                    googletag.pubads().setCentering(true);
+                    googletag.pubads().disableInitialLoad();
+                    googletag.enableServices();
+                });
+            </script><script type="application/javascript">
+            window.googletag = window.googletag || { cmd: [] };
+            window.protag = window.protag || { cmd: [] };
+            window.protag.cmd.push(function () {
+                window.protag.pageInit();
+            });
+        </script>
+
+<script type="tl-js">
+            (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+            var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+            f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+            var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+            _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+            var ml_account = ml('accounts', '3138025', 'd2z5z7j0w6', 'load');
+        </script>
+
+
+<script type="tl-js">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/smartbanner.js/1.19.3/smartbanner.min.css" integrity="sha512-0+x+dqC33fuXp2dInU57MREkdC6ULfpBBQ9aYx3J6ZdIzNFw0BTdwVBZL+gtNUcIG/8E1apwwSeWucwBke5w8A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/smartbanner.js/1.19.3/smartbanner.min.js" integrity="sha512-BPhrA5OryyN0aOkfhMda1nRcpSUeSCwqEWWNJNLqzFQR372yveegy63NSKElKCUxIAWY71FIfrVVXatJCT0OJA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<meta name="smartbanner:title" content="The Local">
+<meta name="smartbanner:author" content="Open in The Local app">
+<meta name="smartbanner:price" content=" ">
+<meta name="smartbanner:price-suffix-apple" content=" ">
+<meta name="smartbanner:price-suffix-google" content=" ">
+<meta name="smartbanner:icon-apple" content="https://www.thelocal.com/images/thelocal-app-icon-transparent.png">
+<meta name="smartbanner:icon-google" content="https://www.thelocal.com/images/thelocal-app-icon-transparent.png">
+<meta name="smartbanner:button" content="OPEN">
+<meta name="smartbanner:button-url-apple" content="https://apps.apple.com/app/apple-store/id1078564301?pt=118014922&ct=com-top-banner&mt=8">
+<meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=com.thelocal.app">
+<meta name="smartbanner:enabled-platforms" content="android,ios">
+<meta name="smartbanner:exclude-user-agent-regex" content="(\s|^)AppleWebKit/[\d\.]+\s+\(.+\)\s+Version/(1[0-9]|[2-9][0-9]|\d{3,})(\.|$|\s)">
+<meta name="smartbanner:custom-design-modifier" content="ios">
+<meta name="smartbanner:close-label" content="Close">
+
+<script>
+            window.dataLayer = window.dataLayer || [];
+            dataLayer.push({
+                'event': 'Pageview',
+                'pagePath': 'https://www.thelocal.com/20230928/three-people-killed-in-12-hours-as-sweden-records-deadliest-month-in-years',
+                'pageTitle': 'Three people killed in 12 hours as Sweden records deadliest month for shootings in four years', 
+                'pageId': '754274',
+                'pageTags': 'articlepage, crime, breaking',
+                'visitorType': 'free',
+                'UID': '',
+            });
+            </script>
+<script type="tl-js">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            
+            })(window,document,'script','dataLayer','GTM-NMLDXPL');</script>
+<script type="application/ld+json">
+                    {
+                        "@context": "http://schema.org",
+                        "@type": "NewsArticle",
+                        "mainEntityOfPage": "https://www.thelocal.com/20230928/three-people-killed-in-12-hours-as-sweden-records-deadliest-month-in-years",
+                        "headline": "Three people killed in 12 hours as Sweden records deadliest month for shootings in four years",
+                        "datePublished": "2023-09-28T09:17:16+02:00",
+                        "dateModified": "2023-09-28T09:17:15+02:00",
+                        "description": "Three people died in two shootings and one explosion in Stockholm and Uppsala overnight, bringing the total number of people killed in shootings to 11 in just one month.",
+                        "keywords": ["crime,breaking"],
+                        "isAccessibleForFree": true,
+                        "author": {
+                            "@type": "Person",
+                            "name": "The Local Sweden",
+                            "email": "news@thelocal.se",
+                            "url": "https://www.thelocal.com"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "The Local",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "/images/the-local-network-logo-300x60.png",
+                                "width": 300,
+                                "height": 60
+                            }
+                        },
+                        "image": {
+                            "@type": "ImageObject",
+                            "url": "https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2023/09/sdlqeL10dQJ12M-nh.jpg",
+                            "width": 500,
+                            "height": 300
+                        }
+                    }
+                </script>
+<script type="tl-js">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({article:"auto"});
+                    !function (e, f, u, i) {
+                        if (!document.getElementById(i)){
+                        e.async = 1;
+                        e.src = u;
+                        e.id = i;
+                        f.parentNode.insertBefore(e, f);
+                        }
+                    }(document.createElement("script"),
+                    document.getElementsByTagName("script")[0],
+                    "//cdn.taboola.com/libtrc/thelocal-network/loader.js",
+                    "tb_loader_script");
+                    if(window.performance && typeof window.performance.mark == "function")
+                        {window.performance.mark("tbl_ic");}
+                </script>
+</head>
+<body class="antialiased article-page article-page--regular" data-auth="false">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMLDXPL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="relative min-h-screen sm:pt-0" id="app">
+<default-js :data="{&quot;login_route&quot;:&quot;https:\/\/www.thelocal.com\/login&quot;,&quot;register_route&quot;:&quot;https:\/\/www.thelocal.com\/register&quot;,&quot;logout_route&quot;:&quot;https:\/\/www.thelocal.com\/logout&quot;,&quot;piano_sync_route&quot;:&quot;https:\/\/www.thelocal.com\/piano-sync&quot;,&quot;account_route&quot;:&quot;https:\/\/www.thelocal.com\/members\/account&quot;,&quot;auth&quot;:false,&quot;auth_paid&quot;:false}"></default-js>
+<div class="tl-ad-container"><h3 class="tl-ad-heading">Advertisement</h3><googlead-js :data="{&quot;current_editorial&quot;:&quot;com&quot;,&quot;name&quot;:&quot;leaderboard_1&quot;,&quot;size&quot;:&quot;[[970,90],[728,90],[980,250],[970,250],[980,240]]&quot;,&quot;css_class&quot;:&quot;&quot;}"></googlead-js></div>
+<header class="site-header">
+<div class="container">
+<nav class="navbar navbar--complex">
+<div class="nav-spacer nav-spacer--toggler">
+<button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+</div>
+<a class="navbar-brand" href="https://www.thelocal.com">
+<img width="269" height="51" src="https://www.thelocal.com/images/logo-com.svg" alt="The Local">
+</a>
+<div class="nav-spacer nav-spacer--menu" role="navigation" aria-label="Quick Links">
+<div class="login-box tablet-login-box"></div>
+<ul class="secondary-menu navbar-nav">
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/across-europe" class="nav-link">Europe news</a>
+</li>
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/travel-news" class="nav-link">Travel news</a>
+</li>
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/covid-19" class="nav-link">Covid 19</a>
+</li>
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/brexit" class="nav-link">Brexit</a>
+</li>
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/politics" class="nav-link">Politics</a>
+</li>
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/opinion" class="nav-link">Opinion</a>
+</li>
+<li class="nav-item">
+<a href="https://www.thelocal.com/tag/question" class="nav-link">Reader questions</a>
+</li>
+<li class="nav-item">
+<a href="https://jobs.thelocal.com" class="nav-link">Jobs</a>
+</li>
+<li class="nav-item nav-item--btn login-box"></li>
+</ul> </div>
+<search-component-js :data="{&quot;search_route&quot;:&quot;https:\/\/www.thelocal.com\/search&quot;}"></search-component-js>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasWithBackdrop" aria-labelledby="offcanvasWithBackdropLabel">
+<div class="offcanvas-header">
+<a href="https://www.thelocal.com">
+<img width="200" height="51" src="https://www.thelocal.com/images/logo-com.svg" alt="The Local">
+</a>
+<button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+</div>
+<div class="offcanvas-body">
+<div class="login-box"></div>
+<ul class="navbar-nav">
+<h5>Topics</h5>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/across-europe" class="nav-link">Europe news</a>
+</li>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/travel-news" class="nav-link">Travel news</a>
+</li>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/covid-19" class="nav-link">Covid 19</a>
+</li>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/brexit" class="nav-link">Brexit</a>
+</li>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/politics" class="nav-link">Politics</a>
+</li>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/opinion" class="nav-link">Opinion</a>
+</li>
+<li class="nav-item indented">
+<a href="https://www.thelocal.com/tag/question" class="nav-link">Reader questions</a>
+</li>
+<li class="nav-item indented">
+<a href="https://jobs.thelocal.com" class="nav-link">Jobs</a>
+</li>
+</ul> <ul class="navbar-nav">
+<h5>Choose edition</h5>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle editorial-select text-capitalize" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+All Editions
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li class="nav-item">
+<a class="dropdown-item active" aria-current="page" href="https://www.thelocal.com">All Editions</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.at">
+<div class="fflag fflag-AT ff-sm" title="Austria AT"></div>
+Austria
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.dk">
+<div class="fflag fflag-DK ff-sm" title="Denmark DK"></div>
+Denmark
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.fr">
+<div class="fflag fflag-FR ff-sm" title="France FR"></div>
+France
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.de">
+<div class="fflag fflag-DE ff-sm" title="Germany DE"></div>
+Germany
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.it">
+<div class="fflag fflag-IT ff-sm" title="Italy IT"></div>
+Italy
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.no">
+<div class="fflag fflag-NO ff-sm" title="Norway NO"></div>
+Norway
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.es">
+<div class="fflag fflag-ES ff-sm" title="Spain ES"></div>
+Spain
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.se">
+<div class="fflag fflag-SE ff-sm" title="Sweden SE"></div>
+Sweden
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item " href="https://www.thelocal.ch">
+<div class="fflag fflag-CH ff-sm" title="Switzerland CH"></div>
+Switzerland
+</a>
+</li>
+</ul>
+</li>
+</ul> <ul class="navbar-nav">
+<h5>Membership</h5>
+<li class="nav-item">
+<a class="nav-link" href="/membership-offer?tpcc=com-menu">
+<i class="fas fa-user"></i> Become a member
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://thelocalhelp.zendesk.com/hc/en-us">
+<i class="far fa-circle-question"></i> Help Centre
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.thelocal.com/corporate-membership">
+<i class="fas fa-shop"></i> Corporate Access
+</a>
+</li>
+</ul> <ul class="navbar-nav">
+<h5>The Local</h5>
+<li class="nav-item">
+<a class="nav-link " href="https://www.thelocal.com/aboutus">
+<svg width="19" height="21" viewBox="0 0 19 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.8308 0.140769C12.1981 0.11446 13.3947 0.545022 14.4697 1.31952C15.7353 2.23134 16.8409 3.33514 17.7224 4.66327C19.3268 7.08071 19.3926 9.64971 18.0746 12.1655C16.5195 15.1337 14.2777 17.4821 11.4716 19.1511C8.9412 20.6559 6.44941 20.4185 4.12068 18.5811C2.97483 17.677 1.98205 16.5975 1.17851 15.3519C-0.183885 13.2406 -0.384344 10.9492 0.677905 8.68117C2.32618 5.16019 4.89327 2.53048 8.21247 0.740604C9.03625 0.296567 9.94191 0.110995 10.8308 0.140769ZM5.89386 10.1305C5.89386 11.9832 5.89308 13.8359 5.89464 15.6885C5.89464 16.0886 5.96593 16.1658 6.34723 16.166C8.45369 16.1685 10.5604 16.1683 12.667 16.1663C13.06 16.166 13.1893 16.0309 13.1938 15.6164C13.1992 15.0853 13.199 14.5544 13.1938 14.0233C13.1896 13.6005 13.0926 13.4997 12.6988 13.4995C11.4213 13.4981 10.1436 13.4886 8.86679 13.5063C8.55971 13.5105 8.46343 13.4226 8.46575 13.0947C8.47902 11.2776 8.472 9.46015 8.472 7.64307C8.472 6.65168 8.47519 5.66056 8.46981 4.6693C8.46762 4.19074 8.36233 4.08564 7.91767 4.08422C7.42438 4.08255 6.93146 4.08306 6.43828 4.08397C5.93732 4.08474 5.89431 4.12876 5.89407 4.64325C5.89407 6.4724 5.89407 8.30142 5.89407 10.1304L5.89386 10.1305Z" fill="#666666" />
+</svg> About Us
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="https://www.thelocal.com/contact">
+<i class="far fa-envelope"></i>Contact Us
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="https://www.thelocal.com/advertise-with-us">
+<i class="fas fa-tag"></i> Advertise with us
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="https://jobs.thelocal.com/employers/">
+<i class="fa-solid fa-clipboard-list"></i> Post a job ad
+</a>
+</li>
+</ul> <ul class="navbar-nav">
+<div class="footer-badges">
+<h5>Get The Local App</h5>
+<a href="https://apps.apple.com/us/app/the-local/id1078564301" target="_blank">
+<img class="lazyload" data-src="https://www.thelocal.com/images/App_Store_Badge__wht.svg" width="120" height="40" alt="App Store">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.thelocal.app" target="_blank">
+<img class="lazyload" data-src="https://www.thelocal.com/images/google-play-badge.webp" width="150" height="60" alt="Google Play Store">
+</a>
+</div>
+<ul class="footer-socialLinks">
+<li>
+<a href="https://www.facebook.com/thelocal" target="_blank">
+<i class="fab fa-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/TheLocalEurope" target="_blank">
+<i class="fab fa-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/thelocaleurope/" target="_blank">
+<i class="fab fa-instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/thelocaleurope/" target="_blank">
+<i class="fab fa-linkedin"></i>
+</a>
+</li>
+</ul>
+</ul>
+<div class="footer-column footer-column__general d-block d-md-none">
+<img width="211" height="40" src="https://www.thelocal.com/images/logo-com.svg" alt="The Local" class="footer-logo">
+<p class="footer-info">The Local Europe AB<br>Västmannagatan 43<br>113 25 Stockholm<br>Sweden</p>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<div id="pn-header" class="pn-header"></div>
+<div id="main" class="site">
+<article-js :data="{&quot;post_comment_route&quot;:&quot;https:\/\/www.thelocal.com\/comment\/save&quot;}"></article-js>
+<div class="article-single article-single--regular">
+<div class="container-md">
+<div class="row mb-3">
+<div class="col-xl-8 mobile-full-width">
+<main class="article-single__main article-single__main--featured " data-url="https://www.thelocal.com/20230928/three-people-killed-in-12-hours-as-sweden-records-deadliest-month-in-years">
+<div class="tag-wrapper">
+<a href="https://www.thelocal.com/tag/crime" class="tag">Crime</a>
+</div>
+<h1>Three people killed in 12 hours as Sweden records deadliest month for shootings in four years</h1>
+<div class="meta">
+<div class="article-single__author">
+<img width="47" height="47" src="https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=47,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2023/05/the-local-spain.jpg" class="rounded-circle" alt="The Local Sweden">
+<div>
+<span>
+<strong>The Local Sweden</strong> - <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="28464d5f5b685c404d44474b4944065b4d">[email&#160;protected]</a>
+</span>
+<div class="article__published">
+<span>Published: 28 Sep, 2023 CET.</span>
+<span>Updated: Thu 28 Sep 2023 09:17 CET</span>
+</div>
+</div>
+</div>
+<div class="article-single__social">
+<div>
+<button class="copy">Share</button>
+<ul class="social-sharers">
+<li>
+<button class="social-share facebook" data-sharer="facebook" title="Facebook">
+<i class="fab fa-facebook-f"></i>
+</button>
+</li>
+<li>
+<button class="social-share twitter" data-sharer="twitter" data-tweet="Three people killed in 12 hours as Sweden records deadliest month for shootings in four years" title="Twitter">
+<i class="fab fa-twitter"></i>
+</button>
+</li>
+<li>
+<button class="social-share linkedin" data-sharer="linkedin" title="LinkedIn">
+<i class="fab fa-linkedin-in"></i>
+</button>
+</li>
+</ul>
+</div>
+<div class="app-btn"></div>
+</div>
+</div>
+<figure class="figure article-single__feature">
+<img width="855" height="524" style="min-height: 250px;" src="https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=850,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2023/09/sdlqeL10dQJ12M-nh.jpg" class="figure-img img-fluid" alt="Three people killed in 12 hours as Sweden records deadliest month for shootings in four years">
+<figcaption class="figure-caption">A woman died in an explosion north of Uppsala in the early hours of Thursday. Photo: Anders Wiklund/TT</figcaption>
+</figure>
+<h2 class="article-single__excerpt">
+Three people died in two shootings and one explosion in Stockholm and Uppsala overnight, bringing the total number of people killed in shootings to 11 in just one month.
+</h3>
+<div class="tl-ad-container"><h3 class="tl-ad-heading">Advertisement</h3><googlead-js :data="{&quot;current_editorial&quot;:&quot;com&quot;,&quot;name&quot;:&quot;mpu_1&quot;,&quot;size&quot;:&quot;[[300,250]]&quot;,&quot;css_class&quot;:&quot;&quot;}"></googlead-js></div>
+<div class="article-single__content cXenseParse">
+<p>An 18-year-old man was <a href="https://www.thelocal.se/20230928/today-in-sweden-a-roundup-of-the-latest-news-on-thursday-115">shot dead at the Mälarhöjden sports ground in the Fruängen</a> district of southern Stockholm, shortly after 6pm on Wednesday.</p>
+<p>Several children’s and youth teams were on the grounds for football practice at the time.</p>
+<p>The man was treated by ambulance workers at the scene, but died of his injuries.</p>
+<p><strong>TIMELINE:</strong></p>
+<ul>
+<li><a href="https://www.thelocal.se/20230915/timeline-six-fatal-gang-shootings-in-one-week-in-sweden"><strong>11 people killed in Sweden's deadliest month for shootings in four years</strong></a></li>
+</ul>
+<p>Stockholm City Council officials just over a week ago warned sports clubs that “people who take part in criminal activities” had been active in the area and had on several occasions “confronted visitors”, leading to police and security guards stepping up their presence at the sports ground.</p>
+<p>“Innocent people completely unconnected to serious crime – of whom many were children at their evening sports practice – have just been forced to witness another reckless shooting in which yet another man has been shot dead. Crying children in football gear and very worried parents. My thoughts are with all of these children, mothers and fathers,” said Prime Minister Ulf Kristersson.</p>
+<div class="ml-manual-widget-container"></div>
+<p>Shortly before midnight, police were <a href="https://www.thelocal.se/20230928/today-in-sweden-a-roundup-of-the-latest-news-on-thursday-115">called out to another shooting</a>, this time in Jordbro, south of Stockholm.</p>
+<p>Two men were found at the scene. One of them was seriously injured and was later declared dead. The other was taken to hospital and was understood not to have life-threatening injuries.</p>
+<p>Three suspects were on Thursday morning being held in connection with the shooting.</p>
+<div class="tl-ad-container"><h3 class="tl-ad-heading">Advertisement</h3><googlead-js :data="{&quot;current_editorial&quot;:&quot;com&quot;,&quot;name&quot;:&quot;mpu_2&quot;,&quot;size&quot;:&quot;[[300,250]]&quot;,&quot;css_class&quot;:&quot;&quot;}"></googlead-js></div>
+<p>Then just before 4am on Thursday, a <a href="https://www.thelocal.se/20230928/today-in-sweden-a-roundup-of-the-latest-news-on-thursday-115">woman in her mid-20s died in an explosion</a> at Fullerö, north of Uppsala.</p>
+<p>A witness described the blast at the two-storey house to the <a href="https://www.aftonbladet.se/nyheter/a/JQ5Bx6/uppsala-explosion-i-storvreta" target="_blank" rel="noopener">Aftonbladet</a> newspaper as “total devastation”. Other houses were also damaged, but there were no other fatalities.</p>
+<p>Police told the <a href="https://www.dn.se/sverige/explosion-i-bostadsomrade-norr-om-uppsala/" target="_blank" rel="noopener">DN</a> newspaper that explosives were detonated at the house.</p>
+<p>Two people were in custody on Thursday morning on suspicion of murder and devastation endangering the public, reported Aftonbladet.</p>
+<div class="tl-ad-container"><h3 class="tl-ad-heading">Advertisement</h3><googlead-js :data="{&quot;current_editorial&quot;:&quot;com&quot;,&quot;name&quot;:&quot;mpu_3&quot;,&quot;size&quot;:&quot;[[300,250]]&quot;,&quot;css_class&quot;:&quot;&quot;}"></googlead-js></div>
+<p>Shots were fired at another house in the same street in a drive-by shooting in January.</p>
+<p>Sweden’s public broadcaster SVT reports that a person with links to the Foxtrot gang is registered as living at the latter house, which was also damaged in the explosion. The woman who died is however just known as a neighbour without any known connections to gangs, reports <a href="https://www.svt.se/nyheter/lokalt/uppsala/explosion-i-bostadsomrade-i-storvreta--k6hulw" target="_blank" rel="noopener">SVT</a>.</p>
+<p>Police declined to confirm the reports, but said they were investigating potential links to gang crime.</p>
+<p>An ongoing gang conflict, between Foxtrot leader Rawa Majid and his former right-hand man Ismail Abdo, has resulted in a recent spate of violence particularly in Stockholm and Uppsala, targeting even relatives who are not themselves involved in gang crime – or in some cases killing the wrong target entirely.</p>
+<p>The conflict has already led to September being Sweden’s deadliest month in terms of fatal shootings since December 2019. Eleven people have been shot dead in September.</p>
+<p><em>Editor's note: The Local originally cited information from SVT which wrongly claimed that September is the deadliest month since police started keeping records of fatal shootings in 2016. We have since double checked that information against the police's own records and updated our article. Sweden's deadliest month since records began <a href="https://polisen.se/om-polisen/polisens-arbete/sprangningar-och-skjutningar/" target="_blank" rel="noopener">was December 2019</a>, when 12 people were shot dead.</em></p> </div>
+<div class="member-container"></div>
+<div class="article-single__tags">
+<h3 class="block-title border-0">More</h3>
+<div class="tags-block">
+<a href="https://www.thelocal.com/tag/crime">#Crime</a>
+<a href="https://www.thelocal.com/tag/breaking">#Breaking</a>
+</div>
+</div>
+<div class="article-single__comments" id="article-comments">
+<h3 data-bs-toggle="collapse" data-bs-target="#comments-collapsible" role="button" aria-expanded="false" aria-controls="comments-collapsible" aria-label="Show comments" class="block-title">
+Comments
+<span><i class="fas fa-chevron-down"></i></span>
+</h3>
+<div class="comments-collapsible collapse" id="comments-collapsible">
+<div class="comment-wrapper comment-wrapper--intro">
+<p>
+<strong>Join the conversation in our comments section below.</strong> Share your own views and experience and if you have a question or suggestion for our journalists then email us at <a href="/cdn-cgi/l/email-protection#c3ada6b4b083b7aba6afaca0a2afeda0acae"><span class="__cf_email__" data-cfemail="630d06141023170b060f0c00020f4d000c0e">[email&#160;protected]</span></a>.<br/>
+Please keep comments civil, constructive and on topic – and make sure to read our <a href="https://www.thelocal.com/terms-of-use">terms of use</a> before getting involved.
+</p>
+</div>
+<div id="commentFormNotAuth">
+<p>Please log in <a class="pn-login" href="javascript:void(0);" role="button" tabindex="-1">here</a> to leave a comment.</p>
+</div>
+<div class="comments-list">
+</div>
+</div>
+</div>
+<div class="article-single__worth">
+<h3 class="block-title">See Also</h3>
+<div class="read-also-recs"></div>
+</div>
+</main>
+</div>
+<div class="col-xl-4">
+<aside class="article-single__side sticky sticky--sidebar">
+<div class="tl-ad-container"><h3 class="tl-ad-heading">Advertisement</h3><googlead-js :data="{&quot;current_editorial&quot;:&quot;com&quot;,&quot;name&quot;:&quot;mpu_20&quot;,&quot;size&quot;:&quot;[[300,250]]&quot;,&quot;css_class&quot;:&quot;&quot;}"></googlead-js></div>
+<div class="article-single__recommend">
+</div>
+</aside>
+</div>
+</div>
+</div>
+<taboola-widget-js></taboola-widget-js>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/javascript">	tp.push(["setContentSection", "Sweden: 2nd Homepage section"]);
+
+	tp.push(["setTags", ["articlepage","crime","breaking"]]);
+</script>
+</div>
+<div id="pn-footer" class="pn-footer"><div id="pn-footer-show"></div></div>
+<footer class="site-footer dark">
+<div class="container">
+<div class="footer-links">
+<div class="row">
+<div class="col-lg-3 d-none d-md-block">
+<div class="footer-column footer-column__general">
+<img width="211" height="40" src="https://www.thelocal.com/images/logo-com.svg" alt="The Local" class="footer-logo">
+<p class="footer-info">The Local Europe AB<br>Västmannagatan 43<br>113 25 Stockholm<br>Sweden</p>
+</div>
+<div class="footer-badges">
+<a href="https://apps.apple.com/us/app/the-local/id1078564301" target="_blank" aria-label="Apple App Store link">
+<img class="lazyload" data-src="https://www.thelocal.com/images/App_Store_Badge__wht.svg" width="120" height="40" alt="App Store">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.thelocal.app" target="_blank" aria-label="Google Play Store link">
+<img class="lazyload" data-src="https://www.thelocal.com/images/google-play-badge.webp" width="150" height="60" alt="Google Play Store">
+</a>
+</div>
+<ul class="footer-socialLinks">
+<li>
+<a href="https://www.facebook.com/thelocal" target="_blank" aria-label="The Local Facebook profile">
+<i class="fab fa-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/thelocaleurope" target="_blank" aria-label="The Local Twitter profile">
+<i class="fab fa-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/thelocaleurope" target="_blank" aria-label="The Local Instagram profile">
+<i class="fab fa-instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/thelocaleurope/" target="_blank" aria-label="The Local LinkedIn profile">
+<i class="fab fa-linkedin"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="col-lg-2 d-none d-md-block">
+<div class="footer-column">
+<h4>The Local</h4>
+<nav class="footer-nav">
+<a href="https://www.thelocal.com/aboutus">About us</a>
+<a href="https://www.thelocal.com/contact">Contact us</a>
+<a href="https://jobs.thelocal.com">Find jobs</a>
+<a href="https://jobs.thelocal.com/employers/" target="_blank">Post a job ad</a>
+<a href="https://www.thelocal.com/advertise-with-us">Advertise with us</a>
+</nav>
+</div>
+</div>
+<div class="col-lg-2 d-none d-md-block">
+<div class="footer-column">
+<h4>Membership</h4>
+<nav class="footer-nav">
+<a class="pn-login" href="javascript:void(0);" role="button" tabindex="-1">Login</a>
+<a href="/membership-offer?tpcc=com-menu">Become a member</a>
+<a href="https://thelocalhelp.zendesk.com/hc/en-us" target="_blank">Help Centre</a>
+<a href="https://www.thelocal.com/corporate-membership">Corporate access</a>
+</nav>
+</div>
+</div>
+<div class="col-lg-2 d-none d-md-block">
+<div class="footer-column">
+<h4>Popular Topics</h4>
+<nav class="footer-nav">
+<a href="https://www.thelocal.com/tag/accross-europe">News</a>
+<a href="https://www.thelocal.com/tag/travel-news">Travel news</a>
+<a href="https://www.thelocal.com/tag/covid-19">Covid-19</a>
+<a href="https://www.thelocal.com/tag/politics">Politics</a>
+<a href="https://www.thelocal.com/tag/opinion">Opinion</a>
+<a href="https://www.thelocal.com/tag/question">Reader questions</a>
+</nav> </div>
+</div>
+<div class="col-lg-3">
+<div class="footer-column footer-column__subscribe">
+<h4>Get daily news straight in your inbox</h4>
+<div class="tl-newsletter tl-newsletter--footer">
+<div class="ml-form-embed-wrapper" id="ml-form-embed-wrapper"><div class="ml-form-embed-footer ml-form-embed" data-account="3138025:d2z5z7j0w6" data-form></div></div>
+</div>
+<p class="footer-terms">
+By signing up you agree to our <a href="https://www.thelocal.com/terms-of-use">Terms of Use</a> and <a href="https://www.thelocal.com/privacy-policy">Privacy Policy.</a> We will use your email address to send you newsletters as well as information and offers related to your account.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-copyright">
+<div class="container">
+<p>2023 The Local, All Rights Reserved.</p>
+<div class="dp-links">
+<a href="https://www.thelocal.com/privacy-policy">Privacy Policy</a>
+<a href="https://www.thelocal.com/terms-of-use">Terms & Conditions</a>
+
+<button id="ot-sdk-btn" class="ot-sdk-show-settings d-none">Cookie Settings</button>
+<a class="oneTrustCookieSettings" href="javascript:void(0);" role="button" tabindex="-1">Cookie Settings</a>
+
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="/js/manifest.js?id=53b8ad2d5a250656d8f599a91920092f"></script>
+<script src="/js/vendor-utils.js?id=b99ad2bcd384bc21b9294d130c91e8b5"></script>
+<script src="/js/vendor.js?id=2b88bb0efa522b2288e17916ec3a8653"></script>
+<script src="/js/vue.js?id=cc7f306939621f87f36d64be046d0fdc"></script>
+<script src="/js/bootstrap.js?id=49814008bf49ef04ce6b9d12527e1361"></script>
+<script src="/js/app.js?id=fa8c6a1024ea92a7e43f03a46042450d"></script>
+<script type="application/javascript">
+            function makeid(length) {
+                var result           = "";
+                var characters       = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+                var charactersLength = characters.length;
+                for ( var i = 0; i < length; i++ ) {
+                    result += characters.charAt(Math.floor(Math.random() * 
+                    charactersLength));
+                }
+                return result;
+            }
+            + new Date()
+            let timestampMS = new Date().getTime();
+            let timestamp = Math.floor(timestampMS / 1000);
+            let g4_location_hostname = encodeURIComponent(window.location.hostname)
+            let g4_location_path;
+            if(encodeURIComponent(window.location.pathname) !== "" || encodeURIComponent(window.location.pathname) !== null || encodeURIComponent(window.location.pathname) !== undefined){
+                g4_location_path = encodeURIComponent(window.location.pathname)
+            } else {
+                g4_location_path = "path_not_exist";
+            }
+            let g4_location = encodeURIComponent(window.location)
+            let referrer = encodeURIComponent(document.referrer);
+            let siteTitle = encodeURIComponent(document.title);
+            let cid = makeid(9) + "." + Math.floor(Math.random() * (999999 - 100000 + 1)) + 100000
+            var queryString = window.location.search
+            var queryParams = new URLSearchParams(queryString);
+            let utm_campaign = queryParams.has("utm_campaign") ? queryParams.get("utm_campaign") : "";
+            let utm_source = queryParams.has("utm_source") ? queryParams.get("utm_source") : "";
+            let utm_term = queryParams.has("utm_term") ? queryParams.get("utm_term") : "";
+            let utm_medium = queryParams.has("utm_medium") ? queryParams.get("utm_medium") : "";
+            let domain = "com";
+            let country = "";
+            var req = new XMLHttpRequest();
+            req.open("GET", document.location, true);
+            req.send(null);
+            var headers = req.getAllResponseHeaders().toLowerCase();
+            let headersArr = headers.split("\r\n")
+
+            for (let index = 0; index < headersArr.length; index++) {
+                const element = headersArr[index];
+                if(element.includes("visitor-country")){
+                    country = element.split(":").pop();
+                }
+            }
+
+            function sendToAllNewsEvent() {
+                    if(referrer.includes("thelocal.")){
+                        referrer = "";
+                    } 
+        
+                    fetch(`https://a.thelocal.com/g/collect?v=2&en=total_page_view_ga4&tid=G-XFSR2700S9&cid=${cid}&dt=${siteTitle}&dr=${referrer}&dl=${g4_location}&ep.country_c=${country}&ep.hostname_c=${g4_location_hostname}&ep.path_c=${g4_location_path}&ep.utm_campaign_c=${utm_campaign}&ep.utm_source_c=${utm_source}&ep.utm_term_c=${utm_term}&ep.utm_medium_c=${utm_medium}`,
+                    {
+                    method: "POST",
+                    mode: "no-cors",
+                },).then((response) => {
+                    // console.log(response)
+                });
+        
+            }
+        
+            function sendToGA4TestProperty() {
+                if(referrer.includes("thelocal.")){
+                    referrer = "";
+                } 
+        
+                fetch(`https://a.thelocal.com/g/collect?v=2&en=total_page_view_ga4&tid=G-YF90CMZFE1&cid=${cid}&dt=${siteTitle}&dr=${referrer}&dl=${g4_location}&ep.country_c=${country}&ep.hostname_c=${g4_location_hostname}&ep.path_c=${g4_location_path}&ep.utm_campaign_c=${utm_campaign}&ep.utm_source_c=${utm_source}&ep.utm_term_c=${utm_term}&ep.utm_medium_c=${utm_medium}`,
+                {
+                method: "POST",
+                mode: "no-cors",
+            },).then((response) => {
+                // console.log(response)
+            });
+        
+            }
+        
+            function sendEvent() {
+                
+                let measurement_id = "";
+                const measurement_ids = {
+                    "at":"G-M0QF2J98ZG",
+                    "ch":"G-RKPPBTRQGN",
+                    "com":"G-PXG8C23QQX",
+                    "de":"G-68EFP8XFKZ",
+                    "dk":"G-87R3SHFK20",
+                    "es":"G-XZ791ZL201",
+                    "fr":"G-1LX6T78HZR",
+                    "it":"G-FYSRWRX4T3",
+                    "no":"G-B6VF16B85K",
+                    "se":"G-S57KNFL4T3"
+                }
+        
+                if(referrer.includes("thelocal.")){
+                    referrer = "";
+                } 
+        
+                if(measurement_ids.hasOwnProperty(domain)){
+                    measurement_id = measurement_ids[domain];
+                }
+        
+                fetch(`https://a.thelocal.com/g/collect?v=2&en=total_page_view_ga4&tid=${measurement_id}&cid=${cid}&dt=${siteTitle}&dr=${referrer}&dl=${g4_location}&ep.country_c=${country}&ep.hostname_c=${g4_location_hostname}&ep.path_c=${g4_location_path}&ep.utm_campaign_c=${utm_campaign}&ep.utm_source_c=${utm_source}&ep.utm_term_c=${utm_term}&ep.utm_medium_c=${utm_medium}`,
+                {
+                    method: "POST",
+                    mode: "no-cors",
+                },).then((response) => {
+                    // console.log(response)
+                });
+        
+            }
+        
+            function sendToAllNewsEventG3() {
+        
+                if(referrer.includes("thelocal.")){
+                    referrer = "";
+                } 
+        
+                fetch(`https://a.thelocal.com/collect?v=1&t=event&tid=UA-218226-40&cid=${cid}&ec=total_page_view_ua&ea=${g4_location_hostname + g4_location_path}&el=${siteTitle}&cd4=${g4_location}&cd5=${siteTitle}&cd6=${referrer}&cd7=${g4_location_hostname}&cd8=${g4_location_path}&cd9=${country}&cd10=${utm_campaign}&cd11=${utm_source}&cd12=${utm_term}&cd13=${utm_medium}`,
+                {
+                    method: "POST",
+                    mode: "no-cors",
+                },).then((response) => {
+                    // console.log(response)
+                });
+        
+            }
+        
+            function sendEventG3() {
+                let tracking_id = "";
+                
+                const tracking_ids = {
+                    "at":"UA-218226-24",
+                    "ch":"UA-218226-11",
+                    "com":"UA-218226-6",
+                    "de":"UA-218226-4",
+                    "dk":"UA-218226-27",
+                    "es":"UA-218226-16",
+                    "fr":"UA-218226-9",
+                    "it":"UA-218226-17",
+                    "no":"UA-218226-14",
+                    "se":"UA-218226-1"
+                }
+        
+                if(tracking_ids.hasOwnProperty(domain)){
+                    tracking_id = tracking_ids[domain];
+                }
+        
+                if(referrer.includes("thelocal.")){
+                    referrer = "";
+                } 
+                fetch(`https://a.thelocal.com/collect?v=1&t=event&tid=${tracking_id}&cid=${cid}&ec=anonymous_pageview_server_side_ga3&ea=${g4_location_hostname + g4_location_path}&el=${siteTitle}&cd4=${g4_location}&cd5=${siteTitle}&cd6=${referrer}&cd7=${g4_location_hostname}&cd8=${g4_location_path}&cd9=${country}&cd10=${utm_campaign}&cd11=${utm_source}&cd12=${utm_term}&cd13=${utm_medium}`,
+                {
+                    method: "POST",
+                    mode: "no-cors",
+                },).then((response) => {
+                    // console.log(response)
+                });
+                
+            }
+        
+            sendEvent();
+            // sendEventG3();
+            sendToAllNewsEvent();
+            sendToAllNewsEventG3();
+            sendToGA4TestProperty();
+        </script>
+<script type="tl-js">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({flush: true});
+                </script>
+<script>
+        Defer.all('script[type="tl-js"]', 0, true);  
+    </script>
+<script>
+        Defer.all('script[type="tl-chunk-js"]', 0, false);
+    </script>
+<script>
+        var fileUrl = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css';
+
+        Defer.css(fileUrl, 'fa6-css', 0, function() {
+        }, true);
+    </script>
+</body>
+</html>

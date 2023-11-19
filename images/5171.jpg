@@ -1,0 +1,1381 @@
+
+
+
+
+<!DOCTYPE html>
+<html dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <!--
+        manifest.json provides metadata used when your web app is added to the
+        homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
+      -->
+    <!--<link rel="manifest" href="%PUBLIC_URL%/manifest.json">-->
+    <link href="/static/css/main.ltr.css?v=2.0" rel="stylesheet">
+    <link href="/static/css/style-upgrades.css" rel="stylesheet">
+    <link href="/static/css/swiper-bundle.min.css" rel="stylesheet">
+    <link href="/static/css/gt-updates.css" rel="stylesheet">
+    <link href="/static/css/font-face.css" rel="stylesheet" />
+    <script src="/assets/js/uikit.min.js" type="text/javascript"></script>
+
+    <!--  Campaign  -->
+    <!-- <link rel="stylesheet" href="/static/css/campaign.css"> -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N3BQ9DF');</script>
+    <!-- End Google Tag Manager -->
+    <!-- This script is only for the article pages -->
+        <script async src="//pahtuz.tech/c/gulftoday.ae.js"></script>
+    <!-- AndBeyond -->
+
+    
+<!--Google Ad Start -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-1906278415851436",
+enable_page_level_ads: true
+});
+</script>
+
+<!-- Leaderboard-contact us [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc374158 = window.plc374158 || 0;
+document.write('<'+'div id="placement_374158_'+plc374158+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(176738, 374158, [728,90], 'placement_374158_'+opt.place, opt); }, opt: { place: plc374158++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+<!--Google Ad End-->
+<!--Google Analytic Start -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89796547-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-89796547-1');
+</script>
+
+<!--Google Analytic End -->
+<!--PixelCode Start -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1097980600391742'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=1097980600391742&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o1kcd');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<!--PixelCode end -->
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c84d4d796ec580017cff282&product=sop' async='async'></script>
+    
+
+
+<title>UAE President holds phone call with Turkish President - GulfToday</title>
+<meta name="keywords" content="" />
+<meta name="description" content="His Highness Sheikh Mohamed reiterated the UAE&#39;s condemnation of all forms of violence and terrorism, and stressed the need for international cooperation to combat terrorism in all its forms, which aims to destabilize nations and threaten the security of their peoples." />
+
+<meta property="og:title" content="UAE President holds phone call with Turkish President" />
+<meta property="og:image" content="http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/12/2/mohamed-erdogan-2-750.ashx?h=450&amp;w=750&amp;hash=C7ACA822C33D53BFDB446982A4582CFD" />
+<meta property="og:description" content="His Highness Sheikh Mohamed reiterated the UAE&#39;s condemnation of all forms of violence and terrorism, and stressed the need for international cooperation to combat terrorism in all its forms, which aims to destabilize nations and threaten the security of their peoples." />
+
+<meta name="twitter:title" content="UAE President holds phone call with Turkish President">
+<meta name="twitter:description" content="His Highness Sheikh Mohamed reiterated the UAE&#39;s condemnation of all forms of violence and terrorism, and stressed the need for international cooperation to combat terrorism in all its forms, which aims to destabilize nations and threaten the security of their peoples.">
+    <meta name="twitter:image" content="http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/12/2/mohamed-erdogan-2-750.ashx?h=450&amp;w=750&amp;hash=C7ACA822C33D53BFDB446982A4582CFD">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GulfToday">
+
+</head>
+
+
+
+    <body>
+
+
+<!-- Passback Advertisement section -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id="gpt-passback">
+    <script>
+        window.googletag = window.googletag || { cmd: [] };
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/21968724804/GulfToday_passback_tag', [[320, 50], [120, 600], [320, 100], [300, 250], [728, 90], [300, 600], [970, 90], [970, 250]], 'gpt-passback').addService(googletag.pubads());
+            googletag.enableServices();
+            googletag.display('gpt-passback');
+        });
+    </script>
+</div>
+<!-- End of Passback Advertisement section -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3BQ9DF"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="uk-offcanvas-content">
+    <div class="wrapper">
+        <!-- PH Start ph-sideNav -->
+        <!--Start MobileNavigation -->
+<!--View : \Views\Navigation\MobileNavigation.cshtml-->
+<div class="side-nav uk-hidden@m" mobile-nav hidden>
+    <div class="uk-offcanvas-bar">
+        <aside>
+            <!--PH Start ph-sideNav-mobileNavigation-->
+            <!--Start MobileMenuSearch -->
+<!--View : \Views\Search\MobileMenuSearch.cshtml-->
+<!--Todo: not implemented -->
+<div class="search" search-wrapper>
+    <form action="/search-results" method="get">
+        <input class="uk-input" type="text" placeholder="Search" 
+               autocomplete="off"
+               onfocus="this.placeholder=''" onblur="this.placeholder='Search'"
+               autocomplete-search='{ "url":"/api/article/autocomplete","minChars":3 }'>
+        <div class="result uk-hidden">
+            <div class="uk-grid-small" uk-grid>
+                <div class="uk-width-1-1 uk-width-2-3@m uk-position-relative">
+                    <h3 class="suggestion">Suggestions</h3>
+                    <ul class="uk-list">
+
+                    </ul>
+                    <div class="no-matches hidden">
+                        <span uk-icon="icon: search; ratio:3"></span>
+                        <p>
+                            No matching items found
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="uk-button search-btn" type="submit" href="#" uk-icon="icon: search;  ratio: 1.3"></button>
+    </form>
+</div>
+<!--End MobileMenuSearch -->
+
+<!--Start MobileManiNavigation -->
+<!--View : \Views\Navigation\MobileManiNavigation.cshtml-->
+<ul class="uk-nav-default" uk-nav>
+        <li class="home">
+            <a href="/">
+                <span class="animated-line"></span>
+                <span class="text">Gulf Today</span>
+            </a>
+        </li>
+            <li class="">
+            <a href="/test-home" type="button">
+                <span class="animated-line"></span>
+                <span class="text"></span>
+            </a>
+        </li>
+        <li class="news">
+            <a href="/news" type="button">
+                <span class="animated-line"></span>
+                <span class="text">News</span>
+            </a>
+        </li>
+        <li class="opinion">
+            <a href="/opinion" type="button">
+                <span class="animated-line"></span>
+                <span class="text">Opinion</span>
+            </a>
+        </li>
+        <li class="culture">
+            <a href="/culture" type="button">
+                <span class="animated-line"></span>
+                <span class="text">Culture</span>
+            </a>
+        </li>
+        <li class="lifestyle">
+            <a href="/lifestyle" type="button">
+                <span class="animated-line"></span>
+                <span class="text">Lifestyle</span>
+            </a>
+        </li>
+        <li class="sport">
+            <a href="/sport" type="button">
+                <span class="animated-line"></span>
+                <span class="text">Sport</span>
+            </a>
+        </li>
+        <li class="business">
+            <a href="/business" type="button">
+                <span class="animated-line"></span>
+                <span class="text">Business</span>
+            </a>
+        </li>
+</ul>
+<!--End MobileManiNavigation-->
+            <!--PH End ph-sideNav-mobileNavigation-->
+        </aside>
+    </div>
+</div>
+<!--End MobileNavigation -->
+
+        <!--PH End ph-sideNav -->
+
+        
+
+
+
+    <!--Start HorizontalAd -->
+    <!--View : \Views\Ad\HorizontalAd.cshtml-->
+    <div class="placeholder ">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div uk-grid>
+                <div class="uk-width-1-1">
+                    <section class="widget widget-banner  ">
+                        <div class="wg-content gt-ad-center">
+                            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+var mapping1 = googletag.sizeMapping().addSize([992, 0], [[970, 250], [970, 90], [728, 90]]).addSize([768, 0], [728, 90]).addSize([320, 0], [[320, 50],  [320, 100]]).addSize([0, 0], [320, 50]).build();
+    googletag.defineSlot('/21968724804/NS_Leaderboard', [[300, 50], [300, 100], [728, 90], [320, 50], [970, 90], [970, 250]], 'div-gpt-ad-1594795438210-0').defineSizeMapping(mapping1).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_Leaderboard -->
+<div id='div-gpt-ad-1594795438210-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594795438210-0'); });
+  </script>
+</div>
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End HorizontalAd -->
+
+
+
+        <div class="placeholder">
+            <div class="uk-container uk-container-large uk-padding-remove">
+                <div uk-grid>
+                    <div class="uk-width-1-1">
+                        <section class="widget widget-header-info">
+                            <div class="wg-content">
+                                <div class="header-info">
+                                    
+                                    <!--<div class="weather-tile" weather-wrapper data-api="/api/weather/getweatherdata">
+    
+    <span class="data"></span>
+</div>-->
+
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="pg-header">
+            <!-- PH Start ph-headerADD-->
+            <!-- PH End ph-headerADD-->
+            <header uk-sticky>
+                <div class="uk-container uk-container-large uk-padding-remove">
+                    <!-- PH Start ph-header-->
+                    <!--Start Header -->
+<!--View : \Views\Website\Common\Header.cshtml-->
+<!--Todo: not implemented -->
+
+<nav class="uk-navbar-container main-nav uk-navbar-transparent uk-navbar" uk-navbar>
+    <div class="uk-navbar-left">
+        <!--PH Start ph-header-Logo-->
+        
+<!--Start logo -->
+<!--View : \Views\Identity\Logo.cshtml-->
+<a class="uk-navbar-item uk-logo" href="/">
+    <img src="/-/media/gulf-today/images/logos/tgt_logo/gulf-today_beta.ashx" alt="GulfToday logo" />
+</a>
+<!--End logo -->
+
+        <!--PH End ph-header-Logo-->
+    </div>
+    <div class="uk-navbar-right uk-width1-1 uk-visible@m">
+        <!--PH Start ph-header-top-->
+        
+        <!--PH End ph-header-top-->
+        <div class="uk-flex uk-width1-1 uk-flex-right uk-position-relative" search-wrapper>
+            <!--PH Start ph-header-top-->
+            <!--Start MainNavigation -->
+<!--View : \Views\Navigation\MainNavigation.cshtml-->
+<ul class="uk-navbar-nav">
+<li class=" Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/test-home"></a>
+        </li>
+<li class="news Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/news">News</a>
+        </li>
+<li class="opinion Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/opinion">Opinion</a>
+        </li>
+<li class="culture Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/culture">Culture</a>
+        </li>
+<li class="lifestyle Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/lifestyle">Lifestyle</a>
+        </li>
+<li class="sport Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/sport">Sport</a>
+        </li>
+<li class="business Sitecore.Data.Items.Item not-on-mobile">
+            <a href="/business">Business</a>
+        </li>
+</ul>
+<!--End MainNavigation--><!--Start SearchBox -->
+<!--View : \Views\Search\MobileMenuSearch.cshtml-->
+<!--Todo: not implemented -->
+<a href="#" class="open-search-btn" uk-icon="icon: search"></a>
+<div class="menu-search">
+    <form action="/search-results">
+            <input class="uk-input" type="text" name="search" placeholder="Search" autocomplete="off" autocomplete-search='{ "url":"/api/article/autocomplete" ,"minChars":3}' minlength="3">
+            <div class="result uk-hidden">
+                <div class='uk-grid-small' uk-grid>
+                    <div class='uk-width-1-1 uk-width-2-3@m uk-position-relative'>
+                        <h3 class='suggestion'>Suggestions</h3>
+                        <ul id="suggestion" class='uk-list'></ul>
+                        <div class='no-matches hidden'>
+                            <span uk-icon='icon: search; ratio:3'></span>
+                            <p> No matching items found</p>
+                        </div>
+                    </div>
+                    <div class='uk-width-1-1 uk-width-1-3@m uk-visible@m'>
+                        <h3 class='related'>Most searched related results</h3>
+                        <div class='uk-grid-small uk-grid-match' uk-grid>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="search-btn" uk-icon="icon: search" ></button>
+            <a href="#" class="close-btn" uk-icon="icon: close; ratio: 1.5"></a>
+        </form>
+</div>
+
+<!--End SearchBox -->
+
+            <!--PH End ph-header-top-->
+        </div>
+    </div>
+    <div class="uk-navbar-right uk-hidden@m " side-nav-toggle>
+        <a class="uk-navbar-toggle" uk-navbar-toggle-icon="ratio: 1.5" uk-toggle="target: [mobile-nav].side-nav" href="#"></a>
+    </div>
+</nav>
+<!--End Header -->
+
+                    <!-- PH End ph-header-->
+                </div>
+                <!-- PH Start ph-headerSecondNav-->
+                
+                <!-- PH End ph-headerSecondNav-->
+            </header>
+        </div>
+
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div class="pg-content">
+                <!-- PH Start ph-content-->
+                <!--Start TwoColumns -->
+<!--View : \Views\Website\Common\TwoColumns.cshtml-->
+<div class="placeholder uk-padding-small">
+    <div class="uk-container">
+        <div class="" uk-grid>
+            <div class="uk-width-1-1 uk-width-2-3@m">
+                <div class="uk-grid-small" uk-grid>
+                    <div class="uk-width-1-1">
+                        <section id="stickyPrnt" class="widget widget-article has-social">
+                            
+
+
+
+<div class="wg-header">
+    <div class="wg-option news uk-visible@m">
+        <div class="tile-badge">
+            <label>News</label>
+        </div>
+    </div>
+    <div class="wg-heading">
+        <h1>UAE President holds phone call with Turkish President</h1>
+    </div>
+    
+</div>
+<div class="tile-article-info">
+    <ul class="uk-list">
+        <li>
+            
+            <span>
+                    <span>
+
+02 Oct 2023                    </span>
+            </span>
+          
+
+        </li>
+
+        <li>
+            <a href="#comments" uk-scroll>
+                <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/10/02/uae-president-holds-phone-call-with-turkish-president"></span>
+                <span uk-icon="icon: commenting; ratio: 1"></span>
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="wg-content ">
+    
+    <div class="uk-grid-collapse" uk-grid>
+        <div class="uk-width-auto social-container">
+            <div class="tile-article-social" uk-sticky="offset: 100; bottom: true">
+
+                <button class="uk-button uk-button-default uk-hidden@m"
+                        type="button" uk-toggle="target: +.social-share-container; animation: uk-animation-fade">
+                    <span uk-icon="icon: social" class="icon-open"></span>
+                    <span uk-icon="icon: chevron-up" class="icon-close"></span>
+                </button>
+
+                <div class="social-share-container">
+                    <div class="sharethis-inline-share-buttons"></div>
+                </div>
+
+            </div>
+        </div>
+        <div class="uk-width-expand gt-article-container">
+            <div class="article-media">
+                <img src="/-/media/gulf-today/images/articles/news/2021/12/2/mohamed-erdogan-2-750.ashx?h=450&amp;iar=0&amp;w=750&amp;hash=2FA828AF9E68979F1E1D9A8FE7FCB7E7" alt="Mohamed-Erdogan-2-750" width="750" height="450" />
+
+                <p>  Sheikh Mohamed Bin Zayed Al Nahyan and Recep Tayyip Erdogan </p>
+            </div>
+            <p>President His Highness Sheikh Mohamed Bin Zayed Al Nahyan held a telephone call with Turkish President Recep Tayyip Erdoğan on Monday to express UAE's solidarity with Turkey and its people following the terrorist attack in the Turkish capital Ankara, which resulted in injuries to a number of security personnel. He also expressed his wishes for a speedy recovery to the injured.</p>
+<p>His Highness Sheikh Mohamed reiterated the UAE's condemnation of all forms of violence and terrorism, and stressed the need for international cooperation to combat terrorism in all its forms, which aims to destabilise nations and threaten the security of their peoples. His Highness also wished Turkey and its people continued security, stability, and peace.</p>
+<p>For his part, the Turkish President Erdoğan thanked His Highness for his sincere sentiments expressed towards Turkey and its people. He also affirmed the strength of the ties between the two nations and their peoples, wishing the UAE continued security and stability.</p>
+<p>WAM</p>
+<p>
+<style>
+    &lt;!-- /* Font Definitions */ @font-face {font-family:"ＭＳ 明朝"; panose-1:0 0 0 0 0 0 0 0 0 0; mso-font-charset:128; mso-generic-font-family:roman; mso-font-format:other; mso-font-pitch:fixed; mso-font-signature:1 134676480 16 0 131072 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:Cambria; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"ＭＳ 明朝"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:Cambria; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"ＭＳ 明朝"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;}size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;}
+</style>
+</p>
+
+
+
+            
+            
+
+
+
+
+    <!-- AD request list -->
+    <div id="">
+
+    </div>
+
+
+
+
+
+    <!-- AD request list -->
+    <div id="">
+
+    </div>
+
+
+
+
+
+    <!-- AD request list -->
+    <div id="">
+
+    </div>
+
+
+
+
+
+    <!-- AD request list -->
+    <div id="">
+
+    </div>
+
+
+
+
+
+    <!-- AD request list -->
+    <div id="">
+
+    </div>
+
+        </div>
+    </div>
+
+</div>
+
+<div class="pg-action uk-visible@m ">
+    <div class="tile-scroll-btn uk-hidden">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <a class="scroll-to-top" href="body" uk-scroll>
+                <span uk-icon="icon: chevron-up; ratio: 1.3"></span>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="wg-content">
+    <div class="tag-list news">
+            <a href="/search-results?tag=2535d80e5f124332b7ab1c73e79ee86f" class="tile-tag">
+                <label>Sheikh Mohamed Bin Zayed</label>
+            </a>
+            <a href="/search-results?tag=a12f7b501e804a07a891ccfe236c95da" class="tile-tag">
+                <label>Recep Tayyip Erdogan</label>
+            </a>
+            <a href="/search-results?tag=97b31270479344bb99c9719e0660a6f5" class="tile-tag">
+                <label>UAE President</label>
+            </a>
+            <a href="/search-results?tag=4df230a5a9f94dd49c24915e2bc983d2" class="tile-tag">
+                <label>Turkey</label>
+            </a>
+            <a href="/search-results?tag=a7c122b7b0d04be7b2892aa08b8b8ccc" class="tile-tag">
+                <label>President</label>
+            </a>
+    </div>
+</div>
+<!--Start Breaking News -->
+<div class="uk-width-1-1">
+    <section id="comments" class="widget widget-comments">
+        <div class="wg-content">
+            <div id="mc-container"></div>
+            
+        </div>
+    </section>
+</div>
+
+
+
+
+    <!--Start HorizontalAd -->
+    <!--View : \Views\Ad\HorizontalAd.cshtml-->
+    <div class="placeholder ">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div uk-grid>
+                <div class="uk-width-1-1">
+                    <section class="widget widget-banner  ">
+                        <div class="wg-content gt-ad-center">
+                            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+var mapping2 = googletag.sizeMapping().addSize([992, 0], [[970, 250], [970, 90], [728, 90]]).addSize([768, 0], [728, 90]).addSize([320, 0], [[320, 50],  [320, 100]]).addSize([0, 0], [320, 50]).build();
+    googletag.defineSlot('/21968724804/NS_Horizontal1', [[300, 50], [300, 100], [728, 90], [320, 50], [970, 90], [970, 250]], 'div-gpt-ad-1594193957459-0').defineSizeMapping(mapping2).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_Horizontal1 -->
+<div id='div-gpt-ad-1594193957459-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594193957459-0'); });
+  </script>
+</div>
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End HorizontalAd -->
+
+
+
+                        </section>
+                    </div>
+                    <div class="uk-width-1-1">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="uk-width-1-1 uk-width-1-3@m">
+                <div class="uk-grid-small uk-child-width-1-1" uk-grid>
+                    
+
+
+    <!--Start Vertical Ad  -->
+    <!--View : \Views\Ad\verticalAd.cshtml-->
+    <section class="widget widget-advertisement ">
+        <div class="tile-vertical-ad ad-content gt-ad-center">
+            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21968724804/NS_Skyscraper', [[300, 600], [160, 600]], 'div-gpt-ad-1594796742701-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_Skyscraper -->
+<div id='div-gpt-ad-1594796742701-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594796742701-0'); });
+  </script>
+</div>
+        </div>
+    </section>
+    <!--End VerticalAd -->
+
+
+
+
+<section class="widget widget-summarized-card-list">
+    <div class="wg-header">
+        <div class="wg-heading">
+            <h1>Related articles</h1>
+        </div>
+    </div>
+    <div class="wg-content">
+        <div class="uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-width-1-1">
+                    <a href="/news/2023/06/03/erdogan-to-be-sworn-in-for-third-term-as-turkish-president" class="tile-card card-summarized news">
+                        <div class="uk-card">
+                            <div class="uk-card-media uk-cover-container">
+                                <img src="/-/media/gulf-today/images/articles/news/2023/6/3/erdogan-june3-thirdtime.ashx?h=450&amp;w=750&amp;hash=C3D189D80101054F0AF5635B320B3B2D" alt="" uk-cover>
+                                <canvas width="600" height="400"></canvas>
+                            </div>
+                            <div class="uk-card-body">
+                                <div class="tile-label">
+                                    <label>News</label>
+                                </div>
+                                <h3 class="uk-card-title">Erdogan takes oath for new term as Turkish president </h3>
+                                <p>
+                                    &quot;I, as president, swear upon my honour and integrity before the great Turkish nation and history to safeguard the existence and independence of the state,&quot; Erdogan said during a ceremony at the parliament in Ankara...
+                                </p>
+                                <div class="tile-info">
+                                        <div class="date">
+                                            <span>
+03 Jun 2023                                            </span>
+                                        </div>
+                                    <div class="comments">
+                                        <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/06/03/erdogan-to-be-sworn-in-for-third-term-as-turkish-president"></span>
+                                        <span uk-icon="icon: commenting; ratio: 1"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </a>
+                </div>
+                <div class="uk-width-1-1">
+                    <a href="/news/2023/05/27/turkey-s-bitter-election-battle-nears-decision-day" class="tile-card card-summarized news">
+                        <div class="uk-card">
+                            <div class="uk-card-media uk-cover-container">
+                                <img src="/-/media/gulf-today/images/articles/business/2023/5/11/recep-tayyip-erdogan-and-kemal-kilicdaroglu.ashx?h=450&amp;w=750&amp;hash=D7C291C084942AFA102BE6F575B2B9C9" alt="" uk-cover>
+                                <canvas width="600" height="400"></canvas>
+                            </div>
+                            <div class="uk-card-body">
+                                <div class="tile-label">
+                                    <label>News</label>
+                                </div>
+                                <h3 class="uk-card-title">Turkey’s bitter election battle nears decision day</h3>
+                                <p>
+                                    His victory would preserve the key NATO member&#39;s reputation as a problem child that plays off rivalries between Moscow and Washington while pushing its own course in the Middle East.
+                                </p>
+                                <div class="tile-info">
+                                        <div class="date">
+                                            <span>
+27 May 2023                                            </span>
+                                        </div>
+                                    <div class="comments">
+                                        <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/05/27/turkey-s-bitter-election-battle-nears-decision-day"></span>
+                                        <span uk-icon="icon: commenting; ratio: 1"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </a>
+                </div>
+                <div class="uk-width-1-1">
+                    <a href="/news/2021/11/24/sheikh-mohamed-bin-zayed-arrives-in-turkey" class="tile-card card-summarized news">
+                        <div class="uk-card">
+                            <div class="uk-card-media uk-cover-container">
+                                <img src="/-/media/gulf-today/images/articles/news/2021/11/24/mbz-smile-turkey.ashx?h=500&amp;w=750&amp;hash=537080636029A00FC27AA2D6882DD7EC" alt="" uk-cover>
+                                <canvas width="600" height="400"></canvas>
+                            </div>
+                            <div class="uk-card-body">
+                                <div class="tile-label">
+                                    <label>News</label>
+                                </div>
+                                <h3 class="uk-card-title">Sheikh Mohamed Bin Zayed arrives in Turkey</h3>
+                                <p>
+                                    An official reception ceremony was held for Sheikh Mohamed upon arrival of his convoy to the presidential palace complex, accompanied by a group of cavalry raising the flags of the two countries. 
+                                </p>
+                                <div class="tile-info">
+                                        <div class="date">
+                                            <span>
+24 Nov 2021                                            </span>
+                                        </div>
+                                    <div class="comments">
+                                        <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2021/11/24/sheikh-mohamed-bin-zayed-arrives-in-turkey"></span>
+                                        <span uk-icon="icon: commenting; ratio: 1"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </a>
+                </div>
+                <div class="uk-width-1-1">
+                    <a href="/news/2023/10/29/uae-president-congratulates-turkish-president-on-centennial-of-republic-of-turkiye" class="tile-card card-summarized news">
+                        <div class="uk-card">
+                            <div class="uk-card-media uk-cover-container">
+                                <img src="/-/media/gulf-today/images/articles/news/2023/10/29/mbz-erdogan-750x450.ashx?h=450&amp;w=750&amp;hash=D95DD6AF418BDF0763638957D181ECE4" alt="" uk-cover>
+                                <canvas width="600" height="400"></canvas>
+                            </div>
+                            <div class="uk-card-body">
+                                <div class="tile-label">
+                                    <label>News</label>
+                                </div>
+                                <h3 class="uk-card-title">Sheikh Mohamed congratulates Erdogan on centennial anniversary of Turkey</h3>
+                                <p>
+                                    Sheikh Mohamed affirmed the strength of relations between the UAE and Turkey, emphasising their mutual commitment to further reinforce these ties at all levels to meet the aspirations of the two nations for development and prosperity.<br/><br/>
+                                </p>
+                                <div class="tile-info">
+                                        <div class="date">
+                                            <span>
+29 Oct 2023                                            </span>
+                                        </div>
+                                    <div class="comments">
+                                        <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/10/29/uae-president-congratulates-turkish-president-on-centennial-of-republic-of-turkiye"></span>
+                                        <span uk-icon="icon: commenting; ratio: 1"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </a>
+                </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <!--Start Vertical Ad  -->
+    <!--View : \Views\Ad\verticalAd.cshtml-->
+    <section class="widget widget-advertisement ">
+        <div class="tile-vertical-ad ad-content gt-ad-center">
+            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21968724804/NS_MPU', [300, 250], 'div-gpt-ad-1594202197410-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_MPU -->
+<div id='div-gpt-ad-1594202197410-0' style='width: 300px; height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594202197410-0'); });
+  </script>
+</div>
+        </div>
+    </section>
+    <!--End VerticalAd -->
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!--End TwoColumns -->
+<!--Start OneColumn -->
+<!--View : \Views\Website\Common\OneColumn.cshtml-->
+
+
+
+    <div class="placeholder ">
+        <div>
+            <div class="uk-grid-small" uk-grid>
+                <div class="uk-width-1-1">
+                    <div class="uk-container uk-container-large uk-padding-remove">
+                        
+
+
+
+    <!-- AD request list -->
+    <div class="uk-grid-match uk-grid-collapse uk-grid-small" uk-grid>
+        <div class="uk-width-1-1">
+            <!-- widget-widget-advertisement-card   -->
+            <section class="widget widget-advertisement-card">
+                <div class="wg-content">
+                        <a href="/contact-us">
+                            <div class="media uk-visible@m" style="background-image: url('/assets/img/news/tgt_logo.svg')">
+
+
+                            </div>
+                            <div class="text">
+                                <h2>Share stories with us securely and confidentially</h2>
+                                <span uk-icon="icon: chevron-right; ratio:1.5"></span>
+                            </div>
+                        </a>
+                </div>
+
+
+
+            </section>
+            <!-- end widget-advertisement-card   -->
+
+        </div>
+    </div>
+    <!-- /AD request End -->
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+<!--End OneColumn -->
+
+
+
+
+    <!--Start HorizontalAd -->
+    <!--View : \Views\Ad\HorizontalAd.cshtml-->
+    <div class="placeholder ">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div uk-grid>
+                <div class="uk-width-1-1">
+                    <section class="widget widget-banner  ">
+                        <div class="wg-content gt-ad-center">
+                            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21968724804/NS_MPU_Mob1', [300, 250], 'div-gpt-ad-1594796063951-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_MPU_Mob1 -->
+<div id='div-gpt-ad-1594796063951-0' style='width: 300px; height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594796063951-0'); });
+  </script>
+</div>
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End HorizontalAd -->
+
+
+
+<!--Start OneColumn -->
+<!--View : \Views\Website\Common\OneColumn.cshtml-->
+
+
+
+    <div class="placeholder uk-padding-small ">
+        <div>
+                    <div class="pl-header">
+                        <h1>Other Articles</h1>
+                    </div>
+            <div class="uk-grid-small" uk-grid>
+                <div class="uk-width-1-1">
+                    <div class="uk-container uk-container-large uk-padding-remove">
+                        
+
+<!-- card list (sport) -->
+<div class="uk-width-1-1">
+    <!-- widget-widget-card-list   -->
+    <section class="widget widget-card-list">
+        <div class="wg-content">
+            <div class="uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-width-1-4@m">
+                        <a href="/news/2023/11/18/uae-condemns-in-strongest-terms-israeli-bombing-of-two-schools-in-gaza" class="tile-card">
+                            <div class="uk-card">
+                                <div class="uk-card-media uk-cover-container">
+                                    <img src="/-/media/gulf-today/images/articles/business/2021/4/10/uae-flag-750.ashx?h=450&amp;w=750&amp;hash=54F3E3E85A9837C3A7044DBC46A12DE2" alt="" uk-cover>
+                                    <canvas width="600" height="400"></canvas>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">UAE condemns in strongest terms Israeli bombing of two schools in Gaza</h3>
+                                    <p>
+                                        The Ministry of Foreign Affairs (MoFA) stressed that the immediate priority is to preserve the lives of civilians and provide full protection of organisations and civilian facilities, and ensure the immediate, safe, sustainable, and unhindered delivery of humanitarian, relief and medical aid to the Palestinians.
+                                    </p>
+                                    <div class="tile-info">
+                                            <div class="date">
+                                                <span>
+an hour ago                                                </span>
+                                            </div>
+                                        <div class="comments">
+                                            <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/11/18/uae-condemns-in-strongest-terms-israeli-bombing-of-two-schools-in-gaza"></span>
+                                            <span uk-icon="icon: comments; ratio: 0.8"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="uk-width-1-4@m">
+                        <a href="/news/2023/11/18/at-least-80-killed-in-twin-israeli-strikes-at-jabalia-refugee-camp-housing-un-run-school" class="tile-card">
+                            <div class="uk-card">
+                                <div class="uk-card-media uk-cover-container">
+                                    <img src="/-/media/gulf-today/images/articles/news/2023/11/18/jabalia-gaza.ashx?h=500&amp;w=750&amp;hash=276A24ECBBF0954A461932F584B05155" alt="" uk-cover>
+                                    <canvas width="600" height="400"></canvas>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">At least 80 killed in twin Israeli strikes at Jabalia refugee camp housing UN-run school</h3>
+                                    <p>
+                                        UN officials said thousands of displaced Palestinians had been sheltering at the school and Martin Griffiths denounced the &quot;tragic news of the children, women and men killed&quot;.
+                                    </p>
+                                    <div class="tile-info">
+                                            <div class="date">
+                                                <span>
+3 hours ago                                                </span>
+                                            </div>
+                                        <div class="comments">
+                                            <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/11/18/at-least-80-killed-in-twin-israeli-strikes-at-jabalia-refugee-camp-housing-un-run-school"></span>
+                                            <span uk-icon="icon: comments; ratio: 0.8"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="uk-width-1-4@m">
+                        <a href="/news/2023/11/18/over-100-russian-doctors-call-for-release-of-jailed-artist-who-protested-ukraine-war" class="tile-card">
+                            <div class="uk-card">
+                                <div class="uk-card-media uk-cover-container">
+                                    <img src="/-/media/gulf-today/images/articles/news/2023/11/18/antiwar-artist.ashx?h=450&amp;w=750&amp;hash=72B0221E558E81228F4954AE9CAAD5E3" alt="" uk-cover>
+                                    <canvas width="600" height="400"></canvas>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Over 100 Russian doctors call for release of jailed artist who protested Ukraine war</h3>
+                                    <p>
+                                        The letter calling for Sasha Skochilenko to be freed was addressed to Russian President Vladimir Putin and warned that time in prison could lead to a &quot;significant deterioration” in the 33-year-old artist&#39;s health.
+                                    </p>
+                                    <div class="tile-info">
+                                            <div class="date">
+                                                <span>
+4 hours ago                                                </span>
+                                            </div>
+                                        <div class="comments">
+                                            <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/11/18/over-100-russian-doctors-call-for-release-of-jailed-artist-who-protested-ukraine-war"></span>
+                                            <span uk-icon="icon: comments; ratio: 0.8"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="uk-width-1-4@m">
+                        <a href="/news/2023/11/18/one-killed-another-injured-in-sharjah-dune-mounting-accident" class="tile-card">
+                            <div class="uk-card">
+                                <div class="uk-card-media uk-cover-container">
+                                    <img src="/-/media/gulf-today/images/articles/news/2023/11/18/sharjah--sand-dune-accident-750x450.ashx?h=450&amp;w=750&amp;hash=9ABA1CEDCFC3E893F6211C7E18CD0A4D" alt="" uk-cover>
+                                    <canvas width="600" height="400"></canvas>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">One killed, one injured in Sharjah dune mounting accident </h3>
+                                    <p>
+                                        An Asian person was killed, while another was injured in an accident that took place on Friday evening while they were practicing dune mounting by cars in Al Faiya area, the Central Region, Sharjah. 
+                                    </p>
+                                    <div class="tile-info">
+                                            <div class="date">
+                                                <span>
+5 hours ago                                                </span>
+                                            </div>
+                                        <div class="comments">
+                                            <span class="cackle-comment-count" data-cackle-url="http://www.gulftoday.ae/news/2023/11/18/one-killed-another-injured-in-sharjah-dune-mounting-accident"></span>
+                                            <span uk-icon="icon: comments; ratio: 0.8"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </section>
+    <!-- end widget-card-list   -->
+
+</div>
+<!-- /card list End (sport) -->
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+<!--End OneColumn -->
+
+
+
+
+    <!--Start HorizontalAd -->
+    <!--View : \Views\Ad\HorizontalAd.cshtml-->
+    <div class="placeholder ">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div uk-grid>
+                <div class="uk-width-1-1">
+                    <section class="widget widget-banner  ">
+                        <div class="wg-content gt-ad-center">
+                            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+var mapping3 = googletag.sizeMapping().addSize([992, 0], [[970, 250], [970, 90], [728, 90]]).addSize([768, 0], [728, 90]).addSize([320, 0], [[320, 50],  [320, 100]]).addSize([0, 0], [320, 50]).build();
+    googletag.defineSlot('/21968724804/NS_Footer', [[300, 50], [300, 100], [728, 90], [320, 50], [970, 90], [970, 250]], 'div-gpt-ad-1594201230788-0').defineSizeMapping(mapping3).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_Footer -->
+<div id='div-gpt-ad-1594201230788-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594201230788-0'); });
+  </script>
+</div>
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End HorizontalAd -->
+
+
+
+
+
+
+    <!--Start HorizontalAd -->
+    <!--View : \Views\Ad\HorizontalAd.cshtml-->
+    <div class="placeholder ">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div uk-grid>
+                <div class="uk-width-1-1">
+                    <section class="widget widget-banner  ">
+                        <div class="wg-content gt-ad-center">
+                            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21968724804/NS_in_MPU1', [300, 250], 'div-gpt-ad-1594794441158-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_in_MPU1 -->
+<div id='div-gpt-ad-1594794441158-0' style='width: 300px; height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594794441158-0'); });
+  </script>
+</div>
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End HorizontalAd -->
+
+
+
+
+
+
+    <!--Start HorizontalAd -->
+    <!--View : \Views\Ad\HorizontalAd.cshtml-->
+    <div class="placeholder ">
+        <div class="uk-container uk-container-large uk-padding-remove">
+            <div uk-grid>
+                <div class="uk-width-1-1">
+                    <section class="widget widget-banner  ">
+                        <div class="wg-content gt-ad-center">
+                            <!-- NS_in_Horizontal1 , NS_in_1x1, NS_in_1x1_2  -->
+<!-- Start NS_in_Horizontal1 -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+var mapping4 = googletag.sizeMapping().addSize([992, 0], [[970, 250], [970, 90], [728, 90]]).addSize([768, 0], [728, 90]).addSize([320, 0], [[320, 50],  [320, 100], [300, 100], [300, 50]]).addSize([0, 0], [320, 50]).build();
+    googletag.defineSlot('/21968724804/NS_in_Horizontal1', [[300, 50], [300, 100], [728, 90], [320, 50], [970, 90], [970, 250]], 'div-gpt-ad-1594793843461-0').defineSizeMapping(mapping4).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_in_Horizontal1 -->
+<div id='div-gpt-ad-1594793843461-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1594793843461-0'); });
+  </script>
+</div>
+<!-- End NS_in_Horizontal1 -->
+<!-- Start NS_in_1x1 -->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21968724804/NS_in_1x1', [1, 1], 'div-gpt-ad-1676353886127-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_in_1x1 -->
+<div id='div-gpt-ad-1676353886127-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1676353886127-0'); });
+  </script>
+</div>
+<!-- End NS_in_1x1 -->
+<!-- Start NS_in_1x1_2 -->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21968724804/NS_in_1x1_2', [1, 1], 'div-gpt-ad-1682500773034-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /21968724804/NS_in_1x1_2 -->
+<div id='div-gpt-ad-1682500773034-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1682500773034-0'); });
+  </script>
+</div>
+<!-- End NS_in_1x1_2 -->
+
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End HorizontalAd -->
+
+
+
+                <!-- PH End ph-content-->
+            </div>
+        </div>
+        <div class="pg-footer">
+            <footer>
+                <div class="placeholder uk-padding-small">
+                    <div class="uk-container uk-container-large">
+                        <div class="wrapper">
+                            <!-- PH Start ph-footer-->
+                            <!--Start Footer -->
+<!--View : \Views\Website\Common\Footer.cshtml-->
+<div class="logo">
+    <!--PH Start ph-footer-logo-->
+    
+<!--Start logo -->
+<!--View : \Views\Identity\Logo.cshtml-->
+
+<a href="/">
+    <img src="/-/media/gulf-today/images/logos/tgt_logo.ashx" alt="GulfToday logo" />
+</a>
+<!--End logo -->
+
+    <!--PH End ph-footer-logo-->
+</div>
+<div class="footer-links">
+    <!--PH Start ph-footer-links-->
+    
+
+<ul class="uk-list">
+        <li>
+
+            <a href="https://daralkhaleej.pressreader.com/gulf-today-9kyc?lng=en-us">PDF SUBSCRIPTION</a>
+        </li>
+        <li>
+
+            <a href="/contact-us">CONTACT US</a>
+        </li>
+        <li>
+
+            <a href="/privacy-policy">PRIVACY POLICY</a>
+        </li>
+        <li>
+
+            <a href="/publishing-policy">Publishing Policy</a>
+        </li>
+        <li>
+
+            <a href="/terms-and-condition">Terms and Conditions</a>
+        </li>
+
+</ul>
+    <!--PH End ph-footer-links-->
+</div>
+<!--Todo: subscribe not implemented -->
+<div class="subscribe">
+    <div class="tile-subscribe">
+      <form action="api/Subscription/FooterSubscribe" validation autocomplete="off">
+    <div class="shared-response uk-hidden">
+        <div class="error">
+            <p>
+
+            </p>
+        </div>
+        <div class="shared-successfully">
+            <div class="icon">
+                <span uk-icon="icon: check; ratio: 1"></span>
+            </div>
+            <p>
+
+            </p>
+        </div>
+    </div>
+    <div>
+        <button type="submit" class="uk-button btn-brand"> subscribe </button>
+        <input class="uk-input" type="text" placeholder="Subscribe for latest news " name="email" 
+               data-validate-presence='{"message":"^Email can’t be blank."}' data-validate-email="true">
+    </div>
+</form>
+
+    </div>
+</div>
+<!--End Footer -->
+
+                            <!-- PH End ph-footer-->
+                        </div>
+                        <!-- PH Start ph-bottomFooter-->
+                        
+
+<div class="tile-social-icons">
+    <ul class="uk-list">
+            <li>
+                <a href="https://www.facebook.com/gulftoday/" uk-icon="icon: facebook"> </a>
+
+            </li>        
+            <li>
+                <a href="https://www.instagram.com/gulftoday" uk-icon="icon: instagram"> </a>
+
+            </li>        
+            <li>
+                <a href="https://twitter.com/gulftoday" uk-icon="icon: twitter"> </a>
+
+            </li>        
+</ul>
+</div>
+                        <!-- PH End ph-bottomFooter-->
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+    </div>
+</div>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript" src="/static/js/main.ltr.js?v=2.0"></script>
+<script type="text/javascript" src="/static/js/swiper-bundle.min.js"></script>
+<script type="text/javascript">
+    cackle_widget = window.cackle_widget || [];
+    cackle_widget.push({
+        widget: 'Comment',
+        lang: 'en',
+        id: 64899
+    });
+    cackle_widget.push({
+        widget: 'CommentCount',
+        lang: 'en',
+        id: 64899,
+        no: ' ',
+        one: '1',
+        mult: '{num}'
+    });
+    (function () {
+        var mc = document.createElement('script');
+        mc.type = 'text/javascript';
+        mc.async = true;
+        mc.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cackle.me/widget.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+    })();
+
+    document.onreadystatechange = function () {
+        if (document.readyState == "complete") {
+            console.log('complete fired');
+            document.querySelectorAll('.widget-banner .wg-content>div').forEach(element => {
+                if (element.innerHTML == "") {
+                    element.parentElement.parentElement.remove();
+                }
+            });
+            document.querySelectorAll('.titledtwocolumnsdiv2').forEach(element => {
+                if (element.querySelector('.tile-vertical-ad >div').innerHTML == "" && element.children.length == 1) {
+                    element.previousElementSibling.classList.remove('uk-width-3-4@m');
+                    element.previousElementSibling.classList.add('uk-width-4-4@m');
+                    console.log(element.previousElementSibling.className);
+                }
+            });
+        }
+    }
+</script>
+<!--  Campaign  -->
+<!-- <script src="/static/js/campaign.js"></script> -->
+<script type="text/javascript" src="/static/js/gt-updates.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,1038 @@
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"/>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=true;__ez.queue=function(){var e=0,i=0,t=[],n=!1,o=[],r=[],s=!0,a=function(e,i,n,o,r,s,a){var l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,d=this;this.name=e,this.funcName=i,this.parameters=null===n?null:p(n)?n:[n],this.isBlock=o,this.blockedBy=r,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.fWindow=l,this.isTimeDelay=!1,this.process=function(){f("... func = "+e),d.isInitialized=!0,d.isComplete=!0,f("... func.apply: "+e);var i=d.funcName.split("."),n=null,o=this.fWindow||window;i.length>3||(n=3===i.length?o[i[0]][i[1]][i[2]]:2===i.length?o[i[0]][i[1]]:o[d.funcName]),null!=n&&n.apply(null,this.parameters),!0===d.deleteWhenComplete&&delete t[e],!0===d.isBlock&&(f("----- F'D: "+d.name),u())}},l=function(e,i,t,n,o,r,s){var a=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,l=this;this.name=e,this.path=i,this.async=o,this.defer=r,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.fWindow=a,this.isTimeDelay=!1,this.isPath=function(e){return"/"===e[0]&&"/"!==e[1]},this.getSrc=function(e){return void 0!==window.__ezScriptHost&&this.isPath(e)&&"banger.js"!==this.name?window.__ezScriptHost+e:e},this.process=function(){l.isInitialized=!0,f("... file = "+e);var i=this.fWindow?this.fWindow.document:document,t=i.createElement("script");t.src=this.getSrc(this.path),!0===o?t.async=!0:!0===r&&(t.defer=!0),t.onerror=function(){var e={url:window.location.href,name:l.name,path:l.path,user_agent:window.navigator.userAgent};"undefined"!=typeof _ezaq&&(e.pageview_id=_ezaq.page_view_id);var i=encodeURIComponent(JSON.stringify(e)),t=new XMLHttpRequest;t.open("GET","//g.ezoic.net/ezqlog?d="+i,!0),t.send(),f("----- ERR'D: "+l.name),l.isError=!0,!0===l.isBlock&&u()},t.onreadystatechange=t.onload=function(){var e=t.readyState;f("----- F'D: "+l.name),e&&!/loaded|complete/.test(e)||(l.isComplete=!0,!0===l.isBlock&&u())},i.getElementsByTagName("head")[0].appendChild(t)}},d=function(e,i){this.name=e,this.path="",this.async=!1,this.defer=!1,this.isBlock=!1,this.blockedBy=[],this.isInitialized=!0,this.isError=!1,this.isComplete=i,this.proceedIfError=!1,this.isTimeDelay=!1,this.process=function(){}};function c(e){!0!==h(e)&&0!=s&&e.process()}function h(e){if(!0===e.isTimeDelay&&!1===n)return f(e.name+" blocked = TIME DELAY!"),!0;if(p(e.blockedBy))for(var i=0;i<e.blockedBy.length;i++){var o=e.blockedBy[i];if(!1===t.hasOwnProperty(o))return f(e.name+" blocked = "+o),!0;if(!0===e.proceedIfError&&!0===t[o].isError)return!1;if(!1===t[o].isComplete)return f(e.name+" blocked = "+o),!0}return!1}function f(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function u(){++e>200||(f("let's go"),m(o),m(r))}function m(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||h(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?f(t.name+": error"):!0===t.isComplete?f(t.name+": complete already"):!0===t.isInitialized&&f(t.name+": initialized already"):t.process()}}function p(e){return"[object Array]"==Object.prototype.toString.call(e)}return window.addEventListener("load",(function(){setTimeout((function(){n=!0,f("TDELAY -----"),u()}),5e3)}),!1),{addFile:function(e,i,n,s,a,d,h,f,u){var m=new l(e,i,n,s,a,d,h,u);!0===f?o[e]=m:r[e]=m,t[e]=m,c(m)},addDelayFile:function(e,i){var n=new l(e,i,!1,[],!1,!1,!0);n.isTimeDelay=!0,f(e+" ...  FILE! TDELAY"),r[e]=n,t[e]=n,c(n)},addFunc:function(e,n,s,l,d,h,f,u,m,p){!0===h&&(e=e+"_"+i++);var w=new a(e,n,s,l,d,f,u,p);!0===m?o[e]=w:r[e]=w,t[e]=w,c(w)},addDelayFunc:function(e,i,n){var o=new a(e,i,n,!1,[],!0,!0);o.isTimeDelay=!0,f(e+" ...  FUNCTION! TDELAY"),r[e]=o,t[e]=o,c(o)},items:t,processAll:u,setallowLoad:function(e){s=e},markLoaded:function(e){if(e&&0!==e.length){if(e in t){var i=t[e];!0===i.isComplete?f(i.name+" "+e+": error loaded duplicate"):(i.isComplete=!0,i.isInitialized=!0)}else t[e]=new d(e,!0);f("markLoaded dummyfile: "+t[e].name)}},logWhatsBlocked:function(){for(var e in t)!1!==t.hasOwnProperty(e)&&h(t[e])}}}();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};__ez.queue.addFile('/detroitchicago/boise.js', '/detroitchicago/boise.js?gcb=195-0&cb=2', true, [], true, false, true, false);__ez.queue.addFile('/parsonsmaize/abilene.js', '/parsonsmaize/abilene.js?gcb=195-0&cb=30', true, [], true, false, true, false);</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">window._ezaq = Object.assign({}, typeof window._ezaq !== "undefined" ? window._ezaq : {}, {"ad_cache_level":0,"domain_id":488239,"ezcache_level":0,"ezcache_skip_code":0,"has_bad_image":0,"has_bad_words":0,"is_sitespeed":0,"lt_cache_level":0,"page_view_id":"556241c2-1b05-445e-5a9b-95f19ff1d5d2","response_size_orig":58636,"response_time_orig":207,"template_id":5,"url":"https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007","word_count":0,"worst_bad_word_level":0});__ez.queue.markLoaded('ezaqBaseReady');</script>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>__ez.queue.addFile('/parsonsmaize/mulvane.js', '/parsonsmaize/mulvane.js?gcb=195-0&cb=5', true, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/parsonsmaize/olathe.js', '/parsonsmaize/olathe.js?gcb=195-0&cb=23', false, ['/parsonsmaize/abilene.js','/parsonsmaize/mulvane.js'], true, false, true, false);__ez.queue.addFile('/porpoiseant/et.js', '/porpoiseant/et.js?gcb=195-0&cb=2', false, [], true, false, true, false);!function(){var e;__ez.vep=(e=[],{Add:function(i,t){__ez.dot.isDefined(i)&&__ez.dot.isValid(t)&&e.push({type:"video",video_impression_id:i,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(t)})},Fire:function(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(e)&&e.length>0)for(;e.length>0;){var i=5;i>e.length&&(i=e.length);var t=e.splice(0,i),o=__ez.dot.getURL("/detroitchicago/grapefruit.gif")+"?orig="+(!0===__ez.template.isOrig?1:0)+"&v="+btoa(JSON.stringify(t));__ez.dot.Fire(o)}e=[]}}})}();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>!function(){function e(i){return e="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e(i)}__ez.pel=function(){var i=[];function t(t,o,d,n,_,r,a,p){if(__ez.dot.isDefined(t)&&0!=__ez.dot.isAnyDefined(t.getSlotElementId,t.ElementId)){void 0===p&&(p=!1),parseInt(__ez.dot.getTargeting(t,"ap"));var s=__ez.dot.getSlotIID(t),f=__ez.dot.getAdUnit(t,p),u=parseInt(__ez.dot.getTargeting(t,"compid")),g=0,z=0,l=function(i){if("undefined"==typeof _ezim_d)return!1;var t=__ez.dot.getAdUnitPath(i).split("/").pop();if("object"===("undefined"==typeof _ezim_d?"undefined":e(_ezim_d))&&_ezim_d.hasOwnProperty(t))return _ezim_d[t];for(var o in _ezim_d)if(o.split("/").pop()===t)return _ezim_d[o];return!1}(t);"object"==e(l)&&(void 0!==l.creative_id&&(z=l.creative_id),void 0!==l.line_item_id&&(g=l.line_item_id)),__ez.dot.isDefined(s,f)&&__ez.dot.isValid(o)&&("0"===s&&!0!==p||""===f||i.push({type:"impression",impression_id:s,domain_id:__ez.dot.getDID(),unit:f,t_epoch:__ez.dot.getEpoch(0),revenue:d,bid_floor_filled:_,stat_source_id:a,pageview_id:__ez.dot.getPageviewId(),comp_id:u,line_item_id:g,creative_id:z,data:__ez.dot.dataToStr(o),is_orig:p||__ez.template.isOrig}))}}function o(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(i)&&i.length>0&&[i.filter((function(e){return e.is_orig})),i.filter((function(e){return!e.is_orig}))].forEach((function(e){for(;e.length>0;){var i=e[0].is_orig||!1,t=5;t>e.length&&(t=e.length);var o=e.splice(0,t),d=__ez.dot.getURL("/porpoiseant/army.gif")+"?orig="+(!0===i?1:0)+"&sts="+btoa(JSON.stringify(o));(void 0!==window.isAmp&&isAmp||void 0!==window.ezWp&&ezWp)&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(d+="&visit_uuid="+_ezaq.visit_uuid),__ez.dot.Fire(d)}})),i=[])}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),o()},AddAndFireOrig:function(e,i){t(e,i,0,0,0,0,0,!0),o()},AddById:function(e,t,o,d){var n=e.split("/");if(__ez.dot.isDefined(e)&&3===n.length&&__ez.dot.isValid(t)){var _=n[0],r={type:"impression",impression_id:n[2],domain_id:__ez.dot.getDID(),unit:_,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(t),is_orig:o||__ez.template.isOrig};void 0!==d&&(r.revenue=d),i.push(r)}},Fire:o,GetPixels:function(){return i}}}()}();__ez.queue.addFile('/detroitchicago/raleigh.js', '/detroitchicago/raleigh.js?gcb=195-0&cb=6', false, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/detroitchicago/vista.js', '/detroitchicago/vista.js?gcb=195-0&cb=5', false, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '/detroitchicago/tampa.js?gcb=195-0&cb=5', false, ['/parsonsmaize/abilene.js'], true, false, true, false);</script><base href="https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007"/>
+    <title>Explosion reported in Ankara, Turkey | Al Bawaba</title>
+    <script src="https://bc.marfeelcache.com/statics/marfeel/gardac-sync.js" defer="" data-mrf-script="garda" data-mrf-host="bc.marfeelcache.com"></script>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_BgiJBY40OVibxF-c66FKFO9W_RzcLb9CwEBpy2Gv_fE.css"/>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_PS_a2wDcXeR1P4QvM7qbBfivZ5ECKFg83lCpp7N_uEM.css"/>
+
+        
+<link rel="alternate" hreflang="en-EG" href="https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007"/>
+<link rel="alternate" hreflang="en-SA" href="https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007"/>
+<link rel="alternate" hreflang="x-default" href="https://www.albawaba.com/news/explosion-reported-ankara-turkey-1536007"/>
+<link rel="alternate" type="application/rss+xml" href="https://www.albawaba.com/rss/all"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-9239682-4"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-9239682-4", {"groups":"default","page_placeholder":"PLACEHOLDER_page_path","link_attribution":true});</script>
+<meta name="description" content="ALBAWABA - Turkish media reported that an explosion was heard near the headquarters of the Ministry of Interior. All roads leading to the scene have bee"/>
+<meta name="abstract" content="ALBAWABA - Turkish media reported that an explosion was heard near the headquarters of the Ministry of Interior. All roads leading to the scene have bee"/>
+<meta name="keywords" content="Ankara"/>
+<link rel="shortlink" href="https://www.albawaba.net/node/1536007"/>
+<meta name="robots" content="max-image-preview:large"/>
+<meta name="referrer" content="origin"/>
+<meta name="rights" content="©2023 Al Bawaba. All rights reserved."/>
+<meta property="og:site_name" content="Al Bawaba"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007"/>
+<meta property="og:title" content="Explosion reported in Ankara, Turkey | Al Bawaba"/>
+<meta property="og:description" content="ALBAWABA - Turkish media reported that an explosion was heard near the headquarters of the Ministry of Interior. All roads leading to the scene have bee"/>
+<meta property="og:image" content="https://www.albawaba.net/sites/default/files/styles/default/public/2023-10/Breaking%20News%20Template%203.png?itok=fi3DyE5A"/>
+<meta property="og:image:url" content="https://www.albawaba.net/sites/default/files/styles/default/public/2023-10/Breaking%20News%20Template%203.png?itok=fi3DyE5A"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta itemprop="image" content="https://www.albawaba.net/sites/default/files/styles/default/public/2023-10/Breaking%20News%20Template%203.png?itok=fi3DyE5A"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Explosion reported in Ankara, Turkey | Al Bawaba"/>
+<meta name="twitter:description" content="ALBAWABA - Turkish media reported that an explosion was heard near the headquarters of the Ministry of Interior. All roads leading to the scene have bee"/>
+<meta name="twitter:image:height" content="630"/>
+<meta name="twitter:image" content="https://www.albawaba.net/sites/default/files/styles/default/public/2023-10/Breaking%20News%20Template%203.png?itok=fi3DyE5A"/>
+<meta name="twitter:image:width" content="1200"/>
+<meta name="facebook-domain-verification" content="sbzhyua4w38y4p0fgzc13xsv6lm4w1"/>
+<meta name="p:domain_verify" content="85420ddac6963c616968109fe3d1e16b"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #939598} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Explosion reported in Ankara, Turkey",
+            "description": "ALBAWABA - Turkish media reported that an explosion was heard near the headquarters of the Ministry of Interior. All roads leading to the scene have been closed. In a post on X, formerly known as Twitter, Turkish Interior Minister Ali Yerlikaya said that two interior ministry officials were slightly injured in the Ankara attack. \u0022One of the terrorists blew himself up and the other terrorist was neutralized\u0022 Yerlikaya added. ",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.albawaba.net/sites/default/files/styles/d08_standard/public/2023-10/Breaking%20News%20Template%203.png?h=d1cb525d\u0026itok=RV6P1Qve",
+                "width": "800",
+                "height": "450"
+            },
+            "datePublished": "2023-10-01T07:11:55+0000",
+            "dateModified": "2023-10-01T07:55:57+0000",
+            "author": {
+                "@type": "Person",
+                "name": "Batool"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Al-Bawaba",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.albawaba.com/themes/custom/abn/logo.png"
+                }
+            },
+            "mainEntityOfPage": "https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007",
+            "articleSection": "NEWS"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.albawaba.net/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "NEWS",
+                    "item": "https://www.albawaba.net/news"
+                }
+            ]
+        }
+    ]
+}</script>
+<script>var tagAmp = '/27367402/Albawaba-Mobile/News';</script>
+<link href="/themes/custom/abn/images/touch-icon-iphone.png?v=1" rel="apple-touch-icon"/>
+<link href="/themes/custom/abn/images/touch-icon-ipad.png?v=1" rel="apple-touch-icon"/>
+<link href="/themes/custom/abn/images/touch-icon-iphone-retina.png?v=1" rel="apple-touch-icon"/>
+<link href="/themes/custom/abn/images/touch-icon-ipad-retina.png?v=1" rel="apple-touch-icon"/>
+<link rel="icon" href="/themes/custom/abn/favicon.ico" type="image/png"/>
+<link rel="alternate" hreflang="en" href="https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007"/>
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-QBCQST9H29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QBCQST9H29');
+</script>
+
+<script type="text/javascript">
+function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}function t(t,c,n){var a,o,r;null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n,t.marfeel.config.accountId=c;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}!function(e,c){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};t(e,c,n)}(window,1446,{} /*config*/);
+</script>
+
+      <link rel='canonical' href='https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007' />
+<script type='text/javascript'>
+var ezoTemplate = 'orig_site';
+var ezouid = '1';
+var ezoFormfactor = '1';
+</script><script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 488239;
+var ezdomain = 'albawaba.net';
+var ezoicSearchable = 1;
+</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = window._ezaq = Object.assign({}, typeof window._ezaq !== "undefined" ? window._ezaq : {}, {"ab_test_id":"mod243-c","ad_cache_level":0,"ad_lazyload_version":0,"ad_load_version":0,"city":"San Jose","country":"US","days_since_last_visit":-1,"domain_id":488239,"engaged_time_visit":0,"ezcache_level":0,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"is_embed":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":807,"page_ad_positions":"","page_view_count":0,"page_view_id":"556241c2-1b05-445e-5a9b-95f19ff1d5d2","position_selection_id":0,"postal_code":"95126","pv_event_count":0,"response_size_orig":58636,"response_time_orig":207,"serverid":"i-049f4f55e91513f77","state":"CA","t_epoch":1700354438,"template_id":5,"time_on_site_visit":0,"url":"https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007","word_count":326,"worst_bad_word_level":0});var _ezExtraQueries = "&ez_orig=1";</script>
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+	var d = new Date();
+	d.setTime(d.getTime() + (365*24*60*60*1000));
+	var expires = "expires="+d.toUTCString();
+	__ez.ck.setByCat("ezux_lpl_488239=" + new Date().getTime() + "|" + _ezaq.page_view_id + "|" + _ezaq.is_return_visitor + "; " + expires, 3);
+}
+function attach_ezolpl() {
+	if (document.readyState === "complete") {
+		create_ezolpl();
+		return;
+	}
+	window.addEventListener("load", create_ezolpl);
+}
+
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", null, false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script></head>
+    <body class="path-node page-node-type-article has-glyphicons">
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+        Skip to main content
+      </a>
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+<div class="colorized-page colorized-node-page news fire-engine-red term-260">
+                        <header class="navbar navbar-default container-fluid header-margin" id="navbar" role="banner">
+                  <div class="navbar-header">
+            <div class="container">
+
+                <div class="region region-navigation">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img src="/themes/custom/abn/logo-new-23.png" alt="Home" width="288" height="70"/>
+    </a>
+      <section id="block-subscribebutton" class="subscribe-btn basic block block-block-content block-block-content6c07b915-62a0-4745-aecf-c03313be3729 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><a href="/node/113" class="btn btn-default">Subscribe</a></div>
+      
+  </section>
+
+<section id="block-dummysearch" class="block-views-exposed-filter-blocksearch-search-page basic block block-block-content block-block-content9b7ae47f-3b69-4242-9916-bb7ef0a48e92 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><section class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksearch-search-page clearfix" data-drupal-selector="views-exposed-form-companies-companies-landing-page" id="block-exposedformsearchsearch-page-2"><form action="/search" method="get" id="views-exposed-form-companies-companies-landing-page2" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <a href="#" class="iconopen glyphicon glyphicon-search"></a><div class="custom-search-wrapper" style="display: none;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-group">
+      <label for="edit-keyword" class="control-label">Search</label>
+  
+  
+  <input placeholder="Enter Keyword" data-drupal-selector="edit-keyword" class="form-text form-control" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" required=""/></div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-search" class="button js-form-submit form-submit btn-primary btn icon-before" type="submit" id="edit-submit-search" value="Search" name=""><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+Search</button></div>
+</div><div class="form-item js-form-item form-type-select js-form-type-select form-item-sort-by js-form-item-sort-by form-group">
+      <label for="edit-sort-by" class="control-label">Sort by</label>
+  
+  
+  <input type="hidden" name="sort_by" value="created"/><div data-drupal-selector="edit-sort-by" class="form-select bef-links" id="edit-sort-by" name="sort_by">
+                    <ul><li><a href="/search" id="edit-sort-by-search-api-relevance" name="sort_by[search_api_relevance]" class="bef-link bef-link--selected">Relevance</a>                      </li><li><a href="/search?sort_by=title" id="edit-sort-by-title" name="sort_by[title]" class="bef-link">Title</a>                      </li><li><a href="/search?sort_by=created" id="edit-sort-by-created" name="sort_by[created]" class="bef-link">Date</a></li></ul></div>
+
+
+  
+  
+  </div>
+
+</div>
+
+</form>
+
+  </section></div>
+      
+  </section>
+
+<section class="language-switcher block block-abn-misc block-language-switcher clearfix" id="block-languageswitcher-2">
+  
+    
+
+      <a href="/ar">عربي</a>
+  </section>
+
+
+  </div>
+
+              <span class="page-category sm-page-category">NEWS</span>
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                          </div>
+          </div>
+
+                                <div class="navbar-menu">
+              <div class="container">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                    <div class="region region-navigation-collapsible">
+    <nav role="navigation" aria-labelledby="block-abn-main-menu-menu" id="block-abn-main-menu">
+            <h2 class="sr-only" id="block-abn-main-menu-menu">English Main navigation</h2>
+
+      
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/" target="_self" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                      <li class="active active-trail">
+                                        <a href="/news" target="_self" class="active-trail" data-drupal-link-system-path="taxonomy/term/260">News</a>
+              </li>
+                      <li>
+                                        <a href="/business" target="_self" data-drupal-link-system-path="taxonomy/term/261">Business</a>
+              </li>
+                      <li>
+                                        <a href="/entertainment" target="_self" data-drupal-link-system-path="taxonomy/term/262">Entertainment</a>
+              </li>
+                      <li>
+                                        <a href="/sport" target="_self" data-drupal-link-system-path="taxonomy/term/449">Sports</a>
+              </li>
+                      <li>
+                                        <a href="/lifestyle" target="_self" data-drupal-link-system-path="taxonomy/term/1044432">Lifestyle</a>
+              </li>
+                      <li>
+                                        <a href="/the-node" target="_self" data-drupal-link-system-path="taxonomy/term/490">The Node</a>
+              </li>
+                      <li>
+                                        <a href="/slideshows" data-drupal-link-system-path="node/182">Slideshows</a>
+              </li>
+                      <li class="last">
+                                        <a href="/videos" data-drupal-link-system-path="videos">Videos</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher block block-abn-misc block-language-switcher clearfix" id="block-languageswitcher">
+  
+    
+
+      <a href="/ar">عربي</a>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-socialmedialinks-menu" id="block-socialmedialinks" class="social-media-links">
+            
+  <h2 class="visually-hidden" id="block-socialmedialinks-menu">Social media links</h2>
+  
+
+        
+      <ul class="menu menu--social-media-links nav">
+                      <li class="first">
+                                        <a href="https://www.facebook.com/AlBawabaNews" target="_blank" class="fab fa-facebook-f" title="Facebook">FB</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/company/al-bawaba-news/" target="_blank" class="fab fa-linkedin">Linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://twitter.com/AlBawabaEnglish" target="_blank" class="fab fa-twitter" title="Twitter">Twitter</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-subscribebutton-2" class="subscribe-btn-mobile basic block block-block-content block-block-content6c07b915-62a0-4745-aecf-c03313be3729 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><a href="/node/113" class="btn btn-default">Subscribe</a></div>
+      
+  </section>
+
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+              <span class="page-category xs-page-category">NEWS</span>
+                          </header>
+      
+    <div class="visible-print-block header-print page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+                                <img class="logo pull-left visible-print-inline-block" src="/themes/custom/abn/logo-print.png"/>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+    
+        <div role="main" class="main-container container js-quickedit-main-content">
+      <div class="row">
+
+                                      <div class="col-sm-12" role="heading">
+                <div class="region region-header">
+    <section id="block-adblocktopsmall" class="block block-ads-system block-ad-blocktop-small clearfix">
+  
+    
+
+      <div id="ad-top_small" class="block-entity-ads top_small"><!--<script>
+    var i=drupalSettings.adsystem.adcodes.leaderboard_2;
+    document.getElementById("top_leaderboard_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="top_leaderboard_ad"></div>-->
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985" crossorigin="anonymous"></script>
+<!-- Albawaba_Leaderboard -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8473527651240985" data-ad-slot="1935302420" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+<div data-drupal-messages-fallback="" class="hidden"></div>
+    <ol class="breadcrumb">
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  <a href="/news">NEWS</a>
+              </li>
+          <li class="active">
+                  Explosion reported in Ankara, Turkey
+              </li>
+      </ol>
+
+    <h1 class="page-header">
+<span>Explosion reported in Ankara, Turkey</span>
+</h1>
+
+
+  </div>
+
+            </div>
+                  
+                
+                        <section class="col-sm-12">
+
+                    
+                    
+                    
+                    
+                                <a id="main-content"></a>
+              <div class="region region-content">
+      <article data-history-node-id="1536007" role="article" class="article full clearfix">
+
+  <div class="content">
+    <div class="row bs-2col">
+  
+
+    <div class="col-sm-8 bs-region bs-region--left">
+    <section class="block block-layout-builder block-field-blocknodearticlecreated clearfix">
+  
+    
+
+      
+<span>Published October 1st, 2023 - 07:11 GMT</span>
+
+  </section>
+
+<section class="block block-addtoany block-addtoany-block clearfix">
+  
+    
+
+      <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://www.albawaba.net/news/explosion-reported-ankara-turkey-1536007" data-a2a-title="Explosion reported in Ankara, Turkey"><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_linkedin"></a><a class="a2a_button_pinterest"></a><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.albawaba.net%2Fnews%2Fexplosion-reported-ankara-turkey-1536007&amp;title=Explosion%20reported%20in%20Ankara%2C%20Turkey"></a></span>
+  </section>
+
+<section class="block block-layout-builder block-field-blocknodearticlefield-image-file clearfix">
+  
+    
+
+      
+            <div class="field field--name-field-image-file field--type-image field--label-hidden field--item">      <picture>
+                  <source srcset="/sites/default/files/styles/d08_standard/public/2023-10/Breaking%20News%20Template%203.png?h=d1cb525d&amp;itok=RV6P1Qve 1x" media="all and (min-width: 768px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/d08_standard/public/2023-10/Breaking%20News%20Template%203.png?h=d1cb525d&amp;itok=RV6P1Qve 1x" media="all and (max-width: 767px)" type="image/png"/>
+                  <img height="450" width="800" src="/sites/default/files/styles/d08_standard/public/2023-10/Breaking%20News%20Template%203.png?h=d1cb525d&amp;itok=RV6P1Qve" alt="Breaking News" class="img-responsive"/>
+
+  </picture>
+
+</div>
+      
+  </section>
+
+<section class="block block-ads-system block-ad-blockwysiwyg-1 clearfix">
+  
+    
+
+      <div id="ad-wysiwyg_1" class="block-entity-ads wysiwyg_1"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8473527651240985" data-ad-slot="3902990211"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- /48467244/Albawaba_Seedtag -->
+<!--
+<div id='div-gpt-ad-1611146064522-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1611146064522-0'); });
+  </script>
+</div>
+--></div>
+  </section>
+
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">
+<p><strong>ALBAWABA - Turkish media reported that an explosion was heard near the headquarters of the Ministry of Interior. All roads leading to the scene have been closed. </strong></p><p>In a post on X, formerly known as Twitter, Turkish Interior Minister Ali Yerlikaya said that two interior ministry officials were slightly injured in the Ankara attack. </p><p>&#34;One of the terrorists blew himself up and the other terrorist was neutralized&#34; Yerlikaya added. </p><div class="raw-html-embed"><blockquote class="twitter-tweet"><p lang="tr" dir="ltr" xml:lang="tr">Saat 09.30 sıralarında İçişleri Bakanlığımız Emniyet Genel Müdürlüğü giriş kapısı önüne hafif ticari araçla gelen 2 terörist bombalı saldırı eyleminde bulunmuştur.<br/><br/>Teröristlerden biri kendini patlatmış, diğer terörist etkisiz hale getirilmiştir.<br/><br/>Açılan ateş sırasında 2 Emniyet…</p>— Ali Yerlikaya (@AliYerlikaya) <a href="https://twitter.com/AliYerlikaya/status/1708379773032972410?ref_src=twsrc%5Etfw">October 1, 2023</a></blockquote><span class="ezoic-autoinsert-video ezoic-under_second_paragraph"></span><!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-clearholder --><!-- ezoic_video_placeholder-under_second_paragraph-640x360-999997-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-clearholder --><!-- ezoic_video_placeholder-under_second_paragraph-426x240-999997-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-clearholder --><!-- ezoic_video_placeholder-under_second_paragraph-384x216-999997-nonexxxclearxxxblock --> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><p> </p>
+</div>
+      
+  </section>
+
+<section class="block block-ads-system block-ad-blockwysiwyg-3 clearfix">
+  
+    
+
+      <div id="ad-wysiwyg_3" class="block-entity-ads wysiwyg_3"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8473527651240985" data-ad-slot="5288224071"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!--
+<script>
+    var i=drupalSettings.adsystem.adcodes.onebyone;
+    document.getElementById("1x1_ad").innerHTML='<div id="'+i+'"></div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="1x1_ad"></div>
+
+<div id="M804386ScriptRootC1308166">
+</div>
+<script src=" https://jsc.mgid.com/a/r/ar.albawaba.com.1308166.js" async>
+</script>
+--></div>
+  </section>
+
+<section class="views-element-container block block-views block-views-blockarticles-article-tags-block clearfix">
+  
+    
+
+      <div class="form-group"><div class="view view-articles view-id-articles view-display-id-article_tags_block js-view-dom-id-633bc81e19ae9bf0b5661e5a5dfc0290676598054fc7151b5d1c4937524f687e">
+  
+    
+      
+      <div class="view-content">
+      
+    <div class="views-row"><span class="views-field views-field-nothing"><span class="field-content">Tags:</span></span><a href="/tags/ankara" hreflang="en">Ankara</a></div>
+
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+<section class="basic block block-block-content block-block-contenta1dc33d2-72e9-466e-9ab7-5eb0888569e8 clearfix">
+  
+    
+
+      
+  </section>
+
+<section class="basic block block-block-content block-block-contentb9b16ca0-5517-4d75-ad7b-d5c4e9c41428 clearfix">
+  
+    
+
+      
+  </section>
+
+<section class="footer-logo block block-abn-misc block-syndigate-article clearfix">
+  
+    
+
+      <img class="syndigate-logo" src="/themes/custom/abn/images/syndigate-logo.svg" width="181" height="28"/><br/><p class="syndigate-compyrights">© 2000 - 2023 Al Bawaba (www.albawaba.com)</p>
+  </section>
+
+<section class="basic block block-block-content block-block-content7ad01536-ce39-401e-98ce-014da0bae541 clearfix">
+  
+      <h2 class="block-title">You may also like</h2>
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><!-- Composite Start -->
+<div id="M800659ScriptRootC1301424"></div>
+<script src="https://jsc.mgid.com/a/l/albawaba.com.1301424.js" async=""></script><!-- Composite End --></div>
+      
+  </section>
+
+
+  </div>
+  
+    <div class="col-sm-4 bs-region bs-region--right">
+    <section class="block block-ads-system block-ad-blocksidebar-1 clearfix">
+  
+    
+
+      <div id="ad-sidebar_1" class="block-entity-ads sidebar_1"><!--<script>
+    var i=drupalSettings.adsystem.adcodes.medium_rectangle_2;
+    document.getElementById("sidebar1_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="sidebar1_ad"></div>-->
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985" crossorigin="anonymous"></script>
+<!-- Albawaba_Sidebar_Resp_1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8473527651240985" data-ad-slot="9115271521" data-ad-format="vertical" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+<section class="block block-quicktabs block-quicktabs-blockhome-page-tabs clearfix">
+  
+    
+
+      <div class="quicktabs-wrapper form-group" id="quicktabs-home_page_tabs"><ul class="quicktabs-tabs" role="tablist"><li role="tab" aria-controls="quicktabs-tabpage-home_page_tabs-0" aria-selected="true" id="quicktabs-tab-home_page_tabs-0" tabindex="-1" class="active latest" tabindex="0"><a href="/quicktabs/nojs/home_page_tabs/0" class="use-ajax quicktabs-loaded" data-quicktabs-tab-index="0">Latest</a></li><li role="tab" aria-controls="quicktabs-tabpage-home_page_tabs-1" aria-selected="false" id="quicktabs-tab-home_page_tabs-1" tabindex="-1" class="popular"><a href="/quicktabs/nojs/home_page_tabs/1" class="use-ajax" data-quicktabs-tab-index="1">Popular</a></li></ul><div class="quicktabs-main form-group" id="quicktabs-container-home_page_tabs"><div id="quicktabs-tabpage-home_page_tabs-0" class="quicktabs-tabpage" role="tabpanel" aria-labelledby="quicktabs-tab-home_page_tabs-0" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div><div class="views-element-container form-group"><div class="latest-articles small-teaser-view view view-articles view-id-articles view-display-id-latest_articles js-view-dom-id-5e148f4807ee1ee77263cbcd8e82765d456658d7f9e611cd91387c0e202e6c64">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><article data-history-node-id="1541996" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div class="field--type-image has-video-0">
+        
+                    <a href="/news/israeli-occupation-faces-backlash-un-school-comes-under-attack-resulting-50-civilian-deaths">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2023-11/343X7MV-Preview.jpg?h=6f3285a6&amp;itok=-uBElAvC 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2023-11/343X7MV-Preview.jpg?h=6f3285a6&amp;itok=mUm0JapD 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2023-11/343X7MV-Preview.jpg?h=6f3285a6&amp;itok=mUm0JapD" alt="Gaza School" title="Internally displaced Palestinian children who have fled the northern Gaza Strip (Photo by MAHMUD HAMS / AFP)" class="img-responsive"/>
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/news/israeli-occupation-faces-backlash-un-school-comes-under-attack-resulting-50-civilian-deaths" hreflang="en">Israeli occupation faces backlash as UN school comes under attack, resulting in 50 civilian deaths</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1541993" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div class="field--type-image has-video-0">
+        
+                    <a href="/node/unveiling-causes-israeli-intelligence-failure-al-aqsa-flood-operation-1541993">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2023-11/shutterstock_2383491001.jpg?h=68c5e252&amp;itok=9u4KKv5N 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2023-11/shutterstock_2383491001.jpg?h=68c5e252&amp;itok=MhdZ7xyI 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2023-11/shutterstock_2383491001.jpg?h=68c5e252&amp;itok=MhdZ7xyI" alt="mossad" title="Stuttgart, Germany - 10-29-2023 (Shutterstock)" class="img-responsive"/>
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/node/unveiling-causes-israeli-intelligence-failure-al-aqsa-flood-operation-1541993" hreflang="en">Unveiling the causes of Israeli intelligence failure in the Al-Aqsa Flood operation</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1541989" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div class="field--type-image has-video-0">
+        
+                    <a href="/news/unrelenting-israeli-assaults-persist-gaza-fuel-shortage-imperils-city-services-1541989">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2023-11/34433EG-Preview.jpg?h=10d202d3&amp;itok=jVn0GarU 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2023-11/34433EG-Preview.jpg?h=10d202d3&amp;itok=Of-_CrPa 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2023-11/34433EG-Preview.jpg?h=10d202d3&amp;itok=Of-_CrPa" alt="Gaza Conflict" title="A picture taken from the Israeli side of the border with the Gaza Strip (Photo by Kenzo TRIBOUILLARD / AFP)" class="img-responsive"/>
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/news/unrelenting-israeli-assaults-persist-gaza-fuel-shortage-imperils-city-services-1541989" hreflang="en">Unrelenting Israeli assaults persist in Gaza, fuel shortage imperils city services</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1541822" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div class="field--type-image has-video-0">
+        
+                    <a href="/lifestyle/exploring-your-destiny-daily-horoscope-november-19-2023-1541822">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2023-11/shutterstock_1951563985_1.jpg?h=6f4567a2&amp;itok=FZ1cN9sA 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2023-11/shutterstock_1951563985_1.jpg?h=6f4567a2&amp;itok=1P84MhAn 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2023-11/shutterstock_1951563985_1.jpg?h=6f4567a2&amp;itok=1P84MhAn" alt="Horoscope" title="Shutterstock" class="img-responsive"/>
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/lifestyle/exploring-your-destiny-daily-horoscope-november-19-2023-1541822" hreflang="en">Exploring Your Destiny: Daily Horoscope - November 19, 2023</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+    <div class="views-row"><article data-history-node-id="1541983" class="node node--type-article node--view-mode-horizontal-media-teaser-small horizontal-media-teaser-view-mode small anchor-all clearfix">
+    <div class="left col-xs-12 col-lg-5">
+          <div class="field--type-image has-video-0">
+        
+                    <a href="/sport/france-vs-gibraltar-predicted-lineups-uefa-euro-2024-qualifying-1541983">  <picture>
+                  <source srcset="/sites/default/files/styles/d04_traditional/public/2023-11/france.jpg?h=8dd96348&amp;itok=8Cphe134 1x" media="all and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/d02_traditional/public/2023-11/france.jpg?h=8dd96348&amp;itok=ojl32Lxv 1x" media="all and (min-width: 768px)" type="image/jpeg"/>
+                  <img height="150" width="200" src="/sites/default/files/styles/d02_traditional/public/2023-11/france.jpg?h=8dd96348&amp;itok=ojl32Lxv" alt="France&#39;s head coach Didier Deschamps (L) speaks with France&#39;s defender Jean Clair Todibo (C) next to France&#39;s forward Kylian Mbappe as they take part in a training session at the Allianz Riviera Stadium in Nice, southeastern France on November 17, 2023 on the eve of the UEFA Euro 2024 group B qualifying match between France and Gibraltar. (Photo by FRANCK FIFE / AFP)" title="France&#39;s head coach Didier Deschamps (L) speaks with France&#39;s defender Jean Clair Todibo (C) next to France&#39;s forward Kylian Mbappe as they take part in a training session at the Allianz Riviera Stadium in Nice, southeastern France on November 17, 2023 on the eve of the UEFA Euro 2024 group B qualifying match between France and Gibraltar. (Photo by FRANCK FIFE / AFP)" class="img-responsive"/>
+
+  </picture>
+</a>
+
+      
+  
+    </div>
+
+
+    </div>
+        <div class="right col-xs-12 col-lg-7">
+      
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h3>
+  <a href="/sport/france-vs-gibraltar-predicted-lineups-uefa-euro-2024-qualifying-1541983" hreflang="en">France vs Gibraltar predicted lineups: UEFA Euro 2024 qualifying</a>
+</h3>
+</div>
+      
+      </div>
+  </article>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      
+    </div>
+    </div>
+</div>
+</div>
+</div>
+<div id="quicktabs-tabpage-home_page_tabs-1" class="quicktabs-tabpage quicktabs-hide" role="tabpanel" aria-labelledby="quicktabs-tab-home_page_tabs-1" tabindex="0">
+<div class="quicktabs-block-title"></div>
+<div>Loading content ...</div>
+</div>
+</div>
+</div>
+
+  </section>
+
+<section class="block block-ads-system block-ad-blocksidebar-2 clearfix">
+  
+    
+
+      <div id="ad-sidebar_2" class="block-entity-ads sidebar_2"><!--<script>
+    var i=drupalSettings.adsystem.adcodes.half_page_1;
+    document.getElementById("sidebar2_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="sidebar2_ad"></div>-->
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985" crossorigin="anonymous"></script>
+<!-- Albawaba_Sidebar_Resp_3 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8473527651240985" data-ad-slot="7616101995" data-ad-format="vertical" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+<section class="basic block block-block-content block-block-content6bd222aa-670c-49f7-937f-a6b5d47b668e clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="black-box sub-box-general">
+    <h4 class="title"> Subscribe </h4>
+    <div class="description">
+        Sign up to our newsletter for exclusive updates and enhanced content
+    </div>
+    <div class="white-button">
+        <a href="/newsletter-en/signup" class="btn btn-white">Subscribe Now </a>
+    </div>
+</div>
+
+<div class="black-box sub-box-entz" style="display:none;">
+    <form action="https://albawaba.us20.list-manage.com/subscribe/post?u=a0a085997cb4a23edb66b254a&amp;id=b8ceb6a589" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank" data-drupal-form-fields="mce-EMAIL,mc-embedded-subscribe">
+            <h4 class="title"> Subscribe </h4>
+            <div class="description">
+                Sign up to get Al Bawaba&#39;s exclusive celeb scoops and entertainment news
+            </div>
+            
+            <div class="input">
+                <input class="form-control form-text" id="mce-EMAIL" name="EMAIL" type="email" value="" placeholder="Enter Email"/></div>
+            
+            <br/><div class="white-button">
+                <input type="submit" class="btn btn-white" value="Subscribe Now"/></div>
+    </form>
+</div></div>
+      
+  </section>
+
+<section class="block block-ads-system block-ad-blocksidebar-3 clearfix">
+  
+    
+
+      <div id="ad-sidebar_3" class="block-entity-ads sidebar_3"><!--<script>
+    var i=drupalSettings.adsystem.adcodes.medium_rectangle_2;
+    document.getElementById("sidebar3_ad").innerHTML='<div id="'+i+'">'+drupalSettings.adsystem.admessage+'</div>';
+    googletag.cmd.push(function() { googletag.display(i); });
+</script>
+
+<div id="sidebar3_ad"></div>-->
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8473527651240985" crossorigin="anonymous"></script>
+<!-- Albawaba_Sidebar_MPU_2 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8473527651240985" data-ad-slot="4290320257"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+  </section>
+
+
+  </div>
+  
+</div><span class="ezoic-autoinsert-video ezoic-under_first_paragraph"></span><!-- ezoic_video_placeholder-under_first_paragraph-854x480-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-854x480-999998-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock -->
+<div class="row bs-1col">
+  
+  <div class="col-sm-12 bs-region bs-region--main">
+    
+  </div>
+</div>
+
+  </div>
+
+</article>
+
+
+  </div>
+
+                  </section>
+
+                      </div>
+    </div>
+  
+  
+  <div class="footer-wrapper">
+    <footer class="container" role="contentinfo">
+      <div class="row">
+                  <div class="footer-first col-sm-2 hidden-sm">
+              <div class="region region-footer-first">
+    <section class="footer-logo block block-abn-misc block-footer-logo clearfix" id="block-footerlogo-2">
+  
+    
+
+      <a href="/"><img src="/themes/custom/abn/images/footer-logo.png" alt="Al Bawaba News" width="178" height="165"/></a>
+  </section>
+
+
+  </div>
+
+          </div>
+        
+                  <div class="footer-second col-sm-7">
+              <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-abn-footer-menu" id="block-abn-footer" class="footer-menu">
+            
+  <h2 class="visually-hidden" id="block-abn-footer-menu">Footer menu</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/abstatic/about-us" target="_self" title="About Us" data-drupal-link-system-path="node/30">About Us</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/advertise-us" target="_self" title="أعلن معنا" data-drupal-link-system-path="node/16">Advertise With Us </a>
+              </li>
+                      <li>
+                                        <a href="/subscribe-to-al-bawaba" target="_self" title="Become a Subscriber" data-drupal-link-system-path="node/113">Become a Subscriber</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/editorial-team-contributors-columnists" target="_self" title="Our Team" data-drupal-link-system-path="node/50">Our Team</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/solve-technical-question" target="_self" title="حل مشكلة فنية" data-drupal-link-system-path="node/22">Solve a Technical Question</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/complaints-and-suggestions" target="_self" title="Complaints &amp; Corrections" data-drupal-link-system-path="node/21">Complaints and Suggestions</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/contact-us" target="_self" title="Contact Us" data-drupal-link-system-path="node/24">Contact Us</a>
+              </li>
+                      <li>
+                                        <a href="/abstatic/terms-use" target="_self" title="Terms of Use" data-drupal-link-system-path="node/94">Terms of Use</a>
+              </li>
+                      <li class="last">
+                                        <a href="/rss" data-drupal-link-system-path="node/1187023">RSS Feeds</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+          </div>
+        
+                  <div class="footer-third col-md-3 col-sm-5">
+              <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-socialmedialinks-2-menu" id="block-socialmedialinks-2">
+            
+  <h2 class="visually-hidden" id="block-socialmedialinks-2-menu">Social media links</h2>
+  
+
+        
+      <ul class="menu menu--social-media-links nav">
+                      <li class="first">
+                                        <a href="https://www.facebook.com/AlBawabaNews" target="_blank" class="fab fa-facebook-f" title="Facebook">FB</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/company/al-bawaba-news/" target="_blank" class="fab fa-linkedin">Linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://twitter.com/AlBawabaEnglish" target="_blank" class="fab fa-twitter" title="Twitter">Twitter</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-subscribefooter" class="subscribe-footer basic block block-block-content block-block-content8aef04bd-d3ef-4867-b0e2-ea422752a650 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>Subscribe to our newsletter for exclusive updates and enhanced content</p>
+
+<p><a class="btn btn-default" href="/subscribe-to-al-bawaba">Subscribe</a></p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+          </div>
+              </div>
+    </footer>
+
+                  <div class="copyright" role="contentinfo">
+          <div class="container">
+              <div class="region region-footer">
+    <section id="block-dcma" class="basic block block-block-content block-block-content693cb608-c977-4799-beaf-0cfc91ed58f4 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">
+<p><a class="dmca-badge" href="//www.dmca.com/Protection/Status.aspx?ID=10df430b-fab6-4076-a8d3-f7f8b6c4abed" title="DMCA.com Protection Status"><img alt="DMCA.com Protection Status" src="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=10df430b-fab6-4076-a8d3-f7f8b6c4abed" width="135" height="28"/></a> <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js">
+<!--//--><![CDATA[// ><!--
+ 
+//--><!]]>
+</script></p>
+
+</div>
+      
+  </section>
+
+<section id="block-footercopyright" class="block block-abn-misc block-footer-copyright clearfix">
+  
+    
+
+      © 2000 - 2023 Al Bawaba (www.albawaba.com)
+  </section>
+
+
+  </div>
+
+          </div>
+        </div>
+            </div>
+
+        <div class="hidden">
+      <div class="container">
+          <div class="region region-hidden">
+    <section class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksearch-search-page clearfix" data-drupal-selector="views-exposed-form-companies-companies-landing-page" id="block-exposedformsearchsearch-page-2">
+  
+    
+
+      <form action="/search" method="get" id="views-exposed-form-companies-companies-landing-page" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <a href="#" class="iconopen glyphicon glyphicon-search"></a><div class="custom-search-wrapper"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-group">
+      <label for="edit-keyword" class="control-label">Search</label>
+  
+  
+  <input placeholder="Enter Keyword" data-drupal-selector="edit-keyword" class="form-text form-control" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128"/>
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-search" class="button js-form-submit form-submit btn-primary btn icon-before" type="submit" id="edit-submit-search" value="Search" name=""><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+Search</button></div>
+</div><div class="form-item js-form-item form-type-select js-form-type-select form-item-sort-by js-form-item-sort-by form-group">
+      <label for="edit-sort-by" class="control-label">Sort by</label>
+  
+  
+  <input type="hidden" name="sort_by" value="created"/>
+<div data-drupal-selector="edit-sort-by" class="form-select bef-links" id="edit-sort-by" name="sort_by">
+                    <ul><li><a href="/search" id="edit-sort-by-created" name="sort_by[created]" class="bef-link bef-link--selected">Date</a>                      </li><li><a href="/search?sort_by=search_api_relevance" id="edit-sort-by-search-api-relevance" name="sort_by[search_api_relevance]" class="bef-link">Relevance</a>                      </li><li><a href="/search?sort_by=title" id="edit-sort-by-title" name="sort_by[title]" class="bef-link">Title</a></li></ul>      </div>
+
+
+  
+  
+  </div>
+
+</div>
+
+</form>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </div>
+    </div>
+
+  </div>
+
+      
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1536007","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"abn\/bootstrap-scripts,abn\/bootstrap-styles,abn\/global-colors-styles,abn\/global-scripts,abn\/global-styles,abn\/instawidgetblock-override,abn\/vartheme-styles,abn\/vbp-colors,abn_opencalais_ui\/abn.opencalais,abn_premium\/abn_premium,addtoany\/addtoany.front,better_exposed_filters\/general,bootstrap\/popover,bootstrap\/tooltip,eu_cookie_compliance\/eu_cookie_compliance_default,extlink\/drupal.extlink,google_analytics\/google_analytics,poll\/drupal.poll-links,quicktabs\/quicktabs,social_media_links\/social_media_links.theme,system\/base,views\/views.module,vmi\/horizontal_media_teaser_small,webform_bootstrap\/webform_bootstrap","theme":"abn","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"google_analytics":{"account":"UA-9239682-4","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch1\u003E\u003Cstrong\u003EWe use cookies on this site to enhance your user experience\u003C\/strong\u003E\u003C\/h1\u003E\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/abstatic\/terms-use","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch1\u003E\u003Cstrong\u003EWe use cookies on this site to enhance your user experience\u003C\/strong\u003E\u003C\/h1\u003E\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"adsystem":{"adchannel":"","adcodes":{"medium_rectangle_1":"div-gpt-ad-1606040732067-0","medium_rectangle_2":"div-gpt-ad-1606041357673-0","half_page_1":"div-gpt-ad-1606039518474-0","half_page_2":"div-gpt-ad-1606039930577-0","leaderboard_top":"div-gpt-ad-1606039266679-0","leaderboard_2":"div-gpt-ad-1606040473232-0","inread":"div-gpt-ad-1600772613721-0","onebyone":"div-gpt-ad-1601470178310-0"},"admessage":"\u003Csomething\u003EAdvertisement\u003C\/something\u003E"},"quicktabs":{"qt_home_page_tabs":{"tabs":[{"title":"Latest","weight":0,"type":"view_content","content":{"block_content":{"options":{"bid":"footer_logo","block_title":"","display_title":false}},"view_content":{"options":{"vid":"articles","display":"latest_articles","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"qtabs_content":{"options":{"machine_name":"entertainment_tabs"}}},"tab_page":0},{"title":"Popular","weight":0,"type":"view_content","content":{"block_content":{"options":{"bid":"footer_logo","block_title":"","display_title":false}},"view_content":{"options":{"vid":"google_counter","display":"popular_article","args":""}},"node_content":{"options":{"nid":"","view_mode":"full","hide_title":true}},"qtabs_content":{"options":{"machine_name":"business_tabs"}}},"tab_page":1}]}},"user":{"uid":0,"permissionsHash":"22412b970b5b9bce9bc190293e8bbc1b129391ef903fd1ee06e115f8bf72e44c"}}</script>
+<script src="/sites/default/files/js/js_7rX1xO-UaUJb2T8HBQMLaCF_5aKt3aMdBnj5g4IJitk.js"></script>
+<script src="//static.addtoany.com/menu/page.js" async=""></script>
+<script src="/sites/default/files/js/js_99MoQP7BngO1uJ_77oLW0rh5RaN8llUV8iNRpj_6ql8.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.0.9" defer=""></script>
+<script src="/sites/default/files/js/js_nUXDwwgwliRIhD5NgtLd1fSaFQD-n9wjEHVyC0aY7No.js"></script>
+
+    <script src="https://srvr.dmvs-apac.com/v2/dm-ce.min.js"></script>
+  
+
+<script>__ez.queue.addFile('/tardisrocinante/vitals.js', '/tardisrocinante/vitals.js?gcb=0&cb=3', false, ['/parsonsmaize/mulvane.js'], true, false, true, false);</script>
+<script>var _audins_dom="albawaba_net",_audins_did=488239;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezodn.com/detroitchicago/audins.js?cb=195-0");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.albawaba_net,DomainId.488239" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+<script>__ez.queue.addFile('/beardeddragon/drake.js', '/beardeddragon/drake.js?gcb=0&cb=6', false, [], true, false, true, false);</script>
+<script type="text/javascript" style='display:none;'>var __ez_dims = (function() {
+		var setCookie = function( name, content, expiry ) {
+			return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+		};
+		var ffid = 1;
+		var oh = window.screen.height;
+		var ow = window.screen.width;
+		var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+		var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+		var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+		var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+		setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+		setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+	})();</script>
+<script type='text/javascript' style='display:none;' async>__ez.queue.addFile('/parsonsmaize/chanute.js', '/parsonsmaize/chanute.js?a=a&cb=7&dcb=195-0&shcb=34', true, ['/parsonsmaize/mulvane.js'], true, false, false, false);</script>
+<script type='text/javascript' style='display:none;' async>__ez.queue.addFile('/porpoiseant/jellyfish.js', '/porpoiseant/jellyfish.js?a=a&cb=11&dcb=195-0&shcb=34', false, [], true, false, false, false);</script></body></html>

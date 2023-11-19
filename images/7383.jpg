@@ -1,0 +1,2835 @@
+
+
+
+
+
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+    
+    <!DOCTYPE html>
+<html class="uk-root" lang="en">
+<head>
+
+<script async>!function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0],a="https://cmp.quantcast.com".concat("/choice/","ECpz7gxYXdCG2","/","www.riverfronttimes.com","/choice.js?tag_version=V2"),n=0;e.async=!0,e.type="text/javascript",e.src=a,t.parentNode.insertBefore(e,t),function(){for(var e,t="__tcfapiLocator",a=[],n=window;n;){try{if(n.frames[t]){e=n;break}}catch(e){}if(n===window.top)break;n=n.parent}e||(!function e(){var a=n.document,i=!!n.frames[t];if(!i)if(a.body){var o=a.createElement("iframe");o.style.cssText="display:none",o.name=t,a.body.appendChild(o)}else setTimeout(e,5);return!i}(),n.__tcfapi=function(){var e,t=arguments;if(!t.length)return a;if("setGdprApplies"===t[0])t.length>3&&2===t[2]&&"boolean"==typeof t[3]&&(e=t[3],"function"==typeof t[2]&&t[2]("set",!0));else if("ping"===t[0]){var n={gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"};"function"==typeof t[2]&&t[2](n)}else"init"===t[0]&&"object"==typeof t[3]&&(t[3]=Object.assign(t[3],{tag_version:"V2"})),a.push(t)},n.addEventListener("message",(function(e){var t="string"==typeof e.data,a={};try{a=t?JSON.parse(e.data):e.data}catch(e){}var n=a.__tcfapiCall;n&&window.__tcfapi(n.command,n.version,(function(a,i){var o={__tcfapiReturn:{returnValue:a,success:i,callId:n.callId}};t&&(o=JSON.stringify(o)),e&&e.source&&e.source.postMessage&&e.source.postMessage(o,"*")}),n.parameter)}),!1))}();var i=function(){var e=arguments;typeof window.__uspapi!==i&&setTimeout((function(){void 0!==window.__uspapi&&window.__uspapi.apply(window.__uspapi,e)}),500)};if(void 0===window.__uspapi){window.__uspapi=i;var o=setInterval((function(){n++,window.__uspapi===i&&n<3?console.warn("USP is not accessible"):clearInterval(o)}),6e3)}}();</script>
+<link rel="stylesheet" type="text/css" href="/fdn-system/assets/pub/styles/desktop.min.css?cb=660f6b0fd494151d0610de1c12f36d05" />
+<script src="/fdn-system/assets/pub/scripts/uikit.min.js"></script>
+<script src="/fdn-system/assets/pub/scripts/uikit-icons-fdn.min.js"></script>
+<script src="/foundation/fontawesome/js/brands.min.js" async></script>
+<script src="/foundation/fontawesome/js/solid.min.js" async></script>
+<script src="/foundation/fontawesome/js/regular.min.js" async></script>
+<script src="/foundation/fontawesome/js/fontawesome.min.js" async></script>
+<script src="/foundation/fontawesome/js/light.min.js" async></script>
+<script src="/foundation/fontawesome/js/duotone.min.js" async></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="layout" content="Content Default (Responsive, Live, Air)" />
+<meta name="oid" content="41156760" />
+<script>
+window.__FOUNDATION_RESPONSIVE__ = true
+// 
+window.__FBAPIv__ = 'v3.2'
+// 
+</script>
+<script src="/foundation/scripts/foundation-air-2-0-1.js?cb=ad79ec1a72f4f74f0b5aa604de34c2f4"></script>
+<link rel="alternate" type="application/rss+xml" title="Riverfront Times RSS: Whole Site" href="https://www.riverfronttimes.com/stlouis/Rss.xml" />
+<link rel="alternate" type="application/rss+xml" title="Riverfront Times RSS: News Section" href="https://www.riverfronttimes.com/stlouis/Rss.xml?oid=2348800" />
+<link rel="alternate" type="application/rss+xml" title="Riverfront Times RSS: Missouri News" href="https://www.riverfronttimes.com/stlouis/Rss.xml?oid=37051540" />
+<script>
+fixupProfileLinks("https:\/\/www.riverfronttimes.com\/stlouis\/Profile", "https:\/\/posting.riverfronttimes.com\/stlouis\/MyProfile");
+</script>
+<meta name="google-signin-client_id" content="87938396824-n9je30of0amajur33q7mm972pi0k5oc8.apps.googleusercontent.com">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@400;700&family=Open+Sans+Condensed:wght@300;700&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
+
+
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700|Titillium+Web:400,700|Montserrat:400,700" rel="stylesheet" type="text/css">
+
+<style>
+:root {
+--pub-primary-color:#31639C;
+--pub-link-color:#31639C;
+--real-1-primary-color: #31639C;
+--real-1-secondary-color: #31639C66;
+}
+</style>
+<meta name="google-site-verification" content="t27RxzckhbflL78fSWUcvc_CarJTRS3UpdhCJHd8pCI" />
+<meta name="msvalidate.01" content="3443F17DFB93961891E95B1452B50579" />
+<meta name="pocket-site-verification" content="b1bd6d10226d722c350fdb32758f53" />
+<link href="https://plus.google.com/113763785405995504983" rel="publisher" />
+<meta name="google-site-verification" content="yW0a7N25x35btonU2z_kSz5V6UlPpd8RdziyVGaAudk" />
+<script> !(function () { window.googletag = window.googletag || {}; window.vmpbjs = window.vmpbjs || {}; window.vpb = window.vpb || {}; vpb.cmd = vpb.cmd || []; vpb.st=Date.now();  vpb.fastLoad = true; googletag.cmd = googletag.cmd || []; vmpbjs.cmd = vmpbjs.cmd || []; var cmds = []; try{ cmds = googletag.cmd.slice(0); googletag.cmd.length = 0; }catch(e){} var ready = false; function exec(cb) { return cb.call(googletag); } var overriden = false; googletag.cmd.push(function () { overriden = true; googletag.cmd.unshift = function (cb) { if (ready) { return exec(cb); } cmds.unshift(cb); if (cb._startgpt) { ready = true; for (var k = 0; k < cmds.length; k++) { exec(cmds[k]); } } }; googletag.cmd.push = function (cb) { if (ready) { return exec(cb); } cmds.push(cb); }; }); if(!overriden){ googletag.cmd.push = function (cb) { cmds.push(cb); }; googletag.cmd.unshift = function (cb) { cmds.unshift(cb); if (cb._startgpt) { ready = true; if (googletag.apiReady) { cmds.forEach(function (cb) { googletag.cmd.push(cb); }); } else { googletag.cmd = cmds; } } }; } var dayMs = 36e5, cb = parseInt(Date.now() / dayMs), vpbSrc = '//player.bidmatic.io/prebidlink/' + cb + '/wrapper_hb_753393_18709.js', pbSrc = vpbSrc.replace('wrapper_hb', 'hb'), gptSrc = '//securepubads.g.doubleclick.net/tag/js/gpt.js', c = document.head || document.body || document.documentElement; function loadScript(src, cb) { var s = document.createElement('script'); s.src = src; s.defer=false; c.appendChild(s); s.onload = cb; s.onerror = function(){ var fn = function(){}; fn._startgpt = true; googletag.cmd.unshift(fn); }; return s; } loadScript(pbSrc); loadScript(gptSrc); loadScript(vpbSrc); })() </script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>window.googletag = window.googletag || { cmd: [] };</script>
+<script>
+Foundation.Ad = Foundation.Ad || {};
+Foundation.Ad.slotsToDefineInHeader = ["STL_LeaderboardHeader-1", "STL_Footer-1", "STL_Reskin-1"];
+Foundation.Ad.setupPageTargeting = function () {
+googletag.pubads().setTargeting("template", ["Content"]); // template | Content
+googletag.pubads().setTargeting("media", ["screen"]); // media | screen
+googletag.pubads().setTargeting("section", ["news"]); // section | news
+googletag.pubads().setTargeting("category", ["MissouriNews"]); // category | MissouriNews
+googletag.pubads().setTargeting("oid", ["41156760"]); // oid | 41156760
+googletag.pubads().setTargeting("tags", ["Stoddard County Sheriff", "Stoddard County Sheriff's Department", "Bryan Pennington", "Parker", "Russ Oliver", "Roger Seal"]); // tags | Stoddard County Sheriff, Stoddard County Sheriff's Department, Bryan Pennington, Parker, Russ Oliver, Roger Seal
+googletag.pubads().setTargeting("vertical", ["news"]); // vertical | news
+googletag.pubads().setTargeting("category_type", ["Story"]); // category_type | Story
+}
+</script>
+<script src="https://www.riverfronttimes.com/stlouis/Responsive/Custom/Scripts/Gam.js?cb=eaa0af66a1d6a4b6f6f086f4aef600a2"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-67359815-1', 'auto');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview', { 'dimension1': 'content', 'dimension2': 'news', 'dimension4': 'Ryan Krull' });
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-60B89EX01T"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+gtag('config', 'G-60B89EX01T');
+</script>
+
+<script>
+var Euclid = Euclid || {}
+Euclid.RiverFrontTimes = Euclid.RiverFrontTimes || {}
+Euclid.RiverFrontTimes.vertical = Euclid.RiverFrontTimes.vertical || 'news'
+</script>
+
+
+
+
+
+
+<meta name="robots" content="max-image-preview:large" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta name="title" content="Deputy Shot Missouri Family&rsquo;s Dog and Threw It in a Ditch | St. Louis | St. Louis Riverfront Times" />
+<meta name="description" content="Stoddard County made no efforts to find 9-year-old Parker&rsquo;s family before executing him, the family&rsquo;s lawsuit says" />
+<meta name="keywords" content="Stoddard County Sheriff, Stoddard County Sheriff&#39;s Department, Bryan Pennington, Parker, Russ Oliver, Roger Seal" />
+<title>Deputy Shot Missouri Family’s Dog and Threw It in a Ditch | St. Louis | St. Louis Riverfront Times</title>
+<meta name="date" content="2023-11-01 07:36:00" />
+<meta name="author" content="Ryan Krull">
+<meta name="news_keywords" content="stoddard county sheriff, stoddard county sheriffs department, bryan pennington, parker, russ oliver, roger seal" />
+<link rel="image_src" href="https://media2.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41156762/parker.jpg" />
+<meta name="thumbnail" content="https://media2.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41156762/parker.jpg" />
+<link rel="canonical" href="https://www.riverfronttimes.com/news/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760" />
+<meta property="og:url" content="https://www.riverfronttimes.com/news/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760" />
+<meta property="fb:app_id" content="1429692410383325" />
+<meta property="og:site_name" content="Riverfront Times" />
+<meta property="og:title" content="Deputy Shot Missouri Family&rsquo;s Dog and Threw It in a Ditch" />
+<meta property="og:image" content="https://media2.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41156762/parker.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="337" />
+<meta property="og:description" content="Stoddard County made no efforts to find 9-year-old Parker&rsquo;s family before executing him, the family&rsquo;s lawsuit says" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://media2.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41156762/parker.jpg">
+<meta name="twitter:creator" content="@RyanWKrull">
+<meta name="twitter:site" content="@riverfronttimes/">
+<meta name="twitter:title" content="Deputy Shot Missouri Family&rsquo;s Dog and Threw It in a Ditch">
+<meta name="twitter:description" content="Stoddard County made no efforts to find 9-year-old Parker&rsquo;s family before executing him, the family&rsquo;s lawsuit says">
+
+<script type="application/ld+json">
+{
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id":"https:\/\/www.riverfronttimes.com\/news\/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760"
+},
+"headline": "Deputy Shot Missouri Family’s Dog and Threw It in a Ditch",
+"description": "A Missouri family is suing the Stoddard County sheriff and two of his deputies, claiming they killed a family dog in a \"wholly unjustified,\" \"senseless\" and illegal manner.",
+"image": {
+"url": "https:\/\/media2.riverfronttimes.com\/riverfronttimes\/imager\/u\/original\/41156762\/parker.jpg",
+"width": 1170,
+"height": 658,
+"@type": "ImageObject"
+},
+"datePublished": "2023-11-01T07:36:00",
+"dateModified": "2023-11-18T03:31:43",
+"author": {
+"name": "Ryan Krull",
+"url": "https:\/\/www.riverfronttimes.com\/author\/ryan-krull",
+"@type": "Person"
+},
+"publisher": {
+"name": "Riverfront Times",
+"logo": {
+"url": "https:\/\/www.riverfronttimes.com\/imager\/b\/google-amp-logo\/808579\/2a75\/riverfront_fb.png",
+"width": 60,
+"height": 60,
+"@type": "ImageObject"
+},
+"@type": "Organization"
+},
+"@context": "https://schema.org",
+"@type": "NewsArticle"
+}
+</script>
+<script>window.twttr = (function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0],
+t = window.twttr || {};
+if (d.getElementById(id)) return t;
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+t._e = [];
+t.ready = function(f) {
+t._e.push(f);
+};
+return t;
+}(document, "script", "twitter-wjs"));</script>
+<script>jQuery(window).on('beforeprint',()=>{jQuery(`img[loading]`).each((index,item)=>{item.removeAttribute(`loading`);});});</script>
+</head>
+<script>console.log('resize function removed');</script>
+<body id="Content" class="ContentDefault MissouriNews news RespOneCol riverfronttimes">
+<script>
+jQuery(() => {
+if (Foundation.Ad && typeof(Foundation.Ad.showFooter) === 'function') {
+googletag.cmd.push(function() {
+Foundation.Ad.showFooter('STL_Footer-1');
+});
+}
+});
+</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5SPSS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5SPSS');</script>
+
+<div id="fb-root"></div>
+<script>
+(function () {
+var app = new Foundation.Facebook.Application();
+app.receiveAuthNotifications();
+app.receiveLikeNotifications();
+})();
+</script>
+<script>
+(function () {
+var googAuth = Foundation.Google.loadGoogleOauth().then(function(){
+//if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth initialized.")
+}.bind(this), function(){
+if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth didn't init.")
+})
+})()
+</script>
+<div id="ContentDefault" class="grid-resp-1 page layout-ContentDefault">
+<div class="ev-grid-layout ev-clamp@m ev-clamp@l">
+<div class="ev-grid-zone ev-leader-zone">
+<div class="ev-grid-col uk-width-1-1" data-ev-zone="Leader">
+</div>
+</div>
+<div class="ev-grid-zone ev-header-zone">
+<div class="ev-grid-col uk-width-1-1" data-ev-zone="GlobalHeader">
+
+<div class="GlobalHeader ContentDefault  uk-margin-remove new-header uk-root fdn-margin-vert SiteHeader comp-shell-siteheader" data-component-id="SiteHeader">
+<div class="uk-flex uk-flex-wrap fdn-site-header-flex">
+<div class="uk-hidden@m uk-margin-auto-right uk-margin-auto-vertical fdn-site-header-nav-toggle">
+<a href="#offcanvas-slide-navigation" class="fdn-nav-toggle uk-button" uk-toggle>
+<span class="uk-icon"><i class="fas fa-bars fa-2x"></i></span>
+</a>
+</div>
+<div class="uk-margin-auto uk-width-auto uk-width-1-1@m fdn-site-header-logo">
+<div class="GlobalHeader Logoresponsive  uk-margin-remove uk-root fdn-margin-vert Logo comp-shell-logo" data-component-id="Logo">
+<div class="uk-margin-remove">
+<a class="uk-logo" href="https://www.riverfronttimes.com/" title="Riverfront Times">
+<img src="https://www.riverfronttimes.com/images/logos/mainLogo.jpg" alt="Riverfront Times">
+</a>
+</div>
+<div class="uk-visible@m uk-margin-auto-left uk-flex uk-flex-middle">
+<div ad-slot-div-id="STL_LeaderboardHeader-1" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around " preset-height="true" leaderboardheader-desktop-stub hidden>
+<script>Foundation.Ad.showAd();</script>
+</div>
+</div>
+</div>
+<div id="fdn-logo-hook"></div>
+</div>
+<div class="uk-width-1-1 uk-flex-none uk-visible@m fdn-site-header-nav">
+
+<div id="NavigationHorizontal" class="GlobalHeader NavigationHorizontalresponsive uk-margin-remove   uk-root fdn-margin-vert NavigationHorizontal comp-shell-navigationhorizontal" data-component-id="NavigationHorizontal">
+<nav class="fdn-nav-block uk-navbar-container uk-navbar-transparent
+uk-responsive-width uk-visible@m" id="mainNav" uk-navbar>
+<ul class="site-nav-source uk-navbar-nav uk-width-1-1">
+<li class="fdn-nav-parent uk-parent uk-visible@m fdn-site-nav-home" id="Home">
+<a href="https://www.riverfronttimes.com/stlouis/Home" target="_self">Home</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="News">
+<a href="https://www.riverfronttimes.com/news" target="_self">News</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/news" target="_self" title>Latest News</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/topic/abortion-rights-38101853" target="_self" title>Abortion Rights</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/sports-40116896" target="_self" title>Sports</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/st-louis-metro-news-2349235" target="_self" title>St. Louis Metro News</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/missouri-news-37051540" target="_self" title>Missouri News</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/IssueArchives?issue=thisweek" target="_self" title>Digital Issue</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/st-louis-guides" target="_self" title>St. Louis Guides</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/slideshows/?section=2348800" target="_self" title>News Slideshows</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="ArtsCulture">
+<a href="https://www.riverfronttimes.com/arts" target="_self">Arts &amp; Culture</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/arts" target="_self" title>Latest Arts &amp; Culture</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/arts-stories-and-interviews-2512891" target="_self" title>Arts Stories &amp; Interviews</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/theater-review-40116919" target="_self" title>Theater Review</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/slideshows/?section=2348805" target="_self" title>Arts &amp; Culture Slideshows</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="FoodDrink">
+<a href="https://www.riverfronttimes.com/food-drink" target="_self">Food &amp; Drink</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/food-drink" target="_self" title>Latest Food &amp; Drink</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/food-and-drink-news-2512889" target="_self" title>Food &amp; Drink News</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/restaurant-reviews-2349240" target="_self" title>Restaurant Reviews</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/topic/st-louis-standards-37152531" target="_self" title>St. Louis Standards</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/restaurant-openings-and-closings-40116908" target="_self" title>Openings &amp; Closings</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/LocationSearch?locationSection=2683245&sortType=name" target="_self" title>Find a Restaurant</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/slideshows/?section=2348803" target="_self" title>Food &amp; Drink Slideshows</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent fdn-custom-footer-section-column" id="Music">
+<a href="https://www.riverfronttimes.com/music" target="_self">Music</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/music" target="_self" title>Latest Music</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/music" target="_self" title>Music News &amp; Interviews</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/concert-review-40116930" target="_self" title>Concert Review</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/EventSearch?eventCategory=2960217&sortType=date&v=d" target="_self" title>Find a Concert</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/slideshows/?section=2348804" target="_self" title>Music Slideshows</a></li>
+<li class="fdn-nav-item "><a href="https://weedmaps.com/deals?utm_medium=paidmedia&utm_source=riverfronttimesmusic&utm_campaign=vmg&utm_content=deals&utm_term=MO" target="_blank" title>Find Cannabis - Presented by Weedmaps</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="Film">
+<a href="https://www.riverfronttimes.com/movies-tv" target="_self">Movies</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/movies-tv" target="_self" title>Latest Movies</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/movie-reviews-and-news-2349243" target="_self" title>Movie Reviews &amp; News</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/MovieTimes" target="_self" title>Movie Times</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/LocationSearch?locationCategory=2683256&sortType=name" target="_self" title>Find a Theater</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/FreeStuff" target="_self" title>Giveaways</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="Calendar">
+<a href="https://www.riverfronttimes.com/stlouis/EventSearch" target="_self">Calendar</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/EventSearch?narrowByDate=Today" target="_self" title>Today&#39;s Events</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/EventSearch?narrowByDate=This%20Weekend" target="_self" title>This Weekend</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/EventSearch?eventCategory=2759675&sortType=date&v=d" target="_self" title>Free Events</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/Events/AddEvent" target="_self" title>Submit an Event</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="ReeferfrontTimes">
+<a href="https://www.riverfronttimes.com/weed" target="_self">Reeferfront Times</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/weed" target="_self" title>Latest Weed</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/weed-news-35262620" target="_self" title>Weed News</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/category/dispensary-reviews-35262629" target="_self" title>Dispensary Reviews</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/LocationSearch?locationSection=35262377&sortType=name" target="_self" title>Dispensary Directory - Presented by CBD Kratom</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="bestof">
+<a href="https://www.riverfronttimes.com/stlouis/BestOf" target="_self">Best Of</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item uk-hidden@m"><a href="https://www.riverfronttimes.com/BestOf" target="_self" title>Best of Home</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/best-of/arts-and-entertainment" target="_self" title>Arts &amp; Entertainment</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/best-of/food-and-drink" target="_self" title>Food &amp; Drink</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/best-of/people-and-places" target="_self" title>People &amp; Places</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/best-of/sports-and-recreation" target="_self" title>Sports &amp; Recreation</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/best-of/goods-and-services" target="_self" title>Goods &amp; Services</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="Slideshows">
+<a href="https://www.riverfronttimes.com/slideshows" target="_self">Slideshows</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent " id="Support">
+<a href="https://www.riverfronttimes.com/stlouis/SupportLocalJournalism/Page" target="_self">Support</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/SupportLocalJournalism/Page" target="_self" title>Donate</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/Newsletters/Page" target="_self" title>Subscribe</a></li>
+<li class="fdn-nav-item "><a href="https://www.riverfronttimes.com/stlouis/AdvertiseWithRiverfrontTimes/Page" target="_self" title>Advertise</a></li>
+<li class="fdn-nav-item "><a href="https://www.facebook.com/riverfronttimes" target="_blank" title>Facebook</a></li>
+<li class="fdn-nav-item "><a href="https://twitter.com/riverfronttimes/" target="_blank" title>Twitter</a></li>
+<li class="fdn-nav-item "><a href="https://instagram.com/riverfronttimes/" target="_blank" title>Instagram</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent riverfront" id="ContactUs">
+<a href="https://www.riverfronttimes.com/stlouis/ContactUs/Page" target="_self">Contact Us</a>
+<div class="fdn-nav-dropdown uk-navbar-dropdown" uk-dropdown="offset: 0;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent fdn-nav-login-NavigationHorizontal
+fdn-login-loggedout-container" data-view="loggedout" style="display:none">
+<a href="#LogIn">
+<i class="fas fa-user"></i>
+</a>
+</li>
+<li class="fdn-nav-parent uk-parent fdn-nav-logout-NavigationHorizontal
+fdn-login-loggedin-container" data-view="loggedin" style="display: none;">
+<a href="#"><i class="fas fa-user"></i></a>
+<div class="fdn-nav-dropdown" uk-dropdown="pos:bottom-right;">
+<ul class="fdn-nav-list uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-nav-item-header">
+<span data-label="username">Username</span>
+</li>
+<li class="fdn-nav-item fdn-site-login-view-profile">
+<a href="https://posting.riverfronttimes.com/stlouis/MyProfile">
+View Profile
+</a>
+</li>
+<li class="fdn-nav-item fdn-site-login-edit-profile">
+<a href="https://posting.riverfronttimes.com/stlouis/Profile/MySettings">
+Edit Profile
+</a>
+</li>
+<li class="fdn-nav-item fdn-site-login-logout">
+<a href="https://posting.riverfronttimes.com/stlouis/Logout">
+Log Out
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="fdn-nav-parent uk-parent"><a><i class="far fa-search fa-flip-horizontal fa-sm"></i></a>
+<div id="fdn-NavigationHorizontal-dropdown-hook" uk-dropdown="mode:click,hover;offset:0;pos:bottom-right;" class="GlobalHeader NavigationHorizontalresponsive uk-margin-remove  fdn-site-search-dropdown uk-root fdn-margin-vert NavigationHorizontal comp-shell-navigationhorizontal" data-component-id="NavigationHorizontal">
+<form action="https://www.riverfronttimes.com/stlouis/Search">
+<div class="fdn-site-search-input-block ">
+<div class="uk-search uk-search-default uk-width-1-1">
+<span class="fdn-site-search-icon" uk-search-icon></span>
+<input class="fdn-site-search-input ev-search-input uk-search-input" name="keywords" placeholder="Enter Keywords..." autocomplete="off" type="search" />
+</div>
+</div>
+<div>
+<ul class="fdn-site-search-list uk-nav uk-margin-remove">
+<li><a class="fdn-site-search-item" href="https://www.riverfronttimes.com/stlouis/ArticleArchives">in Articles &amp; Posts</a></li>
+<li><a class="fdn-site-search-item" href="https://www.riverfronttimes.com/slideshows/">in Slideshows</a></li>
+<li><a class="fdn-site-search-item" href="https://www.riverfronttimes.com/stlouis/EventSearch">in Events</a></li>
+<li><a class="fdn-site-search-item" href="https://www.riverfronttimes.com/stlouis/LocationSearch">in Locations</a></li>
+<li><a class="fdn-site-search-item" href="https://www.riverfronttimes.com/stlouis/Search">All</a></li>
+</ul>
+</div>
+<div class="fdn-site-search-submit-block ">
+<button class="uk-button fdn-button-control fdn-site-search-submit">GO</button>
+</div>
+</form>
+<script>
+jQuery("#fdn-NavigationHorizontal-dropdown-hook")
+.on("beforehide", function(){ return !jQuery(".fdn-site-search-input").is(":focus") })
+</script>
+<script>
+(function(){
+// 
+var componentId = 'NavigationHorizontal'
+var defaultSearchUrl = 'https://www.riverfronttimes.com/stlouis/Search'
+var componentElement = jQuery('div[data-component-id='+componentId+']')
+var searchForm = componentElement.find('form') 
+var searchInput = searchForm.find('input')
+var searchLinks = searchForm.find('a')
+// 
+searchForm.submit(function(e){
+e.preventDefault()
+window.location = defaultSearchUrl + '?keywords=' + searchInput.val() 
+})
+// 
+searchLinks.on('click', function(e){
+e.preventDefault()
+window.location = jQuery(e.target).attr('href') + '?keywords=' + searchInput.val()
+})
+// 
+jQuery("#fdn-NavigationHorizontal-dropdown-hook")
+.on("beforehide", function(){
+return !jQuery(this).find(".fdn-site-search-input").is(":focus")
+})
+})()
+</script>
+</div></li>
+</ul>
+</nav>
+<div id="offcanvas-slide-navigation" uk-offcanvas="overlay: true">
+<div id="site-nav-target" class="fdn-nav-panel-block uk-offcanvas-bar">
+<ul class="site-nav-source uk-width-1-1 uk-nav uk-nav-parent-icon" uk-nav="multiple: false;">
+<li class="fdn-nav-parent uk-visible@m fdn-site-nav-home" id="offcanvas-Home"><a href="https://www.riverfronttimes.com/stlouis/Home" target="_self">Home</a></li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-LatestNews">
+<a href="https://www.riverfronttimes.com/news" target="_self">News<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/news" target="_self" title>Latest News</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/topic/abortion-rights-38101853" target="_self" title>Abortion Rights</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/sports-40116896" target="_self" title>Sports</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/st-louis-metro-news-2349235" target="_self" title>St. Louis Metro News</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/missouri-news-37051540" target="_self" title>Missouri News</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/IssueArchives?issue=thisweek" target="_self" title>Digital Issue</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/st-louis-guides" target="_self" title>St. Louis Guides</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/slideshows/?section=2348800" target="_self" title>News Slideshows</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-LatestArtsCulture">
+<a href="https://www.riverfronttimes.com/arts" target="_self">Arts &amp; Culture<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/arts" target="_self" title>Latest Arts &amp; Culture</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/arts-stories-and-interviews-2512891" target="_self" title>Arts Stories &amp; Interviews</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/theater-review-40116919" target="_self" title>Theater Review</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/slideshows/?section=2348805" target="_self" title>Arts &amp; Culture Slideshows</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-LatestFoodDrink">
+<a href="https://www.riverfronttimes.com/food-drink" target="_self">Food &amp; Drink<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/food-drink" target="_self" title>Latest Food &amp; Drink</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/food-and-drink-news-2512889" target="_self" title>Food &amp; Drink News</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/restaurant-reviews-2349240" target="_self" title>Restaurant Reviews</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/topic/st-louis-standards-37152531" target="_self" title>St. Louis Standards</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/restaurant-openings-and-closings-40116908" target="_self" title>Openings &amp; Closings</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/LocationSearch?locationSection=2683245&sortType=name" target="_self" title>Find a Restaurant</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/slideshows/?section=2348803" target="_self" title>Food &amp; Drink Slideshows</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent fdn-custom-footer-section-column" id="offcanvas-LatestMusic">
+<a href="https://www.riverfronttimes.com/music" target="_self">Music<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/music" target="_self" title>Latest Music</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/music" target="_self" title>Music News &amp; Interviews</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/concert-review-40116930" target="_self" title>Concert Review</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/EventSearch?eventCategory=2960217&sortType=date&v=d" target="_self" title>Find a Concert</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/slideshows/?section=2348804" target="_self" title>Music Slideshows</a></li>
+<li class="fdn-nav-item"><a href="https://weedmaps.com/deals?utm_medium=paidmedia&utm_source=riverfronttimesmusic&utm_campaign=vmg&utm_content=deals&utm_term=MO" target="_blank" title>Find Cannabis - Presented by Weedmaps</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-LatestMovies">
+<a href="https://www.riverfronttimes.com/movies-tv" target="_self">Movies<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/movies-tv" target="_self" title>Latest Movies</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/movie-reviews-and-news-2349243" target="_self" title>Movie Reviews &amp; News</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/MovieTimes" target="_self" title>Movie Times</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/LocationSearch?locationCategory=2683256&sortType=name" target="_self" title>Find a Theater</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/FreeStuff" target="_self" title>Giveaways</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-TodaysEvents">
+<a href="https://www.riverfronttimes.com/stlouis/EventSearch" target="_self">Calendar<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/EventSearch?narrowByDate=Today" target="_self" title>Today&#39;s Events</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/EventSearch?narrowByDate=This%20Weekend" target="_self" title>This Weekend</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/EventSearch?eventCategory=2759675&sortType=date&v=d" target="_self" title>Free Events</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/Events/AddEvent" target="_self" title>Submit an Event</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-LatestWeed">
+<a href="https://www.riverfronttimes.com/weed" target="_self">Reeferfront Times<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/weed" target="_self" title>Latest Weed</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/weed-news-35262620" target="_self" title>Weed News</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/category/dispensary-reviews-35262629" target="_self" title>Dispensary Reviews</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/LocationSearch?locationSection=35262377&sortType=name" target="_self" title>Dispensary Directory - Presented by CBD Kratom</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-BestofHome">
+<a href="https://www.riverfronttimes.com/stlouis/BestOf" target="_self">Best Of<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/BestOf" target="_self" title>Best of Home</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/best-of/arts-and-entertainment" target="_self" title>Arts &amp; Entertainment</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/best-of/food-and-drink" target="_self" title>Food &amp; Drink</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/best-of/people-and-places" target="_self" title>People &amp; Places</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/best-of/sports-and-recreation" target="_self" title>Sports &amp; Recreation</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/best-of/goods-and-services" target="_self" title>Goods &amp; Services</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent " id="offcanvas-Slideshows"><a href="https://www.riverfronttimes.com/slideshows" target="_self">Slideshows</a></li>
+<li class="fdn-nav-parent uk-parent " id="offcanvas-Donate">
+<a href="https://www.riverfronttimes.com/stlouis/SupportLocalJournalism/Page" target="_self">Support<span uk-icon="chevron-left"></span></a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/SupportLocalJournalism/Page" target="_self" title>Donate</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/Newsletters/Page" target="_self" title>Subscribe</a></li>
+<li class="fdn-nav-item"><a href="https://www.riverfronttimes.com/stlouis/AdvertiseWithRiverfrontTimes/Page" target="_self" title>Advertise</a></li>
+<li class="fdn-nav-item"><a href="https://www.facebook.com/riverfronttimes" target="_blank" title>Facebook</a></li>
+<li class="fdn-nav-item"><a href="https://twitter.com/riverfronttimes/" target="_blank" title>Twitter</a></li>
+<li class="fdn-nav-item"><a href="https://instagram.com/riverfronttimes/" target="_blank" title>Instagram</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent riverfront" id="offcanvas-ContactUs"><a href="https://www.riverfronttimes.com/stlouis/ContactUs/Page" target="_self">Contact Us</a></li>
+<li class="fdn-nav-parent fdn-nav-login-NavigationHorizontal
+fdn-login-loggedout-container" data-view="loggedout" style="display:none">
+<a href="#LogIn">
+<i class="fas fa-user"></i>&nbsp;Login
+</a>
+</li>
+<li class="fdn-nav-parent uk-parent fdn-nav-logout-NavigationHorizontal
+fdn-login-loggedin-container" data-view="loggedin" style="display: none;">
+<a href="#">
+<span class="uk-text-left" data-label="username">Username</span>
+<i class="fas fa-user"></i>
+<span uk-icon="chevron-left"></span>
+</a>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item fdn-site-login-view-profile">
+<a href="https://posting.riverfronttimes.com/stlouis/MyProfile">
+View Profile
+</a>
+</li>
+<li class="fdn-nav-item fdn-site-login-edit-profile">
+<a href="https://posting.riverfronttimes.com/stlouis/Profile/MySettings">
+Edit Profile
+</a>
+</li>
+<li class="fdn-nav-item fdn-site-login-logout">
+<a href="https://posting.riverfronttimes.com/stlouis/Logout">
+Log Out
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<script>jQuery('body').append(jQuery('#offcanvas-slide-navigation'))</script>
+<script> new Foundation.LoginRequiredComponent('#NavigationHorizontal') </script>
+</div>
+</div>
+<div class="uk-hidden@m uk-margin-auto-left uk-margin-auto-vertical fdn-site-header-search-toggle">
+<span class="fdn-nav-toggle uk-button" uk-toggle="target: #fdn-SiteSearchModalOnly-modal-hook">
+<span class="uk-icon"><i class="fas fa-search fa-2x"></i></span>
+</span>
+<div class="GlobalHeader SiteSearchModalOnlyShellresponsive   uk-root fdn-margin-vert SiteSearchModalOnly comp-shell-search" data-component-id="SiteSearchModalOnly">
+<div id="fdn-SiteSearchModalOnly-modal-hook" class="fdn-site-search-modal" uk-modal>
+<div class="uk-modal-dialog uk-modal-body">
+<h2 class="uk-modal-title">Search</h2>
+<button class="uk-modal-close uk-modal-close-default" type="button" uk-close></button>
+<form action="https://www.riverfronttimes.com/stlouis/Search" class="uk-flex uk-flex-wrap">
+<div class="fdn-site-search-modal-input-block uk-width-1-1 uk-flex-none">
+<div class="uk-search uk-search-default uk-width-1-1">
+<span class="fdn-site-search-modal-icon" uk-search-icon></span>
+<input class="fdn-site-search-modal-input ev-search-input uk-search-input" name="keywords" placeholder="Enter Keywords..." autocomplete="off" type="search" />
+</div>
+</div>
+<div class="uk-width-expand">
+<ul class="fdn-site-search-modal-list uk-nav uk-margin-remove">
+<li>
+<a class="fdn-site-search-modal-item" href="https://www.riverfronttimes.com/stlouis/ArticleArchives">
+in Articles &amp; Posts
+</a>
+</li>
+<li>
+<a class="fdn-site-search-modal-item" href="https://www.riverfronttimes.com/stlouis/LocationSearch">
+in Locations
+</a>
+</li>
+<li>
+<a class="fdn-site-search-modal-item" href="https://www.riverfronttimes.com/stlouis/EventSearch">
+in Events
+</a>
+</li>
+<li>
+<a class="fdn-site-search-modal-item" href="https://www.riverfronttimes.com/slideshows/">
+in Slideshows
+</a>
+</li>
+<li>
+<a class="fdn-site-search-modal-item" href="https://www.riverfronttimes.com/stlouis/Search">
+All
+</a>
+</li>
+</ul>
+</div>
+<div class="fdn-site-search-modal-submit-block uk-margin-auto-left uk-margin-auto-top uk-padding-xsmall-left">
+<button class="uk-button fdn-button-control fdn-site-search-modal-submit">
+GO
+</button>
+</div>
+</form>
+</div>
+</div>
+<script>
+(function(){
+// 
+var componentId = 'SiteSearchModalOnly'
+var defaultSearchUrl = 'https://www.riverfronttimes.com/stlouis/Search'
+var componentElement = jQuery('div[data-component-id='+componentId+']')
+var searchForm = componentElement.find('form') 
+var searchInput = searchForm.find('input')
+var searchLinks = searchForm.find('a')
+// 
+searchForm.submit(function(e){
+e.preventDefault()
+window.location = defaultSearchUrl + '?keywords=' + searchInput.val() 
+})
+// 
+searchLinks.on('click', function(e){
+e.preventDefault()
+window.location = jQuery(e.target).attr('href') + '?keywords=' + searchInput.val()
+})
+// 
+jQuery("#fdn-SiteSearchModalOnly-dropdown-hook")
+.on("beforehide", function(){
+return !jQuery(this).find(".fdn-site-search-input").is(":focus")
+})
+})()
+</script>
+</div>
+</div>
+</div>
+<script>
+(() => {
+var headerZone = jQuery('.ev-grid-zone.ev-header-zone');
+var headerZoneFullStickyClass = `full-header-sticky`;
+var headerZoneSmallStickyClass = `just-nav-sticky`;
+var navScrollPosBreakPoint = 400;
+var navScrollTimeout = null
+var navScrollUpdateRate = 50;
+var navScrollLastUpdate = 0;
+var adjustNav = () => {
+var isContentPage = jQuery('#ContentDefault').length > 0;
+var offsetSelector = (isContentPage) ? '.fdn-content-body' : '.ev-grid-zone.ev-primary-zone'
+var navScrollCollapseOffset = jQuery(offsetSelector).first().offset();
+var navHeight = jQuery('.ev-grid-zone.ev-header-zone').height();
+var navScrollPosBreakPoint = navScrollCollapseOffset ? navScrollCollapseOffset.top - navHeight : navHeight;
+var isSmallDisplay = window.innerWidth < 998;
+if (isSmallDisplay) {
+headerZone.removeClass(headerZoneSmallStickyClass)
+.removeClass(headerZoneFullStickyClass);
+}
+else if (window.scrollY <= navScrollPosBreakPoint) {
+headerZone.removeClass(headerZoneSmallStickyClass)
+.addClass(headerZoneFullStickyClass);
+}
+else {
+headerZone.removeClass(headerZoneFullStickyClass)
+.addClass(headerZoneSmallStickyClass);
+}
+navScrollLastUpdate = new Date().getTime();
+// console.log(`adjustNav: navScrollLastUpdate === ${navScrollLastUpdate}`);
+}
+adjustNav();
+jQuery(adjustNav);
+jQuery(document).on('scroll', () => {
+var timeToUpdate = new Date().getTime() > navScrollLastUpdate + navScrollUpdateRate;
+if (timeToUpdate) {
+adjustNav();
+}
+clearTimeout(navScrollTimeout);
+navScrollTimeout = setTimeout(adjustNav, navScrollUpdateRate);
+});
+})();
+</script>
+</div>
+</div>
+</div>
+<div class="ev-grid-zone ev-primary-zone">
+<div class="ev-grid-col fdn-grid-main-single fdn-primary" data-ev-zone="MainTop">
+<script>
+if (Foundation.Ad && typeof(Foundation.Ad.showReskin) === 'function') {
+  googletag.cmd.push(function() {
+    Foundation.Ad.showReskin('STL_Reskin-1');
+  });
+}
+</script><div class="uk-width-1-1 uk-flex uk-flex-around uk-margin uk-margin-top" LeaderboardHeader-mobile-stub hidden>
+</div>
+<div class="ZoneA ContentDefault  uk-inline uk-margin-remove-top uk-root fdn-margin-vert ContentRowMultiple comp-content-contentmultirow" data-component-id="ContentRowMultiple">
+<div class="content-multiple-item" fdn-content-multi-item="41156760" fdn-content-multi-item-headline="Deputy Shot Missouri Family&rsquo;s Dog and Threw It in a Ditch" fdn-content-multi-item-permalink="/news/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760" fdn-content-multi-item-canonical="https://www.riverfronttimes.com/news/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760" fdn-content-multi-item-title="Deputy Shot Missouri Family&rsquo;s Dog and Threw It in a Ditch" fdn-content-multi-item-thumb="https://media2.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41156762/parker.jpg?cb=1698790138" fdn-content-multi-item-thumb-width="600" fdn-content-multi-item-thumb-height="337" fdn-content-multi-item-index="1" ga-dimension1="content" ga-dimension2="news" ga-dimension4="Ryan Krull">
+<div>
+<div class="uk-position-relative uk-visible-toggle">
+<div class="uk-hidden-hover uk-position-top-right uk-padding-xsmall uk-position-absolute">
+</div>
+<div class="uk-grid-small uk-flex-wrap uk-margin-xsmall-bottom fdn-content-multiple-item-topic-row" uk-grid>
+<div>
+<a href="/category/missouri-news-37051540">Missouri News</a>
+</div>
+</div>
+<h1 class="fdn-content-headline uk-margin-remove">
+Deputy Shot Missouri Family’s Dog and Threw It in a Ditch
+</h1>
+<h2 class="fdn-content-subheadline uk-margin-remove-bottom uk-margin-xsmall-top">
+Stoddard County made no efforts to find 9-year-old Parker’s family before executing him, the family’s lawsuit says
+</h2>
+<div class="uk-flex uk-margin-xsmall-top">
+<p class="uk-width-1-2 uk-margin-xsmall-bottom fdn-content-infoline">
+<span>By</span>
+<a href="https://www.riverfronttimes.com/author/ryan-krull" rel="author">
+Ryan Krull
+</a> on
+Wed, Nov 1, 2023 at 7:36 am
+</p>
+<div class="uk-flex-1 uk-margin-auto-left uk-margin-xsmall-top">
+<div class="uk-width-1-1 uk-flex uk-flex-row uk-flex-middle uk-flex-right uk-grid-small fdn-content-multi-row-share-tools-small " uk-grid>
+<div class fdn-share-button-news-tip>
+<a class="fdn-share-news-tip" href="/cdn-cgi/l/email-protection#99edf0e9ead9ebf0effcebffebf6f7ededf0f4fceab7faf6f4a6eaecfbf3fcfaeda4cafcf7fdb9f8b9d7fceeeab9cdf0e9" uk-tooltip="title:Send a News Tip" aria-expanded="false">
+<span class="fdn-share-icon-submit-news-tip">
+Send a News Tip
+</span>
+</a>
+</div>
+<div fdn-share-button-reddit>
+<a href="https://www.reddit.com/submit?title=Deputy%20Shot%20Missouri%20Family%E2%80%99s%20Dog%20and%20Threw%20It%20in%20a%20Ditch&amp;url=https%3A%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760" uk-tooltip="title: Share on Reddit" onClick="window.open('https://www.reddit.com/submit?title=Deputy%20Shot%20Missouri%20Family%E2%80%99s%20Dog%20and%20Threw%20It%20in%20a%20Ditch&amp;url=https%3A%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760','_blank','resizable,height=700,width=700'); return false;">
+<span class="uk-icon-button fdn-icon-button-smaller fdn-share-icon-reddit"><i class="fab fa-reddit-alien"></i><span style="text-indent:-9999rem">Share on Reddit</span></span>
+</a>
+</div>
+<div fdn-share-button-facebook>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&redirect_uri=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&app_id=1429692410383325" onClick="window.open('https://www.facebook.com/sharer/sharer.php?u=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&redirect_uri=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&app_id=1429692410383325','_blank','resizable,height=700,width=600'); return false;" target="_blank" uk-tooltip="title: Share on Facebook" aria-expanded="false">
+<span class="uk-icon-button fdn-icon-button-smaller fdn-share-icon-facebook">
+<i class="fab fa-facebook-f"></i><span style="text-indent:-9999rem">Share on Facebook</span>
+</span>
+</a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script> dnLoadScript("https://platform.twitter.com/widgets.js", true); </script>
+<div class fdn-share-button-twitter>
+<a href="https://twitter.com/intent/tweet?url=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&redirect_uri=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&text=Deputy%20Shot%20Missouri%20Family%E2%80%99s%20Dog%20and%20Threw%20It%20in%20a%20Ditch" onClick="window.open('https://twitter.com/intent/tweet?url=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&redirect_uri=https:%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&text=Deputy%20Shot%20Missouri%20Family%E2%80%99s%20Dog%20and%20Threw%20It%20in%20a%20Ditch','_blank','resizable,height=700,width=600'); return false;" uk-tooltip="title: Share on X" aria-expanded="false" class="fdn-share-icon-x">
+<img alt="Share on X" class=" fdn-icon-button-smaller" src="/foundation/images/social/icon-x-round.png" loading="lazy" width="28" height="28">
+</a>
+</div>
+<div fdn-share-button-nextdoor>
+<a uk-tooltip="Share on Nextdoor" target="_blank" href="https://nextdoor.com/sharekit/?body=Deputy%20Shot%20Missouri%20Family%E2%80%99s%20Dog%20and%20Threw%20It%20in%20a%20Ditch%20-%20https%3A%2F%2Fwww.riverfronttimes.com%2Fnews%2Fdeputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760&amp;source=Riverfront%20Times"><img alt="Share on Nextdoor" class="fdn-share-icon-nextdoor fdn-icon-button-smaller" src="/foundation/images/social/icon-nextdoor.png" loading="lazy" width="28" height="28"></a>
+</div>
+<div class fdn-share-button-email>
+<a href="/cdn-cgi/l/email-protection#d9e6aaacbbb3bcbaade48bb0afbcabbfabb6b7adfcebe98db0b4bcaafcea98fcebe99dbca9acada0fcebe98ab1b6adfcebe994b0aaaab6acabb0fcebe99fb8b4b0b5a0fc9cebfce1e9fce0e0aafcebe99db6befcebe9b8b7bdfcebe98db1abbcaefcebe990adfcebe9b0b7fcebe9b8fcebe99db0adbab1ffbbb6bda0e4fce998fce9989dbca9acada0fcebe98ab1b6adfcebe994b0aaaab6acabb0fcebe99fb8b4b0b5a0fc9cebfce1e9fce0e0aafcebe99db6befcebe9b8b7bdfcebe98db1abbcaefcebe990adfcebe9b0b7fcebe9b8fcebe99db0adbab1fce998fce998b1adada9aae3f6f6aeaeaef7abb0afbcabbfabb6b7adadb0b4bcaaf7bab6b4f6b7bcaeaaf6bdbca9acada0f4aab1b6adf4b4b0aaaab6acabb0f4bfb8b4b0b5a0aaf4bdb6bef4b8b7bdf4adb1abbcaef4b0adf4b0b7f4b8f4bdb0adbab1f4ede8e8ecefeeefe9fce998fce998fce998" onclick uk-tooltip="title: Share via Email" aria-expanded="false" rel="nofollow">
+<span class="uk-icon-button fdn-icon-button-smaller fdn-icon-tool-core fdn-share-icon-email">
+<i class="fal fa-envelope"></i><span style="text-indent:-9999rem">Share via email</span>
+</span>
+</a>
+</div>
+<div class fdn-share-button-print>
+<a href="https://www.riverfronttimes.com/stlouis/Print?oid=41156760" target="_blank" uk-tooltip="title:Print" title aria-expanded="false">
+<span class="uk-icon-button fdn-icon-button-smaller fdn-icon-tool-core fdn-share-icon-email">
+<i class="fal fa-print"></i><span style="text-indent:-9999rem">Print</span>
+</span>
+</a>
+</div>
+<div class fdn-share-button-text-size>
+<a class="fdn-text-size-toggle" href="#size" uk-tooltip="title:Change Font Size" aria-expanded="false" uk-toggle="target: .fdn-content-body;cls: fdn-content-body-large;">
+<span class="uk-icon-button fdn-icon-button-smaller fdn-icon-tool-core fdn-share-icon-email">
+<i class="fas fa-text-size"></i><span style="text-indent:-9999rem">Adjust text size</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-width-1-1 uk-flex uk-flex-row">
+<div class="uk-width-expand uk-flex uk-flex-column" main-column>
+<div class="uk-width-1-1 uk-flex uk-flex-row">
+<div class="uk-width-expand fdn-content-multi-row show-first-image">
+<pre debug hidden>[
+      {
+        "name": "Ad - NativeInline - Injected",
+        "component": "37365813",
+        "insertPoint": "3",
+        "requiredCountToDisplay": "5"
+      },{
+        "name": "Real 1 Player (r2) - Inline",
+        "component": "37365812",
+        "insertPoint": "2/3",
+        "requiredCountToDisplay": "9"
+      }
+    ]</pre>
+<div class="ZoneA ContentDefault   uk-root fdn-margin-vert ContentRowMultiple comp-content-contentmultirow" data-component-id="ContentRowMultiple">
+<div class="fdn-content-body">
+<div uk-lightbox class="uk-position-relative fdn-content-image-center contentImageCenter"> <a href="https://media2.riverfronttimes.com/riverfronttimes/imager/u/original/41156762/parker.jpg" rel="contentImg_gal-41156760" title="The Pennington family dog, Parker, was killed by a Stoddard County deputy in August. - Courtesy Russ Oliver" data-caption="<span>The Pennington family dog, Parker, was killed by a Stoddard County deputy in August.</span>&nbsp;&nbsp;            <em>Courtesy Russ Oliver</em>" class="uk-display-block uk-position-relative uk-visible-toggle"> <span class="fdn-button-enlarge uk-position-absolute                    uk-position-top-right uk-hidden-hover"> click to enlarge </span> <img src="https://media2.riverfronttimes.com/riverfronttimes/imager/u/blog/41156762/parker.jpg?cb=1698790138" alt="The Pennington family dog, Parker, killed by a Stoddard County deputy in August." width="660" height="371" loading="lazy" /> </a> <div class="fdn-caption-block uk-margin-auto" style="max-width: 660px"> <div class="fdn-image-credit"> Courtesy Russ Oliver </div> <div class="fdn-image-caption"> The Pennington family dog, Parker, was killed by a Stoddard County deputy in August. </div> </div> </div>
+<p>
+A Missouri family is suing the Stoddard County sheriff and two of his deputies, claiming they killed a family dog in a "wholly unjustified," "senseless" and illegal manner.
+</p>
+<p>
+"It's absolutely unconscionable," says attorney Russ Oliver, who represents the Penningtons, a family living outside Dexter, Missouri, that until this August included 9-year-old dog Parker.
+</p>
+<p>
+According to the suit, filed yesterday in federal court, Parker had been a gentle, loving dog ever since he was rescued by Bryan Pennington eight years ago.
+</p>
+<p>
+On August 27 of this year, a storm rocked the Pennington home and Parker wandered off, showing up on the doorstep of a woman named Hillary Mayberry. Mayberry posted on Facebook trying to locate Parker's owner and called the Stoddard County Sheriff's Department.
+</p>
+<p>
+Stoddard County is southwest of Cape Girardeau, between Sikeston and Poplar Bluff.
+</p>
+<p>
+Deputy Roger Seal arrived and put Parker in his patrol vehicle. Seal then allegedly took the dog to the Otter Slough Conservation Area, allowed it to run around briefly and then shot it once. Parker did not die immediately. Eight minutes later, Seal shot the dog again and threw its body in a ditch.
+</p>
+<p>
+According to the suit, killing dogs in such a manner is "the standard operating practice and procedure" of the Stoddard County Sheriff's Department. The suit alleges the department does this routinely without conducting any due diligence or concern for the condition of the animal and without notifying the dogs' owners.
+</p>
+<p>
+Oliver says the Penningtons are suing for $5 million as well as "to make sure that nobody else's dog is executed in a remote area and thrown in a ditch by people who are funded with our taxpayer dollars."
+</p>
+<p>
+No criminal charges have been filed, though Oliver says he believes they're warranted. The lawsuit says that the deputy's behavior that day constituted felony animal abuse.
+</p>
+<p>
+The second deputy listed as a defendant, Travis Maddox, was Seal's supervising officer at the time of the incident and gave Seal the order to kill the dog. Oliver filed the suit on behalf of Bryan and Tylla Pennington and their four minor children.
+</p>
+<p>
+Oliver also tells the RFT that since the killing of Parker two months ago, he has filed a sunshine lawsuit over the sheriff's office's failure to provide body cam footage of the incident. Oliver says that he has only been told that the incident is under investigation.
+</p>
+<p>
+"Parker had become like one of their children," says Oliver. "To have that basically destroyed by the hands of the government is pretty unfathomable."
+</p>
+<div class="fdn-inline-connection fdn-inline-connection-content uk-card                     uk-card-body uk-card-default uk-card-small uk-margin-small"> <div class="fdn-inline-connection-title-block"> <h5 class="fdn-inline-connection-title">Related</h5> <div class="uk-flex"> <div class="uk-width-1-4 uk-width-1-6@s uk-padding-small uk-padding-remove-vertical uk-padding-remove-left"> <a href="https://www.riverfronttimes.com/news/undercover-police-string-recovers-2-stolen-dogs-41090407"><img src="https://media1.riverfronttimes.com/riverfronttimes/imager/undercover-police-string-recovers-2-stolen-dogs/u/r-big16x10/41090413/twobulldogs.jpg?cb=1697839047" alt="Two French bulldogs &mdash; though these two have likely never been the object of a police undercover buy." width="660" height="370" loading="lazy" /></a> </div> <h4 class="fdn-inline-connection-content-headline uk-width-expand"> <a href="https://www.riverfronttimes.com/news/undercover-police-string-recovers-2-stolen-dogs-41090407"> Undercover Police String Recovers 2 Stolen Dogs<span class="fdn-inline-connection-colon">:</span> <span class="fdn-inline-connection-content-subheadline">Things got a little hairy, but Zelda and Little Tory have been returned to their rightful owner</span> </a> </h4> </div> </div> </div> <div class="fdn-inline-connection fdn-inline-connection-content uk-card                     uk-card-body uk-card-default uk-card-small uk-margin-small"> <div class="fdn-inline-connection-title-block"> <h5 class="fdn-inline-connection-title">Related</h5> <div class="uk-flex"> <div class="uk-width-1-4 uk-width-1-6@s uk-padding-small uk-padding-remove-vertical uk-padding-remove-left"> <a href="https://www.riverfronttimes.com/food-drink/old-town-donuts-reopens-after-roach-infestation-41154692"><img src="https://media1.riverfronttimes.com/riverfronttimes/imager/old-town-donuts-reopens-today-after-roach-infestation/u/r-big16x10/41154944/adp_1972_edit1.jpg?cb=1698761540" alt="Old Town Donuts has been using the same recipes since it opened in 1968 &mdash; and those recipes certainly don&#39;t include roaches." width="660" height="370" loading="lazy" /></a> </div> <h4 class="fdn-inline-connection-content-headline uk-width-expand"> <a href="https://www.riverfronttimes.com/food-drink/old-town-donuts-reopens-after-roach-infestation-41154692"> Old Town Donuts Reopens After Roach Infestation<span class="fdn-inline-connection-colon">:</span> <span class="fdn-inline-connection-content-subheadline">The beloved Florissant donut shop was shut down last week</span> </a> </h4> </div> </div> </div> <i>We welcome tips and feedback. Email the author at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="691b10080747021b1c0505291b001f0c1b0f1b06071d1d00040c1a470a0604">[email&#160;protected]</a> <br>
+or follow on Twitter at <a href="https://twitter.com/RyanWKrull" target="_blank">@RyanWKrull</a>.</i> <br>
+<br>
+<i><b><a href="https://www.riverfronttimes.com/stlouis/Newsletters/Page">Subscribe to Riverfront Times newsletters.</a><br>
+<br>
+Follow us: <a href="https://apple.news/T9gPTWxMMSMKrkGVRSxWUMw">Apple News</a> |&nbsp; <a href="https://news.google.com/publications/CAAiELxEU1xKRmkqN8s-dSFIAbEqFAgKIhC8RFNcSkZpKjfLPnUhSAGx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News</a> | <a href="https://www.newsbreak.com/@c/1599769?s=01">NewsBreak</a> | <a href="https://www.reddit.com/r/RiverfrontTimes/">Reddit</a> | <a href="https://instagram.com/riverfronttimes/">Instagram</a> | <a href="https://www.facebook.com/riverfronttimes">Facebook </a> | <a href="https://twitter.com/riverfronttimes/">Twitter</a> | Or sign up for our <a href="https://www.riverfronttimes.com/stlouis/syndication">RSS Feed</a> </b></i>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  Foundation.ParagraphTool = Foundation.ParagraphTool || function (element) {
+    // Compile and store usable paragraph endings that are good for element insertion
+    // Avoides paragraph insertions immediately following a header or block element
+    // Includes paragraph endings before a <div>
+
+    this.bodyContainer = jQuery(element);
+    this.textNodeMatch = new RegExp('^(#text|A|I|B)$','i');
+
+    this.getPreviousNonEmptySibling = function (currentNode) {
+      let prevNode = currentNode ? currentNode.previousSibling : null;
+      let prevNodeFound = false;
+      while (prevNode && !prevNodeFound) {
+        let isText = prevNode.nodeType === Node.TEXT_NODE;
+
+        // Empty text node. Move on to the next node
+        if (isText && prevNode.nodeValue.trim() === '') {
+          prevNode = prevNode.previousSibling;
+        }
+        else {
+          prevNodeFound = true;
+        }
+      }
+      return prevNode;
+    }
+
+    this.getNextNonEmptySibling = function (currentNode) {
+      let nextNode = currentNode ? currentNode.nextSibling : null;
+      let nextNodeFound = false;
+      while (nextNode && !nextNodeFound) {
+        let isText = nextNode.nodeType === Node.TEXT_NODE;
+
+        // Empty text node. Move on to the next node
+        if (isText && nextNode.nodeValue.trim() === '') {
+          nextNode = nextNode.nextSibling;
+        }
+        else {
+          nextNodeFound = true;
+        }
+      }
+      return nextNode;
+    }
+
+    this.isDoubleBrParagraphBreak = function (currentNode) {
+      let prevNode = this.getPreviousNonEmptySibling(currentNode);
+      let prevPrevNode = this.getPreviousNonEmptySibling(prevNode);
+
+      if (currentNode && prevNode && prevPrevNode) {
+        let currentNodeIsBr = currentNode.nodeName === 'BR';
+        let prevNodeIsBr = prevNode.nodeName === 'BR';
+        let prevPrevNodeIsText = prevPrevNode.nodeName.match(this.textNodeMatch) !== null;
+
+        let isBrParagraphBreak = prevPrevNodeIsText && prevNodeIsBr && currentNodeIsBr;
+        if (isBrParagraphBreak) {
+          return true;
+        } 
+      }
+      return false;
+    }
+
+    this.isBrParagraphBreakBeforeBlockElement = function (currentNode) {
+      let prevNode = this.getPreviousNonEmptySibling(currentNode);
+      let nextNode = this.getNextNonEmptySibling(currentNode);
+
+      if (prevNode && currentNode && nextNode) {
+        let prevNodeIsText = prevNode.nodeName.match(this.textNodeMatch) !== null;
+        let currentNodeIsBr = currentNode.nodeName.match(/^BR$/i) !== null;
+        let nextNodeIsBlock = nextNode.nodeName.match(/^DIV$/i) !== null;
+
+        let isParagraphBreakBeforeBlock = prevNodeIsText && currentNodeIsBr && nextNodeIsBlock;
+        if (isParagraphBreakBeforeBlock) {
+          return true;
+        } 
+      }
+      return false;
+    }
+
+    this.isParagraphBreak = function (currentNode) {
+      let prevNode = this.getPreviousNonEmptySibling(currentNode);
+
+      if (currentNode && prevNode) {
+        let currentNodeIsP = currentNode.nodeName === 'P';
+        let currentNodeIsNotHeader = jQuery(currentNode).children().length
+        let prevNodeIsNotBlock = prevNode.nodeName.match(/^H\d|IMG|DIV|BLOCKQUOTE|UL|OL|hr$/i) === null;
+
+        // Check for only one <B> or <strong> tag and empty text nodes as children
+        let isPHeader = false;
+        if (currentNodeIsP && currentNode.childNodes.length >= 3) {
+          let textNodesHaveText = false;
+          let brStrongElementCount = 0;
+          let otherElementCount = 0;
+          currentNode.childNodes.forEach((item)=> {
+            if (item.nodeType === Node.TEXT_NODE) {
+              if (item.nodeValue.trim() !== '') {
+                textNodesHaveText = true;
+              }
+            }
+            else if (item.nodeType === Node.ELEMENT_NODE) {
+              if (item.nodeName.match(/^B|STRONG$/i) !== null) {
+                brStrongElementCount++;
+              }
+              else {
+                otherElementCount++;
+              }
+            }
+          })
+          if (brStrongElementCount === 1 && textNodesHaveText === false && otherElementCount === 0) {
+            isPHeader = true;
+          }
+        }
+
+        let isParagraphBreak = prevNodeIsNotBlock && currentNodeIsP && !isPHeader;
+        if (isParagraphBreak) {
+          return true;
+        } 
+      }
+      return false;
+    }
+
+    this.isBlockAfterParagraph = function (currentNode) {
+      if (!currentNode) { return false; }
+
+      const prevNode = this.getPreviousNonEmptySibling(currentNode);
+      if (!prevNode) { return false; }
+
+      const currentNodeIsValidBlock = currentNode.nodeName.match(/^H\d|IMG|DIV|BLOCKQUOTE|UL|OL|hr$/i) !== null;
+      if (!currentNodeIsValidBlock) { return false; }
+
+      const prevNodeIsParagraph = prevNode.nodeName === 'P';
+      if (prevNodeIsParagraph) { return true; }
+
+      const prevNodeIsDoubleBr = this.isDoubleBrParagraphBreak(prevNode);
+      if (prevNodeIsDoubleBr) { return true; }
+
+      return false;
+    }
+
+    // 
+
+    let myParagraphTool = this
+
+    this.paragraphEndNodes = myParagraphTool.bodyContainer.first().contents().filter(function(index, element) {
+      let isText = this.nodeType === Node.TEXT_NODE;
+      let isElement = this.nodeType === Node.ELEMENT_NODE;
+
+      // Empty text node. Move on
+      if (isText && this.nodeValue.trim() === '') {
+        return false; 
+      }
+
+      let currentNode = this;
+
+      if (myParagraphTool.isParagraphBreak(currentNode)) { return true; }
+      if (myParagraphTool.isDoubleBrParagraphBreak(currentNode)) { return true; }
+      if (myParagraphTool.isBrParagraphBreakBeforeBlockElement(currentNode)) { return true; }
+      if (myParagraphTool.isBlockAfterParagraph(currentNode)) { return true; }
+      // 
+
+      return false;
+    })
+
+    this.getParagraphEndNodeCount = function () {
+      return this.paragraphEndNodes.length;
+    }
+
+    this.insertElemenAtIndex = function (element, index) {
+      let isValidIndex = index < this.paragraphEndNodes.length;
+      if (isValidIndex) {
+        let currentNode = this.getNodeAtIndex(index);
+        if (this.isDoubleBrParagraphBreak(currentNode)
+            || this.isBrParagraphBreakBeforeBlockElement(currentNode)) {
+          if (jQuery(element).get(0).tagName.match(/SCRIPT/i) !== null) {
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+          }
+          else {
+            jQuery('div.fdn-content-body, div #storyBody').append('<div line-height-check>&nbsp;</div>')
+            let lineHeight = jQuery('[line-height-check]').get(0).clientHeight;
+            jQuery('[line-height-check]').remove()
+            if (jQuery(element).prop('tagName').match(/HIDDEN/i) !== null) {
+              jQuery(element).children('div').last().css({ marginBottom: `${lineHeight*2}px` });
+            }
+            else {
+              jQuery(element).css({ 
+                marginTop: `${lineHeight*2}px`,
+                marginBottom: `${lineHeight}px`
+              });
+            }
+          }
+        }
+        jQuery(element).insertBefore(this.paragraphEndNodes[index]);
+      }
+      else {
+        console.warn('Foundation.ParagraphTool.insertElemenAt: invalid insertion index', index);
+      }
+    }
+
+    this.insertElemenAtEnd = function (element) {
+      if (this.paragraphEndNodes.length) {
+        
+        let lastNode = this.getNodeAtIndex(this.paragraphEndNodes.length -1);
+        if (this.isDoubleBrParagraphBreak(lastNode)
+            || this.isBrParagraphBreakBeforeBlockElement(lastNode)) {
+          if (jQuery(element).get(0).tagName.match(/SCRIPT/i) !== null) {
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+          }
+          else {
+            jQuery('div.fdn-content-body, div #storyBody').append('<div line-height-check>&nbsp;</div>')
+            let lineHeight = jQuery('[line-height-check]').get(0).clientHeight;
+            jQuery('[line-height-check]').remove()
+            if (jQuery(element).prop('tagName').match(/HIDDEN/i) !== null) {
+              jQuery(element).children('div').last().css({ marginBottom: `${lineHeight*2}px` });
+            }
+            else {
+              jQuery(element).css({ 
+                marginTop: `${lineHeight*2}px`,
+                marginBottom: `${lineHeight}px`
+              });
+            }
+          }
+        }
+      }
+      this.bodyContainer.append(element);
+    }
+
+    this.getNodeAtIndex = function (index) {
+      return this.paragraphEndNodes[index];
+    }
+  }
+  </script>
+<script>
+  window.Foundation = window.Foundation || {};
+  Foundation.Content = Foundation.Content || {};
+  Foundation.Content['41156760'] = Foundation.Content['41156760'] || {};
+  Foundation.Content['41156760'].inlineComponents = [{
+        componentOid: '37365813',
+        parentWrapperClass: '',
+        insertPoint: '3',
+        
+        startingPoint: '1',
+        requiredCountToDisplay: '5',
+        componentHtml: "<div ad-slot-div-id=\"STL_NativeInline\"\ndisplay-targets=\"all\"\nclass=\"uk-width-1-1 uk-text-center uk-margin\"\nad-deferred\nhidden>\n<script>\n\/\/ Define the slot\ngoogletag.cmd.push(function() {\nconst currentElement = jQuery('[ad-slot-div-id=\"STL_NativeInline\"]').first();\nconst adTemplateId = currentElement.attr('ad-slot-div-id');\nconst adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);\nconst generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);\ncurrentElement.attr('ad-slot-div-id', generatedDivId);\ncurrentElement.attr('id', generatedDivId);\n\/\/ console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);\n\/\/ console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);\nif (adTemplateItem !== null && generatedDivId !== null) {\nif (adTemplateItem.type.match(\/display|native\/i) !== null) {\nFoundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)\n}\nelse if (adTemplateItem.type.match(\/outofpage\/i) !== null) {\nFoundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)\n}\nif (adTemplateItem.targeting) {\nadTemplateItem.targeting.forEach(function (target, index) {\nFoundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)\n})\n}\nFoundation.Ad.slots[generatedDivId].addService(googletag.pubads())\nif (adTemplateItem.sizeMap) {\nFoundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))\n}\nFoundation.Ad.slots[generatedDivId].slotLoaded = false\n}\n\/\/ Small delay and queue up the show ad funciton\nsetTimeout(()=>{\ngoogletag.cmd.push(function() {\nFoundation.Ad.showAd(currentElement);\n});\n}, 200);\n});\n<\/script>\n<\/div>",
+       },{
+        componentOid: '37365812',
+        parentWrapperClass: '',
+        insertPoint: '2/3',
+        
+        startingPoint: '1',
+        requiredCountToDisplay: '9',
+        componentHtml: "\n<script r1-script-hook>\n(function () {\nvar realOneHookElement = document.querySelector('[r1-script-hook]');\nvar realOneScriptElement = document.createElement('script');\nrealOneScriptElement.defer = true;\nrealOneScriptElement.src = 'https:\/\/www.voqally.com\/hub\/app\/r.js?key=16fa797df65f83d4a5d14d36954afeff';\ndocument.querySelector('[r1-script-hook]').after(realOneScriptElement);\nrealOneHookElement.remove();\n})();\n<\/script>\n",
+       }];
+  Foundation.Content['41156760'].setupInlineComponents = function (callback) {
+    setTimeout(() => {
+      let contentBody = jQuery('[fdn-content-multi-item="41156760"] .fdn-content-body, div#storyBody');
+      // For multiple content scenarios
+      if (contentBody.length) {
+        Foundation.Content['41156760'].paragraphTool = new window.Foundation.ParagraphTool(contentBody);
+      }
+      // Assume only a single content
+      else {
+        contentBody = jQuery('.fdn-content-body, #storyBody');
+        Foundation.Content['41156760'].paragraphTool = new window.Foundation.ParagraphTool(contentBody);
+      }
+      var myParagraphTool = Foundation.Content['41156760'].paragraphTool
+      Foundation.Content['41156760'].inlineComponents.forEach((item,index) => {
+        if (item.parentWrapperClass.trim() === '') {
+          var componentElement = jQuery(item.componentHtml);
+        }
+        else {
+          var componentElement = jQuery(`<div class="${item.parentWrapperClass.trim()}">${item.componentHtml}</div>`);
+        }
+        var paragraphCount = myParagraphTool.getParagraphEndNodeCount();
+        // No need to insert if there aren't enough paragaphs
+        if (paragraphCount >= parseInt(item.requiredCountToDisplay)) {
+          // Matches specific paragraph insertion indexes
+          if (item.insertPoint.match(/^\d+$/) !== null) {
+            var insertIndex = parseInt(item.insertPoint) - 1;
+            // Insert within content
+            if (insertIndex < paragraphCount) {
+              myParagraphTool.insertElemenAtIndex(componentElement, insertIndex);
+            }
+            // Append to the end if the insert point is beyond the paragraph count
+            else {
+              myParagraphTool.insertElemenAtEnd(componentElement)
+            }
+          }
+          // Matches for 1/2, 1/4, 2/3, 5/6, etc
+          else if (item.insertPoint.match(/^[1223456]\/[23456]$/) !== null) {
+            var fractionMatch = new RegExp(/^([123456])(?:\/)([23456]$)/);
+            var fractionPart = parseInt(item.insertPoint.match(fractionMatch)[1]);
+            var fractionWhole = parseInt(item.insertPoint.match(fractionMatch)[2]);
+            var fractionValue = fractionPart / fractionWhole;
+            var fractionIndex = Math.floor(myParagraphTool.paragraphEndNodes.length * fractionValue) - 1;
+            myParagraphTool.insertElemenAtIndex(componentElement, fractionIndex);
+          }
+          // Matches for every Nth insertion point
+          else if (item.insertPoint.match(/^\d*th$/i) !== null) {
+            var intervalIndex = parseInt(item.insertPoint.match(/^(\d*)th$/i)[1]);
+            var startingIndex = parseInt(item.startingPoint) - 1;
+            var insertionMax = parseInt(item.maxInsertions) || 100;
+            var insertionCount = 0;
+
+            for (var i = startingIndex; i < myParagraphTool.paragraphEndNodes.length && insertionCount < insertionMax; i++) {
+              if ((i - startingIndex) % intervalIndex === 0) {
+                let currentNode = myParagraphTool.getNodeAtIndex(i);
+                const clonedComponent = componentElement.clone();
+                myParagraphTool.insertElemenAtIndex(clonedComponent, i);
+                insertionCount++;
+              }
+            }
+          }
+        }
+      });
+      Foundation.Content['41156760'].setupInlineComponents = function () { return true; };
+      if (typeof callback === 'function') {
+        callback();
+      }
+    }, 200);
+  }
+
+  Foundation.Content['41156760'].previewInsertionPoints = function () {
+    var myParagraphTool = Foundation.Content['41156760'].paragraphTool
+    myParagraphTool.paragraphEndNodes.each((index, item) => {
+      const insertionPointPlaceholder = jQuery(`
+        <div style="width:100%;padding:10px;background-color:lightgreen;border:1px solid darkgreen;box-sizing:border-box;">
+          Insertion point ${index+1}
+        </div>`)
+      myParagraphTool.insertElemenAtIndex(insertionPointPlaceholder, index);
+    });
+    return 'Paragraph insertion placeholders applied.';
+  }
+  </script>
+<script>
+        jQuery(function () {
+          Foundation.Content['41156760'].setupInlineComponents();
+        });
+        </script>
+</div>
+</div>
+</div>
+<div class="uk-width-1-1">
+<div class="ZoneA SiteSearchTagsresponsive   uk-root fdn-margin-vert SiteSearchTags comp-sitesearch-tags" data-component-id="SiteSearchTags">
+<div class="uk-flex uk-flex-row">
+<h3 class="fdn-link-tag-title fdn-line-height-med uk-flex-top uk-flex-none uk-margin-xsmall-right uk-margin-remove-bottom">
+Tags:
+</h3>
+<ul class="uk-list uk-margin-remove uk-flex-1 fdn-line-height-small">
+<li class="uk-text-nowrap fdn-line-height-med uk-inline uk-margin-remove-top fdn-link-tag">
+<a href="https://www.riverfronttimes.com/stlouis/Search?tag=Stoddard%20County%20Sheriff">Stoddard County Sheriff</a>,
+</li>
+<li class="uk-text-nowrap fdn-line-height-med uk-inline uk-margin-remove-top fdn-link-tag">
+<a href="https://www.riverfronttimes.com/stlouis/Search?tag=Stoddard%20County%20Sheriff%27s%20Department">Stoddard County Sheriff's Department</a>,
+</li>
+<li class="uk-text-nowrap fdn-line-height-med uk-inline uk-margin-remove-top fdn-link-tag">
+<a href="https://www.riverfronttimes.com/stlouis/Search?tag=Bryan%20Pennington">Bryan Pennington</a>,
+</li>
+<li class="uk-text-nowrap fdn-line-height-med uk-inline uk-margin-remove-top fdn-link-tag">
+<a href="https://www.riverfronttimes.com/stlouis/Search?tag=Parker">Parker</a>,
+</li>
+<li class="uk-text-nowrap fdn-line-height-med uk-inline uk-margin-remove-top fdn-link-tag">
+<a href="https://www.riverfronttimes.com/stlouis/Search?tag=Russ%20Oliver">Russ Oliver</a>,
+</li>
+<li class="uk-text-nowrap fdn-line-height-med uk-inline uk-margin-remove-top fdn-link-tag">
+<a href="https://www.riverfronttimes.com/stlouis/Search?tag=Roger%20Seal">Roger Seal</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="ZoneA AbouttheAuthorresponsive   uk-root fdn-margin-vert AbouttheAuthor comp-content-abouttheauthor" data-component-id="AbouttheAuthor">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+About The Author
+</h3>
+</div>
+<div class="uk-flex uk-margin-xsmall-bottom">
+<div class="uk-width-1-4 uk-padding-small uk-padding-remove-vertical uk-padding-remove-left">
+<a class="no-foundation-imgeditor" href="https://www.riverfronttimes.com/author/ryan-krull">
+<img src="https://media2.riverfronttimes.com/riverfronttimes/imager/riverfront-times/u/r-bigsquare/37473962/headshot_smallfilesize_.png?cb=1649359449" alt="Ryan Krull" width="400" height="400" class="memberThumb uk-height-max-small uk-width-auto uk-margin-small-right" loading="lazy" />
+</a>
+</div>
+<div class="uk-width-expand">
+<h4 class="fdn-teaser-headline">
+<a href="https://www.riverfronttimes.com/author/ryan-krull">
+Ryan Krull
+</a>
+</h4>
+<div class="uk-margin-small uk-flex uk-flex-row uk-flex-wrap uk-child-width-auto">
+<div class>
+<a href="https://twitter.com/RyanWKrull" target="_blank" uk-tooltip="@RyanWKrull">
+<span class="uk-margin-xsmall-right uk-icon-button fdn-icon-button-smaller"><i class="fab fa-twitter fa-sm"></i></span>
+<div style="text-indent: -9999rem;font-size: 0; height: 0;">Ryan Krull on Twitter</div>
+</a>
+</div>
+<div class>
+<a href="/cdn-cgi/l/email-protection#33414a525d1d5841465f5f73415a45564155415c5d47475a5e56401d505c5e" uk-tooltip="ryan.krull@riverfronttimes.com">
+<span class="uk-margin-xsmall-right uk-icon-button fdn-icon-button-smaller"><i class="fal fa-envelope fa-sm"></i></span>
+<div style="text-indent: -9999rem;font-size: 0; height: 0;">Email Ryan Krull</div>
+</a>
+</div>
+</div>
+<div class="bio">
+Ryan Krull is a staff writer for the Riverfront Times. Find him on Twitter <a href="https://twitter.com/RyanWKrull">@ryanwkrull</a>
+</div>
+</div>
+</div>
+</div>
+<div class="ZoneA Scrolldowntoreadmorearticlesresponsive   uk-root fdn-margin-vert Scrolldowntoreadmorearticles comp-" data-component-id="Scrolldowntoreadmorearticles">
+Scroll to read more Missouri News articles
+</div>
+<div ad-slot-div-id="STL_NativeEndOfArticle" display-targets="all" class="uk-width-1-1 uk-text-center uk-margin" ad-deferred hidden>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_NativeEndOfArticle"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+<div class="ZoneA DisqusCommentsresponsive   uk-root fdn-margin-vert DisqusComments comp-shell-disqus" data-component-id="DisqusComments" fdn-disqus-container="riverfronttimes_41156760">
+<div id="disqus_thread"></div>
+<script>
+    // 
+    (() => {
+      const disqusScriptLoaded = () => {
+        return document.querySelector('script[src$=".disqus.com/embed.js') !== null;
+      }
+
+      const pageIdentifier = 'riverfronttimes:41156760';
+      const pageTitle = "Deputy Shot Missouri Family’s Dog and Threw It in a Ditch";
+      const pageUrl = 'https://www.riverfronttimes.com/news/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760';
+      const containerSelector = '[fdn-disqus-container="riverfronttimes_41156760"]';
+      const containerElement = jQuery(containerSelector);
+
+      const loadDisqus = () => {
+        jQuery('#disqus_thread').remove();
+        containerElement.append('<div id="disqus_thread"></div>');
+
+        window.disqus_config = function () {
+          this.page.identifier = pageIdentifier;
+          this.page.title = pageTitle;
+          this.page.url = pageUrl;
+        };
+
+        const disqus_shortname = "riverfronttimes2";
+        const d = document, s = d.createElement('script');
+        s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      }
+
+      const resetDisqus = () => {
+        // Set min heights on any disqus containers to prevent jogging the page
+        jQuery('[fdn-disqus-container]').each(function () {
+          jQuery(this).css({ minHeight: jQuery(this).height() + 'px' });
+        });
+        jQuery('#disqus_thread').remove();
+        containerElement.append('<div id="disqus_thread"></div>');
+
+        DISQUS.reset({
+          reload: true,
+          config: function () {
+            this.page.identifier = pageIdentifier;
+            this.page.title = pageTitle;
+            this.page.url = pageUrl;
+            this.disqus_container_id = containerSelector;
+          }
+        });
+      }
+
+      let renderDisqusLastRun = 0;
+      let renderDisqusTimeout = null
+      const renderDisqusRateLimit = 200;
+      const renderDisqus = function () {
+        // Rate limiting
+        const timeSinceLastRun = new Date().getTime() - renderDisqusLastRun;
+        if (timeSinceLastRun < renderDisqusRateLimit) {
+          clearTimeout(renderDisqusTimeout);
+          renderDisqusTimeout = setTimeout(renderDisqus, renderDisqusRateLimit - timeSinceLastRun);
+          return;
+        }
+
+        // Bail if current disqus widget is already rendered
+        if (containerElement.find('#disqus_thread iframe[id^="dsq-"]').length) return;
+
+        const inBoundsOffsetTop = window.innerHeight * 0.5;
+        const inBoundsOffsetBottom = window.innerHeight * 0.5;
+
+        // element top bottom edges relative to window top-left postion and dimensions
+        const elementBounds = containerElement.get(0).getBoundingClientRect();
+        const elementTop = elementBounds.top;
+        const elementBottom = elementBounds.bottom;
+
+        const inBoundsPosTop = 0 - inBoundsOffsetTop;
+        const inBoundsPosBottom = window.innerHeight + inBoundsOffsetBottom;
+
+        const inBoundsTop = elementTop >= inBoundsPosTop && elementTop <= inBoundsPosBottom;
+        const inBoundsBottom = elementBottom >= inBoundsPosTop && elementBottom <= inBoundsPosBottom;
+
+        if (inBoundsTop && inBoundsBottom) {
+          if(disqusScriptLoaded()) {
+            resetDisqus();
+          }
+          else {
+            loadDisqus()
+          }
+        }
+
+        clearTimeout(renderDisqusTimeout);
+        renderDisqusLastRun = new Date().getTime();
+      }
+
+      jQuery(renderDisqus); // Document ready event
+      jQuery(window).on('scroll', renderDisqus);
+    })();
+    </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+</div>
+</div>
+<div class="uk-width-auto uk-visible@m uk-margin-left" style="width: 300px;">
+<div class="ZoneA TrendingContentAllSectionsresponsive  trending-by-day uk-root fdn-margin-vert TrendingContentAllSections comp-landing-trending" data-component-id="TrendingContentAllSections">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+Trending
+</h3>
+</div>
+<ul class="pres-ContentListSquareBrief uk-list uk-list-divider">
+<li class>
+<div class="uk-flex">
+<div class="uk-flex-1 uk-margin-remove">
+<a href="https://www.riverfronttimes.com/news/youtubers-test-st-louis-anal-beads-cheating-theory-with-butt-plug-41240772">
+<p class="fdn-teaser-headline">
+YouTubers Test St. Louis Anal Beads Cheating Theory With Butt Plug
+</p>
+</a>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Monica Obradovic
+</p>
+<time>
+Nov 15, 2023
+</time>
+</div>
+</div>
+<div class="fdn-pres-image uk-width-1-3 uk-width-1-4@xs uk-flex-first">
+<a href="https://www.riverfronttimes.com/news/youtubers-test-st-louis-anal-beads-cheating-theory-with-butt-plug-41240772">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/st-louis-anal-bead-chess-conspiracy-has-youtube-buzzing/u/r-bigsquare/41241411/img_6325.jpg?cb=1699998731" alt="YouTuber Archie Manners tries to sit down after shoving a butt plug up his ass." width="400" height="400" loading="lazy" />
+</a>
+</div>
+</div>
+</li>
+<li class>
+<div class="uk-flex">
+<div class="uk-flex-1 uk-margin-remove">
+<a href="https://www.riverfronttimes.com/news/metrolinks-single-car-train-pilot-program-angers-riders-41250604">
+<p class="fdn-teaser-headline">
+MetroLink's Single-Car Train Pilot Program Angers Riders
+</p>
+</a>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Sarah Fenske
+</p>
+<time>
+Nov 16, 2023
+</time>
+</div>
+</div>
+<div class="fdn-pres-image uk-width-1-3 uk-width-1-4@xs uk-flex-first">
+<a href="https://www.riverfronttimes.com/news/metrolinks-single-car-train-pilot-program-angers-riders-41250604">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/metrolink/u/r-bigsquare/41250607/metrolink.jpg?cb=1700104293" alt="MetroLink has been running with a single car  on some routes throughout the past month." width="400" height="400" loading="lazy" />
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div ad-slot-div-id="STL_TowerInlineATF" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around uk-margin" ad-deferred hidden>
+<script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_TowerInlineATF"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+<div class="ZoneA NewsletterSignupresponsive   uk-root fdn-margin-vert NewsletterSignup comp-landing-newslettersignup" data-component-id="NewsletterSignup">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+Newsletters
+</h3>
+</div>
+<h4 class="uk-margin-remove-top uk-margin-small-bottom uk-text-bold">Join Riverfront Times Newsletters</h4>
+<p class="uk-margin-remove">Subscribe now to get the latest news delivered right to your inbox.</p>
+<div class="uk-text-center">
+<a class="uk-flex-inline uk-flex-center uk-flex-middle uk-button fdn-button-control uk-margin-small-top" href="https://www.riverfronttimes.com/stlouis/Newsletters/Page">
+<i class="fal fa-newspaper"></i> <span class="uk-margin-xsmall-left">Sign Up Now</span>
+</a>
+</div>
+</div>
+<div ad-slot-div-id="STL_300x250" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around uk-margin" ad-deferred hidden>
+<script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_300x250"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+</div>
+</div>
+</div>
+<div ad-slot-div-id="STL_Billboard" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around uk-margin-top uk-margin-bottom" ad-deferred hidden>
+<script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_Billboard"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+<div class="content-multiple-item" fdn-content-multi-item="41255318" fdn-content-multi-item-headline="Bill Eigel Blasts Gov. Parson for &mdash; Gasp! &mdash; Urging Niceness" fdn-content-multi-item-permalink="/news/bill-eigel-blasts-gov-parson-for-gasp-urging-niceness-41255318" fdn-content-multi-item-canonical="https://www.riverfronttimes.com/news/bill-eigel-blasts-gov-parson-for-gasp-urging-niceness-41255318" fdn-content-multi-item-title="Bill Eigel Blasts Gov. Parson for &mdash; Gasp! &mdash; Urging Niceness" fdn-content-multi-item-thumb="https://media2.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41255595/billeflamethrower.jpg?cb=1700152220" fdn-content-multi-item-thumb-width="600" fdn-content-multi-item-thumb-height="338" fdn-content-multi-item-index="2" ga-dimension1="content" ga-dimension2="news" ga-dimension4="Sarah Fenske" fdn-content-multi-item-loader="fetch">
+</div>
+<div ad-slot-div-id="STL_Billboard" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around uk-margin-top uk-margin-bottom" ad-deferred hidden>
+<script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_Billboard"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+<div class="content-multiple-item" fdn-content-multi-item="41239995" fdn-content-multi-item-headline="Fair Housing Noncompliance Costs Missouri $500K Every Year" fdn-content-multi-item-permalink="/news/fair-housing-noncompliance-costs-missouri-500k-every-year-41239995" fdn-content-multi-item-canonical="https://www.riverfronttimes.com/news/fair-housing-noncompliance-costs-missouri-500k-every-year-41239995" fdn-content-multi-item-title="Fair Housing Noncompliance Costs Missouri $500K Every Year" fdn-content-multi-item-thumb="https://media1.riverfronttimes.com/riverfronttimes/imager/u/slideshow/41240003/6265092066_e1d38f21f2_c.jpg?cb=1699974426" fdn-content-multi-item-thumb-width="600" fdn-content-multi-item-thumb-height="450" fdn-content-multi-item-index="3" ga-dimension1="content" ga-dimension2="news" ga-dimension4="Evy Lewis" fdn-content-multi-item-loader="fetch">
+</div>
+<div ad-slot-div-id="STL_Billboard" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around uk-margin-top uk-margin-bottom" ad-deferred hidden>
+<script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_Billboard"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+<script>
+      if (typeof Foundation === 'undefined') window.Foundation = {};
+
+      // Prevent the browser from trying to scroll to the last scroll position before reload
+      if (history.scrollRestoration) {
+        history.scrollRestoration = 'manual'
+      }
+
+      Foundation.MultiItem = Foundation.MultiItem || function (options = {}) {
+        var multiItemId = options.id || ''
+        var componentSelector = options.componentSelector || '[data-component-id="ContentRowMultiple"]'
+        var itemSelector = options.itemSelector || '[fdn-content-multi-item]'
+        var scrollOffset = options.scrollOffset || -105
+        var contentOidAttr = 'fdn-content-multi-item'
+        var headlineAttr = 'fdn-content-multi-item-headline'
+        var permaLinkAttr = 'fdn-content-multi-item-permalink'
+        var canonicalAttr = 'fdn-content-multi-item-canonical'
+        var titleAttr = 'fdn-content-multi-item-title'
+        var thumbAttr = 'fdn-content-multi-item-thumb'
+        var thumbWidthAttr = 'fdn-content-multi-item-thumb-width'
+        var thumbHeightAttr = 'fdn-content-multi-item-thumb-height'
+        var contentLoaderAttr = 'fdn-content-multi-item-loader'
+
+        var originUrl = window.location.href
+        var contentComponentAjaxUrl = '/news/deputy-shot-missouri-familys-dog-and-threw-it-in-a-ditch-41156760';
+        var contentComponentCacheBust = '1700299903';
+
+        var currentIndex = 0
+        var cmInstance = this
+        var onScrollTimeout = null
+        var onItemChangeTimeout = null
+
+        function ActionQueue () {
+          var actions = []
+          var doingActions = false
+          var doActions = function () {
+            var nextAction = dequeue()
+            if (nextAction) {
+              doingActions = true
+              var result = nextAction()
+              doActions()
+            }
+            else {
+              doingActions = false
+            }
+          }
+          function dequeue () {
+            return actions.shift()
+          }
+          this.push = function (action) {
+            if (typeof action === 'function') {
+              actions.push(action)
+              if (!doingActions) {
+                doActions()
+              }
+            }
+          }
+        }
+
+        this.queue = new ActionQueue()
+
+        this.items = []
+        jQuery(componentSelector).find(itemSelector).each(function () {
+          cmInstance.items.push(this)
+        })
+
+        // Percentage of view from top to bottom of window
+        this.inViewThreshold = options.inViewThreshold || 0.5
+
+        Object.defineProperties(this, {
+          'id': { 
+            get: function() { 
+              return multiItemId || 'idNotSupplied'
+            }
+          },
+          'currentItemIndex': { 
+            get: function() { 
+              return currentIndex || 0
+            }
+          },
+          'currentItem': { 
+            get: function() { 
+              return jQuery(this.items[currentIndex])[0] || null
+            }
+          },
+          'currentPermaLink': { 
+            get: function() { 
+              return (jQuery(this.currentItem).attr(permaLinkAttr) || '').trim()
+            }
+          },
+          'currentCanonical': { 
+            get: function() { 
+              return (jQuery(this.currentItem).attr(canonicalAttr) || '').trim()
+            }
+          },
+          'currentThumb': { 
+            get: function() { 
+              return (jQuery(this.currentItem).attr(thumbAttr) || '').trim()
+            }
+          },
+          'currentTitle': { 
+            get: function() { 
+              return (jQuery(this.currentItem).attr(titleAttr) || '').trim()
+            }
+          },
+          'currentHeadline': { 
+            get: function() { 
+              return (jQuery(this.currentItem).attr(headlineAttr) || '').trim()
+            }
+          }
+        })
+
+        this.headlineAtIndex = function (index) { 
+          return (jQuery(this.items[index]).attr(headlineAttr) || '').trim()
+        }
+
+        this.permalinkAtIndex = function (index) { 
+          return (jQuery(this.items[index]).attr(permaLinkAttr) || '').trim()
+        }
+
+        this.setToIndex = function (index) {
+          var nextIndex = Math.min(this.items.length - 1, index) // Clamp higher range of items
+          nextIndex = Math.max(0, nextIndex) // Clamp lower range of items
+          var topOffset = jQuery(this.items[nextIndex]).offset().top + scrollOffset
+          window.scrollTo({ top: topOffset, behavior: 'smooth' })
+          if (currentIndex !== nextIndex) {
+            clearTimeout(onScrollTimeout)
+            onScrollTimeout = setTimeout(function() {
+              // console.log('Foundation.MultiItem setToIndex')
+              updateFurthestDownInView()
+            }, 100);
+          }
+        }
+
+        if (typeof options.onItemChange === 'function') {
+          this.onItemChange = options.onItemChange
+        }
+        else {
+          this.onItemChange = function () {}
+        }
+
+        var fireEvent = function (name, options) {
+          var jQevent = jQuery.Event(name)
+          for (var property in options){
+            jQevent[property] = options[property]
+          }
+          jQuery(document).trigger(jQevent)
+        }
+
+        var checkInView = function (element) {
+          var boundingRect = jQuery(element)[0].getBoundingClientRect()
+          var viewHeight = window.innerHeight
+          var viewThreshold = viewHeight * cmInstance.inViewThreshold
+          var boundingTop = boundingRect.top
+          var boundingBottom = boundingRect.top + boundingRect.height
+
+          var topInView = boundingTop > 0 && boundingTop < viewThreshold
+          var bottomInView = boundingBottom > 0 && boundingBottom < viewThreshold
+          var middleCoversView = boundingTop < 0 && boundingBottom > viewThreshold
+
+          if (topInView || bottomInView || middleCoversView) {
+            return true
+          }
+          return false
+        }
+
+        var updateFurthestDownInView = function () {
+          var furthestInViewItem = null
+          var furthestInViewIndex = 0
+
+          cmInstance.items.forEach(function (currentItem, index) {
+            var currentInViewItem = jQuery(currentItem)
+            // console.log(currentInViewItem)
+            if (checkInView(currentInViewItem)) {
+              if (furthestInViewItem === null) {
+                furthestInViewItem = currentInViewItem
+                furthestInViewIndex = index
+              }
+              else {
+                var furthestInView = furthestInViewItem.position().top
+                var currentInViewItemTop = currentInViewItem.position().top
+                if (currentInViewItemTop > furthestInView) {
+                  furthestInViewItem = currentInViewItem
+                  furthestInViewIndex = index
+                }
+              }
+            }
+          })
+
+          if (furthestInViewIndex !== currentIndex) {
+            currentIndex = furthestInViewIndex
+            fireEvent('foundation:multiitem:itemchange')
+          }
+        }
+
+        var fetchUnloadedItems = function () {
+          var itemContainer = jQuery('[' + contentLoaderAttr + '="fetch"]').first()
+          if (itemContainer.length) {
+            var contentOid = itemContainer.attr(contentOidAttr)
+            var params = {
+              ajaxComponent: 'ContentRowMultiple',
+              loadItemOid: contentOid,
+              itemIndex: jQuery(`${itemSelector}`).index(itemContainer[0]) + 1,
+              cb: contentComponentCacheBust,
+            }
+
+            var presentResult = function (resultHTML, loaderValue, callback) {
+              console.log('itemContainer', itemContainer.attr(contentLoaderAttr));
+              if (loaderValue == 'remove') {
+                itemContainer.removeAttr(contentLoaderAttr)
+              }
+              else {
+                itemContainer.attr(contentLoaderAttr, loaderValue)
+              }
+              itemContainer.slideUp({
+                duration: 300,
+                done: function () {
+                  // 
+                  var resultElements = jQuery.parseHTML(resultHTML, document, true)
+                  itemContainer.empty().append(resultElements).slideDown({
+                    duration: 300,
+                    done: function() {
+                      if (typeof callback === 'function') {
+                        setTimeout(() => {
+                          callback()
+                        }, 100)
+                      }
+                    },
+                  })
+                },
+              })
+            }
+
+            jQuery.ajax({
+              url: contentComponentAjaxUrl,
+              type: 'GET',
+              data: params,
+              dataType: 'json',
+              beforeSend: function () { presentResult('<div uk-spinner></div>', 'fetching') },
+              success: function (data) {
+                // console.log(data.result, data.error, data)
+                if (data) {
+                  if (data.error) {
+                    // presentResult('Trouble loading content.', 'error')
+                  }
+                  else if (data.result) {
+                    if (typeof Foundation.Content === 'undefined') {
+                      presentResult(data.result, 'remove');
+                    }
+                    else {
+                      presentResult(data.result, 'remove', () => {
+                        // Foundation.Content[contentOid].setupInlineComponents();
+                        if (Foundation.Image.Editor && typeof Foundation.Image.Editor.setupEditButtons === 'function') {
+                          Foundation.Image.Editor.setupEditButtons();
+                        }
+                      });
+                    }
+
+                  }
+                  else {
+                    // presentResult('How did we get here?', 'error')
+                  }
+                }
+                else {
+                  // presentResult('No result or error returned from content request.', 'error')
+                }
+              },
+              complete: function () { 
+                cmInstance.queue.push(fetchUnloadedItems);
+              },
+              error: function (error) { 
+                // presentResult('Ajax request error.', 'error')
+              }
+            })
+          }
+        }
+
+        cmInstance.queue.push(fetchUnloadedItems)
+
+        jQuery(document).on('scroll resize', function () {
+          // Prevent rapid firing of event stuff
+          clearTimeout(onScrollTimeout)
+          onScrollTimeout = setTimeout(function() {
+            // console.log('Foundation.MultiItem onScroll event')
+            updateFurthestDownInView()
+          }, 100);
+        })
+
+        jQuery(document).on('foundation:multiitem:itemchange', function ()  {
+          // Prevent rapid firing of event stuff
+          clearTimeout(onItemChangeTimeout)
+          onItemChangeTimeout = setTimeout(function() {
+            // console.log('Foundation.MultiItem foundation:multiitem:itemchange event ')
+            cmInstance.onItemChange()
+          }, 100);
+        })
+      };
+
+      Foundation.MultiItems = Foundation.MultiItems || {
+        add: function (multiItem) {
+          Foundation.MultiItems[multiItem.id] = multiItem;
+        }
+      };
+
+      Foundation.MultiItems.add(new Foundation.MultiItem({ 
+        id: 'ContentRowMultiple',
+        onItemChange: function () {
+          if (this.currentPermaLink) {
+            var state = {}
+            var title = ''
+            var url = this.currentPermaLink
+            history.pushState(state, title, url)
+          }
+          if (this.currentCanonical) {
+            document.querySelector('meta[property*=og\\:url]').href = this.currentCanonical
+            document.querySelector('link[rel*=canonical]').href = this.currentCanonical
+          }
+          if (this.currentThumb) {
+            document.querySelector('link[rel*=image_src]').href = this.currentThumb
+            document.querySelector('meta[name*=thumbnail]').content = this.currentThumb
+            document.querySelector('meta[property*=og\\:image]').content = this.currentThumb
+            document.querySelector('meta[name*=twitter\\:image]').content = this.currentThumb
+          }
+          if (this.currentTitle) {
+            document.querySelector('title').text = this.currentTitle
+          }
+
+          // Google track pageview
+          if (typeof ga === 'function') {
+            ga('set', 'location', window.location.href)
+            for (let i = 1; i <= 4; i++) {
+              let currentDimension = jQuery(Foundation.MultiItems["ContentRowMultiple"].currentItem).attr('ga-dimension'+i)
+              if (typeof currentDimension === 'string') {
+                ga('set', 'dimension' + i, currentDimension)
+              }
+              else {
+                ga('set', 'dimension' + i, '') 
+              }
+            }
+            ga('send', 'pageview')
+          }
+
+          if (typeof (Foundation.Ad.slots['STL_LeaderboardHeader-1']) === 'object' && !false) {
+            Foundation.Ad.refresh('STL_LeaderboardHeader-1')
+          }
+
+          if (typeof (Foundation.Ad.slots['STL_Footer-1']) === 'object') {
+            Foundation.Ad.showFooter('STL_Footer-1');
+          }
+        }
+      }))
+      </script>
+</div>
+<div class="ZoneA ContentDefault  trending-by-day uk-root fdn-margin-vert TrendingContentHome comp-landing-trending" data-component-id="TrendingContentHome">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+Trending
+</h3>
+</div>
+<div class="pres-ContentTileRectangleBriefVariableAcross uk-grid uk-grid-small" uk-grid="true" data-ev-presentation="ContentTileRectangleBriefVariableAcross" uk-height-match=".fdn-pres-image">
+<div class="uk-width-1-2@xs uk-width-1-2@s uk-width-1-4@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/youtubers-test-st-louis-anal-beads-cheating-theory-with-butt-plug-41240772">
+<div>
+<p class="fdn-teaser-headline">
+YouTubers Test St. Louis Anal Beads Cheating Theory With Butt Plug
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Monica Obradovic
+</p>
+<time>
+Nov 15, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/st-louis-anal-bead-chess-conspiracy-has-youtube-buzzing/u/golden-s/41241411/img_6325.jpg?cb=1699998731" alt="YouTuber Archie Manners tries to sit down after shoving a butt plug up his ass." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="uk-width-1-2@xs uk-width-1-2@s uk-width-1-4@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/metrolinks-single-car-train-pilot-program-angers-riders-41250604">
+<div>
+<p class="fdn-teaser-headline">
+MetroLink's Single-Car Train Pilot Program Angers Riders
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Sarah Fenske
+</p>
+<time>
+Nov 16, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/metrolink/u/golden-s/41250607/metrolink.jpg?cb=1700104293" alt="MetroLink has been running with a single car  on some routes throughout the past month." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="uk-width-1-2@xs uk-width-1-2@s uk-width-1-4@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/ballwin-man-arrested-for-brutal-road-rage-attack-in-downtown-st-louis-41263956">
+<div>
+<p class="fdn-teaser-headline">
+Ballwin Man Arrested for Brutal Road Rage Attack in Downtown St. Louis
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Sarah Fenske
+</p>
+<time>
+Nov 17, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/ballwin-man-arrested-for-brutal-road-rage-attack-in-downtown-st-louis/u/golden-s/41263962/screen_shot_2023-11-17_at_4.04.30_pm.png?cb=1700259938" alt="John Jacob Ehlinger seems to have some rage issues." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="uk-width-1-2@xs uk-width-1-2@s uk-width-1-4@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/for-murder-victims-family-a-6-year-ordeal-with-little-to-show-for-it-41257287">
+<div>
+<p class="fdn-teaser-headline">
+For Murder Victim's Family, a 6-Year Ordeal — with Little to Show for It
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Ryan Krull
+</p>
+<time>
+Nov 17, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media2.riverfronttimes.com/riverfronttimes/imager/for-kendrick-woods-family-a-6-year-ordeal-with-little-to-show-for-it/u/golden-s/41257289/kendrickwoods.jpeg?cb=1700188351" alt="Kendrick Woods with his niece and grandmother." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="componentGrid-ThreeAcross uk-width-1-1 uk-flex uk-flex-row uk-flex-wrap fdn-component-grid-row@m" uk-height-match data-component-grid-id="ContentFooterTriplet">
+<div class="uk-width-1-1 uk-width-1-3@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+<div ad-slot-div-id="STL_TowerAfterInfinite" display-targets="all" class="uk-width-1-1 uk-flex uk-flex-around uk-margin" ad-deferred hidden>
+<script>
+        // Define the slot
+        googletag.cmd.push(function() {
+          const currentElement = jQuery('[ad-slot-div-id="STL_TowerAfterInfinite"]').first();
+          const adTemplateId = currentElement.attr('ad-slot-div-id');
+          const adTemplateItem = Foundation.Ad.getSlotConfigTemplate(adTemplateId);
+          const generatedDivId = Foundation.Ad.generateDivIdFromSlotConfigPresets(adTemplateId);
+
+          currentElement.attr('ad-slot-div-id', generatedDivId);
+          currentElement.attr('id', generatedDivId);
+
+          // console.info(`[FdnAd] adTemplateId: ${adTemplateId}, generatedDivId: ${generatedDivId}, currentDivId: ${currentElement.attr('ad-slot-div-id')}`);
+          // console.info(`[FdnAd] adTemplateItem && generatedDivId ${adTemplateItem !== null && generatedDivId !== null} ${adTemplateItem} ${generatedDivId}`);
+
+
+          if (adTemplateItem !== null && generatedDivId !== null) {
+            if (adTemplateItem.type.match(/display|native/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineSlot(adTemplateItem.adUnit, adTemplateItem.sizes, generatedDivId)
+            }
+            else if (adTemplateItem.type.match(/outofpage/i) !== null) {
+              Foundation.Ad.slots[generatedDivId] = googletag.defineOutOfPageSlot(adTemplateItem.adUnit, generatedDivId)
+            }
+
+            if (adTemplateItem.targeting) {
+              adTemplateItem.targeting.forEach(function (target, index) {
+                Foundation.Ad.slots[generatedDivId].setTargeting(target.key, target.value)
+              })
+            }
+
+            Foundation.Ad.slots[generatedDivId].addService(googletag.pubads())
+
+            if (adTemplateItem.sizeMap) {
+              Foundation.Ad.slots[generatedDivId].defineSizeMapping(Foundation.Ad.CreateSizeMapping(adTemplateItem.sizeMap))
+            }
+            Foundation.Ad.slots[generatedDivId].slotLoaded = false
+          }
+
+          // Small delay and queue up the show ad funciton
+          setTimeout(()=>{
+            googletag.cmd.push(function() {
+              Foundation.Ad.showAd(currentElement);
+            });
+          }, 200);
+
+        });
+        </script>
+</div>
+</div>
+<div class="uk-width-1-1 uk-width-1-3@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+<div class="ComponentZoneB ContentFooterTripletresponsive  fdn-margin-medium-vert uk-root fdn-margin-vert LatestinSectionMultiContent comp-landing-sectionstories" data-component-id="LatestinSectionMultiContent">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+Also in News
+</h3>
+</div>
+<div class="pres-ContentTileRectangleBriefVariableAcross uk-grid uk-grid-small" uk-grid="true" data-ev-presentation="ContentTileRectangleBriefVariableAcross" uk-height-match=".fdn-pres-image">
+<div class="uk-width-1-2@s uk-width-1-2@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/ballwin-man-arrested-for-brutal-road-rage-attack-in-downtown-st-louis-41263956">
+<div>
+<p class="fdn-teaser-headline">
+Ballwin Man Arrested for Brutal Road Rage Attack in Downtown St. Louis
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Sarah Fenske
+</p>
+<time>
+Nov 17, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/ballwin-man-arrested-for-brutal-road-rage-attack-in-downtown-st-louis/u/golden-s/41263962/screen_shot_2023-11-17_at_4.04.30_pm.png?cb=1700259938" alt="John Jacob Ehlinger seems to have some rage issues." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="uk-width-1-2@s uk-width-1-2@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/for-murder-victims-family-a-6-year-ordeal-with-little-to-show-for-it-41257287">
+<div>
+<p class="fdn-teaser-headline">
+For Murder Victim's Family, a 6-Year Ordeal — with Little to Show for It
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Ryan Krull
+</p>
+<time>
+Nov 17, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media2.riverfronttimes.com/riverfronttimes/imager/for-kendrick-woods-family-a-6-year-ordeal-with-little-to-show-for-it/u/golden-s/41257289/kendrickwoods.jpeg?cb=1700188351" alt="Kendrick Woods with his niece and grandmother." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="uk-width-1-2@s uk-width-1-2@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/your-catalytic-converter-metals-likely-ended-up-in-a-new-catalytic-converter-41255040">
+<div>
+<p class="fdn-teaser-headline">
+Your Catalytic Converter Metals Likely Ended Up in a New Catalytic Converter
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Ryan Krull
+</p>
+<time>
+Nov 16, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media2.riverfronttimes.com/riverfronttimes/imager/your-catalytic-converter-metals-likely-ended-up-in-a-new-catalytic-converter/u/golden-s/41255046/converterthief.jpg?cb=1700145576" alt="St. Louis was shocked by a catalytic converter theft at a Schnucks parking lot in south city last February." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="uk-width-1-2@s uk-width-1-2@m">
+<a class="uk-flex uk-flex-column fdn-decoration-remove" href="https://www.riverfronttimes.com/news/metrolinks-single-car-train-pilot-program-angers-riders-41250604">
+<div>
+<p class="fdn-teaser-headline">
+MetroLink's Single-Car Train Pilot Program Angers Riders
+</p>
+<div class="fdn-teaser-infoline fdn-inline-split-list">
+<p>
+By Sarah Fenske
+</p>
+<time>
+Nov 16, 2023
+</time>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-flex-first">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/metrolink/u/golden-s/41250607/metrolink.jpg?cb=1700104293" alt="MetroLink has been running with a single car  on some routes throughout the past month." width="600" height="371" loading="lazy" />
+</div>
+</a>
+</div>
+</div>
+<div class="uk-margin-small uk-clearfix uk-text-right ">
+<a class="uk-align-right uk-margin-remove fdn-more-link-primary uk-flex-inline uk-flex-middle" href="https://www.riverfronttimes.com/stlouis/ArticleArchives?section=2348800">
+More <i class="far fa-chevron-double-right fa-xs"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="uk-width-1-1 uk-width-1-3@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+<div class="ComponentZoneC ContentFooterTripletresponsive   uk-root fdn-margin-vert CurrentIssuu comp-landing-currentissuu" data-component-id="CurrentIssuu">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+Digital Issue
+</h3>
+</div>
+<h3>November 15, 2023</h3>
+<iframe title="Current Issue" src="https://e.issuu.com/embed.html?d=rft_111523&hideIssuuLogo=true&pageLayout=singlePage&u=euclidmediagroup" allowfullscreen allow="fullscreen" style="border:none;width:100%;height:300px;"></iframe>
+<p>
+<a class="more" href="https://www.riverfronttimes.com/stlouis/IssueArchives">View more issues <i class="fas fa-angle-right fa-lg"></i></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ev-grid-zone ev-column-zone uk-flex uk-flex-wrap uk-child-width-1-2@m">
+<div class="ev-grid-col" data-ev-zone="ZoneB">
+</div>
+<div class="ev-grid-col" data-ev-zone="ZoneC">
+</div>
+</div>
+<div class="ev-grid-zone ev-secondary-zone" data-ev-zone="ZoneD">
+<div class="ev-grid-col uk-width-1-1">
+</div>
+</div>
+<div class="ev-grid-zone ev-footer-zone" data-ev-zone="GlobalFooter">
+<div class="ev-grid-col uk-width-1-1">
+<div class="GlobalFooter ContentDefault   uk-root fdn-margin-vert FooterNavigationCustom comp-shell-footernavigation" data-component-id="FooterNavigationCustom">
+<div class="uk-flex uk-flex-wrap uk-grid-small fdn-custom-footer-link-block" uk-grid>
+<div class="fdn-custom-footer-section-column">
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-news">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/news" target="_self">News</a>
+</li>
+<li>
+<a href="/category/st-louis-metro-news-2349235" target="_self">St. Louis Metro News</a>
+</li>
+<li>
+<a href="/category/missouri-news-37051540" target="_self">Missouri News</a>
+</li>
+<li>
+<a href="/topic/abortion-rights-38101853" target="_self">Abortion Rights</a>
+</li>
+<li>
+<a href="/category/sports-40116896" target="_self">Sports</a>
+</li>
+<li>
+<a href="/topic/savage-love-38547313" target="_self">Savage Love</a>
+</li>
+<li>
+<a href="/stlouis/IssueArchives?issue=thisweek" target="_blank">Digital Issue</a>
+</li>
+<li>
+<a href="/slideshows/?section=2348800" target="_self">News Slideshows</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-arts___culture">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/arts" target="_self">Arts & Culture</a>
+</li>
+<li>
+<a href="/category/theater-review-40116919" target="_self">Theater Review</a>
+</li>
+<li>
+<a href="/category/arts-stories-and-interviews-2512891" target="_self">Arts Stories & Interviews</a>
+</li>
+<li>
+<a href="/topic/theater-and-performance-37051582" target="_self">Theater & Performance</a>
+</li>
+<li>
+<a href="/topic/visual-art-37051583" target="_self">Visual Art</a>
+</li>
+<li>
+<a href="/slideshows/?section=2348805" target="_self">Arts & Culture Slideshows</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fdn-custom-footer-section-column">
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-food___drink">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/food-drink" target="_self">Food & Drink</a>
+</li>
+<li>
+<a href="/category/restaurant-openings-and-closings-40116908" target="_self">Openings & Closings</a>
+</li>
+<li>
+<a href="/category/food-and-drink-news-2512889" target="_self">Food & Drink News</a>
+</li>
+<li>
+<a href="/topic/st-louis-standards-37152531" target="_self">St. Louis Standards</a>
+</li>
+<li>
+<a href="/category/restaurant-reviews-2349240" target="_self">Restaurant Reviews</a>
+</li>
+<li>
+<a href="/stlouis/LocationSearch?locationSection=2683245/stlouis/LocationSearch?locationSection=2683245&guide=2124367" target="_self">Find a Restaurant</a>
+</li>
+<li>
+<a href="/slideshows/?section=2348803" target="_self">Food & Drink Slideshows</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-music">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/music" target="_self">Music</a>
+</li>
+<li>
+<a href="/category/concert-review-40116930" target="_self">Concert Review</a>
+</li>
+<li>
+<a href="/music" target="_self">Music News & Interviews</a>
+</li>
+<li>
+<a href="/stlouis/EventSearch?eventCategory=2960217&sortType=date&v=d" target="_self">Find a Concert</a>
+</li>
+<li>
+<a href="/slideshows/?section=2348804" target="_self">Music Slideshows</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fdn-custom-footer-section-column">
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-movies">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/movies-tv" target="_self">Movies</a>
+</li>
+<li>
+<a href="/category/movie-reviews-and-news-2349243" target="_self">Movie Reviews & News</a>
+</li>
+<li>
+<a href="/stlouis/MovieTimes" target="_self">Movie Times</a>
+</li>
+<li>
+<a href="/stlouis/LocationSearch?locationCategory=2683256&sortType=name" target="_self">Find a Theater</a>
+</li>
+<li>
+<a href="/stlouis/FreeStuff" target="_self">Giveaways</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-reeferfront_times">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/weed" target="_self">Reeferfront Times</a>
+</li>
+<li>
+<a href="/blogs/WeedNews/" target="_self">Weed News</a>
+</li>
+<li>
+<a href="/category/dispensary-reviews-35262629" target="_self">Dispensary Reviews</a>
+</li>
+<li>
+<a href="/stlouis/LocationSearch?locationSection=35262377&sortType=name" target="_self">Dispensary Directory</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-calendar">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/stlouis/EventSearch" target="_self">Calendar</a>
+</li>
+<li>
+<a href="/stlouis/EventSearch?narrowByDate=Today" target="_self">Today's Events</a>
+</li>
+<li>
+<a href="/stlouis/EventSearch?narrowByDate=This%20Weekend" target="_self">This Weekend</a>
+</li>
+<li>
+<a href="/stlouis/EventSearch?eventCategory=2759675&sortType=date&v=d" target="_self">Free Events</a>
+</li>
+<li>
+<a href="/stlouis/Events/AddEvent" target="_self">Submit an Event</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fdn-custom-footer-section-column">
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-best_of">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/stlouis/BestOf" target="_self">Best Of</a>
+</li>
+<li>
+<a href="/best-of/arts-and-entertainment" target="_self">Arts & Entertainment</a>
+</li>
+<li>
+<a href="/best-of/food-and-drink" target="_self">Food & Drink</a>
+</li>
+<li>
+<a href="/best-of/people-and-places" target="_self">People & Places</a>
+</li>
+<li>
+<a href="/best-of/sports-and-recreation" target="_self">Sports & Recreation</a>
+</li>
+<li>
+<a href="/best-of/goods-and-services" target="_self">Goods & Services</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-st__louis_guides">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/st-louis-guides" target="_self">St. Louis Guides</a>
+</li>
+<li>
+<a href="/category/bar-guide-6786381" target="_self">Bar Guide</a>
+</li>
+<li>
+<a href="/category/city-guide-3138571" target="_self">City Guide</a>
+</li>
+<li>
+<a href="/category/summer-guide-2349249" target="_self">Summer Guide</a>
+</li>
+<li>
+<a href="/sponsored" target="_self">Sponsored Articles</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-promotions___giveaways">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/stlouis/FreeStuff" target="_self">Promotions & Giveaways</a>
+</li>
+<li>
+<a href="/stlouis/FreeStuff?category=3014930" target="_self">RFT Events</a>
+</li>
+<li>
+<a href="/stlouis/FreeStuff?category=2199663" target="_self">Giveaways</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fdn-custom-footer-section-column">
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-support">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/stlouis/SupportLocalJournalism/Page" target="_self">Support</a>
+</li>
+<li>
+<a href="/stlouis/SupportLocalJournalism/Page" target="_self">Donate</a>
+</li>
+<li>
+<a href="/stlouis/Newsletters/Page" target="_self">Subscribe</a>
+</li>
+<li>
+<a href="/stlouis/AdvertiseWithRiverfrontTimes/Page" target="_self">Advertise</a>
+</li>
+<li>
+<a href="https://www.facebook.com/riverfronttimes" target="_blank">Facebook</a>
+</li>
+<li>
+<a href="https://twitter.com/riverfronttimes/" target="_blank">Twitter</a>
+</li>
+<li>
+<a href="https://instagram.com/riverfronttimes" target="_blank">Instagram</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-section-block fdn-custom-footer-section-block-about_us">
+<ul class="uk-list">
+<li class="fdn-custom-footer-section-header ">
+<a href="/stlouis/AboutRiverfrontTimes/Page" target="_self">About Us</a>
+</li>
+<li>
+<a href="/stlouis/ContactUs/Page" target="_self">Contact Us</a>
+</li>
+<li>
+<a href="/stlouis/AdvertiseWithRiverfrontTimes/Page" target="_self">Advertise</a>
+</li>
+<li>
+<a href="/stlouis/Jobs/Page" target="_self">Jobs</a>
+</li>
+<li>
+<a href="/stlouis/Policies/Page" target="_self">Policies</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="GlobalFooter ContentDefault   uk-root fdn-margin-vert FooterSisterPublications comp-shell-footersisterpublications" data-component-id="FooterSisterPublications">
+<style>
+  .fdn-custom-footer-publications-logo-riverfronttimes {
+    display: none !important;
+  }
+  </style>
+<div class="uk-text-center fdn-custom-footer-publications-header">
+<h3 class="uk-margin-remove">Big Lou Holdings, LLC</h3>
+<p class="uk-margin-remove">Read our sister publications</p>
+</div>
+<div class="uk-flex uk-flex-wrap uk-child-width-1-5 uk-child-width-expand@s uk-flex-around uk-padding-small fdn-custom-footer-publications-logos">
+<a class="uk-padding-small fdn-custom-footer-publications-logo fdn-custom-footer-publications-logo-citybeat" uk-tooltip="Cincinnati CityBeat" href="https://www.citybeat.com/" target="_blank">
+<img alt="Cincinnati CityBeat" src="/images/air/citybeat.png" loading="lazy">
+</a>
+<a class="uk-padding-small fdn-custom-footer-publications-logo fdn-custom-footer-publications-logo-metrotimes" uk-tooltip="Detroit Metro Times" href="https://www.metrotimes.com" target="_blank">
+<img alt="Detroit Metro Times" src="/images/air/metrotimes.jpg" loading="lazy">
+</a>
+<a class="uk-padding-small fdn-custom-footer-publications-logo fdn-custom-footer-publications-logo-leo" uk-tooltip="LEO Weekly" href="https://www.leoweekly.com/" target="_blank">
+<img alt="LEO Weekly" src="/images/air/leo-weekly.png" loading="lazy">
+</a>
+<a class="uk-padding-small fdn-custom-footer-publications-logo fdn-custom-footer-publications-logo-riverfronttimes" uk-tooltip="St Louis Riverfront Times" href="https://www.riverfronttimes.com" target="_blank">
+<img alt="St Louis Riverfront Times" src="/images/air/riverfront.png" loading="lazy">
+</a>
+<a class="uk-padding-small fdn-custom-footer-publications-logo fdn-custom-footer-publications-logo-outinstl" uk-tooltip="Out in STL" href="https://outinstl.com/" target="_blank">
+<img alt="Out in STL" src="/images/air/outinstl.png" loading="lazy">
+</a>
+</div>
+</div>
+<div id="FooterInfo" class="GlobalFooter ContentDefault   uk-root fdn-margin-vert FooterInfo comp-shell-footerinfo" data-component-id="FooterInfo">
+<div class="uk-flex uk-flex-wrap fdn-custom-footer-info-block">
+<div class="uk-width-1-1 fdn-custom-footer-info-address">
+<h3 class="uk-margin-remove">
+Riverfront Times
+</h3>
+<p class="uk-margin-remove">PO Box 430033</p>
+<p class="uk-margin-remove">St. Louis, MO 63143</p>
+</div>
+<div class="uk-width-1-1 uk-flex fdn-custom-footer-info-links">
+<div class="uk-grid-small uk-flex-middle fdn-custom-footer-info-social-links" uk-grid>
+<a href="https://www.facebook.com/riverfronttimes" target="_blank" uk-tooltip="Facebook">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/facebook/u/square/35431870/f_logo_rgb-blue_512.png?cb=1691532295" alt="Facebook" width="120" height="120" class="no-foundation-imgeditor" loading="lazy" />
+</a>
+<a href="https://twitter.com/riverfronttimes/" target="_blank" uk-tooltip="X">
+<img src="https://media2.riverfronttimes.com/riverfronttimes/imager/twitter/u/square/41156493/unnamed-3.jpg?cb=1698784130" alt="Twitter" width="120" height="120" class="no-foundation-imgeditor" loading="lazy" />
+</a>
+<a href="https://instagram.com/riverfronttimes/" target="_blank" uk-tooltip="Instagram">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/instagram-icon/u/square/35431871/instagram_appicon_aug2017.png?cb=1645726122" alt="Instagram Icon" width="120" height="120" class="no-foundation-imgeditor" loading="lazy" />
+</a>
+<a href="https://apple.news/T9gPTWxMMSMKrkGVRSxWUMw" target="_blank" uk-tooltip="Apple News">
+<img src="https://media2.riverfronttimes.com/riverfronttimes/imager/apple-news-icon/u/square/35431866/c8269638ca74fdcb0896367bbc1eff24.png?cb=1645726138" alt="Apple News Icon" width="120" height="120" class="no-foundation-imgeditor" loading="lazy" />
+</a>
+<a href="https://news.google.com/publications/CAAiELxEU1xKRmkqN8s-dSFIAbEqFAgKIhC8RFNcSkZpKjfLPnUhSAGx?hl=en-US&gl=US&ceid=US%3Aen" target="_blank" uk-tooltip="Google News">
+<img src="https://media1.riverfronttimes.com/riverfronttimes/imager/google-news-icon/u/square/35431868/google_news_icon.png?cb=1645726161" alt="Google News Icon" width="120" height="120" class="no-foundation-imgeditor" loading="lazy" />
+</a>
+</div>
+</div>
+</div>
+</div>
+<script>
+if (typeof window.__uspapi === 'function') {
+  window.__uspapi('uspPing', 1, function(obj, status) {
+    if (status && obj.mode.includes('USP') && obj.jurisdiction.includes(obj.location.toUpperCase())) {
+      var message = document.createElement("p");
+      message.setAttribute("class", "ccpaNotice");
+      message.innerHTML = 'Our website uses technical, analytical, marketing, and preference cookies to provide the best experience for our readers and to give us information about how our site is used. You may request that your data not be shared with third parties here: ' 
+        + `<a href="#" onclick="window.__uspapi('displayUspUi');"` 
+        + '>Do Not Sell My Data</a>' 
+        + '.';
+      document.getElementById('FooterInfo').append(message);
+      window.__uspapi('setUspDftData', 1, function(obj, status) {
+        if (!status) {
+            console.log("Error: USP string not updated!")
+        }
+      });
+   }
+  });
+}
+</script>
+<div class="GlobalFooter ContentDefault   uk-root fdn-margin-vert FooterCopyright comp-shell-footercopyright" data-component-id="FooterCopyright">
+<div class="uk-text-center">
+<div class="fdn-copyright-text">
+© 2023 Riverfront Times
+</div>
+<div class="fdn-copyright-text uk-margin-small-top">
+<a class="fdn-copyright-link" href="https://publishwithfoundation.com/" target="_blank">
+<img width="110" alt="Powered By Foundation" src="/foundation/images/PoweredByFoundation.svg" loading="lazy">
+</a>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+  (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+  vgo('setAccount', '26668640');
+  vgo('setTrackByDefault', true);
+
+  vgo('process');
+</script>
+</div>
+</div>
+<div class="ev-grid-zone ev-closer-zone" data-ev-zone="Closer">
+<div class="ev-grid-col uk-width-1-1">
+<div class="Closer ContentDefault   uk-root fdn-margin-vert SupportUs comp-shell-supportus" data-component-id="SupportUs">
+<div class="fdn-support-us-button-block">
+<a href="/stlouis/SupportLocalJournalism/Page">Support Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

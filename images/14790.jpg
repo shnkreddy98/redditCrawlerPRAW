@@ -1,0 +1,916 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- include head -->
+    
+	
+	
+	
+	
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=5.0,user-scalable=yes">    
+    
+<!--meta http-equiv="Cache-Control" content="no-store"-->    
+<meta http-equiv="Expires" content="-1"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    
+    
+    
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+
+
+        
+<!-- favicon start -->    
+<link rel="shortcut icon" href="https://m.koreatimes.co.kr/images/koreatimes.ico?20200409" type="image/x-icon"/>
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://m.koreatimes.co.kr/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://m.koreatimes.co.kr/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://m.koreatimes.co.kr/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://m.koreatimes.co.kr/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://m.koreatimes.co.kr/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://m.koreatimes.co.kr/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://m.koreatimes.co.kr/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://m.koreatimes.co.kr/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://m.koreatimes.co.kr/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://m.koreatimes.co.kr/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://m.koreatimes.co.kr/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://m.koreatimes.co.kr/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://m.koreatimes.co.kr/images/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://m.koreatimes.co.kr/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- favicon end -->
+	
+<link rel="amphtml" href="https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362631">
+<link rel="stylesheet" href="https://m.koreatimes.co.kr/css/style.view_v2022_fin.css?20220913">
+<link rel ="stylesheet" type="text/css" href="https://m.koreatimes.co.kr/css/dable.css" />
+
+
+	
+	
+
+    
+    
+    
+    
+    
+
+
+
+
+
+    <!-- /include head -->
+
+	
+
+	
+	
+<script type="text/javascript" language="JavaScript">
+   var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'Windows CE;', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson', 'Mobile', 'Symbian', 'Opera Mobi', 'Opera Mini', 'IEmobile','telecom');
+   var i = 0;
+   for (var word in mobileKeyWords) {
+	   if (navigator.userAgent.match(mobileKeyWords[word]) != null) {
+			i = 1;
+			break;
+		}
+   }
+   
+   if (i==0) {
+		window.location.href = "https://www.koreatimes.co.kr/www/nation/2023/11/113_362631.html";
+   }
+</script>
+	
+		
+	
+
+	
+	
+	
+	
+<title>S. Korea, US, Japan to launch high-level cyber consultation group - The Korea Times</title>
+
+<meta name="title" content="S. Korea, US, Japan to launch high-level cyber consultation group - The Korea Times">
+
+<link rel="canonical" href="https://www.koreatimes.co.kr/www/nation/2023/11/113_362631.html" />  
+	
+	
+	
+    
+<meta name="news_keywords" content="NorthKorea,Japan,SouthKorea,threat,missile,nuclear,US,consultation,cyber,group ,korea, south korea, news, north korea, the korea times, korea times, koreatimes, korean news in english, seoul"/>
+<meta name="description" content="South Korea, the United States and Japan have agreed to launch a high-level cyber consultation group to come up with ways to block North Korean cyber activities that fund its missile and nuclear programs, the South&#39;s presidential office said Monday." />
+<meta name="robots" content="all">
+
+
+    
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631">
+<meta name="twitter:title" content="S. Korea, US, Japan to launch high-level cyber consultation group">
+<meta name="twitter:description" content="South Korea, the United States and Japan have agreed to launch a high-level cyber consultation group to come up with ways to block North Korean cyber activities that fund its missile and nuclear programs, the South&#39;s presidential office said Monday.">
+<meta name="twitter:image" content="https://img.koreatimes.co.kr/upload/thumbnailV2/e9995959a4af456dbae28a2557964d59.jpg">
+	
+<meta property="og:title" content="S. Korea, US, Japan to launch high-level cyber consultation group"/>	
+<meta property="og:url" content="https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="S. Korea, US, Japan to launch high-level cyber consultation group" />
+<meta property="og:description" content="South Korea, the United States and Japan have agreed to launch a high-level cyber consultation group to come up with ways to block North Korean cyber activities that fund its missile and nuclear programs, the South&#39;s presidential office said Monday." />
+<meta property="og:image" content="https://img.koreatimes.co.kr/upload/thumbnailV2/e9995959a4af456dbae28a2557964d59.jpg" />
+	
+<!--<meta property="dable:item_id" content="362631"/>
+<meta property="dable:author" content=""/>	-->
+<meta property="article:section" content="News" />
+<meta property="article:published_time" content="2023-11-06T11:45:00+09:00"/>
+	
+<!-- Hmap -->	
+<meta property="hk:id" content="362631">
+<meta property="hk:title" content="S. Korea, US, Japan to launch high-level cyber consultation group">
+<meta property="hk:author" content=""/>
+<meta property="hk:authorcode" content="">
+<meta property="hk:section" content="National">
+<meta property="hk:sectioncode" content="120"> <!-- 기사분류코드 -->
+<meta property="hk:jpart" content="Digital Media Division"> <!-- 기자부서명 -->
+<meta property="hk:jpartcode" content="2116"> <!-- 기자부서코드 -->
+<meta property="article:published_time" content="2023-11-06T11:45:00+09:00"> <!-- 출고일자 -->
+<meta property="article:modified_time" content="2023-11-06T15:59:00+09:00">
+
+<!--<link rel="stylesheet" href="https://m.koreatimes.co.kr/css/style.view_v2022.css?20220815_001">-->
+    
+
+    
+    
+    
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "NewsArticle",
+	"@id": "https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631",
+	"mainEntityOfPage":{
+	"@type":"WebPage",
+	"@id":"https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631"
+	},
+	"headline": "S. Korea, US, Japan to launch high-level cyber consultation group",
+	"image": {
+	"@type": "ImageObject",
+	"@id": "https://img.koreatimes.co.kr/upload/thumbnailV2/e9995959a4af456dbae28a2557964d59.jpg",
+	"url": "https://img.koreatimes.co.kr/upload/thumbnailV2/e9995959a4af456dbae28a2557964d59.jpg",
+	"height": "740"
+	},
+	"datePublished": "2023-11-06T11:45:00+09:00",
+	"dateModified": "2023-11-06T15:59:00+09:00",
+	"author": {
+	"@type": "Person",
+	"name": ""
+	},
+	"publisher": {
+	"@type": "Organization",
+	"@id": "https://www.koreatimes.co.kr/",
+	"name": "The Korea Times",
+	"logo": {
+	"@type": "ImageObject",
+	"url": "https://img.koreatimes.co.kr/www2/img/KT_logo.png/dims/resize/160/optimize",
+	"width": 160
+	},
+	"sameAs":["https://www.youtube.com/c/THEKOREATIMESOfficial","https://www.facebook.com/thekoreatimes","https://twitter.com/koreatimescokr","https://www.instagram.com/thekoreatimes_official","https://post.naver.com/my.naver?memberNo=45952060"]
+	},
+	"description": "South Korea, the United States and Japan have agreed to launch a high-level cyber consultation group to come up with ways to block North Korean cyber activities that fund its missile and nuclear programs, the South&#39;s presidential office said Monday."
+}
+</script>	
+	
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Person",
+	"name": "The Korea Times",
+	"url": "https://www.koreatimes.co.kr",
+	"sameAs": [
+		"https://www.youtube.com/c/THEKOREATIMESOfficial",
+		"https://www.facebook.com/thekoreatimes",
+		"https://twitter.com/koreatimescokr",
+		"https://post.naver.com/my.naver?memberNo=45952060",
+		"https://www.instagram.com/thekoreatimes_official"
+		]
+}
+</script>
+    	
+	
+
+
+    
+    
+    
+    
+
+
+    
+<style> 
+	.sns_ul { list-style: none; margin: 0px; padding: 0px; }
+	.sns_ul_li { margin:0 5px 0 0; padding:0 0 0 0; border:0px; float: left; }
+</style>  
+    
+
+<!-- taboola start -->
+
+<script type="text/javascript">
+
+  window._taboola = window._taboola || [];
+
+  _taboola.push({article:'auto'});
+
+  !function (e, f, u, i) {
+
+    if (!document.getElementById(i)){
+
+      e.async = 1;
+
+      e.src = u;
+
+      e.id = i;
+
+      f.parentNode.insertBefore(e, f);
+
+    }
+
+  }(document.createElement('script'),
+
+  document.getElementsByTagName('script')[0],
+
+  '//cdn.taboola.com/libtrc/koreatimes-mobile/loader.js',
+
+  'tb_loader_script');
+
+  if(window.performance && typeof window.performance.mark == 'function')
+
+    {window.performance.mark('tbl_ic');}
+
+</script>
+	
+<!-- taboola end -->	
+	
+    
+</head>
+<body >
+    
+
+    
+    
+    <!-- include top -->
+    
+<style>
+/* 로고 이미지 */
+.svgLogoTop { background-image: url('../images/KT_logo_s_k.svg'); background-repeat: no-repeat; background-size: 100%; background-position: 0px 0px; width: 170px; height: 18px; margin:10px auto 0 auto;}
+/*.svgLogoTop { background-image: url('../images/KT_m_christmas_20221222.jpg?1'); background-repeat: no-repeat; background-size: 100%; background-position: 0px 0px; width: 178.5px; height: 20.5px; margin:8px auto 0 auto;}*/
+	
+.svgLogoTopGray { background-image: url('../images/KT_logo_footer_w.svg'); background-repeat: no-repeat; background-size: 100%; background-position: 0px 0px; width: 170px; height: 18px; margin:10px auto 0 auto;}
+.svgLogoSideNav { background-image: url('../images/KT_logo_footer_w.svg'); background-repeat: no-repeat; background-size: 100%; background-position: 0px 0px; width: 150px; height: 18px; margin: 3px auto;}
+
+</style>
+
+<div id="header">
+    <h1>
+	<a href="/pages/main.asp" alt="The Korea Times">
+            
+
+
+		<!--img src="../images/logo.png?2020" alt="The Korea Times" style="margin: 10px 0 0 0;"-->
+		<div class="svgLogoTop"></div>	
+
+    
+        </a>
+    </h1>
+    <button id="btn_menu"><img src="../images/bt_m_menu_20221121.svg?1" alt="All Menu"></button>
+    <button id="btn_setting"><img src="../images/bt_m_setting_20221121.svg" alt="Settings"></button>
+</div>
+<div id="bg_overlay"></div>
+<!-- side menu -->
+<div id="side_menu_wrap">
+    <div id="side_menu">
+        <div class="side_header">
+            <a href="/pages/main.asp" alt="The Korea Times">
+		<!--img src="../images/logo_green.png?2019" alt="The Korea Times"-->
+		<div class="svgLogoSideNav"></div>
+	    </a>
+            <button type="button" id="close_side"><img src="../images/btn_close.png" alt="close"></button>
+        </div>
+<form name="formWriteS" id="formWriteS" action="search.asp" method="post">
+        <div class="search_box">
+            <input type="text" name="query" placeholder="Search">
+            <a href="javascript:formInputCommS('')"><img src="../images/btn_search.png" alt="search"></a>
+        </div>
+</form>
+        <ul class="side_nav">
+            <li><a href="/pages/section.asp?categoryCode=113">National</a></li>
+			<li><a href="/pages/section.asp?categoryCode=398">Entertainment & Arts</a></li>
+			<li><a href="/pages/section.asp?categoryCode=135">Lifestyle</a></li>
+            <li><a href="/pages/section.asp?categoryCode=178">Video</a></li>
+            <li><a href="/pages/section.asp?categoryCode=103">North Korea</a></li>
+            <li><a href="/pages/section.asp?categoryCode=129">Business</a></li>
+			<li><a href="/pages/section.asp?categoryCode=602">Finance</a></li>
+			<li><a href="/pages/section.asp?categoryCode=137">Opinion</a></li>
+			<li><a href="/pages/section.asp?categoryCode=600">Sports</a></li>
+			<li><a href="/pages/section.asp?categoryCode=501">World</a></li>
+            <li><a href="/pages/section.asp?categoryCode=653">Darkroom</a></li>
+            <li><a href="/pages/section.asp?categoryCode=740">Learning English (해설판)</a></li>
+            <li><a href="/kr/kr.asp">Learning Korean</a></li>
+	    	<li><a href="/pages/subscribe_01.asp"><img src="/images/btn_subscribe.png" style="height:22px; width:22px; margin-right:10px; margin-top:1px" alt="Subscribe"/>Subscribe</a></li>
+			<li><a href="/pages/epaper.asp"><img src="/images/btn_epaper.png" style="height:22px; width:22px; margin-right:10px; margin-top:1px" alt="E-Paper Subscribe"/>E-Paper</a></li>
+            <!--<li><a href="/pages/most.asp">Top 10 Stories</a></li>-->
+        <div class="footer">
+	<!--	
+    <div class="go_desk">
+        <a href="https://www.koreatimes.co.kr/www2/index.asp?device=1">Go to Desktop Version</a>
+    </div>
+	-->
+    <ul class="dn_app">
+        <li><a href="https://itunes.apple.com/kr/app/apple-store/id1137801840?mt=8">iPhone</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=junny_seo.app12">Android</a></li>
+    </ul>
+    <p class="copyright">Copyright@KoreaTimes.co.kr All rights reserved</p>
+</div>
+    </div>
+</div>
+<!-- //side menu -->
+<!-- settings -->
+<div id="settings_wrap">
+    <div id="settings">
+        <div class="settings_header">
+            <h3>Settings</h3>
+            <button type="button" id="close_settings"><img src="../images/btn_close.png" alt="close"></button>
+        </div>
+        
+        <div class="setting_fsize">
+            <p>ⓕ font-size</p>
+            <ul id="set_fsize">
+                <li>-2</li>
+                <li>-1</li>
+                <li class="selected">0</li>
+                <li>+1</li>
+                <li>+2</li>
+            </ul>
+        </div>
+        <div class="footer">
+	<!--	
+    <div class="go_desk">
+        <a href="https://www.koreatimes.co.kr/www2/index.asp?device=1">Go to Desktop Version</a>
+    </div>
+	-->
+    <ul class="dn_app">
+        <li><a href="https://itunes.apple.com/kr/app/apple-store/id1137801840?mt=8">iPhone</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=junny_seo.app12">Android</a></li>
+    </ul>
+    <p class="copyright">Copyright@KoreaTimes.co.kr All rights reserved</p>
+</div>
+    </div>
+</div>
+<!-- //settings -->
+    <!-- /include top -->
+    <div id="container" class="article_container">
+        <div class="article_header">
+            <div class="article_info">
+                <a href="/pages/section.asp?categoryCode=113">
+					<span class="category">National</span>
+				</a>
+                <span class="date">2023-11-06&nbsp;11:45</span>
+            </div>
+            <h2 class="hdv">
+            S. Korea, US, Japan to launch high-level cyber consultation group</h2>
+			
+            
+
+            
+            <!--    
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5be24284fa97db99"></script>
+			<div class="addthis_inline_share_toolbox_vsr4"></div>	-->
+
+
+                
+			<div class="sns_tts">												
+				
+
+				<div class="sns_area">
+					<!--<div class="addthis_inline_share_toolbox_ufi2"></div>-->
+					<ul class="sns_ul">
+						<li class="sns_ul_li"><a href='javascript:snsShare("facebook","https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&utm_source=fa","S. Korea, US, Japan to launch high-level cyber consultation group");'><img src="/images/sns/icon_fb_2022.svg" width="30px" height="30px" alt="Facebook share button" /></a></li>
+						<li class="sns_ul_li"><a href='javascript:snsShare("twitter","https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&utm_source=tw","S. Korea, US, Japan to launch high-level cyber consultation group");'><img src="/images/sns/icon_X_202311.svg" width="30px" height="30px" alt="Twitter share button" /></a></li>
+						<li class="sns_ul_li"><a id="kakao-link-btn" href="javascript:;"><img src="/images/sns/icon_kakaotalk_2022.svg" width="30" height="30px"  alt="Kakao share button" /></a></li>
+						<!--<li class="sns_ul_li"><a id="kakao-link-btn" href="javascript:;"><img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png" width="30"  alt="Kakao share button" /></a></li>
+                        
+						<li class="sns_ul_li"><a href='javascript:snsShare("whatsapp","https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&WA","S. Korea, US, Japan to launch high-level cyber consultation group");'><img src="/images/sns/wa.png?re" /></a></li>
+						<li class="sns_ul_li"><a href='javascript:snsShare("reddit","https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&RD","S. Korea, US, Japan to launch high-level cyber consultation group");'><img src="/images/sns/rd.png?re" /></a></li>
+                        -->
+						<li class="sns_ul_li"><a href='mailto:?subject=S. Korea, US, Japan to launch high-level cyber consultation group&body=https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631'><img src="/images/sns/icon_mail_2022.svg" width="30px" height="30px" alt="Mail share button" /></a></li>
+						<li class="sns_ul_li"><a href='javascript:snsShare("addurl","https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631","S. Korea, US, Japan to launch high-level cyber consultation group");'><img src="/images/sns/icon_link_2022.svg" width="30px" height="30px" alt="Link share button" /></a></li>
+					</ul>		
+				</div>
+
+			</div>
+																			
+
+				
+				
+        </div>
+        <div class="article_view">
+			<div itemprop="articleBody">
+				<div class="editor-img-box" style="margin-left: auto; margin-right: auto; margin-bottom: 30px; width: 100%;"><img class='gallery-items' style="display: block; width: 100%;" src="https://newsimg.koreatimes.co.kr/2023/11/06/00906460-5539-4c48-b945-6cab88abda78.jpg" alt="" /><div class="caption"><p>South Korea's Deputy National Security Adviser In Seong-hwan, left, Anne Neuberger, center, U.S. deputy national security adviser for cyber and emerging technologies, and Keiichi Ichikawa, deputy head of Japan's National Security Secretariat, pose in Washington, Oct. 31, after agreeing to details of a trilateral working group tasked with combating North Korea's cyberthreats and cryptocurrency theft, in this photo released by the presidential office. Yonhap</p></div></div><p class="editor-p">South Korea, the United States and Japan have agreed to launch a high-level cyber consultation group to come up with ways to block North Korean cyber activities that fund its missile and nuclear programs, the South's presidential office said Monday.</p><p class="editor-p">The decision was reached during a trilateral meeting involving Deputy National Security Adviser In Seong-hwan, U.S. deputy national security adviser for cyber and emerging technologies Anne Neuberger and deputy head of Japan's National Security Secretariat Keiichi Ichikawa in Washington on Tuesday (local time), the office said in a press release.</p><p class="editor-p">The aim of the new consultation group, which will meet every quarter, is to devise measures to block North Korea's cybercrimes and strengthen the joint response capability of the three nations against global cyberthreats.</p><p class="editor-p">The consultation body is a follow-up to an agreement reached by President Yoon Suk Yeol, U.S. President Joe Biden and Japanese Prime Minister Fumio Kishida during their trilateral summit at Camp David in August to establish a trilateral working group tasked with combating North Korea's cyberthreats and cryptocurrency theft.</p><p class="editor-p">While in Washington, In also met separately with Australia's National Cyber Security Coordinator Darren Goldie last Monday, and the two sides agreed to work to jointly identify and respond to common threats, including by quickly forming a bilateral working group to define the scope of cooperation, the presidential office said. (Yonhap)</p>
+<script type="text/javascript" src="//tm.interworksmedia.co.kr/ads.js/EFCBE0F3"></script>
+<script src="https://ad.doyouad.com/ad/scriptJs?zoneId=TU5PNm1zdDVPc2M9"></script>
+			</div>		
+        </div>
+
+																			
+																			
+																			
+		
+															
+
+            
+                
+																									
+		<br><div align="center">
+			
+			
+			
+			<!-- NAVER daily english 
+			<div style="margin: 0 0 10px 0;">
+			<a href="https://wquiz.dict.naver.com/endic/news/home.dict" target="_blank"><img src="https://img.koreatimes.co.kr/banner/bn_dailyenglish_w320x100_20200603.jpg/dims/resize/320/optimize" border="0" alt="dailyenglish"></a>
+			</div>
+            -->
+	
+
+
+        </div><br>		
+
+
+
+        <!-- NAVER-COALITION  댓글 
+        <div class="reply_facebook">
+            <div class="fb-comments" data-href="https://www.koreatimes.co.kr/www/nation/2023/11/120_362631.html" data-numposts="5"></div>
+        </div>
+		-->
+    </div>
+			
+			
+
+
+
+    <!-- Advertisement Section Start -->
+		
+			
+	<!-- interactive news start -->
+		<div style="border-top: solid 1px #d8d8d8;"></div>
+		<div align="center">
+			
+		<!-- interactive banner start -->
+		<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://m.koreatimes.co.kr/js/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="https://m.koreatimes.co.kr/js/jq.rolling.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://m.koreatimes.co.kr/css/jq.rolling.css?06"/>
+			
+		<div align="left" class="section_category">
+          <h2><font size="3">Interactive News</font></h2>
+        </div>
+		<div style="margin: 5px 0 10px 0;">
+		 <div id="rolling">-->
+			 <!-- include virtual="/include/inc_interactivenews_img.asp" -->
+		 <!--</div>
+		<ul class="pages"></ul>
+		</div>
+
+		<script>
+		 $("#rolling").rolling(320,210,{autoscroll:1, delay:3000});
+		</script>-->
+		<!-- interactive banner end -->
+			
+		</div>
+	<!-- interactive news end -->
+			
+		
+
+
+    <!-- NAVER-COALITION   2022-11-15 -->
+    <div align="center" style="margin: 10px 0 0 0;">
+		<iframe src="//tracker.adbinead.com/other/koreatimes_Mbottom_b_300_250.html" width="300" height="250" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" vspace="0" hspace="0" allowtransparency="true" style="margin: 0px; padding: 0px; border: currentColor; border-image: none; width: 300px; height: 250px; visibility: visible; position: relative; background-color: transparent;"></iframe>
+    </div>
+
+
+    <div align="center" style="margin: 10px 0 0 0;"></div>
+
+
+    <div align="center" style="margin: 10px 0 0 0;">
+  		<iframe src="//tracker.adbinead.com/other/koreatimes_Mbylinebottom_b_320_100.html" width="320" height="100" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" vspace="0" hspace="0" allowtransparency="true" style="margin: 0px; padding: 0px; border: currentColor; border-image: none; width: 320px; height: 100px; visibility: visible; position: relative; background-color: transparent;"></iframe>
+	</div>
+			
+			
+	<!-- taboola ad start -->
+			
+	<div id="taboola-below-article-thumbnails"></div>
+
+	<script type="text/javascript">
+
+	  window._taboola = window._taboola || [];
+
+	  _taboola.push({
+
+		mode: 'alternating-thumbnails-a',
+
+		container: 'taboola-below-article-thumbnails',
+
+		placement: 'Below Article Thumbnails',
+
+		target_type: 'mix'
+
+	  });
+
+	</script>
+			
+	<!-- taboola ad end -->
+			
+			
+	<!-- script bn2 start -->
+		
+	<div align="center" style="margin: 10px 0 0 0;">
+		
+		<!-- /83673359,21635044516/koreatimes_Mbottom2_b_300_250 -->
+		<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+		<script>
+		  var googletag = googletag || {};
+		  googletag.cmd = googletag.cmd || [];
+		</script>
+		<div style="width: 300px; height:250px; overflow: hidden; margin: 0 auto;">
+		<div id="koreatimes_Mbottom2_b_300_250">
+		  <script>
+			googletag.cmd.push(function () {
+			  googletag.defineSlot('/83673359,21635044516/koreatimes_Mbottom2_b_300_250', [300, 250], 'koreatimes_Mbottom2_b_300_250').addService(googletag.pubads().set("page_url", "koreatimes.co.kr"));
+			  googletag.enableServices();
+			  googletag.display('koreatimes_Mbottom2_b_300_250');
+			});
+		  </script>
+		</div>
+		</div>
+		
+	</div>
+		
+	<!-- script bn2 end -->
+
+
+    <!--<div align="center" style="margin: 10px 0 0 0;">
+			<div id="dablewidget_1XDe9Woe" data-widget_id="1XDe9Woe">
+			<script>
+			(function(d,a,b,l,e,_) {
+			if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+			e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+			_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+			})(window,document,'dable','script');
+			dable('setService', 'm.koreatimes.co.kr');
+			dable('sendLogOnce');
+			dable('renderWidget', 'dablewidget_1XDe9Woe');
+			</script>
+			</div>
+    </div>-->
+    
+			
+	<div align="center" style="margin: 10px 0 0 0;" >
+		
+    </div>
+	
+
+
+    <div align="center" style="margin: 10px 0 0 0;">
+		
+					<div id="wp_adbn_root" style="width: 0px;">
+					<div id="wp_adbn_43" style="z-index: 10000043;">
+					<div style="position:fixed; bottom:0; width:100%; z-index:10000; left:0px; background-color:#333;border-top:1px solid #ddd; height:50px;">
+					<dl class="x_btn" style="position: relative; top:0; right:0; height: 50px; width: 14px; line-height: 14px; float:left; background-color: #000; margin: 0; color: #fff; font-size:10px; z-index: 999999;" onclick="document.getElementById('wp_adbn_root').hidden=true;">
+
+					<dt style="width: 14px; background-color: #e23838; line-height: 11px; font-weight: bold; padding-left: 3px;">X</dt>
+					<dd style="transform: rotate(90deg); padding-left: 2px; font-size: 10px; margin: 0;">CLOSE</dd>
+					</dl>
+					<div id="adbineScroll" style="position: absolute;bottom: 0;top: 0;right: 0;margin: auto;width: 320px;z-index:10000;left:0px;">
+					<p align="middle" style="margin:0;">
+					<iframe src="//tracker.adbinead.com/other/koreatimes_Mbottomfix_b_320_50.html" width="320" height="50" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" vspace="0" hspace="0" allowtransparency="true" style="margin: 0px; padding: 0px; border: currentColor; border-image: none; width: 320px; height: 50px; visibility: visible; position: relative; background-color: transparent;"></iframe>
+
+					</p>
+					</div>
+					</div>
+					</div>
+					</div>		
+		
+    </div>
+	<!-- -->
+	<!-- Advertisement Section End -->
+
+
+
+            
+					
+			<!-- Top 10 News -->
+			<div class="section_mrs" data-aos="fade-up">
+			  
+				<h2>Top 10 Stories</h2>
+					<ul class="list_mrs">
+						<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363375'><span class='rank_mrs rank_mrs_top3'>1</span><h3>ENHYPEN sings about unconditional love in new album 'ORANGE BLOOD' </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363419'><span class='rank_mrs rank_mrs_top3'>2</span><h3><span class="m_key">INTERVIEW</span> Paper straw makers are on verge of bankruptcy due to gov't U-turn on plastic</h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363326'><span class='rank_mrs rank_mrs_top3'>3</span><h3>North Korea's denial of Hamas ties shows its fear of consequences </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363413'><span class='rank_mrs rank_mrs_top3'>4</span><h3>Korean literary gems continue to make waves as translations spark global acclaim </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363424'><span class='rank_mrs rank_mrs_top3'>5</span><h3>Hanwha Ocean accelerates efforts to sell warships in North America </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363428'><span class='rank_mrs rank_mrs_top3'>6</span><h3>Gov't, ruling party to introduce special leglislation banning dog meat </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363422'><span class='rank_mrs rank_mrs_top3'>7</span><h3>Ruling party's reforms stuck at most critical stage </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363404'><span class='rank_mrs rank_mrs_top3'>8</span><h3>Hyundai Motor Group replaces CEOs of parts, steelmaking units </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363429'><span class='rank_mrs rank_mrs_top3'>9</span><h3>Ex-UN chief, former world leaders urge Biden to draw up new Mideast peace plan </h3></a></li>
+<li><a href='https://m.koreatimes.co.kr/pages/article.asp?newsIdx=363374'><span class='rank_mrs rank_mrs_top3'>10</span><h3>Korean economy expected to grow 2.2% next year: IMF </h3></a></li>
+
+					</ul>
+			</div>	
+
+            
+            
+   <!-- script bn start -->
+	<div align="center" style="margin: 10px 0 0 0;" >
+		<script src="https://ad.doyouad.com/ad/scriptJs?zoneId=SDYzZjEwV05QL0E9"></script>
+    </div>
+   <!-- script bn end -->
+            
+
+    <div class="tool_btn_box">
+        <a href="#" id="go_top"><img src="../images/mark_top.png" alt="go top"></a>
+        <a href="#" id="news_letter"><span class="newsletter_1">NEWS</span><span>LETTER</span></a>
+    </div>
+            
+            
+            
+            
+    <!-- include footer -->
+    <div class="footer">
+	<!--	
+    <div class="go_desk">
+        <a href="https://www.koreatimes.co.kr/www2/index.asp?device=1">Go to Desktop Version</a>
+    </div>
+	-->	
+    <ul class="dn_app">
+        <li><a href="https://itunes.apple.com/kr/app/apple-store/id1137801840?mt=8">iPhone</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=junny_seo.app12">Android</a></li>
+    </ul>
+    <p class="copyright">Copyright@KoreaTimes.co.kr All rights reserved</p>
+</div>
+<!--
+<div id="newsletter_layer">
+    <div class="newsletter">
+        <button type="button" id="close_newsletter"><img src="../images/btn_close_gray.png" alt="button_close"></button>
+        <h3><img src="../images/logo.png" alt="The Korea Times"></h3>
+        <p>Sign up for eNewsletter</p>
+        <div class="newsletter_input">
+            <span><img src="../images/icon_letter.png" alt="icon_newsletter"></span>
+            <input type="text" id="newsletter_email" placeholder="EMAIL ADDRESS">
+            <button id="newsletter_send">SEND</button>
+        </div>
+    </div>
+-->
+</div>
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42530834-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-42530834-11');
+</script>
+
+    
+    
+    
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7749707-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-7749707-6');
+</script>
+
+
+
+<!-- GA4 통합 --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W0W8TFL0RB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+	gtag('config', 'G-W0W8TFL0RB', {
+		'page_location': 'https://m.koreatimes.co.kr/pages/article.asp/362631'
+	});
+
+
+</script>
+
+<!-- Google tag (gtag.js) - GA4 - 20230403 --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E1QQQS7JPY"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-E1QQQS7JPY', {
+		'page_location': 'https://m.koreatimes.co.kr/pages/article.asp/362631'
+	});
+</script>
+
+    <!-- /include footer -->
+
+    <!-- include common js -->
+    <script src="../js/jquery-3.2.1.min.js"></script>
+<script src="../js/slick.min.js"></script>
+<script src="../js/jquery.cookie.js"></script>
+<script src="../js/script.js"></script>
+    <!-- /include common js -->
+        
+
+				
+        
+
+
+            
+
+	<script>
+		$(document).ready(function() {
+			$("#share_facebook").click(function() {
+				var url = location.href;
+				var title = "S. Korea, US, Japan to launch high-level cyber consultation group";
+				window.open('https://www.facebook.com/sharer.php?u=' + url, '', '');
+			});
+			$("#share_twitter").click(function() {
+				var url = location.href;
+				var title = "S. Korea, US, Japan to launch high-level cyber consultation group";
+				window.open('https://twitter.com/intent/tweet?source=sharethiscom&text=' + title + '&url=' + url, '', '');
+			});
+
+			if($("iframe").hasClass('iframe_mov')) { //video 가 있으면
+				var view_wth = $('.article_view').width();
+				if(parseInt(view_wth) >= 740) {
+					$(".iframe_mov").css({width : 740, height : 416, "display":"block", "margin":"0 auto"});
+				}else{
+					frame_wth = parseInt((416 * view_wth) / 740);
+					$(".iframe_mov").css({width : view_wth, height : frame_wth, "display":"block", "margin":"0 auto" });
+				}
+
+			}
+		});
+	</script>
+
+    <!-- 이미지 뷰어(확대, 이동) -->
+    <script src="../js/imageviewer.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var viewer = ImageViewer();
+            $('.gallery-items').click(function () {
+                var imgSrc = this.src,
+                    highResolutionImage = $(this).attr('data-item');
+				
+				if (highResolutionImage === undefined || highResolutionImage === "") {
+					viewer.show(imgSrc, highResolutionImage);
+				} else {
+					window.open(highResolutionImage, "_blank");
+				}
+            });
+        });
+    </script>
+
+    <!-- //이미지 뷰어(확대, 이동) -->
+                
+                
+
+
+					
+	<!-- Hmap 수집스크립트 --> 
+	<script type="text/javascript" src="//hmap-asis.hankookilbo.com/service/kt/trk.js"></script>  
+			
+
+
+
+    
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
+<script>
+
+	function snsShare(snsName, link, title) {
+
+		if (title === null) return false;
+
+		var snsPopUp;
+		var _width = '500';
+		var _height = '450';
+		var _left = Math.ceil(( window.screen.width - _width )/2);
+		var _top = Math.ceil(( window.screen.height - _height )/2);
+
+		switch(snsName){
+			case 'facebook':
+				link = link + '&utm_campaign=shared_news&utm_source=fa';
+				snsPopUp = window.open("https://www.facebook.com/sharer/sharer.php?u=" + link, '', 'width='+ _width +', height='+ _height +', left=' + _left + ', top='+ _top);
+				break;
+
+			case 'twitter' :
+				link = link + '&utm_campaign=shared_news&utm_source=tw';
+				snsPopUp = window.open("https://twitter.com/intent/tweet?url=" + link + "&text=" + encodeURIComponent(title), '', 'width='+ _width +', height='+ _height +', left=' + _left + ', top='+ _top);
+				break;
+
+			case 'kakao' :
+				link = link + '?KK&&utm_campaign=shared_news&utm_source=KK';
+				snsPopUp = window.open("https://story.kakao.com/share?url=" + link, '', 'width='+ _width +', height='+ _height +', left=' + _left + ', top='+ _top);
+				break;
+
+			case 'whatsapp' :
+				link = link + '&utm_campaign=shared_news&utm_source=WA';
+				snsPopUp = window.open("https://api.whatsapp.com/send/?phone&text=" + encodeURIComponent(title) + ' ' + encodeURIComponent(link));
+				break;
+
+			case 'reddit' :
+				link = link + '&utm_campaign=shared_news&utm_source=RD';
+				snsPopUp = window.open("https://www.reddit.com/submit?url=" + link);
+				break;
+
+			case "google":
+				sns_sendUrl = "https://www.google.com/bookmarks/mark?op=add" + "&title=" + encodeURIComponent(title)	+"&bkmk="+encodeURIComponent(link) ;
+				break;
+
+			case 'addurl' :
+				var dummy = document.createElement("textarea");
+				document.body.appendChild(dummy);
+				dummy.value = link;
+				dummy.select();
+				document.execCommand("copy");
+				document.body.removeChild(dummy);
+				alert("URL이 클립보드에 복사되었습니다.");
+				break;
+		}
+	}
+</script>
+
+<script type='text/javascript'>
+	//<![CDATA[
+		// // 사용할 앱의 JavaScript 키를 설정해 주세요.
+		Kakao.init('09cddbe5b5222c6258701972ff4b9f6b');
+		// // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+		Kakao.Link.createDefaultButton({
+		container: '#kakao-link-btn',
+		objectType: 'feed',
+		content: {
+			title: "S. Korea, US, Japan to launch high-level cyber consultation group",
+			description: "South Korea, the United States and Japan have agreed to launch a high-level cyber consultation group to come up with ways to block North Korean cyber activities that fund its missile and nuclear programs, the South&#39;s presidential office said Monday.",
+			imageUrl: 'https://img.koreatimes.co.kr/upload/thumbnailV2/e9995959a4af456dbae28a2557964d59.jpg',
+			link: {
+			mobileWebUrl: 'https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&utm_source=KK',
+			webUrl: 'https://www.koreatimes.co.kr/www/nation/2023/11/113_362631.html?utm_source=KK'
+			}
+		},
+		social: {
+			likeCount: 286,
+			commentCount: 45,
+			sharedCount: 845
+		},
+		buttons: [
+			{
+			title: '웹으로 보기',
+			link: {
+				mobileWebUrl: 'https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&utm_source=KK',
+				webUrl: 'https://www.koreatimes.co.kr/www/nation/2023/11/113_362631.html?utm_source=KK'
+			}
+			},
+			{
+			title: '앱으로 보기',
+			link: {
+				mobileWebUrl: 'https://m.koreatimes.co.kr/pages/article.asp?newsIdx=362631&utm_source=KK',
+				webUrl: 'https://www.koreatimes.co.kr/www/nation/2023/11/113_362631.html?utm_source=KK'
+			}
+			}
+		]
+		});
+	//]]>
+</script>
+			
+
+<!-- taboola body start -->
+			
+<script type="text/javascript">
+
+  window._taboola = window._taboola || [];
+
+  _taboola.push({flush: true});
+
+</script>
+			
+<!-- taboola body end -->
+			
+                
+</body>
+</html>

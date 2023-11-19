@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://www.facebook.com/2008/fbml"
+      xmlns:og="http://ogp.me/ns#"
+      lang="en-us">
+    <head>
+    
+    
+
+    
+
+      <script>
+        var mp_global = {"mpuid": "9a4062a0-56e9-5b34-b45e-301b3371cb4d", "author": ["Ryan Cooper"], "subsection": null, "tag": ["Kevin McCarthy", "Politics", "Supreme Court", "federal government", "Congress", "Joe Biden", "Republicans", "debt ceiling", "Budget"], "section": "politics", "instance": "prospect", "urlname": "2023-09-27-end-government-shutdowns-forever", "fb_app_id": null, "type": "article"};
+      </script>
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TPRPT3C');</script>
+<!-- End Google Tag Manager -->
+      <script type="text/javascript">
+(function(d) {
+var config = {
+  kitId: 'kup3yfo',
+  scriptTimeout: 3000},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(
+/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement(
+"script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";
+tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;
+f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+})(document);
+</script>
+      <title>There’s an Easy Way to End Government Shutdowns Forever - The American Prospect</title>
+      <meta name="generator" content="Metro Publisher (www.metropublisher.com)" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta itemprop="name" id="publisher-name" content="TAP : The American Prospect" />
+      
+        
+        
+      
+      <meta name="description" content="No other rich democracy endures America’s brand of budgetary chaos. We didn’t either until the Carter administration."/>
+      <meta name="keywords" content="Politics,Congress,Republicans,Budget,debt ceiling,federal government,Supreme Court,Kevin McCarthy,Joe Biden,Ryan Cooper"/>
+      <link rel="manifest" href="/manifest.json">
+      
+      <meta name="thumbnail" content="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f&amp;w=1200"/>
+      <link rel="canonical" href="https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/"/>
+
+      
+      <link href="https://prospect.org/api/rss/content.rss" rel="alternate" type="application/rss+xml" title="TAP : The American Prospect" />
+      <link href="https://prospect.org/politics/index.rss" rel="alternate" type="application/rss+xml" title="Politics" />
+      
+
+      <link rel="stylesheet" type="text/css" href="https://d3t13abgv0q40.cloudfront.net/mp-public/css/theme-sunny.11335758d5bd411a66e2b316254c6de7.css"/>
+      <link rel="stylesheet" type="text/css" href="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/screen.css"/>
+      
+      <script src="https://d3t13abgv0q40.cloudfront.net/mp-public/js/mp.fca4ef801c68995651f3d29bcf538738.js" async="true"></script>
+      <script src="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/option.js"></script>
+
+      <link rel="shortcut icon" href="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/favicon.png"/>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3812902-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-3812902-1', { 'anonymize_ip': true });
+  gtag('config', 'G-XHS18NVJ5F', { 'anonymize_ip': true });
+</script>
+      <script>
+
+document.addEventListener('broadstreetLoaded', function () {
+  broadstreet.setTargeting(mp_global);
+  broadstreet.watch({
+    "autoAttach": {},
+    "autoAttachAndWatch": {},
+    "domain": 'ad.broadstreetads.com',
+    "keywords": [],
+    "networkId": 5751,
+    "selector": 'broadstreet-zone',
+    "softKeywords": false,
+    "uriKeywords": false,
+    "useAltZone": function () { return false },
+    "useZoneAliases": true,
+    "onlyVisible": true
+});
+
+
+
+(function() {
+  var resizeTimer;
+  var windowwidth = window.innerWidth;
+  function resizer() {
+      broadstreet.refreshAll();
+  }
+
+  window.addEventListener("resize", function(){
+      if (window.innerWidth != windowwidth) {
+          windowwidth = window.innerWidth;
+          clearTimeout(resizeTimer);
+          resizeTimer = setTimeout(resizer, 250);
+      }
+  });
+})();
+
+
+});
+</script>
+<script src="https://cdn.broadstreetads.com/init-2.min.js" async></script>
+
+      <meta property="og:url" content="https://prospect.org/api/content/1cf2e70c-5cba-11ee-9c3e-12163087a831/"/><meta property="og:description" content="No other rich democracy endures America’s brand of budgetary chaos. We didn’t either until the Carter administration."/><meta property="og:image" content="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f&amp;w=1200"/><meta property="og:image:width" content="1024"/><meta property="og:image:height" content="683"/><meta property="og:type" content="article"/><meta property="og:title" content="There’s an Easy Way to End Government Shutdowns Forever"/><meta property="og:site_name" content="The American Prospect"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@theprospect"/><meta name="twitter:creator" content="@theprospect"/><meta name="twitter:image" content="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f&amp;amp;w=1200"/>
+      <meta name="author" content="Ryan Cooper"/><meta property="article:author" content="https://prospect.org/topics/ryan-cooper/"/><meta property="article:tag" content="Politics"/><meta property="article:tag" content="Congress"/><meta property="article:tag" content="Republicans"/><meta property="article:tag" content="Budget"/><meta property="article:tag" content="debt ceiling"/><meta property="article:tag" content="federal government"/><meta property="article:tag" content="Supreme Court"/><meta property="article:tag" content="Kevin McCarthy"/><meta property="article:tag" content="Joe Biden"/><meta property="article:published_time" content="2023-09-27T05:00:00"/>
+      
+      <script type="application/ld+json">
+{"@context": "http://schema.org", "@graph": [{"name": "There\u2019s an Easy Way to End Government Shutdowns Forever", "keywords": ["Politics", "Congress", "Republicans", "Budget", "debt ceiling", "federal government", "Supreme Court", "Kevin McCarthy", "Joe Biden"], "image": "https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f&w=1024", "dateModified": "2023-10-04T11:58:50.296584", "url": "https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/", "datePublished": "2023-09-27T05:00:00", "@id": "https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/", "@type": "Article", "headline": "There\u2019s an Easy Way to End Government Shutdowns Forever", "articleSection": "Politics", "creator": "Ryan Cooper", "author": {"@type": "Person", "name": "Ryan Cooper", "sameAs": ["https://ryanlcooper.com", "https://twitter.com/@@ryanlcooper"], "url": "https://prospect.org/topics/ryan-cooper/"}, "mainEntityOfPage": "https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/", "thumbnailUrl": "https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f&w=1024", "publisher": {"@type": "Organization", "logo": {"@type": "ImageObject", "url": "https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/TAP_web-logo_black-orange-politics-cropped.svg"}, "name": "The American Prospect", "sameAs": "https://prospect.org/"}}]}
+</script>
+
+      
+      <link rel="apple-touch-icon" href="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/TAP-PWA-Logo-Sml-192.png" />
+      
+
+      
+
+      
+
+      
+      
+      <script async src='https://tag.simpli.fi/sifitag/04dbaf10-5c3d-013a-9b4d-06b4c2516bae'></script>
+<meta name="google-site-verification" content="CuBJb0t4ps5UhsGpWkf4owX5jhN_4pVkpNT_SmEcOdk" />
+<!-- GDPR and CCPA -->
+<script>(function(){/* Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0*/'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);window.__d3lUW8vwsKlB__("WyJmMDgzOGYyM2IyZDZhN2YwIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4Vy0yRC1OcE9qLUhoNjdaUzdKVkk0X1EwR0VNZW1rUGtGOW1fX3ZfNllGVWgxcjdLZ2VVOW9UanNhamRMY19ueEFSWklYVzRCREhYb3dpUURWQkJJOFx1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiWmpBNE16aG1Nak5pTW1RMllUZG1NQVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC9mMDgzOGYyM2IyZDZhN2YwLmpzP3VzcXBcdTAwM2RDQUUiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVdjVHVWkteWFtOFpOWC1jYzRjUjd2Q1JJTlNUOFZyVHp4LW9VcmQzOXMyV0xYQkZiR0pmS1FOWDNVN3VGbHNsWFdJTEV1Njl6LUNNQ1VlNUlyP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4VnNETGtUcmdSSlRtTEZOMXRTNnlmRHdjS1h5WVBLQzlHUzdjLXFRb1YtOXNhOF9rNDAtRFgwbXlMRGRlZEFJeGRSNEtoOXZjcU9JZF9OenI0cD9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVM0MyRm85SDZNR1d1R3hSX3YwcXB3Qm0zVzN0cWg3ajkxRm9RR3ZwTi1yOGY2RWtXTUdod2RVa3UwNGhJVjVLV2ZxUWppUWRCLVdkZUZEa0RDP3NiZlx1MDAzZDIiXQo=");</script>
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/13d82a937e06215d7e50d2c6d/cec76951f3ad2d2cf74e28fe8.js");</script>
+
+<!-- Pico Start -->
+<script>
+(function(p,i,c,o){var n=new Event("pico-init");i[p]=i[p]||function(){(i[p].queue=i[p].queue||[]).push(arguments)},i.document.addEventListener("pico-init",function(e){var t=i.Pico.getInstance(e,{publisherId:o,picoInit:n},i);t.handleQueueItems(i[p].queue),i[p]=function(){return t.handleQueueItems([arguments])}},!1);var e=i.document.createElement("script"),t=i.document.getElementsByTagName("script")[0];e.async=1,e.src=c,e.onload=function(e){return i.Pico.getInstance(e,{publisherId:o,picoInit:n},i)},t.parentNode.insertBefore(e,t)})("pico",window,"https://gadget.pico.tools/wrapper.min.js","698f077e-ec7c-4a10-ba3b-9dbe99544418");
+</script>
+<!-- Pico End -->
+
+<!-- Infolinks Start -->
+<script type="text/javascript"> 
+var infolinks_pid = 3221962; 
+var infolinks_wsid = 0; 
+</script> 
+<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+<!-- Infolinks End -->
+  
+
+<!-- ShareThis Start -->
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=642b4bbf2e43270019720c50&product=image-share-buttons&source=platform" async="async"></script>
+
+<!-- ShareThis End -->
+
+   
+<!-- Text to speech integration Start -->
+<script type="text/javascript">
+  const putTTs = () => {
+    if (['review', 'roundup', 'article'].includes(mp_global.type)) {
+      const ttsContainer = document.createElement('script');
+      ttsContainer.type = 'text/javascript';
+      ttsContainer.async = !0;
+      ttsContainer.src = 'https://trinitymedia.ai/player/trinity/2900001720/?pageURL=$$PAGE_URL$$&GDPR=$$GDPR_MACRO$$&GDPR_CONSENT=$$GDPR_CONSENT_MACRO$$';
+
+      const lead = document.querySelector('article#main .lead');
+      if (lead) {
+        lead.parentNode.insertBefore(ttsContainer, lead);
+      }
+    }
+  }
+
+  if (document.readyState === 'complete') {
+    putTTs();
+  } else {
+    document.addEventListener("DOMContentLoaded", putTTs);
+  }
+</script>
+<!-- Text to speech integration End -->
+<style>
+  #IL_INSEARCH {z-index: 10000!important;}
+</style>
+  
+<!-- Pixfuture Start -->
+  <script type="text/javascript" src="https://cdn.pixfuture.com/pxft_iel.js?siteid=4455" async></script>
+<!-- Pixfuture End -->
+        
+        
+        
+        
+
+        
+
+        <script type="text/javascript">
+          if (window.navigator && navigator.serviceWorker) {
+            navigator.serviceWorker.getRegistrations()
+            .then(function(registrations) {
+              for(let registration of registrations) {
+                registration.unregister();
+              }
+            });
+          }
+        </script>
+
+      <meta id="worstRating" itemprop="worstRating" content="0" />
+      <meta id="bestRating" itemprop="bestRating" content="5" />
+      <meta name="theme-color" content="#0E0C0C"/>
+      
+    </head>
+  <body class="mp-type-article mp-sidebar">
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPRPT3C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div id="body">
+    <a class="skip-to-main" href="#maincontent">Skip to main content</a>
+    <broadstreet-zone zone-id="wallpaper_left"></broadstreet-zone>
+    
+      
+        <div id="section_politics">
+          <div id="subsection_website">
+      <div id="page">
+
+
+
+
+        <div id="top">
+          <div id="topads">
+
+            <div id="topad1">
+              <broadstreet-zone zone-id="leaderboard_top"></broadstreet-zone>
+            </div>
+
+            
+
+          </div>
+          
+<svg style="display: none;">
+  <style>.icon{fill:currentColor}</style>
+  <symbol id="nav-icon" viewBox="0 0 170 170">
+    <path fill="none" d="M0 0h170v170H0z"/>
+    <path class="icon" d="M140 109H30v16h110v-16zm0-32H30v16h110V77zm0-32H30v16h110V45z"/>
+  </symbol>
+</svg>
+<div id="logo">
+  
+  <div id="mp-search-bar">
+    <form action="https://prospect.org/api/search.html">
+      <input type="text" name="q" title="Enter Search Words" placeholder="Search..." />
+      <button class="search submit" type="submit" name="sa">Search</button>
+    </form>
+  </div>
+  <div class="logo">
+  <!--div class="header_links" tal:condition="python: header_links or socialmedia_urls"-->
+    <div class="header_links">
+        
+            <a href="https://prospect.org/membership">Become A Member</a>
+        
+            <a href="/my-account">My Account</a>
+        
+    </div>
+    
+  <a rel="home" href="https://prospect.org" title="The American Prospect"><img src="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/TAP_web-logo_black-orange-politics-cropped.svg" class="standard" alt="The American Prospect" title="The American Prospect" />
+    <meta id="logo-url" itemprop="url" content="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/TAP_web-logo_black-orange-politics-cropped.svg" />
+    <meta id="logo-width" itemprop="width" />
+    <meta id="logo-height" itemprop="height" />
+    <meta id="publisher-logo" itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject"
+        itemref="logo-url logo-width logo-height" />
+                                                                       <img src="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/TAP_web-logo_black-mobile-size.svg" class="responsive" alt="The American Prospect" title="The American Prospect" /></a>
+</div>
+
+</div>
+
+<nav id="topnav">
+  <a href="#" class="pull"><svg><use xlink:href="#nav-icon" /></svg></a>
+  
+<ul class="mainnav">
+  <li class="menu_section_start menu_section_power">
+	<a href="https://prospect.org/power">Money, Politics and Power</a>
+    
+  </li>
+  <li class="menu_section_models">
+	<a href="https://prospect.org/models">Economic Models</a>
+    
+  </li>
+  <li class="menu_section_economy">
+	<a href="https://prospect.org/economy">Economic Policy</a>
+    
+  </li>
+  <li class="menu_section_labor">
+	<a href="https://prospect.org/labor">Working in America<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_end menu_subsection_the-alt-labor-chronicles-america-s-worker-centers">
+        <a href="https://prospect.org/labor/the-alt-labor-chronicles-america-s-worker-centers">The Alt-Labor Chronicles: America’s Worker Centers</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_environment">
+	<a href="https://prospect.org/environment">Energy and the Environment<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_end menu_subsection_climate-of-opportunity">
+        <a href="https://prospect.org/environment/climate-of-opportunity">Climate of Opportunity</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_infrastructure">
+	<a href="https://prospect.org/infrastructure">Housing and Transportation<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_end menu_subsection_building-back-america">
+        <a href="https://prospect.org/infrastructure/building-back-america">Building Back America</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_civil-rights">
+	<a href="https://prospect.org/civil-rights">Civil Rights in America</a>
+    
+  </li>
+  <li class="menu_section_justice">
+	<a href="https://prospect.org/justice">Law and Justice</a>
+    
+  </li>
+  <li class="menu_section_health">
+	<a href="https://prospect.org/health">Health and Social Policy</a>
+    
+  </li>
+  <li class="menu_section_world">
+	<a href="https://prospect.org/world">America and the World</a>
+    
+  </li>
+  <li class="menu_section_x2032">
+	<a href="https://prospect.org/2032">Prospects 2032</a>
+    
+  </li>
+  <li class="menu_section_day-one-agenda">
+	<a href="https://prospect.org/day-one-agenda">Day One Agenda</a>
+    
+  </li>
+  <li class="menu_section_podcasts">
+	<a href="https://prospect.org/podcasts">Podcasts</a>
+    
+  </li>
+  <li class="menu_section_end menu_section_archive">
+	<a href="https://prospect.org/archive">The Prospect Archive</a>
+    
+  </li>
+</ul>
+<ul class="subnav">
+  <li class="menu_subsection_start menu_subsection_end menu_subsection_midterms">
+    <a href="https://prospect.org/politics/midterms">2022 Midterm Tracker</a>
+  </li>
+</ul>
+
+
+</nav>
+
+
+        </div>
+        <broadstreet-zone zone-id="leaderboard_nav"></broadstreet-zone>
+        <div id="breadcrumbs"><a href="https://prospect.org">Home</a> <a href="https://prospect.org/politics">Politics</a> <a href="https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/">There’s an Easy Way to End Government Shutdowns Forever</a></div>
+        <main id="maincontent" role="main" tabindex="-1">
+
+  
+<div id="pagetype_article" itemscope="" itemtype="http://schema.org/Article" itemid="https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/">
+
+<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+    <meta id="content-image-url" itemprop="url" content="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f" />
+    <meta id="content-image-width" itemprop="width" content="1024" />
+    <meta id="content-image-height" itemprop="height" content="683" />
+</span>
+
+
+
+
+  
+  <article id="main">
+
+
+
+
+
+<header>
+  
+  <div id="title">
+            <link itemprop="mainEntityOfPage" href="https://prospect.org/politics/2023-09-27-end-government-shutdowns-forever/" />
+            <meta itemprop="name" content="There’s an Easy Way to End Government Shutdowns Forever" />
+            <meta itemprop="description" content="No other rich democracy endures America’s brand of budgetary chaos. We didn’t either until the Carter administration." />
+            <meta itemprop="publisher"
+                  itemscope=""
+                  itemtype="http://schema.org/Organization"
+                  itemref="publisher-name publisher-logo" />
+            <meta itemprop="dateModified" content="2023-10-04T11:58:50.296584" />
+            <h1 itemprop="headline">There’s an Easy Way to End Government Shutdowns Forever</h1>
+            <p  class="subtitle"><span>No other rich democracy endures America’s brand of budgetary chaos. We didn’t either until the Carter administration.</span></p>
+            
+                <meta itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"
+                  itemref="content-image-url content-image-width content-image-height" />
+
+                
+            
+          </div>
+          
+          <div id="pageinfos" class="pageinfos">
+    <p class="author">by 
+    <a href="https://prospect.org/topics/ryan-cooper/" rel="author">Ryan Cooper</a> </p>
+    
+    <time itemprop="datePublished" datetime="2023-09-27T05:00:00">
+    <p class="date">September 27, 2023</p>
+    <p class="time">5:00 AM</p></time>
+</div>
+
+</header>
+
+
+<aside class="tools">
+    
+    <div class="share">
+      <!-- ShareThis BEGIN -->
+<div class="sharethis-inline-share-buttons"></div>
+<!-- ShareThis END -->
+    </div>
+    <div class="share"><a class="RSS_link" href="https://prospect.org/politics/index.rss">RSS</a></div>
+    <div class="share"><a class="print" href="#" onclick="javascript: window.print(); return false;" target="_self">Print</a></div>
+
+</aside>
+
+
+
+    
+    
+
+    <div id="content" class="carousel content no_js" data-transition="content" data-loop="false" itemprop="articleBody">
+
+
+     <div>
+
+    <div id="media-carousel-34435" class="single media-carousel"><div class="media carousel no_js" data-nojump="true">    <div id="ms-slide-34435-0">    <span id="close-btn-34435-0" class="slideout-close-btn">×</span>        <div class="media-options">        <a class="open-slideshow group34435 hidden" id="ms_34435-0" data-image-url="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f" data-image-id="20187" data-slot-media-path="https://prospect.org/api/slot_media/36074/">Expand</a>      </div>        <div class="file">          <img sizes="auto" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="mp-lazyload" alt="Cooper-Govt shutdowns 092723.jpg" data-src="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f&amp;w={width}&amp;h={height}" data-widths="[100, 150, 220, 320, 450, 660, 1024]" height="683" src="https://prospect.org/downloads/20187/download/Cooper-Govt%20shutdowns%20092723.jpg?cb=29455b2c32c3a7ee3e4a3a20a1d9f02f" title="Cooper-Govt shutdowns 092723.jpg" width="1024">        <p class="credits">Carolyn Kaster/AP Photo</p>            </div>        <div class="media-content">            <p>A sign is posted on a barricade in front of the closed Lincoln Memorial in Washington, October 1, 2013, during a previous federal government shutdown.</p>    </div>  </div>  </div></div><p class="lead">As of Wednesday, there are just four days before the government shuts down, and it’s looking <a href="https://www.reuters.com/world/us/shutdown-showdown-us-congress-time-running-short-fund-government-2023-09-26/" target="_blank">quite unlikely</a> that it will be avoided. The main problem is the House Freedom Caucus, which has flatly refused to abide by the agreement struck between House Republicans and President Biden back during the debt ceiling negotiations, where Republicans extracted some modest budget cuts (too modest for the hard-liners) in return for not blowing up the global financial system.</p>&#13;
+&#13;
+<p>The Senate is reportedly <a href="https://apnews.com/article/shutdown-mccarthy-biden-trump-republicans-e4c37673b6507deaed2902f2166ef759" target="_blank">preparing its own budget package</a> to pressure Speaker of the House Kevin McCarthy to pass it with mostly Democratic votes, but there is little sign McCarthy will agree to that yet, because he’s afraid of crossing the hard-liners, who can then call for a vote to remove McCarthy from his job.</p>&#13;
+&#13;
+<p>At time of writing, the Freedom Caucus can’t even agree on what hostage they want, though various proposals to <a href="https://www.washingtonpost.com/politics/2023/09/26/inside-spending-cuts-house-republicans-are-fighting/" target="_blank">slash vital government services</a> (like cutting aid to low-income public schools by 80 percent) have been mooted. One gets the impression that they simply want a shutdown for its own sake—egged on by Donald Trump, who <a href="https://www.mediaite.com/politics/trump-directs-house-gop-to-shut-down-government-unless-you-get-everything-from-fascists-and-thugs-democrats/" target="_blank">recently demanded</a>, “UNLESS YOU GET EVERYTHING, SHUT IT DOWN!” in a post online. That includes stopping “the Weaponization of ‘Justice,’” which obviously refers to Trump’s various prosecutions for attempting to overthrow the government and other crimes.</p>&#13;
+&#13;
+<p><a href="https://prospect.org/topics/ryan-cooper/"><strong><em>More from Ryan Cooper</em></strong></a></p>&#13;
+&#13;
+<p>To onlookers, this is no doubt maddening. First of all, there’s a solution that all but a small faction of one party in one chamber of Congress would agree to—so how isn’t that being done? And how is it possible that such a rich country can be governed like this? The truth is, most of them aren’t—and that includes the U.S. itself before 1980. It would be quite simple to return to the previous system.</p>&#13;
+&#13;
+<p>A government shutdown is not possible in other rich countries. As <a href="https://www.washingtonpost.com/news/worldviews/wp/2018/01/22/why-other-countries-dont-have-government-shutdowns-2/" target="_blank">Rick Noack details</a> at <em>The Washington Post</em>, in Westminster-style systems like the U.K. or Australia, if the government fails to pass a budget, then typically it must resign and new elections are triggered. Or in Germany, failure means the government budget runs on autopilot. Amusingly, Belgium also has a German-style system, and when it had no government at all for almost two years in 2010-2011, the autopilot budget was quite helpful because inaction meant avoiding much of the brutal austerity then being imposed across the continent.</p>&#13;
+&#13;
+<p>So how do we fix the American system? We just have to return to procedures that were in place as recently as the 1970s.</p>&#13;
+&#13;
+<p>The legal question here centers on the 1870 Antideficiency Act. As <a href="https://www.theatlantic.com/politics/archive/2013/09/the-odd-story-of-the-law-that-dictates-how-government-shutdowns-work/280047/" target="_blank">Andrew Cohen writes</a> at <em>The Atlantic</em>, back in the 19th century, presidents would commonly extort money out of Congress by signing contracts without having an explicit appropriation, and then daring legislators to break the government’s word. The Antideficiency Act forbade that kind of trickery. But it was less specific about what should happen if Congress simply failed to pass a budget at all (which likely didn’t even occur to them).</p>&#13;
+&#13;
+<div class="mp-html">
+  <script async id="AV63dd11eed263e661520cde25" type="text/javascript" src="https://tg1.aniview.com/api/adserver/spt?AV_TAGID=63dd11eed263e661520cde25&AV_PUBLISHERID=63b48f64499304668b09e13a"></script>
+</div>
+<blockquote><p>One could imagine an aggressive legal strategy for the Biden administration to get around the current interpretations of the Antideficiency Act.</p>&#13;
+</blockquote>&#13;
+&#13;
+<p>For the next 110 years, it was thought that if that happened, agencies could simply keep spending money along their current track, and Congress would make up the difference later. After all, the government performs innumerable important tasks, and shutting that all down just because Congress can’t get its act together would be silly.</p>&#13;
+&#13;
+<p>That all changed in 1980. At the time, the FTC was nearly out of money, and President Carter was <a href="https://www.washingtonpost.com/history/2019/01/17/meet-democrat-who-paved-way-government-shutdowns-yes-democrat/" target="_blank">in a dispute</a> with corrupt members of Congress who wanted to drastically cut back the agency’s enforcement powers. He asked then-Attorney General Benjamin Civiletti about the legal options, and Civiletti proceeded to <a href="https://time.com/5493596/government-shutdown-history/" target="_blank">invent the government shutdown</a>.</p>&#13;
+&#13;
+<p>In a blinkered and hyper-literalist exercise in hair-splitting so characteristic of the liberal legal establishment, Civiletti argued that “legal authority for continued operations either exists or it does not,” and so if Congress hasn’t passed a specific appropriation for an agency, it has to shut down. “Faithful execution of the laws cannot rest on mere speculation that Congress does not want the Executive branch to carry out Congress’ unambiguous mandates,” he wrote. Naturally, Civiletti later had to amend his strict reading of the statute because, well, stopping paychecks to soldiers or shutting down every airport in the country would be<em> really bad</em>.</p>&#13;
+&#13;
+<p>To fix this, and end the government shutdown threat, the most obvious option would appear to be to just return to the pre-1980 legal status quo. Alas, after Civiletti’s tenure, Congress amended the Antideficiency Act with somewhat clearer language formalizing the shutdown procedure, including <a href="https://www.law.cornell.edu/uscode/text/31/1342" target="_blank">an exception</a> for “emergencies involving the safety of human life or the protection of property.”</p>&#13;
+&#13;
+<p>One could imagine an aggressive legal strategy for the Biden administration to get around the current interpretations of the Antideficiency Act. The president might, for instance, issue an executive order arguing that actually everything the government does involves the safety of human life or protection of property in some way, which is arguably true. After all, even furloughing park rangers puts lots of federally owned land at some risk.</p>&#13;
+&#13;
+<p>But not only is Attorney General Merrick Garland’s milquetoast Department of Justice vanishingly unlikely to attempt such creative legal innovation, if the Biden administration were to try such a strategy it would no doubt end up before the Supreme Court, which is sure to rule against it. And if we’re honest, the Constitution really is <a href="https://www.archives.gov/founding-docs/constitution-transcript" target="_blank">pretty unambiguous</a> on this point.</p>&#13;
+&#13;
+<p>Still, if it were up to me, I’d attempt it. At the least, forcing the Supreme Court to shut down the government itself would clarify who is responsible.</p>&#13;
+&#13;
+<p>But a law would be a much more reliable path forward. Remarkably, there is actually a <a href="https://www.politico.com/news/2023/09/22/bipartisan-group-stop-government-shutdowns-00117679" target="_blank">bipartisan movement</a> afoot in the Senate to end shutdowns, led by Maggie Hasan (D-NH) and James Lankford (R-OK). The idea is to amend the budget procedure such that if Congress fails to pass one, a stopgap status quo spending bill is triggered every two weeks, and Congress is forbidden from leaving Washington until a budget is passed. That would end shutdowns at a stroke.</p>&#13;
+&#13;
+<p>Passing this now, of course, runs up against the same madness as a few Freedom Caucus members hijacking a stopgap spending bill. They won’t agree to being robbed of their own power, and McCarthy won’t dare cross them. Alas.</p>&#13;
+&#13;
+<p>But the fact that shutdowns are even possible, like the anachronistic debt ceiling, is evidence of a profound rot in the American political system. Passing a budget—thereby setting out the rate of taxation and various fees, the funding of government agencies and the military, and so forth—is perhaps the single most important routine task of any government. Heck, it’s half the reason for <em>having</em> a government in the first place. One of the main reasons they did not happen for longer than a few hours or days before the 1990s was a widely shared norm that certain basic functions of government, like the day-to-day functioning of the state, should be outside political disputes. It was only with the Gingrich revolution in 1994, which brought a bunch of irresponsible, dimwitted loudmouths into Congress, that the norm was shattered.</p>&#13;
+&#13;
+<p>Since then, the right wing of the Republican caucus has only gotten louder, dumber, and even more irresponsible. It seems quite unlikely that any end to shutdowns could be passed with the Freedom Caucus de facto running the House. But should they lose power in 2024, yahoo-proofing the government should be a top priority for all Democrats, and any Republicans who can see sense. A simple one-sentence bill could rescue the budgetary hostage forever; another one could end the <a href="https://www.bloomberg.com/news/articles/2023-07-20/biden-creates-debt-limit-team-to-find-ways-of-ending-standoffs" target="_blank">possibility of debt default</a>. And who knows, without the ability to harm the American people through muleheaded intransigence, the Freedom Caucus might have to learn to negotiate.</p>&#13;
+
+
+    
+    
+
+    </div>
+
+
+
+    </div>
+
+<div id="backlink_container" style="display:none"><a href="" id="backlink">Back to Search Results</a></div>
+  
+
+
+    
+        
+      
+    
+
+
+
+<aside class="tags">
+<h4>Tags</h4>
+                <a href="https://prospect.org/topics/politics/" rel="tag" >Politics</a>
+
+                <a href="https://prospect.org/topics/congress/" rel="tag" >Congress</a>
+
+                <a href="https://prospect.org/topics/republicans/" rel="tag" >Republicans</a>
+
+                <a href="https://prospect.org/topics/budget/" rel="tag" >Budget</a>
+
+                <a href="https://prospect.org/topics/debt-ceiling/" rel="tag" >debt ceiling</a>
+
+                <a href="https://prospect.org/topics/federal-government/" rel="tag" >federal government</a>
+
+                <a href="https://prospect.org/topics/supreme-court/" rel="tag" >Supreme Court</a>
+
+                <a href="https://prospect.org/topics/kevin-mccarthy/" rel="tag" >Kevin McCarthy</a>
+
+                <a href="https://prospect.org/topics/joe-biden/" rel="tag" >Joe Biden</a>
+
+</aside>
+
+
+<aside id="bottompageinfos" class="pageinfos">
+    
+    
+    	<div class="author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+    	<a href="https://prospect.org/topics/ryan-cooper/"><img sizes="auto" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="mp-lazyload" alt="Ryan-Cooper-300x.jpg" data-src="https://prospect.org/downloads/17572/download/Ryan-Cooper-300x.jpg?cb=f508ead7b3679d215d9a7e20ed1696a5&amp;w={width}&amp;h={height}" data-widths="[100, 150, 220, 300]" height="100" src="https://prospect.org/downloads/17572/download/Ryan-Cooper-300x.jpg?cb=f508ead7b3679d215d9a7e20ed1696a5&amp;w=100" title="Ryan-Cooper-300x.jpg" width="100" /></a>
+		    <h3><a href="https://prospect.org/topics/ryan-cooper/" rel="author"
+		       >Ryan Cooper</a></h3><meta itemprop="name" content="Ryan Cooper" />
+			<p>Ryan Cooper is the Prospect’s managing editor, and author of ‘How Are You Going to Pay for That?: Smart Answers to the Dumbest Question in Politics.’ He was previously a national correspondent for The Week.</p>
+        <a href="https://prospect.org/topics/ryan-cooper/" class="mp-more-link">Read more by Ryan Cooper</a>
+      <div id="mp-tag-social-media" class="mp-tag-social-media">
+    <ul>
+        <li>
+            <a href="https://twitter.com/@ryanlcooper" rel="nofollow noopener" target="_blank" title="@ryanlcooper" itemprop="sameAs"><span class="chicklet twitter"></span><label>Twitter</label></a>
+        </li>
+        
+        
+        
+        <li>
+            <a href="https://ryanlcooper.com" rel="nofollow noopener" target="_blank" title="https://ryanlcooper.com" itemprop="sameAs"><span class="chicklet website"></span><label>Website</label></a>
+        </li>
+        
+    </ul>
+</div>
+
+    	</div>
+    
+    <time datetime="2023-09-27T05:00:00">
+    <p class="date">September 27, 2023</p>
+    <p class="time">5:00 AM</p>
+    </time>
+</aside>
+
+
+
+    <div class="mp-html">
+  <div style="background:#bfebfd;border:1px solid #bfebfd;padding:15px 15px;">
+<p><span style="font-family:jaf-bernina-sans,sans-serif; font-weight:700; font-size:1.35rem; line-height:1.35rem;"><font color="#23338b">You can count on the <em>Prospect</em>, can we count on you?</font></span></p>
+
+<p><span style="font-family:jaf-bernina-sans,sans-serif; font-weight:400; font-size:1.1rem; line-height:1.25rem;"><font color="#404040"><b>There&#39;s no paywall here.</b> Your donations power our newsroom as we report on ideas, politics and power &mdash; and what&rsquo;s really at stake as we navigate another presidential election year. Please, <a href="https://prospect.org/membership" target="_blank" title="Prospect Membership"><u><b><font color="#23338B">become a member</font></b></u></a>, or <a href="https://prospect.org/donate" target="_blank" title="Many Ways to Give"><u><b><font color="#23338B">make a one-time donation</font></b></u></a>, today. Thank you!</font></span></p>
+</div>
+<!-- this moves the box just above the author info --><script>const toMove = document.querySelector('#subscribe_ask').parentNode;
+const before = document.querySelector('#bottompageinfos');
+toMove.parentNode.insertBefore(toMove, before);</script>
+</div>
+
+
+<aside id="related"></aside>
+
+
+
+  </article>
+
+  
+
+  <aside id="side">
+    
+
+  
+
+        
+
+    <div class="mp-sprocket-ajax-lazy" data-url="https://prospect.org/api/sprockets/ad_broadstreet/93/?context=section.55"></div><div class="mp-sprocket-ajax-lazy" data-url="https://prospect.org/api/sprockets/classic_list/167/?context=section.55"></div><div class="mp-sprocket-ajax-lazy" data-url="https://prospect.org/api/sprockets/ad_broadstreet/88/?context=section.55"></div>
+    
+  </aside>
+  
+  </div>
+
+
+
+
+  
+
+
+</main>
+
+        <div id="bottom">
+          <div id="bottomads">
+            <broadstreet-zone zone-id="leaderboard_bottom"></broadstreet-zone>
+          </div>
+          
+  
+  
+    <div class="mp-cstmfooter">
+	<div class="wrapper">
+		<div class="column one">
+			<div class="footer-logo">
+					<a href="#"><img src="https://prospect.metropublisher.net/downloads/147/download/TAP_BW_PNG_LOGO.png"></img></a>
+			</div>
+		</div>
+<div class="column two">
+<div class="header_links">
+				<p><a href="https://prospect.org/about">About the Prospect / Contact Info </a> </p>
+				<p><a href="https://prospect.org/archive">Browse Archive / Back Issues</a> </p>
+                <p><a href="https://prospect.org/subscribe">Subscription Services</a> </p>
+				<p><a href="https://prospect.org/privacy-policy">Privacy Policy</a> </p>
+			</div>
+		</div>
+		<div class="column three">
+			<div class="header_links">
+				<p><a href="https://prospect.org/donate"><span style="color: #f15a22; font-family: jaf-bernina-sans-condensed, sans-serif; font-weight: 700; line-height: 120%; font-size: 1.25rem">DONATE TO THE PROSPECT</span></a></p>
+				<p><span "line-height: 50%;">&nbsp;</span></p>
+                <p><a href="https://twitter.com/theprospect"><img src="https://prospect.metropublisher.net/downloads/12718/download/TAP_twitter_logo-48.png"></img></a>&nbsp; <a href="https://www.facebook.com/TheAmericanProspect/"><img src="https://prospect.metropublisher.net/downloads/12719/download/TAP_facebook_logo-48.png"></img></a>&nbsp; <a href="https://prospect.org/api/rss/all.rss"><img src="https://prospect.org/downloads/12748/download/TAP_rss_logo-48.png"></img></a></p>
+				</div>
+		</div>
+	</div>
+</div>
+  
+
+  <div id="copyright">
+    <p>Copyright 2023 | The American Prospect, Inc. | All Rights Reserved</p>
+  </div>
+
+  <div id="mp_credits">
+    Built with <a href="https://www.metropublisher.com" target="new">Metro Publisher&#8482;</a>
+  </div>
+
+
+
+
+        </div>
+
+      </div>
+      </div>
+      </div>
+      
+    
+    <broadstreet-zone zone-id="wallpaper_right"></broadstreet-zone>
+    </div>
+  
+  
+  <!-- Broadstreet ad zone for outstream video slider <broadstreet-zone zone-id="video_slider"></broadstreet-zone> -->
+<!-- Broadstreet ad zone for infolinks sticky leaderboard <broadstreet-zone zone-id="76681"></broadstreet-zone> -->
+<!-- Pico Start -->
+<script src="https://chancejs.com/chance.min.js"></script>
+
+<script>
+  
+  // add a pico specific class to a head link
+  [...document.querySelectorAll("div.header_links > a")]
+  .filter(a => a.textContent.includes("My Account"))
+  .forEach(a => a.classList.add('PicoManageAccount'));
+  
+  // not pico specific used to generate a unique article id
+  const seed = !mp_global.section ? `/${mp_global.urlname}` :
+                !mp_global.subsection ? `/${mp_global.section}/${mp_global.urlname}` :
+                `/${mp_global.section}/${mp_global.subsection}/${mp_global.urlname}`;
+  const chance = new Chance(seed);
+  const articleId = chance.integer({ min: 1 });
+
+  // Maps MP Page types to Pico Page Info
+  const pageTypeMapping = {
+    'tag' : { 'post_type':'tag', 'article': false, },
+    'homepage' : { 'post_type':'home', 'article': false, },
+    'section' : { 'post_type':'category', 'article': false, },
+    'subsection' : { 'post_type':'category', 'article': false, },
+    'event_search' : { 'post_type':'search', 'article': false, },
+    'location_search' : { 'post_type':'search', 'article': false, },
+    'location' : { 'post_type':'page', 'article': true, },
+    'event' : { 'post_type':'post', 'article': true, },
+    'review' : { 'post_type':'post', 'article': true, },
+    'roundup' : { 'post_type':'post', 'article': true, },
+    'article' : { 'post_type':'post', 'article': true, },
+    'page' : { 'post_type':'page', 'article': true, },
+  };
+
+  // Wrap page content for things you want to be considered lockable in div#pico
+  // but only if the article flag in the pico info is set to true
+  if (pageTypeMapping[mp_global.type].article) {
+    if (['tag', 'review', 'roundup', 'article', 'event_search', 'location_search', 'location', 'event', 'page'].includes(mp_global.type)) {
+      var el = document.querySelector('#maincontent');
+    } else if (['homepage', 'section', 'subsection'].includes(mp_global.type)) {
+      var el = document.querySelector('#maincontent');
+    }
+    const wrapper = document.createElement('div');
+    wrapper.setAttribute ("id", "pico");
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+  }
+  
+  // generate page info for pico
+  const taxonomies = {  
+    'tags': mp_global.tag,
+    'categories': [mp_global['section'], mp_global['subsection']].filter(s => s),
+    'author': mp_global['author'],
+    'mp_type': [mp_global['type']]
+  };
+  const pageInfo = {
+      article: pageTypeMapping[mp_global.type].article,
+      post_id: articleId,
+      post_type: pageTypeMapping[mp_global.type].post_type,
+      taxonomies: taxonomies,
+      url: window.location.href
+  };
+
+  window.pico('visit', pageInfo);
+</script>
+<!-- Pico End -->
+
+<!-- Pico Tracking -->  
+<script type="text/javascript">
+    (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+    vgo('setAccount', '1000784918');
+    vgo('setTrackByDefault', true);
+
+    vgo('process');
+</script>  
+<!-- Pico Tracking End -->
+
+<!-- CRUX -->
+<script type="text/javascript" src='https://api3.crux.kn/js/crux_widget.min.js' async defer></script>
+<script type="text/javascript">
+(() => { 
+   // only load crux on articles
+   if (pageTypeMapping[mp_global.type].article) {
+       const ARTICLE_ID = mp_global.urlname;
+       // const TOPIC_ID = mp_global.tag[0];
+       const topicLinkURL = document.querySelector('aside.tags')?.querySelector('a')?.href;
+       const TOPIC_ID = topicLinkURL?.split('/')[topicLinkURL?.split('/').length -2];
+       let MP_USER_ID = localStorage.getItem('mp_crux_user_id');
+       const PICO_USER_ID = localStorage.getItem('__user_id');
+       // const CRUX_SERVER_URL = 'https://api.crux.kn';
+       const CRUX_SERVER_URL = 'https://api3.crux.kn/';
+       const CRUX_TOKEN = '2d074e701af94864ae293fd99e04944d';
+       const mainContainer = document.querySelector('main#maincontent');
+       const articleContainer = document.querySelector('article#main');
+       const contentContainer = document.querySelector('div#content');
+       let cruxTemplateStr = 'See Your Score';
+  
+       const generateUserID = () => {
+           const idLen = 32;
+           // start with a letter
+           let idStr = (Math.floor((Math.random() * 25)) + 10).toString(36);
+           // add a timestamp in milliseconds base 36
+           idStr += Date.now().toString(36);
+           // complete the Id using random, alphanumeric characters untilit's length is {idLen}
+           do {
+               idStr += (Math.floor((Math.random() * 35))).toString(36);
+           } while (idStr.length < idLen);
+
+           return (idStr);
+       };
+       
+       // if there is no userid we have to generate it and store it in localstorage
+       if (MP_USER_ID === null) {
+           MP_USER_ID = generateUserID();
+           localStorage.setItem('mp_crux_user_id', MP_USER_ID);
+       }
+       const htmlToElement = (html) => {
+           const template = document.createElement('template');
+           html = html.trim(); // Never return a text node of whitespace as the result
+           template.innerHTML = html;
+           return template.content.firstChild;
+       };
+
+       const hashCode = (str) => {
+         return str.split('').reduce((prevHash, currVal) =>
+         (((prevHash << 5) - prevHash) + currVal.charCodeAt(0))|0, 0);
+       };
+
+       const cruxArticleScore = htmlToElement('<div class="crux_article_score"></div>');
+       //articleContainer.insertBefore(cruxArticleScore, articleContainer.firstChild);
+       articleContainer.insertBefore(cruxArticleScore, articleContainer.firstChild);
+
+       if (PICO_USER_ID) {
+         // user is logged into pico
+         cruxTemplateStr = `<div id="crux" data-crux_article_id="${ARTICLE_ID}" data-crux_topic_id="${TOPIC_ID}" data-crux_user_id="${hashCode(JSON.parse(PICO_USER_ID))}" data-crux_old_user_id="${MP_USER_ID}" data-crux_token="${CRUX_TOKEN}" data-server_url="${CRUX_SERVER_URL}" data-num_recs=3 data-dashboard_link="/knowledge-hub"></div>`;  
+       } else {
+         // user is not logged into pico
+         cruxTemplateStr = `<div id="crux" data-crux_article_id="${ARTICLE_ID}" data-crux_topic_id="${TOPIC_ID}" data-crux_user_id="${MP_USER_ID}" data-crux_token="${CRUX_TOKEN}" data-server_url="${CRUX_SERVER_URL}" data-num_recs=3 data-dashboard_link="/knowledge-hub"></div>`;
+       }
+
+       const cruxPlaceHolder = htmlToElement(cruxTemplateStr);
+       contentContainer.parentNode.insertBefore(cruxPlaceHolder, contentContainer.nextSibling);
+    }
+})();
+</script>  
+<!-- CRUX END -->
+  
+    <script async src="https://prospect.org/api/design-196430f425cb9a74922a5eff5f26595d/footer.js"></script>
+  
+
+    
+
+  
+    
+  
+
+    
+
+    <span id="mp-config" data-js="{&quot;_mp_page_content&quot;: {&quot;comments_url&quot;: &quot;https://prospect.org/api/content/1cf2e70c-5cba-11ee-9c3e-12163087a831/get_comments&quot;, &quot;show_occ_paginator&quot;: false, &quot;osm_active&quot;: false, &quot;media_gallery&quot;: {&quot;slideshowStart&quot;: &quot;Start Slideshow&quot;, &quot;slideshowStop&quot;: &quot;Stop Slideshow&quot;, &quot;slideshowCurrent&quot;: &quot;{current} of {total}&quot;, &quot;wh_sizes&quot;: [320, 480, 720, 1080, 1280, 1440, 1920]}, &quot;tcomments&quot;: {&quot;post_moderated&quot;: &quot;Comment successfully submitted. All comments are moderated and generally will be posted if they are on-topic and not abusive.&quot;, &quot;email_required&quot;: &quot;Email required&quot;, &quot;submit&quot;: &quot;Submit&quot;, &quot;post_to_wall&quot;: &quot;Publish comment to your Wall&quot;, &quot;content_uuid&quot;: &quot;1cf2e70c-5cba-11ee-9c3e-12163087a831&quot;, &quot;view_more&quot;: &quot;View More&quot;, &quot;chars_left&quot;: &quot;characters left&quot;, &quot;name_required&quot;: &quot;Name required&quot;, &quot;post_success&quot;: &quot;Comment successfully submitted. All comments are moderated and generally will be posted if they are on-topic and not abusive.&quot;, &quot;type_captchas&quot;: &quot;Enter the word from the Image&quot;, &quot;info_text&quot;: &quot;All comments are moderated and generally will be posted if they are on-topic and not abusive.&quot;, &quot;fb_app_id&quot;: null, &quot;type_comment&quot;: &quot;Type your comment here...&quot;, &quot;fb_logout&quot;: &quot;Logout&quot;, &quot;comment_required&quot;: &quot;Comment required&quot;, &quot;comments&quot;: &quot;Comments&quot;, &quot;your_name&quot;: &quot;Your Name&quot;, &quot;subject_required&quot;: &quot;Subject required&quot;, &quot;subject&quot;: &quot;Type subject here...&quot;, &quot;email&quot;: &quot;Email&quot;, &quot;rss_feed&quot;: &quot;Comment Feed&quot;, &quot;ugc_allow_comments&quot;: false, &quot;fb_login&quot;: &quot; or login with Facebook&quot;, &quot;email_invalid&quot;: &quot;Invalid email address&quot;, &quot;wrong_captchas&quot;: &quot;Wrong Captchas&quot;, &quot;ugc_email_for_comments&quot;: false}, &quot;ctype&quot;: null, &quot;media_support&quot;: {&quot;slots&quot;: [{&quot;media_count&quot;: 1, &quot;display_type&quot;: &quot;carousel&quot;, &quot;slot_id&quot;: 34435, &quot;slot_ord&quot;: 0, &quot;slot_uuid&quot;: &quot;9d4f7f34-7b94-4d60-d83e-4614669cc5d3&quot;}], &quot;wh_sizes&quot;: [320, 480, 720, 1080, 1280, 1440, 1920]}, &quot;back_title&quot;: &quot;Return to \&quot;There\u2019s an Easy Way to End Government Shutdowns Forever\&quot;&quot;, &quot;related_links_url&quot;: &quot;https://prospect.org/api/content/1cf2e70c-5cba-11ee-9c3e-12163087a831/get_related_links&quot;, &quot;is_pro&quot;: true, &quot;show_dynamic_map&quot;: false, &quot;google_api_key&quot;: null}, &quot;_mp_&quot;: true, &quot;_mp_sprocket_loader&quot;: true, &quot;_mp_facebook_&quot;: true}"/><script async src="https://d3t13abgv0q40.cloudfront.net/mp-public/js/sprocket_loader.5111d2bb89749eda9702412555c5be17.js" id="_mp_sprocket_loader"></script><script async src="https://d3t13abgv0q40.cloudfront.net/mp-public/js/page_content.5a833a7cb5d97040646b0723ef88ecd3.js" data-config="{&quot;comments_url&quot;: &quot;https://prospect.org/api/content/1cf2e70c-5cba-11ee-9c3e-12163087a831/get_comments&quot;, &quot;show_occ_paginator&quot;: false, &quot;osm_active&quot;: false, &quot;media_gallery&quot;: {&quot;slideshowStart&quot;: &quot;Start Slideshow&quot;, &quot;slideshowStop&quot;: &quot;Stop Slideshow&quot;, &quot;slideshowCurrent&quot;: &quot;{current} of {total}&quot;, &quot;wh_sizes&quot;: [320, 480, 720, 1080, 1280, 1440, 1920]}, &quot;tcomments&quot;: {&quot;post_moderated&quot;: &quot;Comment successfully submitted. All comments are moderated and generally will be posted if they are on-topic and not abusive.&quot;, &quot;email_required&quot;: &quot;Email required&quot;, &quot;submit&quot;: &quot;Submit&quot;, &quot;post_to_wall&quot;: &quot;Publish comment to your Wall&quot;, &quot;content_uuid&quot;: &quot;1cf2e70c-5cba-11ee-9c3e-12163087a831&quot;, &quot;view_more&quot;: &quot;View More&quot;, &quot;chars_left&quot;: &quot;characters left&quot;, &quot;name_required&quot;: &quot;Name required&quot;, &quot;post_success&quot;: &quot;Comment successfully submitted. All comments are moderated and generally will be posted if they are on-topic and not abusive.&quot;, &quot;type_captchas&quot;: &quot;Enter the word from the Image&quot;, &quot;info_text&quot;: &quot;All comments are moderated and generally will be posted if they are on-topic and not abusive.&quot;, &quot;fb_app_id&quot;: null, &quot;type_comment&quot;: &quot;Type your comment here...&quot;, &quot;fb_logout&quot;: &quot;Logout&quot;, &quot;comment_required&quot;: &quot;Comment required&quot;, &quot;comments&quot;: &quot;Comments&quot;, &quot;your_name&quot;: &quot;Your Name&quot;, &quot;subject_required&quot;: &quot;Subject required&quot;, &quot;subject&quot;: &quot;Type subject here...&quot;, &quot;email&quot;: &quot;Email&quot;, &quot;rss_feed&quot;: &quot;Comment Feed&quot;, &quot;ugc_allow_comments&quot;: false, &quot;fb_login&quot;: &quot; or login with Facebook&quot;, &quot;email_invalid&quot;: &quot;Invalid email address&quot;, &quot;wrong_captchas&quot;: &quot;Wrong Captchas&quot;, &quot;ugc_email_for_comments&quot;: false}, &quot;ctype&quot;: null, &quot;media_support&quot;: {&quot;slots&quot;: [{&quot;media_count&quot;: 1, &quot;display_type&quot;: &quot;carousel&quot;, &quot;slot_id&quot;: 34435, &quot;slot_ord&quot;: 0, &quot;slot_uuid&quot;: &quot;9d4f7f34-7b94-4d60-d83e-4614669cc5d3&quot;}], &quot;wh_sizes&quot;: [320, 480, 720, 1080, 1280, 1440, 1920]}, &quot;back_title&quot;: &quot;Return to \&quot;There\u2019s an Easy Way to End Government Shutdowns Forever\&quot;&quot;, &quot;related_links_url&quot;: &quot;https://prospect.org/api/content/1cf2e70c-5cba-11ee-9c3e-12163087a831/get_related_links&quot;, &quot;is_pro&quot;: true, &quot;show_dynamic_map&quot;: false, &quot;google_api_key&quot;: null}" id="_mp_page_content"></script>
+
+  </body>
+</html>

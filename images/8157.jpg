@@ -1,0 +1,1193 @@
+
+<!DOCTYPE html>
+<!--
+ ______  __              ______          __                                       __
+/\__  _\/\ \            /\__  _\        /\ \__                                   /\ \__
+\/_/\ \/\ \ \___      __\/_/\ \/     ___\ \ ,_\    __   _ __   ___     __   _____\ \ ,_\
+   \ \ \ \ \  _ `\  /'__`\ \ \ \   /' _ `\ \ \/  /'__`\/\`'__\/'___\ /'__`\/\ '__`\ \ \/
+    \ \ \ \ \ \ \ \/\  __/  \_\ \__/\ \/\ \ \ \_/\  __/\ \ \//\ \__//\  __/\ \ \L\ \ \ \_
+     \ \_\ \ \_\ \_\ \____\ /\_____\ \_\ \_\ \__\ \____\\ \_\\ \____\ \____\\ \ ,__/\ \__\
+      \/_/  \/_/\/_/\/____/ \/_____/\/_/\/_/\/__/\/____/ \/_/ \/____/\/____/ \ \ \/  \/__/
+                                                                              \ \_\
+                                                                               \/_/
+-->
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  <link rel="pingback" href="https://theintercept.com/xmlrpc.php">
+  <link rel="apple-touch-icon" sizes="57x57" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/manifest.json">
+  <link rel="shortcut icon" href="https://theintercept.com/wp-content/themes/intercept/assets/icons/favicon.ico">
+  <meta name="theme-color" content="#000000" />
+
+  <link rel="preload" href="https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaHeavy.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaBold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaMonoRegular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://theintercept.com/wp-content/themes/intercept/assets/fonts/TI-Icons.woff2" as="font" type="font/woff2" crossorigin>
+
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.8 (Yoast SEO v20.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Group Attacking Apple Encryption Linked to Dark-Money Network</title>
+	<meta name="description" content="The Heat Initiative, formed to attack Apple encryption in the name of stopping child abuse, is part of a political dark-money network." />
+	<link rel="canonical" href="https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network" />
+	<meta property="og:description" content="The Heat Initiative, formed to attack Apple encryption in the name of stopping child abuse, is part of a political dark-money network." />
+	<meta property="og:url" content="https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/" />
+	<meta property="og:site_name" content="The Intercept" />
+	<meta property="article:author" content="https://www.facebook.com/sam.biddle" />
+	<meta property="article:published_time" content="2023-10-01T10:00:00+00:00" />
+	<meta property="article:modified_time" content="2023-09-30T05:29:33+00:00" />
+	<meta name="author" content="Sam Biddle" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250&w=2048" />
+	<meta name="twitter:site" content="@theintercept" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Sam Biddle" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="12 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/","url":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/","name":"Group Attacking Apple Encryption Linked to Dark-Money Network","isPartOf":{"@id":"https://theintercept.com/#website"},"primaryImageOfPage":{"@id":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/#primaryimage"},"image":{"@id":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/#primaryimage"},"thumbnailUrl":"https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250","datePublished":"2023-10-01T10:00:00+00:00","dateModified":"2023-09-30T05:29:33+00:00","author":{"@id":"https://theintercept.social/#/schema/person/de0e729b074be08ecf7425ad9d5c1d89"},"description":"The Heat Initiative, formed to attack Apple encryption in the name of stopping child abuse, is part of a political dark-money network.","breadcrumb":{"@id":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/#primaryimage","url":"https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250","contentUrl":"https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250","width":2500,"height":1250,"caption":"Apple logo seen displayed on a smartphone."},{"@type":"BreadcrumbList","@id":"https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://theintercept.com/"},{"@type":"ListItem","position":2,"name":"New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network"}]},{"@type":"WebSite","@id":"https://theintercept.com/#website","url":"https://theintercept.com/","name":"The Intercept","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://theintercept.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://theintercept.com/#/schema/person/de0e729b074be08ecf7425ad9d5c1d89","name":"Sam Biddle","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://theintercept.social/#/schema/person/image/14b1f70dc5cce8c7ccf64da96b9a7bfc","url":"https://theintercept.com/wp-content/uploads/2018/04/select-Sam-1-bw-online-1523551829.jpg","contentUrl":"https://theintercept.com/wp-content/uploads/2018/04/select-Sam-1-bw-online-1523551829.jpg","caption":"Sam Biddle"},"description":"Sam Biddle is a technology reporter focusing on issues of surveillance, privacy, and corporate power. He was previously a senior writer at Gawker, and his work has also appeared in GQ, Vice, and the New York Times magazine, among other outlets.","sameAs":["https://www.facebook.com/sam.biddle","https://twitter.com/samfbiddle"],"url":"https://theintercept.com/staff/sambiddle/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://theintercept.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='wp-parsely-recommendations-style-inline-css'>
+.parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://theintercept.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://theintercept.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='intercept-podcast-showcase-style-css' href='https://theintercept.com/wp-content/themes/intercept/blocks/podcast-showcase/podcast-showcase.css?ver=6.4.1' media='all' />
+<style id='ft-gallery-style-inline-css'>
+.ft-gallery-block {
+  display: grid;
+  grid-gap: 1rem;
+}
+
+@supports (width: min(250px, 100%)) {
+  .ft-gallery-block {
+    grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
+  }
+}
+
+</style>
+<style id='ft-navigation-style-inline-css'>
+ul.ft-navigation-block__list > li > a {
+  display: block;
+  border-bottom: 2px solid transparent;
+  padding: 1rem 1.5rem;
+  text-decoration: none !important;
+}
+
+ul.ft-navigation-block__list > li > a:hover {
+  border-color: rgb(59 130 246);
+}
+
+ul.ft-navigation-block__list > li > a:active {
+  border-color: rgb(100 116 139);
+}
+
+</style>
+<link rel='stylesheet' id='intercept-category-showcase-style-css' href='https://theintercept.com/wp-content/themes/intercept/blocks/category-showcase/category-showcase.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='intercept-top-stories-style-css' href='https://theintercept.com/wp-content/themes/intercept/blocks/top-stories/top-stories.css?ver=6.4.1' media='all' />
+<style id='intercept-newsletter-style-inline-css'>
+.newsletter-block__wrapper::before {
+  content: '';
+  position: absolute;
+  top: -12px;
+  bottom: -12px;
+  left: 15px;
+  max-width: 355px;
+  right: 15px;
+  z-index: 0;
+}
+
+</style>
+<style id='ft-example-style-inline-css'>
+/* Custom CSS goes here */
+
+</style>
+<style id='ft-features-style-inline-css'>
+.ft-features-block > div {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@supports (width: min(250px, 100%)) {
+  .ft-features-block > div {
+    grid-template-columns: repeat(
+      var(--no-of-columns),
+      minmax(min(250px, 100%), 1fr)
+    );
+  }
+}
+
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--swift-neue: SwiftNeue;--wp--preset--font-family--ti-actu-beta: TIActuBeta;--wp--preset--font-family--ti-icons: TI-Icons;--wp--preset--font-family--tiactu-beta-mono: TIActuBetaMono;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 1024px;--wp--style--global--wide-size: 1200px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 24px; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-swift-neue-font-family{font-family: var(--wp--preset--font-family--swift-neue) !important;}.has-ti-actu-beta-font-family{font-family: var(--wp--preset--font-family--ti-actu-beta) !important;}.has-ti-icons-font-family{font-family: var(--wp--preset--font-family--ti-icons) !important;}.has-tiactu-beta-mono-font-family{font-family: var(--wp--preset--font-family--tiactu-beta-mono) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='intercept-css' href='https://theintercept.com/wp-content/themes/intercept/css/app.css?ver=f9e9d4bcea8f3fae052c3797e5cfedde' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://theintercept.com/wp-content/mu-plugins/jetpack-12.8/css/jetpack.css?ver=12.8.1' media='all' />
+<link rel="alternate" type="application/json+oembed" href="https://theintercept.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://theintercept.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F&#038;format=xml" />
+        <style>
+        .getty.aligncenter {
+            text-align: center;
+        }
+        .getty.alignleft {
+            float: none;
+            margin-right: 0;
+        }
+        .getty.alignleft > div {
+            float: left;
+            margin-right: 5px;
+        }
+        .getty.alignright {
+            float: none;
+            margin-left: 0;
+        }
+        .getty.alignright > div {
+            float: right;
+            margin-left: 5px;
+        }
+        </style>
+        <meta name="generator" content="Site Kit by Google 1.106.0" />	<style>img#wpstats{display:none}</style>
+		<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network","url":"http:\/\/theintercept.com\/2023\/10\/01\/apple-encryption-iphone-heat-initiative\/","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/theintercept.com\/2023\/10\/01\/apple-encryption-iphone-heat-initiative\/"},"thumbnailUrl":"https:\/\/theintercept.com\/wp-content\/uploads\/2023\/09\/AP20292712191153-apple-iphone-privacy.jpg?resize=440%2C440","image":{"@type":"ImageObject","url":"https:\/\/theintercept.com\/wp-content\/uploads\/2023\/09\/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250"},"articleSection":"Articles","author":[{"@type":"Person","name":"Sam Biddle"}],"creator":["Sam Biddle"],"publisher":{"@type":"Organization","name":"The Intercept","logo":""},"keywords":["Day: Sunday","Time: 10.00","Page Type: Article","Article Type: Article Post","Long","WC: 2000-2999","Subject: National Security","Subject: Technology","Partner: Factiva","Partner: Smart News","Partner: Social Flow","Language: English"],"dateCreated":"2023-10-01T10:00:00Z","datePublished":"2023-10-01T10:00:00Z","dateModified":"2023-10-01T10:00:00Z","hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".emailwall"}}</script><meta property="og:image" content="https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250&#038;w=1200&#038;h=800" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+  <meta name="parsely-metadata" content="{'type': 'feature', 'id': '446051'}"/>
+    <meta name="parsely-metadata" content="{'type': 'feature', 'id': '446051'}"/>
+  <style id='wp-fonts-local' type='text/css'>
+@font-face{font-family:SwiftNeue;font-style:normal;font-weight:400;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/SwiftNeueRegular.woff2') format('woff2');}
+@font-face{font-family:SwiftNeue;font-style:italic;font-weight:400;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/SwiftNeueRegularItalic.woff2') format('woff2');}
+@font-face{font-family:SwiftNeue;font-style:normal;font-weight:600;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/SwiftNeueSemiBold.woff2') format('woff2');}
+@font-face{font-family:SwiftNeue;font-style:normal;font-weight:700;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/SwiftNeueBold.woff2') format('woff2');}
+@font-face{font-family:SwiftNeue;font-style:italic;font-weight:700;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/SwiftNeueBoldItalic.woff2') format('woff2');}
+@font-face{font-family:SwiftNeue;font-style:italic;font-weight:900;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/SwiftNeueBlack.woff2') format('woff2');}
+@font-face{font-family:TIActuBeta;font-style:normal;font-weight:400;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaRegular.woff2') format('woff2');}
+@font-face{font-family:TIActuBeta;font-style:normal;font-weight:300;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaLight.woff2') format('woff2');}
+@font-face{font-family:TIActuBeta;font-style:normal;font-weight:700;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaBold.woff2') format('woff2');}
+@font-face{font-family:TIActuBeta;font-style:normal;font-weight:900;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaHeavy.woff2') format('woff2');}
+@font-face{font-family:TI-Icons;font-style:normal;font-weight:400;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TI-Icons.woff2') format('woff2');}
+@font-face{font-family:TIActuBetaMono;font-style:normal;font-weight:400;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaMonoRegular.woff2') format('woff2');}
+@font-face{font-family:TIActuBetaMono;font-style:normal;font-weight:700;font-display:swap;src:url('https://theintercept.com/wp-content/themes/intercept/assets/fonts/TIActuBetaMonoBold.woff2') format('woff2');}
+</style>
+    <script>
+        // GTM script insertion
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer', 'GTM-K3FG883');
+      </script>
+  </head>
+
+<body class="post-template-default single single-post postid-446051 single-format-standard antialiased">
+
+<div class="offcanvas-wrapper">
+
+  
+  <div id="page" class="min-h-screen flex flex-col">
+
+    <header class="site-header">
+  <div class="header__hamburger fixed z-50 right-0 top-0 xl:right-auto xl:left-0">
+    <button
+      type="button"
+      class="block text-white text-[30px] right-[25px] top-[15px] xl:top-10 xl:right-auto xl:left-[25px] font-icons before:content-['\2261'] absolute leading-none transition"
+      aria-label="Toggle Menu"
+      data-offcanvas-trigger="navleft"
+    >
+    </button>
+  </div>
+
+  
+<div class="offcanvas left" data-offcanvas="navleft">
+  <button class="offcanvas__close" aria-label="Close" data-offcanvas-trigger="navleft"><span class="icon-TI_Cross"></span></button>
+
+  <div class="xl:flex justify-between">
+    <a
+      class="my-2 -ml-1 text-body [&_svg]:w-[8.75rem]"
+      href="/"
+      aria-label="Go to homepage"
+      data-ga-track="site navigation"
+      data-ga-track-action="logo click"
+    >
+      <svg viewBox="0 0 140 50" aria-label="The Intercept" fill="currentColor" class=""><path d="M51.731 30.458c1.246 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766M40.789 8.601c1.247 0 2.265 1.424 2.265 3.206l-4.606.559c.127-2.442.891-3.765 2.341-3.765m51.985 21.857c1.247 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766m35.521 16.005H140v-2.188h-11.705v2.188zm-21.653-14.784c.279-.101.61-.178 1.272-.178 2.544 0 4.275 1.68 4.275 5.42 0 3.104-1.705 5.216-4.173 5.216a4.68 4.68 0 0 1-1.374-.229V31.679zm-37.99 1.527h3.18v-4.097c-.61-.254-1.017-.356-1.603-.356-.992 0-2.188.662-3.435 1.654l-.916.713v-2.367h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h9.313v-.865l-2.367-.763v-9.39c.611-.229 1.68-.407 1.934-.407l.84 1.374zm11.832-4.453c-3.995 0-8.372 2.494-8.372 8.066 0 4.631 3.079 6.82 6.412 6.82 1.146 0 2.469-.153 4.402-.967l2.341-.993-.33-.916c-.586.229-1.4.382-2.545.382-3.155 0-5.547-1.883-5.547-6.132 0-2.952 1.705-4.555 3.257-4.555.153 0 .331.025.484.102l1.399 2.646h2.926v-3.613c-1.17-.433-2.773-.84-4.427-.84m43.308-2.264h-1.171l-5.521 3.18v1.069l1.857.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.33.076-.916.101-1.246.101-1.858 0-3.079-.687-3.079-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm-83.664 0h-1.171l-5.522 3.18v1.069l1.858.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.331.076-.916.101-1.247.101-1.857 0-3.078-.687-3.078-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm18.498 8.804v-.407c0-2.189-1.476-6.133-6.437-6.133-3.766 0-7.558 2.494-7.558 8.066 0 4.555 3.334 6.82 6.972 6.82 1.069 0 2.621-.178 4.428-.967l2.264-.993-.33-.916c-.586.229-1.4.382-2.596.382-2.799 0-5.878-1.628-6.005-5.852h9.262zm41.044 0v-.407c0-2.189-1.476-6.133-6.438-6.133-3.766 0-7.557 2.494-7.557 8.066 0 4.555 3.333 6.82 6.972 6.82 1.068 0 2.62-.178 4.427-.967l2.265-.993-.331-.916c-.585.229-1.4.382-2.596.382-2.798 0-5.877-1.628-6.005-5.852h9.263zM47.685 13.435v-.407c0-2.188-1.476-6.132-6.438-6.132-3.766 0-7.557 2.493-7.557 8.066 0 4.555 3.333 6.819 6.972 6.819 1.069 0 2.621-.178 4.427-.967l2.265-.992-.331-.916c-.585.229-1.399.382-2.595.382-2.799 0-5.878-1.629-6.005-5.853h9.262zM6.438 25.598v15.725l-2.468.942v.992h10.865v-.992l-2.468-.942V25.598l2.468-.942v-.992H3.97v.992l2.468.942zm25.343 16.031V33.74c0-2.926-1.094-4.987-4.045-4.987-1.222 0-2.138.382-3.334.916l-2.163.942v-1.858h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h8.804v-.865l-1.858-.763v-9.924c.458-.127 1.247-.204 1.833-.204 1.577 0 2.875.865 2.875 3.461v6.667l-1.858.763v.865h8.804v-.865l-2.112-.763zm74.861-12.876h-.662l-6.285 1.272v.967l2.112.637v15.598l-2.112.763v.865h9.567v-.865l-2.62-.763v-3.588h.992c5.954 0 9.287-3.614 9.287-8.626 0-4.301-3.002-6.26-5.241-6.26-.891 0-2.443.535-3.868 1.247l-.967.483h-.203v-1.73zm-75.115-8.982v-7.888c0-2.926-1.094-4.987-4.046-4.987-1.221 0-2.137.381-3.333.916l-2.163.941V0h-.662l-4.911 1.807H0v4.911h2.316l.941-3.028h3.181v15.776l-2.468.941v.993h10.61v-.993l-2.213-.941V3.69h4.783v16.081l-1.857.763v.866h8.55v-.866l-1.858-.763V9.873c.458-.127 1.247-.229 1.832-.229 1.578 0 2.875.865 2.875 3.46v6.667l-1.857.763v.866h8.804v-.866l-2.112-.763z"/></svg>
+    </a>
+  </div>
+
+  <div class="offcanvas__search">
+    <form role="search" method="get" class="search-form" action="/search/">
+      <label class="relative">
+        <span class="icon-TI_Search"></span>
+        <span class="sr-only">Search for:</span>
+        <input type="search" class="bg-transparent border-0" value="" name="s">
+      </label>
+      <input type="submit" class="sr-only" value="Search">
+    </form>
+  </div>
+
+  <div id="offcanvas-menu-1" class="menu-menu-1-container"><ul id="menu-menu-1" class="offcanvas__menu offcanvas__menu--1"><li id="menu-item-427796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427796"><a href="https://theintercept.com/politics/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | politics">Politics</a></li>
+<li id="menu-item-427797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427797"><a href="https://theintercept.com/justice/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | justice">Justice</a></li>
+<li id="menu-item-427798" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-427798"><a href="https://theintercept.com/national-security/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | national security">National Security</a></li>
+<li id="menu-item-427799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427799"><a href="https://theintercept.com/world/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | world">World</a></li>
+<li id="menu-item-427800" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-427800"><a href="https://theintercept.com/technology/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | technology">Technology</a></li>
+<li id="menu-item-427801" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427801"><a href="https://theintercept.com/environment/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | environment">Environment</a></li>
+</ul></div>
+  <div id="offcanvas-menu-2" class="menu-menu-2-container"><ul id="menu-menu-2" class="offcanvas__menu offcanvas__menu--2"><li id="menu-item-427785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427785"><a href="https://theintercept.com/special-investigations/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | special investigations">Special Investigations</a></li>
+<li id="menu-item-427786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427786"><a href="https://theintercept.com/voices/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | voices">Voices</a></li>
+<li id="menu-item-427789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427789"><a href="/podcasts/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | podcasts">Podcasts</a></li>
+<li id="menu-item-427790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427790"><a href="/videos/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | videos">Videos</a></li>
+<li id="menu-item-427787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427787"><a href="https://theintercept.com/documents/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | documents">Documents</a></li>
+</ul></div>
+      <a class="offcanvas__cta" href="https://join.theintercept.com/donate/now/?source=web_intercept_20230103_global-nav&#038;referrer_url=https%3A%2F%2Ftheintercept.com%2F" target="_blank">Become A Member <span class="icon-TI_Arrow_02_Right ml-1.5"></span></a>
+  
+  <div id="offcanvas-menu-3" class="menu-menu-3-container"><ul id="menu-menu-3" class="offcanvas__menu offcanvas__menu--3"><li id="menu-item-427791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427791"><a href="https://theintercept.com/about/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | about">About</a></li>
+<li id="menu-item-427792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427792"><a href="https://theintercept.com/policies-and-reports/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | policies and reports">Policies And Reports</a></li>
+<li id="menu-item-427793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427793"><a href="https://theintercept.com/source/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | become a source">Become a Source</a></li>
+<li id="menu-item-427794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427794"><a href="https://theintercept.com/newsletter/?campaign=web_hamburger" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="navigation-menu | list-items | join newsletter">Join Newsletter</a></li>
+</ul></div>
+  <ul class="flex my-10 text-xl gap-2">
+    <li>
+      <a href="https://www.facebook.com/theinterceptflm" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | facebook">
+        <span class="text-body icon-TI_Facebook" aria-label="Facebook"></span>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/theintercept" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label=" navigationmenusocial list-items | twitter">
+        <span class="text-body icon-TI_Twitter" aria-label="Twitter"></span>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.youtube.com/theinterceptflm" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | youtube">
+        <span class="text-body icon-TI_YouTube" aria-label="YouTube"></span>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.instagram.com/theintercept" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | instagram">
+        <span class="text-body icon-TI_Instagram" aria-label="Instagram"></span>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.tiktok.com/@theintercept" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | tiktok">
+        <span class="text-body icon-TI_TikTok" aria-label="TikTok"></span>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/showcase/the-intercept/" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | linkedin">
+        <span class="text-body icon-TI_LinkedIn" aria-label="LinkedIn"></span>
+      </a>
+    </li>
+    <li>
+      <a href="https://flipboard.com/@TheIntercept" rel="noreferrer noopener" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | flipboard">
+        <span class="text-body icon-TI_Flipboard" aria-label="Flipboard"></span>
+      </a>
+    </li>
+    <li>
+      <a href="/feeds/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="social-menu | list-items | rss">
+        <span class="text-body icon-TI_RSS" aria-label="RSS"></span>
+      </a>
+    </li>
+  </ul>
+
+  <div class="offcanvas__small-text">
+    
+          <p>© THE INTERCEPT</p>
+              <p>ALL RIGHTS RESERVED</p>
+    
+          <div class="flex gap-5 mt-7">
+                  <a href="https://theintercept.com/terms-use/" >Terms of Use</a>
+                          <a href="https://theintercept.com/privacy-policy/" >Privacy</a>
+              </div>
+      </div>
+</div>
+</header>
+
+    <div id="content" class="site-content flex-grow">
+
+      
+      <main>
+
+            <div class="fixed-logo-wrapper hidden z-[33] bg-transparent [&_*]:text-white xl:pl-[90px]">
+        <a
+          class="[&_svg]:w-[8.75rem]"
+          href="/"
+          aria-label="Go to homepage"
+          data-ga-track="site navigation"
+          data-ga-track-action="logo click"
+        ><svg viewBox="0 0 140 50" aria-label="The Intercept" fill="currentColor" class=""><path d="M51.731 30.458c1.246 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766M40.789 8.601c1.247 0 2.265 1.424 2.265 3.206l-4.606.559c.127-2.442.891-3.765 2.341-3.765m51.985 21.857c1.247 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766m35.521 16.005H140v-2.188h-11.705v2.188zm-21.653-14.784c.279-.101.61-.178 1.272-.178 2.544 0 4.275 1.68 4.275 5.42 0 3.104-1.705 5.216-4.173 5.216a4.68 4.68 0 0 1-1.374-.229V31.679zm-37.99 1.527h3.18v-4.097c-.61-.254-1.017-.356-1.603-.356-.992 0-2.188.662-3.435 1.654l-.916.713v-2.367h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h9.313v-.865l-2.367-.763v-9.39c.611-.229 1.68-.407 1.934-.407l.84 1.374zm11.832-4.453c-3.995 0-8.372 2.494-8.372 8.066 0 4.631 3.079 6.82 6.412 6.82 1.146 0 2.469-.153 4.402-.967l2.341-.993-.33-.916c-.586.229-1.4.382-2.545.382-3.155 0-5.547-1.883-5.547-6.132 0-2.952 1.705-4.555 3.257-4.555.153 0 .331.025.484.102l1.399 2.646h2.926v-3.613c-1.17-.433-2.773-.84-4.427-.84m43.308-2.264h-1.171l-5.521 3.18v1.069l1.857.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.33.076-.916.101-1.246.101-1.858 0-3.079-.687-3.079-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm-83.664 0h-1.171l-5.522 3.18v1.069l1.858.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.331.076-.916.101-1.247.101-1.857 0-3.078-.687-3.078-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm18.498 8.804v-.407c0-2.189-1.476-6.133-6.437-6.133-3.766 0-7.558 2.494-7.558 8.066 0 4.555 3.334 6.82 6.972 6.82 1.069 0 2.621-.178 4.428-.967l2.264-.993-.33-.916c-.586.229-1.4.382-2.596.382-2.799 0-5.878-1.628-6.005-5.852h9.262zm41.044 0v-.407c0-2.189-1.476-6.133-6.438-6.133-3.766 0-7.557 2.494-7.557 8.066 0 4.555 3.333 6.82 6.972 6.82 1.068 0 2.62-.178 4.427-.967l2.265-.993-.331-.916c-.585.229-1.4.382-2.596.382-2.798 0-5.877-1.628-6.005-5.852h9.263zM47.685 13.435v-.407c0-2.188-1.476-6.132-6.438-6.132-3.766 0-7.557 2.493-7.557 8.066 0 4.555 3.333 6.819 6.972 6.819 1.069 0 2.621-.178 4.427-.967l2.265-.992-.331-.916c-.585.229-1.399.382-2.595.382-2.799 0-5.878-1.629-6.005-5.853h9.262zM6.438 25.598v15.725l-2.468.942v.992h10.865v-.992l-2.468-.942V25.598l2.468-.942v-.992H3.97v.992l2.468.942zm25.343 16.031V33.74c0-2.926-1.094-4.987-4.045-4.987-1.222 0-2.138.382-3.334.916l-2.163.942v-1.858h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h8.804v-.865l-1.858-.763v-9.924c.458-.127 1.247-.204 1.833-.204 1.577 0 2.875.865 2.875 3.461v6.667l-1.858.763v.865h8.804v-.865l-2.112-.763zm74.861-12.876h-.662l-6.285 1.272v.967l2.112.637v15.598l-2.112.763v.865h9.567v-.865l-2.62-.763v-3.588h.992c5.954 0 9.287-3.614 9.287-8.626 0-4.301-3.002-6.26-5.241-6.26-.891 0-2.443.535-3.868 1.247l-.967.483h-.203v-1.73zm-75.115-8.982v-7.888c0-2.926-1.094-4.987-4.046-4.987-1.221 0-2.137.381-3.333.916l-2.163.941V0h-.662l-4.911 1.807H0v4.911h2.316l.941-3.028h3.181v15.776l-2.468.941v.993h10.61v-.993l-2.213-.941V3.69h4.783v16.081l-1.857.763v.866h8.55v-.866l-1.858-.763V9.873c.458-.127 1.247-.229 1.832-.229 1.578 0 2.875.865 2.875 3.46v6.667l-1.857.763v.866h8.804v-.866l-2.112-.763z"/></svg>
+</a>
+      </div>
+
+<article id="relative post-446051" class="post-446051 post type-post status-publish format-standard has-post-thumbnail hentry category-national-security category-technology">
+  
+<img
+  class="hidden xl:block object-cover object-center w-full h-[clamp(440px,calc(720*(100vw/1440)),calc(100vh-600px))]"
+  src="https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250"
+  alt="In this photo illustration the Apple logo seen displayed on a smartphone. (Photo by Rafael Henrique / SOPA Images/Sipa USA)(Sipa via AP Images)"
+/>
+
+  <div class="xl:w-[1200px] xl:flex xl:mx-auto xl:px-5 text-white xl:text-body">
+    
+<div class="xl:min-w-[240px]">
+  <div class="sticky-sidebar">
+          <div class="logo-wrapper positioned px-5 sm:px-10 xl:px-0 w-full xl:w-auto bg-body [&amp;_*]:text-white">
+        <a
+          class="[&_svg]:w-[8.75rem]"
+          href="/"
+          aria-label="Go to homepage"
+          data-ga-track="site navigation"
+          data-ga-track-action="logo click"
+        ><svg viewBox="0 0 140 50" aria-label="The Intercept" fill="currentColor" class=""><path d="M51.731 30.458c1.246 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766M40.789 8.601c1.247 0 2.265 1.424 2.265 3.206l-4.606.559c.127-2.442.891-3.765 2.341-3.765m51.985 21.857c1.247 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766m35.521 16.005H140v-2.188h-11.705v2.188zm-21.653-14.784c.279-.101.61-.178 1.272-.178 2.544 0 4.275 1.68 4.275 5.42 0 3.104-1.705 5.216-4.173 5.216a4.68 4.68 0 0 1-1.374-.229V31.679zm-37.99 1.527h3.18v-4.097c-.61-.254-1.017-.356-1.603-.356-.992 0-2.188.662-3.435 1.654l-.916.713v-2.367h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h9.313v-.865l-2.367-.763v-9.39c.611-.229 1.68-.407 1.934-.407l.84 1.374zm11.832-4.453c-3.995 0-8.372 2.494-8.372 8.066 0 4.631 3.079 6.82 6.412 6.82 1.146 0 2.469-.153 4.402-.967l2.341-.993-.33-.916c-.586.229-1.4.382-2.545.382-3.155 0-5.547-1.883-5.547-6.132 0-2.952 1.705-4.555 3.257-4.555.153 0 .331.025.484.102l1.399 2.646h2.926v-3.613c-1.17-.433-2.773-.84-4.427-.84m43.308-2.264h-1.171l-5.521 3.18v1.069l1.857.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.33.076-.916.101-1.246.101-1.858 0-3.079-.687-3.079-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm-83.664 0h-1.171l-5.522 3.18v1.069l1.858.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.331.076-.916.101-1.247.101-1.857 0-3.078-.687-3.078-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm18.498 8.804v-.407c0-2.189-1.476-6.133-6.437-6.133-3.766 0-7.558 2.494-7.558 8.066 0 4.555 3.334 6.82 6.972 6.82 1.069 0 2.621-.178 4.428-.967l2.264-.993-.33-.916c-.586.229-1.4.382-2.596.382-2.799 0-5.878-1.628-6.005-5.852h9.262zm41.044 0v-.407c0-2.189-1.476-6.133-6.438-6.133-3.766 0-7.557 2.494-7.557 8.066 0 4.555 3.333 6.82 6.972 6.82 1.068 0 2.62-.178 4.427-.967l2.265-.993-.331-.916c-.585.229-1.4.382-2.596.382-2.798 0-5.877-1.628-6.005-5.852h9.263zM47.685 13.435v-.407c0-2.188-1.476-6.132-6.438-6.132-3.766 0-7.557 2.493-7.557 8.066 0 4.555 3.333 6.819 6.972 6.819 1.069 0 2.621-.178 4.427-.967l2.265-.992-.331-.916c-.585.229-1.399.382-2.595.382-2.799 0-5.878-1.629-6.005-5.853h9.262zM6.438 25.598v15.725l-2.468.942v.992h10.865v-.992l-2.468-.942V25.598l2.468-.942v-.992H3.97v.992l2.468.942zm25.343 16.031V33.74c0-2.926-1.094-4.987-4.045-4.987-1.222 0-2.138.382-3.334.916l-2.163.942v-1.858h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h8.804v-.865l-1.858-.763v-9.924c.458-.127 1.247-.204 1.833-.204 1.577 0 2.875.865 2.875 3.461v6.667l-1.858.763v.865h8.804v-.865l-2.112-.763zm74.861-12.876h-.662l-6.285 1.272v.967l2.112.637v15.598l-2.112.763v.865h9.567v-.865l-2.62-.763v-3.588h.992c5.954 0 9.287-3.614 9.287-8.626 0-4.301-3.002-6.26-5.241-6.26-.891 0-2.443.535-3.868 1.247l-.967.483h-.203v-1.73zm-75.115-8.982v-7.888c0-2.926-1.094-4.987-4.046-4.987-1.221 0-2.137.381-3.333.916l-2.163.941V0h-.662l-4.911 1.807H0v4.911h2.316l.941-3.028h3.181v15.776l-2.468.941v.993h10.61v-.993l-2.213-.941V3.69h4.783v16.081l-1.857.763v.866h8.55v-.866l-1.858-.763V9.873c.458-.127 1.247-.229 1.832-.229 1.578 0 2.875.865 2.875 3.46v6.667l-1.857.763v.866h8.804v-.866l-2.112-.763z"/></svg>
+</a>
+      </div>
+    
+          <div class="hidden xl:contents">
+        <a
+          class="sticky-sidebar__donate inline-flex xl:hidden z-20"
+          data-analytics-id="article-social-share--donate"
+          href="https://join.theintercept.com/donate/now/?referrer_post_id=446051&#038;referrer_url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F&#038;source=web_intercept_20230103_article-share"
+          ><span>Donate</span><span class="icon-TI_Arrow_02_Right"></span></a>
+        <a
+          class="sticky-sidebar__share bg-white z-20"
+          target="_blank"
+          aria-label="Share on Facebook"
+          data-analytics-id="article-social-share--facebook"
+          href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F"
+          data-ga-track="share tools"
+          data-ga-track-action="facebook share"
+          data-ga-track-label="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F"
+          ><span class="icon-TI_Facebook"></span></a>
+        <a
+          class="sticky-sidebar__share bg-white z-20"
+          target="_blank"
+          aria-label="Share on Twitter"
+          data-analytics-id="article-social-share--twitter"
+          href="https://twitter.com/intent/tweet?text=New%20Group%20Attacking%20iPhone%20Encryption%20Backed%20by%20U.S.%20Political%20Dark-Money%20Network%20https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F%20by%20%40samfbiddle"
+          data-ga-track="share tools"
+          data-ga-track-action="twitter share"
+          data-ga-track-label="https://twitter.com/intent/tweet?text=New%20Group%20Attacking%20iPhone%20Encryption%20Backed%20by%20U.S.%20Political%20Dark-Money%20Network%20https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F%20by%20%40samfbiddle"
+          ><span class="icon-TI_Twitter"></span></a>
+        <a
+          class="sticky-sidebar__donate hidden xl:flex xl:w-full z-20"
+          data-analytics-id="article-social-share--donate-desktop"
+          href="https://join.theintercept.com/donate/now/?referrer_post_id=446051&#038;referrer_url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F&#038;source=web_intercept_20230103_article-share"
+          data-ga-track="share tools"
+          data-ga-track-action="donation"
+          data-ga-track-label="https://join.theintercept.com/donate/now/?referrer_post_id=446051&#038;referrer_url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F&#038;source=web_intercept_20230103_article-share"
+          >Become<br> a member</a>
+      </div>
+      </div>
+</div>
+
+    <div class="xl:w-[920px] xl:p-5 xl:pt-2.5 xl:border-l xl:border-[#eee]">
+      <nav class="article-toc" data-module="ChapterTOC">
+        <div class="article-toc__container">
+          <button class="article-toc__button" data-action="toggle">
+            <span class="Icon Icon--Arrow_01_Up icon-TI_Arrow_01_Up"></span>
+          </button>
+          <a class="article-toc__title" href="#new-group-attacking-iphone-encryption-backed-by-u-s-political-dark-money-network">New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network</a>
+        </div>
+      </nav>
+      <header class="post__header">
+        
+<div class="image__caption mt-2 xl:mt-0 mb-8 xl:mb-2 xl:pl-[40%] xl:pb-8 font-mono text-[11px] leading-[1.27] text-summaryGrayDark hidden xl:block">
+      <span>Apple logo seen displayed on a smartphone.</span>
+        <span>Photo: Rafael Henrique/Sipa via AP</span>
+  </div>
+        <h1 class="post__title">
+          New Group Attacking iPhone Encryption Backed by U.S. Political Dark-Money Network        </h1>
+
+                  <p class="post__excerpt">
+            A new, well-funded pressure group is fighting to get Apple to weaken iPhone privacy protections in the name of catching child predators.          </p>
+                
+<div
+  class="article-byline pt-[17px] pb-2.5 flex gap-2.5 xl:mt-4"
+>
+    <div class="article-byline__avatar hidden xl:flex gap-2.5">
+          <a
+        class="article-byline__avatar-link rounded-full overflow-hidden"
+        rel="author"
+        tabindex="-1"
+        href="https://theintercept.com/staff/sambiddle/"
+        data-ga-track="article navigation"
+        data-ga-track-action="author click - byline"
+        data-ga-track-label="sambiddle"
+      >
+        <img
+          src="https://theintercept.com/wp-content/uploads/2018/04/select-Sam-1-bw-online-1523551829-120x120.jpg"
+          width="60"
+          height="60"
+          alt=""
+        />
+      </a>
+      </div>
+    <div class="article-byline__info font-mono text-[14px]">
+    <div class="article-byline__authors text-accentDynamic mb-2">
+              <a
+        class="text-accentDark xl:text-accentLight"
+        rel="author"
+        href="https://theintercept.com/staff/sambiddle/"
+        aria-label="Posts by Sam Biddle"
+        data-ga-track="article navigation"
+        data-ga-track-action="author click - byline"
+        data-ga-track-label="sambiddle"
+        >Sam Biddle</a>          </div>
+    <time
+      datetime="2023-10-01T06:00:00-04:00"
+      class="text-sm text-[#aaa]">
+      October 1 2023, 6:00 a.m.    </time>
+  </div>
+</div>
+              </header>
+
+      
+<div class="flex xl:hidden bg-body sticky top-0 inset-x-0 z-30">
+  <a
+    class="sticky-sidebar__donate inline-flex xl:hidden"
+    data-analytics-id="article-social-share--donate"
+    href="https://join.theintercept.com/donate/now/?referrer_post_id=446051&#038;referrer_url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F&#038;source=web_intercept_20230103_article-share"
+    data-ga-track="share tools"
+    data-ga-track-action="donation"
+    data-ga-track-label="https://join.theintercept.com/donate/now/?referrer_post_id=446051&#038;referrer_url=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F&#038;source=web_intercept_20230103_article-share"
+    ><span>Donate</span><span class="icon-TI_Arrow_02_Right"></span></a>
+  <a
+    class="sticky-sidebar__share"
+    target="_blank"
+    aria-label="Share on Facebook"
+    data-analytics-id="article-social-share--facebook"
+    href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F"
+    data-ga-track="share tools"
+    data-ga-track-action="facebook share"
+    data-ga-track-label="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F"
+    ><span class="icon-TI_Facebook"></span></a>
+  <a
+    class="sticky-sidebar__share"
+    target="_blank"
+    aria-label="Share on Twitter"
+    data-analytics-id="article-social-share--twitter"
+    href="https://twitter.com/intent/tweet?text=New%20Group%20Attacking%20iPhone%20Encryption%20Backed%20by%20U.S.%20Political%20Dark-Money%20Network%20https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F%20by%20%40samfbiddle"
+    data-ga-track="share tools"
+    data-ga-track-action="twitter share"
+    data-ga-track-label="https://twitter.com/intent/tweet?text=New%20Group%20Attacking%20iPhone%20Encryption%20Backed%20by%20U.S.%20Political%20Dark-Money%20Network%20https%3A%2F%2Ftheintercept.com%2F2023%2F10%2F01%2Fapple-encryption-iphone-heat-initiative%2F%20by%20%40samfbiddle"
+    ><span class="icon-TI_Twitter"></span></a>
+</div>
+              <img
+          class="block xl:hidden w-full"
+          src="https://theintercept.com/wp-content/uploads/2023/09/AP20292712191153-apple-iphone-privacy.jpg?fit=2500%2C1250"
+          alt="In this photo illustration the Apple logo seen displayed on a smartphone. (Photo by Rafael Henrique / SOPA Images/Sipa USA)(Sipa via AP Images)"
+        />
+            
+<div class="image__caption mt-2 xl:mt-0 mb-8 xl:mb-2 xl:pl-[40%] xl:pb-8 font-mono text-[11px] leading-[1.27] text-summaryGrayDark xl:hidden px-5 sm:px-10">
+      <span>Apple logo seen displayed on a smartphone.</span>
+        <span>Photo: Rafael Henrique/Sipa via AP</span>
+  </div>
+            
+      
+<div
+  class="entry-content"
+  id="new-group-attacking-iphone-encryption-backed-by-u-s-political-dark-money-network">
+  <div class="entry-content__content md:mr-[25%] md:pr-[10px]">
+    
+    
+<p><u>The Heat Initiative,</u> a nonprofit child safety advocacy group, was formed earlier this year to campaign against some of the strong privacy protections Apple provides customers. The group says these protections help enable child exploitation, objecting to the fact that pedophiles can encrypt their personal data just like everyone else.</p>
+
+
+
+<p>When Apple launched its new iPhone this September, the Heat Initiative seized on the occasion, taking out a full-page New York Times ad, using digital billboard trucks, and even hiring a plane to fly over Apple headquarters with a banner message. The message on the banner appeared simple: “Dear Apple, Detect Child Sexual Abuse in iCloud” — Apple’s cloud storage system, which today employs a range of powerful encryption technologies aimed at preventing hackers, spies, and Tim Cook from knowing anything about your private files.</p>
+
+
+
+<p>Something the Heat Initiative has not placed on giant airborne banners is who’s behind it: a controversial billionaire philanthropy network whose influence and tactics have drawn unfavorable comparisons to the right-wing Koch network. Though it does not publicize this fact, the Heat Initiative is a project of the Hopewell Fund, an organization that helps privately and often secretly direct the largesse — and political will — of billionaires. <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">Hopewell is part of a giant, tightly connected web</a> of largely anonymous, Democratic Party-aligned dark-money groups, in an ironic turn, campaigning to undermine the privacy of ordinary people.</p>
+
+
+
+<!-- BLOCK(pullquote)[0](%7B%22componentName%22%3A%22PULLQUOTE%22%2C%22entityType%22%3A%22SHORTCODE%22%2C%22optional%22%3Atrue%7D)(%7B%22pull%22%3A%22right%22%7D) --><blockquote class="stylized pull-right" data-shortcode-type="pullquote" data-pull="right"><!-- CONTENT(pullquote)[0] -->“None of these groups are particularly open with me or other people who are tracking dark money about what it is they’re doing.”<!-- END-CONTENT(pullquote)[0] --></blockquote><!-- END-BLOCK(pullquote)[0] -->
+
+
+
+<p>For experts on transparency about money in politics, the Hopewell Fund’s place in the wider network of Democratic dark money raises questions that groups in the network are disinclined to answer.</p>
+
+
+
+<p>“None of these groups are particularly open with me or other people who are tracking dark money about what it is they’re doing,” said Robert Maguire, of Citizens for Responsibility and Ethics in Washington, or CREW. Maguire said the way the network operated called to mind perhaps the most famous right-wing philanthropy and dark-money political network: the constellation of groups run and supported by the billionaire owners of Koch Industries. Of the Hopewell network, Maguire said, “They also take on some of the structural calling cards of the Koch network; it is a convoluted group, sometimes even intentionally so.”</p>
+
+
+
+<p>The decadeslong political and technological campaign to diminish encryption for the sake of public safety — known as the “Crypto Wars” — has in recent years pivoted from stoking fears of terrorists chatting in secret to child predators evading police scrutiny. No matter the subject area, the battle is being waged between those who think privacy is an absolute right and those who believe it ought to be limited for expanded oversight from law enforcement and intelligence agencies. The ideological lines pit privacy advocates, computer scientists, and cryptographers against the FBI, the U.S. Congress, the European Union, and other governmental bodies around the world. Apple’s complex 2021 proposal to scan cloud-bound images before they ever left your phone became <a href="https://www.wired.com/story/apple-csam-detection-icloud-photos-encryption-privacy/">divisive even within the field of cryptography itself</a>.</p>
+
+
+
+<!-- BLOCK(newsletter)[1](%7B%22componentName%22%3A%22NEWSLETTER%22%2C%22entityType%22%3A%22SHORTCODE%22%2C%22optional%22%3Atrue%7D)(%7B%7D) -->
+<div class="newsletter-embed" id="third-party--article-mid">
+  <div class="newsletter-shortcode">
+    <a class="newsletter-shortcode__wrapper" href="/newsletter/?source=Article-In&#038;referrer_post_id=446051" data-analytics-id="inline-article-newsletter-shortcode">
+      <span class="newsletter-shortcode__container">
+        <h3 class="newsletter-shortcode__headline">
+          Join Our Newsletter        </h3>
+        <h3 class="newsletter-shortcode__subhead">
+          Original reporting. Fearless journalism. Delivered to you.        </h3>
+        <span class="newsletter-shortcode__link">
+          I&#039;m in
+          <span class="Icon Icon--Arrow_02_Right icon-TI_Arrow_02_Right"></span>
+        </span>
+      </span>
+    </a>
+  </div>
+</div>
+<!-- END-BLOCK(newsletter)[1] -->
+
+
+
+<p>While the motives on both sides tend to be clear — there’s little mystery as to why the FBI doesn’t like encryption — the Heat Initiative, as opaque as it is new, introduces the obscured interests of billionaires to a dispute over the rights of ordinary individuals.&nbsp;</p>
+
+
+
+<p>“I’m uncomfortable with anonymous rich people with unknown agendas pushing these massive invasions of our privacy,” Matthew Green, a cryptographer at Johns Hopkins University and a critic of the plan to have Apple scan private files on its devices, told The Intercept. “There are huge implications for national security as well as consumer privacy against corporations. Plenty of unsavory reasons for people to push this technology that have nothing to do with protecting children.”</p>
+
+
+
+<!-- BLOCK(cta)[2](%7B%22componentName%22%3A%22CTA%22%2C%22entityType%22%3A%22SHORTCODE%22%2C%22optional%22%3Atrue%7D)(%7B%7D) -->
+<div class="most-read" data-module="MostRead">
+  <div class="most-read__content">
+    <h2 class="most-read__header">
+      Most Read    </h2>
+
+    <div class="most-read__promos">
+      <div class="most-read__container">
+                  <div class="most-read__item">
+            <a class="most-read__link image-hover-parent" href="http://theintercept.com/2023/11/16/pentagon-jordan-military-air-base/">
+              <div class="image-hover-wrapper">
+                <img decoding="async" class="most-read__image" loading="lazy" src="https://theintercept.com/wp-content/uploads/2023/11/8075045.jpg?resize=440%2C440&#038;w=1200" alt="" data-recalc-dims="1" />
+              </div>
+              <div class="most-read__title">
+                Pentagon Won’t Say Where It’s Sending U.S. Troops — to Avoid Embarrassing Host Nations                <div class="most-read__author">
+                  Ken Klippenstein                </div>
+              </div>
+            </a>
+          </div>
+                  <div class="most-read__item">
+            <a class="most-read__link image-hover-parent" href="https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict/">
+              <div class="image-hover-wrapper">
+                <img decoding="async" class="most-read__image" loading="lazy" src="https://theintercept.com/wp-content/uploads/2018/02/hamas-nologo-1518817837.jpg?resize=440%2C440&#038;w=1200" alt="" data-recalc-dims="1" />
+              </div>
+              <div class="most-read__title">
+                Blowback: How Israel Went From Helping Create Hamas to Bombing It                <div class="most-read__author">
+                  Mehdi Hasan, Dina Sayedahmed                </div>
+              </div>
+            </a>
+          </div>
+                  <div class="most-read__item">
+            <a class="most-read__link image-hover-parent" href="http://theintercept.com/2023/11/14/gaza-israel-genocide-biden-legacy/">
+              <div class="image-hover-wrapper">
+                <img decoding="async" class="most-read__image" loading="lazy" src="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1779070879.jpg?resize=440%2C440&#038;w=1200" alt="" data-recalc-dims="1" />
+              </div>
+              <div class="most-read__title">
+                Biden’s Legacy Should Be Forever Haunted by the Names of Gaza’s Dead Children                <div class="most-read__author">
+                  Jeremy Scahill                </div>
+              </div>
+            </a>
+          </div>
+              </div>
+    </div>
+  </div>
+  <div class="most-read__end" data-name="end"></div>
+</div>
+<!-- END-BLOCK(cta)[2] -->
+
+
+
+<h2 class="wp-block-heading" id="h-apple-s-aborted-scanning-scheme">Apple’s Aborted Scanning Scheme</h2>
+
+
+
+<p>Last month, Wired <a href="https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/">reported</a> the previously unknown Heat Initiative was pressing Apple to reconsider its highly controversial 2021 proposal to have iPhones constantly scan their owners’ photos as they were uploaded to iCloud, checking to see if they were in possession of child sexual abuse material, known as CSAM. If a scan turned up CSAM, police would be alerted. While most large internet companies check files their users upload and share against a centralized database of known CSAM, Apple’s plan went a step further, proposing to check for illegal files not just on the company’s servers, but directly on its customers’ phones.</p>
+
+
+
+<p>“In the hierarchy of human privacy, your private files and photos should be your most important confidential possessions,” Green said. “We even wrote this into the U.S. Constitution.”</p>
+
+
+
+<p>The <a href="https://techcrunch.com/2021/08/18/apples-csam-detection-tech-is-under-fire-again/">backlash</a> was <a href="https://www.washingtonpost.com/opinions/2021/08/19/apple-csam-abuse-encryption-security-privacy-dangerous/">swift</a> and effective. <a href="https://www.nytimes.com/2021/08/11/opinion/apple-iphones-privacy.html">Computer scientists, cryptographers</a>,<a href="https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life"> digital rights advocates</a>, and <a href="https://www.aclu.org/news/privacy-technology/apples-new-child-safety-plan-for-iphones-isnt-so-safe">civil libertarians</a> <a href="https://www.theverge.com/2021/8/19/22632722/apple-child-abuse-scan-ios-abandon-request-privacy">immediately protested</a>, claiming the scanning would create a deeply dangerous precedent. The ability to scan users’ devices could open up iPhones around the world to snooping by authoritarian governments, hackers, <a href="https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/">corporations</a>, and security agencies. A year later, Apple reversed course and said it was <a href="https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption">shelving</a> the idea.</p>
+
+
+
+<p>Green said that efforts to push Apple to monitor the private files of iPhone owners are part of a <a href="https://9to5mac.com/2023/06/27/apple-online-safety-bill-encryption/">broader effort</a> against encryption, whether used to safeguard your photographs or speak privately with others — rights that were taken for granted before the digital revolution. “We have to have some principles about what we’ll give up to fight even heinous crime,” he said. “And these proposals give up everything.”</p>
+
+
+
+<!-- BLOCK(pullquote)[3](%7B%22componentName%22%3A%22PULLQUOTE%22%2C%22entityType%22%3A%22SHORTCODE%22%2C%22optional%22%3Atrue%7D)(%7B%22pull%22%3A%22left%22%7D) --><blockquote class="stylized pull-left" data-shortcode-type="pullquote" data-pull="left"><!-- CONTENT(pullquote)[3] -->“We have to have some principles about what we’ll give up to fight even heinous crime. And these proposals give up everything.”<!-- END-CONTENT(pullquote)[3] --></blockquote><!-- END-BLOCK(pullquote)[3] -->
+
+
+
+<p>In an unusual move justifying its position, Apple provided Wired with <a href="https://embed.documentcloud.org/documents/23933180-apple-letter-to-heat-initiative/?embed=1&amp;responsive=1&amp;title=1">a copy of the letter</a> it sent to the Heat Initiative in reply to its demands. “Scanning every user’s privately stored iCloud data would create new threat vectors for data thieves to find and exploit,” the letter read. “It would also inject the potential for a slippery slope of unintended consequences. Scanning for one type of content, for instance, opens the door for bulk surveillance and could create a desire to search other encrypted messaging systems across content types.”</p>
+
+
+
+<p>The strong encryption built into iPhones, which shields sensitive data like your photos and iMessage conversations even from Apple itself, is frequently criticized by police agencies and national security hawks as providing shelter to dangerous criminals. In a <a href="https://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-on-a-collision-course">2014 speech</a>, then-FBI Director James Comey singled out Apple’s encryption specifically, warning that “encryption threatens to lead all of us to a very dark place.”</p>
+
+
+
+<p>Some cryptographers respond that it’s impossible to filter possible criminal use of encryption without defeating the whole point of encryption in the first place: keeping out prying eyes.</p>
+
+
+
+<p>Similarly, any attempt to craft special access for police to use to view encrypted conversations when they claim they need to — a “backdoor” mechanism for law enforcement access — would be impossible to safeguard against abuse, a stance Apple now says it shares.</p>
+
+
+<!-- BLOCK(photo)[4](%7B%22componentName%22%3A%22PHOTO%22%2C%22entityType%22%3A%22RESOURCE%22%7D)(%7B%22scroll%22%3Afalse%2C%22align%22%3A%22bleed%22%2C%22bleed%22%3A%22xtra-large%22%2C%22width%22%3A%22auto%22%7D) --><figure class="img-wrap align-bleed xtra-large-bleed width-auto" style="width: auto;"><!-- CONTENT(photo)[4] --> <img fetchpriority="high" decoding="async" width="1200" height="879" class="aligncenter size-large wp-image-446193" src="https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=1024&#038;resize=1200%2C879" alt="LOS ANGELES CA - SEPTEMBER 01, 2023: Apple is facing pressure from child safety advocates and shareholders to improve its policies for policing child sexual abuse material in iCloud. Photographed here is Sarah Gardner, head of the Heat Initiative, who is leading the campaign. CREDIT: Jessica Pons for The New York Times" srcset="https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=2500 2500w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=300 300w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=768 768w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=1024&#038;resize=1200%2C879 1024w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=1536 1536w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=2048 2048w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=540 540w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=1000 1000w, https://theintercept.com/wp-content/uploads/2023/09/656A4314-Sandra-Gardner-heat-initiative.jpg?w=2400 2400w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" />
+<p class="caption overlayed">Sarah Gardner, head of the Heat Initiative, on Sept. 1, 2023, in Los Angeles.</p>
+<figcaption class="caption source pullright">Photo: Jessica Pons for the New York Times</figcaption><!-- END-CONTENT(photo)[4] --></figure><!-- END-BLOCK(photo)[4] -->
+
+
+<h2 class="wp-block-heading">Dark-Money Network</h2>
+
+
+
+<p>For an organization demanding that Apple scour the private information of its customers, the Heat Initiative discloses extremely little about itself. According to a report in the New York Times, the Heat Initiative is armed with $2 million from donors including the Children’s Investment Fund Foundation, an organization founded by British billionaire hedge fund manager and Google activist investor Chris Cohn, and the Oak Foundation, also founded by a British billionaire. The Oak Foundation previously provided $250,000 to a group attempting to <a href="https://ecpat.org/ecpat-project-beacon/">weaken end-to-end encryption protections</a> in EU legislation, according to a <a href="https://oakfnd.org/wp-content/uploads/2021/03/Oak-Foundation-Annual-Report-2020-online-version-high-res-1.pdf">2020 annual report</a>.</p>
+
+
+
+<p><!-- BLOCK(promote-related-post)[5](%7B%22componentName%22%3A%22PROMOTE_RELATED_POST%22%2C%22entityType%22%3A%22SHORTCODE%22%2C%22optional%22%3Atrue%7D)(%7B%22relatedPostNumber%22%3A2%7D) -->
+<div class="promote-related-post">
+  <a
+    class="promo-related-post__link"
+    href="https://theintercept.com/2021/06/12/iphone-ipad-erase-power-drill/"
+    data-ga-track="in_article-body"
+    data-ga-track-action="related post embed: iphone-ipad-erase-power-drill"
+    data-ga-track-label="iphone-ipad-erase-power-drill"
+  >
+          <img decoding="async" width="440" height="440" src="https://theintercept.com/wp-content/uploads/2021/06/iphone-drill-theintercept.jpg?resize=440%2C440" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />        <span class="promo-related-post__text">
+      <h2 class="promote-related-post__eyebrow">
+        Related      </h2>
+      <h3 class="promote-related-post__title">Securely Erasing Your iPhone or iPad — With a Power Drill</h3>
+    </span>
+  </a>
+</div>
+<!-- END-BLOCK(promote-related-post)[5] --><br><br>The Heat Initiative is helmed by Sarah Gardner, who joined from Thorn, an anti-child trafficking organization founded by actor Ashton Kutcher. (Earlier this month, Kutcher stepped down from Thorn following reports that he’d asked a California court for leniency in the sentencing of convicted rapist Danny Masterson.) Thorn has drawn scrutiny for its <a href="https://www.engadget.com/2019-05-31-sex-lies-and-surveillance-fosta-privacy.html">partnership with Palantir</a> and efforts to <a href="https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers">provide police with advanced facial recognition software</a> and other sophisticated surveillance tools. Critics say these technologies aren’t just uncovering trafficked children, but ensnaring adults engaging in consensual sex work.</p>
+
+
+
+<p>In an interview, Gardner declined to name the Heat Initiative’s funders, but she said the group hadn’t received any money from governmental or law enforcement organizations. “My goal is for child sexual abuse images to not be freely shared on the internet, and I’m here to advocate for the children who cannot make the case for themselves,” Gardner added. </p>
+
+
+
+<p>She said she disagreed with “privacy absolutists” — a group now apparently including Apple — who say CSAM-scanning iPhones would have imperiled user safety. “I think data privacy is vital,” she said. “I think there’s a conflation between user privacy and known illegal content.” </p>
+
+
+
+<p>Heat Initiative spokesperson Kevin Liao told The Intercept that, while the group does want Apple to re-implement its 2021 plan, it would be open to other approaches to screening everyone’s iCloud storage for CSAM. Since Apple began allowing iCloud users to protect their photos with end-to-end encryption last December, however, this objective is far trickier now than it was back in 2021; to scan iCloud images today would still require the mass-scrutinizing of personal data in some manner. As Apple put it in its response letter, “Scanning every user’s privately stored iCloud content would in our estimation pose serious unintended consequences for our users.”</p>
+
+
+
+<p>Both the Oak Foundation and Thorn were cited in <a href="https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/">a recent report revealing</a> the extent to which law enforcement and private corporate interests have influenced European efforts to weaken encryption in the name of child safety.</p>
+
+
+
+<p>Beyond those groups and a handful of names, however, there is vanishingly little information available about what the Heat Initiative is, where it came from, or who exactly is paying its bills and why. Its website, which describes the group only as a “collective effort of concerned child safety experts and advocates” — who go unnamed — contains no information about funding, staff, or leadership.</p>
+
+
+
+<p>One crucial detail, however, can be found buried in the “<a href="https://protectchildrennotabuse.org/terms-of-use/">terms of use</a>” section of the Heat Initiative’s website: “THIS WEBSITE IS OWNED AND OPERATED BY Hopewell Fund AND ITS AFFILIATES.” Other than a similarly brief citation in the site’s privacy policy, there is no other mention of the Hopewell Fund or explanation of its role. The omission is significant, given Hopewell’s widely reported role as part of a shadowy cluster of Democratic dark-money groups that funnel billions from anonymous sources into American politics.</p>
+
+
+
+<p>Hopewell is part of a labyrinthine billionaire-backed network that receives and distributes philanthropic cash while largely obscuring its origin. The groups in this network include New Venture Fund (<a href="https://www.hopewellfund.org/wp-content/uploads/2017/07/Hopewell-Fund-2015-990.pdf">which has previously paid salaries at Hopewell</a>), the Sixteen Thirty Fund, and Arabella Advisors, a for-profit company that helps administer these and other Democratic-leaning nonprofits and philanthropies. The groups have poured money into a wide variety of causes ranging from abortion access to opposing Republican tax policy, along the way spending big on elections — about $1.2 billion total in 2020 alone, <a href="https://www.nytimes.com/2022/01/29/us/politics/democrats-dark-money-donors.html">according to a New York Times investigation</a>.</p>
+
+
+
+<p>The deep pockets of this network and mystery surrounding the ultimate source of its donations have drawn comparisons — by Maguire, the Times, and others — to the Koch brothers’ network, whose influence over electoral politics from the right long outraged Democrats. <a href="https://www.theatlantic.com/politics/archive/2021/11/arabella-advisors-money-democrats/620553/">When asked by The Atlantic in 2021</a> whether she felt good “that you’re the left’s equivalent of the Koch brothers,” Sampriti Ganguli, at the time the CEO of Arabella Advisors, replied in the affirmative.</p>
+
+
+
+<!-- BLOCK(pullquote)[6](%7B%22componentName%22%3A%22PULLQUOTE%22%2C%22entityType%22%3A%22SHORTCODE%22%2C%22optional%22%3Atrue%7D)(%7B%22pull%22%3A%22right%22%7D) --><blockquote class="stylized pull-right" data-shortcode-type="pullquote" data-pull="right"><!-- CONTENT(pullquote)[6] -->“Sixteen Thirty Fund is the largest network of liberal politically active nonprofits in the country. We’re talking here about hundreds of millions of dollars.”<!-- END-CONTENT(pullquote)[6] --></blockquote><!-- END-BLOCK(pullquote)[6] -->
+
+
+
+<p>“Sixteen Thirty Fund is the largest network of liberal politically active nonprofits in the country,” Maguire of CREW told The Intercept. “We’re talking here about hundreds of millions of dollars.”</p>
+
+
+
+<p>Liao told The Intercept that Hopewell serves as the organization’s “fiscal sponsor,” an arrangement that allows tax-deductible donations to pass through a registered nonprofit on its way to an organization without tax-exempt status. Liao declined to provide a list of the Heat Initiative’s funders beyond the two mentioned by the New York Times. Owing to this fiscal sponsorship, Liao continued, “the Hopewell Fund’s board is Heat Initiative’s board.” Hopewell’s board includes <a href="https://www.hopewellfund.org/lee-bodner-full/">New Venture Fund President Lee Bodner</a> and Michael Slaby, a veteran of Barack Obama’s 2008 and 2012 campaigns and former chief technology strategist at an investment fund operated by ex-Google chair Eric Schmidt.</p>
+
+
+
+<p>When asked who exactly was leading the Heat Initiative, Liao told The Intercept that “it’s just the CEO Sarah Gardner.” According to LinkedIn, however, Lily Rhodes, also previously with Thorn, <a href="https://www.linkedin.com/in/lilyrhodes/">now works as Heat Initiative’s director of strategic operations</a>. Liao later said Rhodes and Gardner are the Heat Initiative’s only two employees. When asked to name the “concerned child safety experts and advocates” referred to on the Heat Initiative’s website, Liao declined.</p>
+
+
+
+<p>“When you take on a big corporation like Apple,” he said, “you probably don’t want your name out front.”</p>
+
+
+
+<h2 class="wp-block-heading">Hopewell’s Hopes</h2>
+
+
+
+<p>Given the stakes — nothing less than the question of whether people have an absolute right to communicate in private — the murkiness surrounding a monied pressure campaign against Apple is likely to concern privacy advocates. The Heat Initiative’s efforts also give heart to those aligned with law enforcement interests. Following the campaign’s debut, former Georgia Bureau of Investigations Special Agent in Charge Debbie Garner, who has also previously worked for <a href="https://www.vice.com/en/article/vbxxxd/unlock-iphone-ios11-graykey-grayshift-police">iPhone-hacking tech firm </a>Grayshift, hailed the Heat Initiative’s launch <a href="https://www.linkedin.com/feed/update/urn:li:activity:7103502701941948416?utm_source=share&amp;utm_medium=member_desktop">in a LinkedIn group for Homeland Security alumni</a>, encouraging them to learn more.</p>
+
+
+
+<p>The larger Hopewell network’s efforts to influence political discourse have attracted criticism and controversy in the past. In 2021, OpenSecrets, a group that tracks money in politics, reported that New Venture Fund and the Sixteen Thirty Fund were behind a nationwide Facebook ad campaign <a href="https://www.vice.com/en/article/dygyaq/docs-shadow-inc-directly-tied-to-left-wing-media-operation">pushing political messaging</a> from <a href="https://www.opensecrets.org/news/2020/05/dark-money-networks-fake-news-sites/">Courier News</a>, a <a href="https://web.archive.org/web/20201019033004/https://www.wsj.com/articles/partisan-sites-posing-as-local-news-expand-ahead-of-election-11603077119">network</a> of websites <a href="https://www.vice.com/en/article/dygyaq/docs-shadow-inc-directly-tied-to-left-wing-media-operation">designed to look like legitimate</a>, independent <a href="https://www.salon.com/2020/02/23/if-democrats-fight-right-wing-fake-news-fire-with-fire-we-all-lose/">political news outlets</a>.</p>
+
+
+
+<p>Despite its work with ostensibly progressive causes, Hopewell has taken on conservative campaigns: In 2017, Deadspin <a href="https://deadspin.com/what-the-hell-is-the-hopewell-fund-1820881123">reported</a> with bemusement an NFL proposal in which the league would donate money into a pool administered by the Hopewell Fund as part of an incentive to get players to stop protesting the national anthem.</p>
+
+
+
+<p>Past campaigns connected to Hopewell and its close affiliates have been suffused with Big Tech money. Hopewell is also the fiscal sponsor of the Economic Security Project, an organization that promotes universal basic income founded by Facebook co-founder Chris Hughes. <a href="https://www.mercurynews.com/2016/07/19/googles-secretive-and-deep-pocketed-foe-heavily-funded-by-gates-hewlett-foundations/">In 2016, SiliconBeat reported</a> that New Venture Fund, which is bankrolled in part by major donations from the Bill and Melinda Gates Foundation and William and Flora Hewlett Foundation, was behind the Google Transparency Project, an organization that publishes unflattering research relating to Google. Arabella has also helped Microsoft channel money to its causes of choice, the report noted. Billionaire eBay founder Pierre Omidyar has also provided large cash gifts to both Hopewell and New Venture Fund, according to the New York Times (Omidyar is a major funder of The Intercept).</p>
+
+
+
+<p>According to Riana Pfefferkorn, a research scholar at Stanford University’s Internet Observatory program, the existence of the Heat Initiative is ultimately the result of an “unforced error” by Apple in 2021, when it announced it was exploring using CSAM scanning for its cloud service. </p>
+
+
+
+<p>“And now they’re seeing that they can’t put the genie back in the bottle,” Pfefferkorn said. “Whatever measures they take to combat the cloud storage of CSAM, child safety orgs — and repressive governments — will remember that they’d built a tool that snoops on the user at the device level, and they’ll never be satisfied with anything less.”</p>
+  </div>
+
+  <div class="inline-donation-promo" id="third-party--article-bottom"></div>
+  
+<div class="author-footer">
+  <h2 class="font-sans font-bold text-[20px] text-body leading-[1.1] tracking-wider uppercase title-with-border my-5">
+    Contact the author:  </h2>
+  <div class="flex flex-wrap xl:flex-nowrap gap-4">
+          <div class="w-full lg:w-1/1 flex gap-4 pb-3.5">
+        <a
+          class="article-byline__avatar-link flex-shrink-0"
+          rel="author"
+          tabindex="-1"
+          href="https://theintercept.com/staff/sambiddle/"
+          data-ga-track="article navigation"
+          data-ga-track-action="author avatar click - footer byline"
+          data-ga-track-label="sambiddle"
+        >
+          <img
+            src="https://theintercept.com/wp-content/uploads/2018/04/select-Sam-1-bw-online-1523551829-120x120.jpg"
+            width="60"
+            height="60"
+            class="rounded-full overflow-hidden object-cover object-center"
+            alt="Head shot of Sam Biddle"
+          />
+        </a>
+        <div class="text-[13px] font-mono space-y-1.5">
+          <a
+            class="text-accentDynamic"
+            rel="author"
+            href="https://theintercept.com/staff/sambiddle/"
+            aria-label="Posts by Sam Biddle"
+            data-ga-track="article navigation"
+            data-ga-track-action="author click - footer byline"
+            data-ga-track-label="sambiddle"
+          >
+            Sam Biddle          </a>
+                      <a href="mailto:sam.biddle@theintercept.com" class="flex items-center gap-1.5" data-module="AuthorEmail">
+              <span class="font-icons before:content-['\2709'] text-[16px]"></span>
+              sam.biddle@&ZeroWidthSpace;theintercept.com            </a>
+          
+                      <a href="https://twitter.com/samfbiddle" class="flex items-center gap-1.5">
+              <span class="font-icons before:content-['t'] text-[16px]"></span>
+              @samfbiddle            </a>
+                  </div>
+      </div>
+      </div>
+
+      <div class="bg-[#FAFAFA] mt-10 -mx-5 sm:-mx-10 xl:-mx-5 pt-5 pb-10 px-5 sm:px-10 xl:px-5">
+      <h2 class="font-sans font-bold text-[20px] text-body leading-[1.1] tracking-wider uppercase">
+        Additional Credits:      </h2>
+
+      
+<div class="mt-4">
+  <div class="flex gap-4 mb-3">
+          <img
+        src="https://theintercept.com/wp-content/uploads/2021/01/Ken-Klippenstein-1-80x80.jpg"
+        width="40"
+        height="40"
+        class="rounded-full overflow-hidden object-cover object-center"
+        alt="Head shot of Ken Klippenstein"
+      />
+      </div>
+
+  <p class="text-[#666] text-sm font-mono not-italic">
+    <span>Additional Reporting:</span> 
+
+          <a href="https://theintercept.com/staff/kenklippenstein/">Ken Klippenstein</a>      </p>
+</div>
+      
+      
+          </div>
+  </div>
+<section class="related-posts mt-10">
+  <h2 class="font-sans font-bold text-[20px] text-body leading-[1.1] tracking-wider uppercase title-with-border">
+    Related  </h2>
+  <div class="grid grid-cols-1 gap-10 xl:grid-cols-2 mt-5 max-w-[880px]">
+          <article class="content-card content-card--small content-card--small-related" id="post-385441">
+  <a
+    class="content-card__link"
+    href="https://theintercept.com/2022/02/08/cellebrite-phone-hacking-government-agencies/"
+    data-ga-track="in_article-footer"
+    data-ga-track-action="related story apple-encryption-iphone-heat-initiative"
+    data-ga-track-label="cellebrite-phone-hacking-government-agencies"
+  >
+          <div class="content-card__image">
+        <img width="440" height="440" src="https://theintercept.com/wp-content/uploads/2022/02/2CNTWMC-cellebrite-The-Intercept.jpg?resize=440%2C440" class="attachment-thumbnail size-thumbnail wp-post-image" alt="2CNTWMC SIM cards using for Cellebrite UFED TOUCH, a device for the data extraction from mobile device such as mobile phone or smart phone, are seen at Tokyo office of Japanese electronics maker Sun Corp. during a photo opportunity in Tokyo March 30, 2016.  Israel&#039;s Cellebrite, a subsidiary of Japan&#039;s Sun Corp and a provider of mobile forensic software, is helping the U.S. Federal Bureau of Investigation&#039;s attempt to unlock an iPhone used by one of the San Bernardino, California shooters, the Yedioth Ahronoth newspaper reported on March 23, 2016. REUTERS/Issei Kato" loading="lazy" />      </div>
+    
+    <div class="content-card__content">
+      <h3 class="content-card__title">
+        Use of Controversial Phone-Cracking Tool Is Spreading Across Federal Government      </h3>
+    </div>
+  </a>
+</article>
+
+          <article class="content-card content-card--small content-card--small-related" id="post-359353">
+  <a
+    class="content-card__link"
+    href="https://theintercept.com/2021/06/12/iphone-ipad-erase-power-drill/"
+    data-ga-track="in_article-footer"
+    data-ga-track-action="related story apple-encryption-iphone-heat-initiative"
+    data-ga-track-label="iphone-ipad-erase-power-drill"
+  >
+          <div class="content-card__image">
+        <img width="440" height="440" src="https://theintercept.com/wp-content/uploads/2021/06/iphone-drill-theintercept.jpg?resize=440%2C440" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />      </div>
+    
+    <div class="content-card__content">
+      <h3 class="content-card__title">
+        Securely Erasing Your iPhone or iPad — With a Power Drill      </h3>
+    </div>
+  </a>
+</article>
+
+          <article class="content-card content-card--small content-card--small-related" id="post-61380">
+  <a
+    class="content-card__link"
+    href="https://theintercept.com/2016/04/20/repetitive-encryption-tirades-could-be-giving-way-to-debate-over-lawful-hacking/"
+    data-ga-track="in_article-footer"
+    data-ga-track-action="related story apple-encryption-iphone-heat-initiative"
+    data-ga-track-label="repetitive-encryption-tirades-could-be-giving-way-to-debate-over-lawful-hacking"
+  >
+          <div class="content-card__image">
+        <img width="440" height="440" src="https://theintercept.com/wp-content/uploads/2016/04/GettyImages-522428452-e14611647067391.jpg?resize=440%2C440" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />      </div>
+    
+    <div class="content-card__content">
+      <h3 class="content-card__title">
+        Repetitive Encryption Tirades Could Be Giving Way to Debate Over &#8220;Lawful Hacking&#8221;      </h3>
+    </div>
+  </a>
+</article>
+
+          <article class="content-card content-card--small content-card--small-related" id="post-52403">
+  <a
+    class="content-card__link"
+    href="https://theintercept.com/2016/02/26/fbi-vs-apple-post-crypto-wars/"
+    data-ga-track="in_article-footer"
+    data-ga-track-action="related story apple-encryption-iphone-heat-initiative"
+    data-ga-track-label="fbi-vs-apple-post-crypto-wars"
+  >
+          <div class="content-card__image">
+        <img width="440" height="440" src="https://theintercept.com/wp-content/uploads/2016/02/GettyImages-459271274.jpg?resize=440%2C440" class="attachment-thumbnail size-thumbnail wp-post-image" alt="This photo taken on November 19, 2014, shows an internet server with its cables on display at  the World Internet Conference in the ancient town of Wuzhen, in east China&#039;s Zhejiang province, where the conference takes place.  A top Beijing official called for stronger management of the Internet at a government-organised conference condemned by rights campaigners as a Chinese attempt to promote its online controls globally.     AFP PHOTO / JOHANNES EISELE        (Photo credit should read JOHANNES EISELE/AFP/Getty Images)" loading="lazy" />      </div>
+    
+    <div class="content-card__content">
+      <h3 class="content-card__title">
+        FBI vs. Apple Establishes a New Phase of the Crypto Wars      </h3>
+    </div>
+  </a>
+</article>
+
+      </div>
+</section>
+
+<section class="related-posts mt-10 pt-5">
+  <h2 class="font-sans font-bold text-[20px] text-body mb-5 leading-[1.1] tracking-wider uppercase title-with-border">
+    Latest Stories  </h2>
+  <div class="space-y-[50px]">
+    
+<article class="wide-story-card">
+  <a href="https://theintercept.com/2023/11/18/aipac-congress-israel-trips-donors/" class="group flex flex-col items-start sm:flex-row gap-4 sm:gap-10">
+    <div class="flex-1 xl:group-hover:bg-accentLight xl:group-focus:bg-accentLight">
+      <img width="768" height="384" src="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?fit=768%2C384" class="w-full xl:group-hover:opacity-90 xl:group-focus:opacity-90 object-cover aspect-[2/1] wp-post-image" alt="US Vice President Mike Pence speaks during the American Israel Public Affairs Committee (AIPAC) 2020 Policy Conference in Washington, DC, March 2, 2020. (Photo by SAUL LOEB / AFP) (Photo by SAUL LOEB/AFP via Getty Images)" decoding="async" loading="lazy" srcset="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=3636 3636w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=300 300w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=768 768w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=1024 1024w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=1536 1536w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=2048 2048w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=540 540w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=1000 1000w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1204738123.jpg?w=2400 2400w" sizes="(max-width: 768px) 100vw, 768px" />    </div>
+
+    <div class="wide-story-card__text flex flex-col xl:flex-row gap-4 xl:gap-10 flex-1 text-summaryGrayDark xl:text-summaryGrayLight xl:group-hover:text-accentLight xl:group-focus:text-accentLight">
+      <div class="flex-1 flex flex-col gap-2.5">
+        <div>
+                    <h3 class="text-body xl:group-hover:text-accentLight xl:group-focus:text-accentLight font-bold text-xl leading-[1.1] m-0">Meet the Secret Donors Who Fund AIPAC’s Israel Trips for Congress</h3>
+        </div>
+
+        <div class="wide-story-card__byline font-mono text-[13px] leading-[1.2]">
+          <p class="text-accentDark xl:text-accentLight not-italic inline-block">Murtaza Hussain</p>
+          <span>- <time datetime="2023-11-18 06:00:00">6:00 am</time></span>
+        </div>
+      </div>
+
+      <p class="flex-1 font-serif text-base tracking-[0.01em] leading-6">An unredacted 2019 tax filing reveals the donors to AIPAC’s charity arm — some of whom give to other hawkish, pro-Israel causes.</p>
+    </div>
+  </a>
+</article>
+
+<article class="wide-story-card">
+  <a href="https://theintercept.com/2023/11/17/public-defender-gaza-legal-aid-bronx-defenders/" class="group flex flex-col items-start sm:flex-row gap-4 sm:gap-10">
+    <div class="flex-1 xl:group-hover:bg-accentLight xl:group-focus:bg-accentLight">
+      <img width="768" height="384" src="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?fit=768%2C384" class="w-full xl:group-hover:opacity-90 xl:group-focus:opacity-90 object-cover aspect-[2/1] wp-post-image" alt="NEW YORK, UNITED STATES - 2023/11/09: A protester waves a Palestinian flag as others march past during a student walkout calling for a ceasefire between Israel and Hamas. Since October 7, the Israeli army&#039;s bombardment of the Palestinian enclave, in retaliation for the Hamas attack on Israel that killed over 1,400 people, has seen thousands of buildings razed to the ground, more than 10,000 people killed and 1.4 million displaced whilst Gaza remains besieged. (Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images)" decoding="async" loading="lazy" srcset="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=3000 3000w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=300 300w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=768 768w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=1024 1024w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=1536 1536w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=2048 2048w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=540 540w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=1000 1000w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1775223672.jpg?w=2400 2400w" sizes="(max-width: 768px) 100vw, 768px" />    </div>
+
+    <div class="wide-story-card__text flex flex-col xl:flex-row gap-4 xl:gap-10 flex-1 text-summaryGrayDark xl:text-summaryGrayLight xl:group-hover:text-accentLight xl:group-focus:text-accentLight">
+      <div class="flex-1 flex flex-col gap-2.5">
+        <div>
+                    <h3 class="text-body xl:group-hover:text-accentLight xl:group-focus:text-accentLight font-bold text-xl leading-[1.1] m-0">Public Defenders Get Restraining Order to Block Their Own Union From Voting on Gaza Statement</h3>
+        </div>
+
+        <div class="wide-story-card__byline font-mono text-[13px] leading-[1.2]">
+          <p class="text-accentDark xl:text-accentLight not-italic inline-block">Akela Lacy</p>
+          <span>- <time datetime="2023-11-17 21:22:31">Nov. 17</time></span>
+        </div>
+      </div>
+
+      <p class="flex-1 font-serif text-base tracking-[0.01em] leading-6">In a leaked tape of an all-staff meeting, the head of New York’s Legal Aid Society also said four law firms had threatened to pull funding over the statement.</p>
+    </div>
+  </a>
+</article>
+
+<article class="wide-story-card">
+  <a href="https://theintercept.com/2023/11/17/pentagon-audit-failed/" class="group flex flex-col items-start sm:flex-row gap-4 sm:gap-10">
+    <div class="flex-1 xl:group-hover:bg-accentLight xl:group-focus:bg-accentLight">
+      <img width="768" height="384" src="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?fit=768%2C384" class="w-full xl:group-hover:opacity-90 xl:group-focus:opacity-90 object-cover aspect-[2/1] wp-post-image" alt="ARLINGTON, VIRGINIA - OCTOBER 19: Pentagon Press Secretary Air Force Brig. Gen. Pat Ryder holds a press conference at the Pentagon on October 19, 2023 in Arlington, Virginia. Ryder spoke on the Israel–Hamas war, U.S. military aid to Israel and the recent drone attacks on U.S. military installations in the middle east. Ryder reaffirmed that the recent explosion at the Al-Ahli Hospital was a result from an errant rocket fired from within Gaza and not from an Israeli airstrike. (Photo by Kevin Dietsch/Getty Images)" decoding="async" loading="lazy" srcset="https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=3922 3922w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=300 300w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=768 768w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=1024 1024w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=1536 1536w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=2048 2048w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=540 540w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=1000 1000w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=2400 2400w, https://theintercept.com/wp-content/uploads/2023/11/GettyImages-1745138996.jpg?w=3600 3600w" sizes="(max-width: 768px) 100vw, 768px" />    </div>
+
+    <div class="wide-story-card__text flex flex-col xl:flex-row gap-4 xl:gap-10 flex-1 text-summaryGrayDark xl:text-summaryGrayLight xl:group-hover:text-accentLight xl:group-focus:text-accentLight">
+      <div class="flex-1 flex flex-col gap-2.5">
+        <div>
+                    <h3 class="text-body xl:group-hover:text-accentLight xl:group-focus:text-accentLight font-bold text-xl leading-[1.1] m-0">Pentagon Fails Sixth Audit in a Row, Claiming “Progress Sort of Beneath the Surface”</h3>
+        </div>
+
+        <div class="wide-story-card__byline font-mono text-[13px] leading-[1.2]">
+          <p class="text-accentDark xl:text-accentLight not-italic inline-block">Ken Klippenstein</p>
+          <span>- <time datetime="2023-11-17 17:06:21">Nov. 17</time></span>
+        </div>
+      </div>
+
+      <p class="flex-1 font-serif text-base tracking-[0.01em] leading-6">The Defense Department passed the same paltry number of sub-audits as it did last year — and would not say if would ever see a clean audit.</p>
+    </div>
+  </a>
+</article>
+  </div>
+</section>
+
+
+<a
+  class="mt-14 mb-10 -mx-5 sm:max-xl:-mx-10 py-7 px-5 sm:max-xl:px-10 bg-accentLight !text-white font-mono text-lg sm:text-base uppercase flex items-center gap-5 xl:w-3/4"
+  data-analytics-id="end-of-article-newsletter-form"
+  href="https://twitter.com/TheIntercept"
+  target="_blank"
+  data-ga-track="join_conversation"
+  data-ga-track-action="click"
+  data-ga-track-label="apple-encryption-iphone-heat-initiative"
+>
+  <span class="icon-TI_Twitter text-2xl sm:text-xl" aria-label="Twitter Logo"></span>
+  <span> Join The Conversation</span>
+</a>
+</div>
+
+
+<section
+      id="newsletter-article-bottom"
+    class="bg-accentLight xl:bg-transparent px-5 pt-10 pb-5 -mx-5 xl:mx-0 !mx-0 xl:!-mx-10"
+    data-module="Newsletter"
+    data-module-after-title="Thanks for Signing Up!"
+    data-module-after-subtitle="Will you take the next step and become a member of The Intercept?"
+  >
+  <div
+    class="newsletter-block__wrapper border-white xl:border-accentLight border-[10px] relative before:bg-accentLight xl:before:bg-white"
+  >
+    <div class="newsletter-block__content -my-2.5 px-[30px] z-10 relative">
+      <div class="text-white xl:text-accentLight w-[100px] mb-2.5">
+        <svg viewBox="0 0 140 50" aria-label="The Intercept" fill="currentColor" class=""><path d="M51.731 30.458c1.246 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766M40.789 8.601c1.247 0 2.265 1.424 2.265 3.206l-4.606.559c.127-2.442.891-3.765 2.341-3.765m51.985 21.857c1.247 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766m35.521 16.005H140v-2.188h-11.705v2.188zm-21.653-14.784c.279-.101.61-.178 1.272-.178 2.544 0 4.275 1.68 4.275 5.42 0 3.104-1.705 5.216-4.173 5.216a4.68 4.68 0 0 1-1.374-.229V31.679zm-37.99 1.527h3.18v-4.097c-.61-.254-1.017-.356-1.603-.356-.992 0-2.188.662-3.435 1.654l-.916.713v-2.367h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h9.313v-.865l-2.367-.763v-9.39c.611-.229 1.68-.407 1.934-.407l.84 1.374zm11.832-4.453c-3.995 0-8.372 2.494-8.372 8.066 0 4.631 3.079 6.82 6.412 6.82 1.146 0 2.469-.153 4.402-.967l2.341-.993-.33-.916c-.586.229-1.4.382-2.545.382-3.155 0-5.547-1.883-5.547-6.132 0-2.952 1.705-4.555 3.257-4.555.153 0 .331.025.484.102l1.399 2.646h2.926v-3.613c-1.17-.433-2.773-.84-4.427-.84m43.308-2.264h-1.171l-5.521 3.18v1.069l1.857.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.33.076-.916.101-1.246.101-1.858 0-3.079-.687-3.079-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm-83.664 0h-1.171l-5.522 3.18v1.069l1.858.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.331.076-.916.101-1.247.101-1.857 0-3.078-.687-3.078-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm18.498 8.804v-.407c0-2.189-1.476-6.133-6.437-6.133-3.766 0-7.558 2.494-7.558 8.066 0 4.555 3.334 6.82 6.972 6.82 1.069 0 2.621-.178 4.428-.967l2.264-.993-.33-.916c-.586.229-1.4.382-2.596.382-2.799 0-5.878-1.628-6.005-5.852h9.262zm41.044 0v-.407c0-2.189-1.476-6.133-6.438-6.133-3.766 0-7.557 2.494-7.557 8.066 0 4.555 3.333 6.82 6.972 6.82 1.068 0 2.62-.178 4.427-.967l2.265-.993-.331-.916c-.585.229-1.4.382-2.596.382-2.798 0-5.877-1.628-6.005-5.852h9.263zM47.685 13.435v-.407c0-2.188-1.476-6.132-6.438-6.132-3.766 0-7.557 2.493-7.557 8.066 0 4.555 3.333 6.819 6.972 6.819 1.069 0 2.621-.178 4.427-.967l2.265-.992-.331-.916c-.585.229-1.399.382-2.595.382-2.799 0-5.878-1.629-6.005-5.853h9.262zM6.438 25.598v15.725l-2.468.942v.992h10.865v-.992l-2.468-.942V25.598l2.468-.942v-.992H3.97v.992l2.468.942zm25.343 16.031V33.74c0-2.926-1.094-4.987-4.045-4.987-1.222 0-2.138.382-3.334.916l-2.163.942v-1.858h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h8.804v-.865l-1.858-.763v-9.924c.458-.127 1.247-.204 1.833-.204 1.577 0 2.875.865 2.875 3.461v6.667l-1.858.763v.865h8.804v-.865l-2.112-.763zm74.861-12.876h-.662l-6.285 1.272v.967l2.112.637v15.598l-2.112.763v.865h9.567v-.865l-2.62-.763v-3.588h.992c5.954 0 9.287-3.614 9.287-8.626 0-4.301-3.002-6.26-5.241-6.26-.891 0-2.443.535-3.868 1.247l-.967.483h-.203v-1.73zm-75.115-8.982v-7.888c0-2.926-1.094-4.987-4.046-4.987-1.221 0-2.137.381-3.333.916l-2.163.941V0h-.662l-4.911 1.807H0v4.911h2.316l.941-3.028h3.181v15.776l-2.468.941v.993h10.61v-.993l-2.213-.941V3.69h4.783v16.081l-1.857.763v.866h8.55v-.866l-1.858-.763V9.873c.458-.127 1.247-.229 1.832-.229 1.578 0 2.875.865 2.875 3.46v6.667l-1.857.763v.866h8.804v-.866l-2.112-.763z"/></svg>
+      </div>
+
+      <h2 class="!text-[2rem] sm:!text-[3.5rem] leading-[1.06] sm:leading-none mb-3">
+				<span data-name="title" class="text-black">
+					            Join Our Newsletter          				</span>
+                  <span class="text-white xl:text-accentDynamic block" data-name="subtitle">
+						              Original reporting. Fearless journalism. Delivered to you.            					</span>
+              </h2>
+
+      <form
+        aria-label="Newsletter"
+        data-analytics-id="inline-homepage-newsletter-form"
+        class="group is-expanded"
+        data-name="form"
+        data-action="handleSubmit"
+        data-action-type="submit"
+      >
+        <input
+          class="font-mono w-full bg-transparent text-white xl:text-accentLight placeholder-white xl:placeholder-accentLight text-[14px] leading-[60px] py-0 px-5 border !border-white xl:!border-accentLight/30 xl:focus:!border-accentLight xl:hover:!border-accentLight max-w-[315px] group-[.is-subscribed]:!hidden"
+          type="email"
+          data-name="email"
+          data-action="handleInputFocus"
+          data-action-type="focus"
+          required
+          placeholder="Enter your email address" aria-label="Enter your email address"
+          name="email"
+        />
+
+        <div
+          class="hidden group-[.is-expanded]:flex group-[.is-subscribed]:!hidden gap-5 pt-2px items-center my-[34px]"
+          data-name="checkboxWrapper"
+        >
+          <div class="relative border !border-white xl:!border-accentLight">
+            <input
+              class="w-8 h-8 !opacity-0 peer "
+              type="checkbox"
+              data-name="checkbox"
+              name="agreedToPrivacyPolicy"
+              id=""
+              required
+            />
+            <div
+              class="peer-checked:before:content-['\2713'] text-white xl:text-accentLight text-[20px] flex justify-center items-center font-icons absolute inset-0 pointer-events-none"></div>
+          </div>
+          <label
+            class="text-[20px] text-black font-bold font-sans leading-none align-middle [&_p]:mb-0 [&_a]:!text-white [&_a]:xl:!text-accentLight [&_a]:!no-underline tracking-[-0.2px]"
+            for=""
+          >
+                      </label>
+        </div>
+
+        <div class="hidden group-[.is-expanded]:flex group-[.is-subscribed]:!hidden mt-2.5">
+          <button
+            type="submit"
+            class="relative h-[60px] px-5 border border-white xl:border-accentLight w-full items-center text-white xl:text-accentLight text-left font-sans text-[20px] font-bold tracking-[-0.2px] disabled:opacity-30 max-w-[315px]"
+            disabled
+            data-name="submit"
+          >
+            I&#039;m in            <span
+              class="before:content-['\27f6'] text-[22px] leading-none vertical-middle ml-4 font-normal not-italic mt-[-5px]"></span>
+          </button>
+        </div>
+
+        <a
+          href="https://join.theintercept.com/donate/now/?source=web_intercept_block"
+          class="hidden group-[.is-subscribed]:inline-flex relative h-[60px] mt-[34px] px-5 border border-white xl:border-accentLight w-full items-center text-white xl:text-accentLight text-left font-sans text-[20px] font-bold tracking-[-0.2px] disabled:opacity-30 max-w-[315px]"
+        >
+          Become a Member          <span
+            class="before:content-['\27f6'] text-[22px] leading-none vertical-middle ml-4 font-normal not-italic mt-[-5px]"></span>
+        </a>
+      </form>
+
+      <small class="font-sans text-xs text-white xl:text-accentDynamic block mt-4 xl:-mr-1.5 xl:-mb-3.5 leading-none max-w-[325px]">By signing up, I agree to receive emails from The Intercept and to the <a class="font-bold !text-[inherit]" href="/privacy-policy/">Privacy Policy</a> and <a class="font-bold !text-[inherit]" href="https://www.firstlookinstitute.org/terms-of-use">Terms of Use</a>.</small>
+    </div>
+  </div>
+
+  </section>
+    </div>
+  </div>
+</article>
+</main>
+
+
+</div>
+
+
+<footer id="colophon" class="site-footer font-mono py-10 px-5 sm:px-10 xl:px-0 bg-concrete" role="contentinfo">
+  <div class="wrapper">
+    <div class="flex flex-col xl:flex-row flex-wrap">
+      <div class="xl:w-1/2 mb-10 ml-[-3px]">
+        <a href="https://theintercept.com/" class="w-[8.75rem] block text-body">
+          <svg viewBox="0 0 140 50" aria-label="The Intercept" fill="currentColor" class=""><path d="M51.731 30.458c1.246 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766M40.789 8.601c1.247 0 2.265 1.424 2.265 3.206l-4.606.559c.127-2.442.891-3.765 2.341-3.765m51.985 21.857c1.247 0 2.264 1.425 2.264 3.206l-4.605.56c.127-2.443.89-3.766 2.341-3.766m35.521 16.005H140v-2.188h-11.705v2.188zm-21.653-14.784c.279-.101.61-.178 1.272-.178 2.544 0 4.275 1.68 4.275 5.42 0 3.104-1.705 5.216-4.173 5.216a4.68 4.68 0 0 1-1.374-.229V31.679zm-37.99 1.527h3.18v-4.097c-.61-.254-1.017-.356-1.603-.356-.992 0-2.188.662-3.435 1.654l-.916.713v-2.367h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h9.313v-.865l-2.367-.763v-9.39c.611-.229 1.68-.407 1.934-.407l.84 1.374zm11.832-4.453c-3.995 0-8.372 2.494-8.372 8.066 0 4.631 3.079 6.82 6.412 6.82 1.146 0 2.469-.153 4.402-.967l2.341-.993-.33-.916c-.586.229-1.4.382-2.545.382-3.155 0-5.547-1.883-5.547-6.132 0-2.952 1.705-4.555 3.257-4.555.153 0 .331.025.484.102l1.399 2.646h2.926v-3.613c-1.17-.433-2.773-.84-4.427-.84m43.308-2.264h-1.171l-5.521 3.18v1.069l1.857.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.33.076-.916.101-1.246.101-1.858 0-3.079-.687-3.079-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm-83.664 0h-1.171l-5.522 3.18v1.069l1.858.178v10.076c0 1.807 1.425 2.647 3.435 2.647.942 0 2.697-.306 3.868-.662l2.035-.636-.178-.941c-.331.076-.916.101-1.247.101-1.857 0-3.078-.687-3.078-2.977v-7.455l4.351.229v-2.163h-4.351v-2.646zm18.498 8.804v-.407c0-2.189-1.476-6.133-6.437-6.133-3.766 0-7.558 2.494-7.558 8.066 0 4.555 3.334 6.82 6.972 6.82 1.069 0 2.621-.178 4.428-.967l2.264-.993-.33-.916c-.586.229-1.4.382-2.596.382-2.799 0-5.878-1.628-6.005-5.852h9.262zm41.044 0v-.407c0-2.189-1.476-6.133-6.438-6.133-3.766 0-7.557 2.494-7.557 8.066 0 4.555 3.333 6.82 6.972 6.82 1.068 0 2.62-.178 4.427-.967l2.265-.993-.331-.916c-.585.229-1.4.382-2.596.382-2.798 0-5.877-1.628-6.005-5.852h9.263zM47.685 13.435v-.407c0-2.188-1.476-6.132-6.438-6.132-3.766 0-7.557 2.493-7.557 8.066 0 4.555 3.333 6.819 6.972 6.819 1.069 0 2.621-.178 4.427-.967l2.265-.992-.331-.916c-.585.229-1.399.382-2.595.382-2.799 0-5.878-1.629-6.005-5.853h9.262zM6.438 25.598v15.725l-2.468.942v.992h10.865v-.992l-2.468-.942V25.598l2.468-.942v-.992H3.97v.992l2.468.942zm25.343 16.031V33.74c0-2.926-1.094-4.987-4.045-4.987-1.222 0-2.138.382-3.334.916l-2.163.942v-1.858h-.661l-6.285 1.272v.967l2.112.637v10l-2.112.763v.865h8.804v-.865l-1.858-.763v-9.924c.458-.127 1.247-.204 1.833-.204 1.577 0 2.875.865 2.875 3.461v6.667l-1.858.763v.865h8.804v-.865l-2.112-.763zm74.861-12.876h-.662l-6.285 1.272v.967l2.112.637v15.598l-2.112.763v.865h9.567v-.865l-2.62-.763v-3.588h.992c5.954 0 9.287-3.614 9.287-8.626 0-4.301-3.002-6.26-5.241-6.26-.891 0-2.443.535-3.868 1.247l-.967.483h-.203v-1.73zm-75.115-8.982v-7.888c0-2.926-1.094-4.987-4.046-4.987-1.221 0-2.137.381-3.333.916l-2.163.941V0h-.662l-4.911 1.807H0v4.911h2.316l.941-3.028h3.181v15.776l-2.468.941v.993h10.61v-.993l-2.213-.941V3.69h4.783v16.081l-1.857.763v.866h8.55v-.866l-1.858-.763V9.873c.458-.127 1.247-.229 1.832-.229 1.578 0 2.875.865 2.875 3.46v6.667l-1.857.763v.866h8.804v-.866l-2.112-.763z"/></svg>
+        </a>
+      </div>
+      <nav class="xl:w-1/2 xl:flex xl:gap-5 mt-[5px] justify-end">
+        <div class="flex-1"><ul id="menu-footer-1" class="footer-menu"><li id="menu-item-427773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427773"><a title="About" href="https://theintercept.com/about/" data-ga-track="navigation" data-ga-track-action="click" data-ga-track-label="About">About</a></li>
+<li id="menu-item-427774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427774"><a href="https://theintercept.com/policies-and-reports/" data-ga-track="navigation" data-ga-track-action="click">Policies And Reports</a></li>
+<li id="menu-item-427777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427777"><a href="https://theintercept.com/source/" data-ga-track="navigation" data-ga-track-action="click">Become a Source</a></li>
+<li id="menu-item-427778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427778"><a href="https://theintercept.com/newsletter/?campaign=web_footer" data-ga-track="navigation" data-ga-track-action="click">Join Newsletter</a></li>
+<li id="menu-item-427779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427779"><a href="https://join.theintercept.com/donate/now/?source=web_intercept_20221129_footer_nov-campaign-launch" data-ga-track="navigation" data-ga-track-action="click">Become A Member</a></li>
+</ul></div>        <div class="flex-1"><ul id="menu-footer-2" class="footer-menu"><li id="menu-item-427780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427780"><a href="https://theintercept.com/terms-use/" data-ga-track="navigation" data-ga-track-action="click">Terms of Use</a></li>
+<li id="menu-item-427781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427781"><a href="https://theintercept.com/privacy-policy/" data-ga-track="navigation" data-ga-track-action="click">Privacy</a></li>
+<li id="menu-item-427782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427782"><a href="/source/#securedrop" data-ga-track="navigation" data-ga-track-action="click">SECUREDROP</a></li>
+</ul></div>      </nav>
+
+              <div class="mt-10 xl:-mt-6">
+          <p class="text-[10px] uppercase leading-3 tracking-widest text-light-copy my-2.5">
+            © The Intercept. All rights reserved          </p>
+        </div>
+          </div>
+
+  </div>
+</footer>
+
+</div>
+
+<script type="text/javascript" src="https://theintercept.com/wp-content/mu-plugins/jetpack-12.8/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false&amp;ver=132249e245926ae3e188" id="jetpack-photon-js"></script>
+<script type="text/javascript" src="https://theintercept.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://theintercept.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://theintercept.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://theintercept.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" id="wp-parsely-loader-js-before">
+/* <![CDATA[ */
+window.wpParselySiteId = 'theintercept.com';
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://theintercept.com/wp-content/client-mu-plugins/wp-parsely/build/loader.js?ver=1d54726e91ce976b3e82" id="wp-parsely-loader-js"></script>
+<script type="text/javascript" data-parsely-site="theintercept.com" src="https://cdn.parsely.com/keys/theintercept.com/p.js?ver=3.8.4" id="parsely-cfg"></script>
+<script type="text/javascript" src="https://theintercept.com/wp-content/themes/intercept/js/app.js?ver=8e3789088313edc1535e169afbd6e5c8" id="intercept-js"></script>
+<script defer type="text/javascript" src="https://stats.wp.com/e-202346.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'220955519',post:'446051',tz:'-5',srv:'theintercept.com',hp:'vip',j:'1:12.8.1'} ]);
+_stq.push([ "clickTrackerInit", "220955519", "446051" ]);
+/* ]]> */
+</script>
+
+</div>
+
+<div class="ThirdPartySlot" id="third-party--viewport-top"></div>
+<div class="ThirdPartySlot" id="third-party--viewport-takeover"></div>
+<div class="ThirdPartySlot" id="third-party--viewport-bottom"></div>
+
+<script>
+    window.userData_ = {
+    countryCode: 'US',
+    originatingReferrer: '',
+    privacyEnhanced: false,
+    referringPostId: '446051',
+    analytics: {
+      title: 'Group Attacking Apple Encryption Linked to Dark-Money Network',
+      language: 'en',
+      google: {
+        verticals: ["national-security","technology"],
+        pageType: 'Article Post',
+        tags: [],
+        wordCountBucket: '2000-2999',
+      }
+    }
+  }
+  </script>
+
+</body>
+</html>

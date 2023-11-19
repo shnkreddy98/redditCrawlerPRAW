@@ -1,0 +1,721 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcParentdist='https://www.pewresearch.org/wp-content/themes/prc_parent/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcParentdist='https://www.pewresearch.org/wp-content/themes/prc_parent/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><script type="text/javascript">/* wpack.io publicPath */window.__wpackIoprcBlocksLibrarydist='https://www.pewresearch.org/wp-content/plugins/prc-block-library-deprecated/dist/';</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<!--
+	#    _____                  _____                                     _        _____              _
+	#   |  __ \                |  __ \                                   | |      / ____|            | |
+	#   | |__) |___ __      __ | |__) | ___  ___   ___   __ _  _ __  ___ | |__   | |      ___  _ __  | |_  ___  _ __
+	#   |  ___// _ \\ \ /\ / / |  _  / / _ \/ __| / _ \ / _` || '__|/ __|| '_ \  | |     / _ \| '_ \ | __|/ _ \| '__|
+	#   | |   |  __/ \ V  V /  | | \ \|  __/\__ \|  __/| (_| || |  | (__ | | | | | |____|  __/| | | || |_|  __/| |
+	#   |_|    \___|  \_/\_/   |_|  \_\\___||___/ \___| \__,_||_|   \___||_| |_|  \_____|\___||_| |_| \__|\___||_|
+	#
+	#   Github: https://github.com/pewresearch
+	#   Version: 4.0.19	#
+	-->
+		<!-- CookiePro Cookies Consent Notice start for pewresearch.org -->
+<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c789a4ed-45e3-4e88-b4f0-75c04afba451" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- CookiePro Cookies Consent Notice end for pewresearch.org -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.13 (Yoast SEO v20.13) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Eliminating Electoral College favored by majority of Americans | Pew Research Center</title>
+	<meta name="description" content="65% of U.S. adults say the way the president is elected should be changed so that the winner of the popular vote nationwide wins the presidency." />
+	<link rel="canonical" href="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Majority of Americans continue to favor moving away from Electoral College" />
+	<meta property="og:description" content="65% of U.S. adults say the way the president is elected should be changed so that the winner of the popular vote nationwide wins the presidency." />
+	<meta property="og:url" content="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/" />
+	<meta property="og:site_name" content="Pew Research Center" />
+	<meta property="article:publisher" content="https://www.facebook.com/pewresearch" />
+	<meta property="article:modified_time" content="2023-09-25T17:56:05+00:00" />
+	<meta property="og:image" content="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_feature.png?w=1200&h=628&crop=1" />
+	<meta property="og:image:width" content="1280" />
+	<meta property="og:image:height" content="720" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Majority of Americans continue to favor moving away from Electoral College" />
+	<meta name="twitter:description" content="65% of U.S. adults say the way the president is elected should be changed so that the winner of the popular vote nationwide wins the presidency." />
+	<meta name="twitter:image" content="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_feature.png?w=1200&h=628&crop=1" />
+	<meta name="twitter:site" content="@pewresearch" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="5 minutes" />
+	<meta name="twitter:label2" content="Written by" />
+	<meta name="twitter:data2" content="Jocelyn Kiley" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/","url":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/","name":"Eliminating Electoral College favored by majority of Americans | Pew Research Center","isPartOf":{"@id":"https://www.pewresearch.org/#website"},"primaryImageOfPage":{"@id":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/#primaryimage"},"image":{"@id":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/#primaryimage"},"thumbnailUrl":"https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_topic.png","datePublished":"2023-09-25T17:51:25+00:00","dateModified":"2023-09-25T17:56:05+00:00","description":"65% of U.S. adults say the way the president is elected should be changed so that the winner of the popular vote nationwide wins the presidency.","breadcrumb":{"@id":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/#primaryimage","url":"https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_topic.png","contentUrl":"https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_topic.png","width":1400,"height":789},{"@type":"BreadcrumbList","@id":"https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.pewresearch.org/"},{"@type":"ListItem","position":2,"name":"Research Topics","item":"https://www.pewresearch.org/topics-categorized"},{"@type":"ListItem","position":3,"name":"Politics &amp; Policy","item":"https://www.pewresearch.org/topic/politics-policy/"},{"@type":"ListItem","position":4,"name":"U.S. Elections &amp; Voters","item":"https://www.pewresearch.org/topic/politics-policy/us-elections-voters/"},{"@type":"ListItem","position":5,"name":"Voters &amp; Voting","item":"https://www.pewresearch.org/topic/politics-policy/us-elections-voters/voters-voting/"},{"@type":"ListItem","position":6,"name":"Election System &amp; Voting Process"}]},{"@type":"WebSite","@id":"https://www.pewresearch.org/#website","url":"https://www.pewresearch.org/","name":"Pew Research Center","description":"Nonpartisan, nonadvocacy, public opinion polling and data-driven social science research","publisher":{"@id":"https://www.pewresearch.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.pewresearch.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.pewresearch.org/#organization","name":"Pew Research Center","url":"https://www.pewresearch.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.pewresearch.org/#/schema/logo/image/","url":"https://www.pewresearch.org/wp-content/uploads/2023/03/logo-fallback.png","contentUrl":"https://www.pewresearch.org/wp-content/uploads/2023/03/logo-fallback.png","width":1265,"height":192,"caption":"Pew Research Center"},"image":{"@id":"https://www.pewresearch.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/pewresearch","https://twitter.com/pewresearch","https://www.linkedin.com/company/pew-research-center/","https://www.youtube.com/user/PewResearchCenter"]}]}</script>
+	<meta name="parsely-title" content="Majority of Americans continue to favor moving away from Electoral College" />
+	<meta name="parsely-link" content="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/" />
+	<meta name="parsely-type" content="post" />
+	<meta name="parsely-image-url" content="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_topic.png?w=300" />
+	<meta name="parsely-section" content="Election System &amp; Voting Process" />
+	<meta name="parsely-tags" content="Politics &amp; Policy,U.S. Elections &amp; Voters,Election System &amp; Voting Process" />
+	<meta name="parsely-pub-date" content="2023-09-25T13:51:25-04:00" />
+	<meta name="parsely-author" content="Jocelyn Kiley" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Pew Research Center &raquo; Feed" href="https://www.pewresearch.org/feed/" />
+<link rel='stylesheet' id='all-css-0' href='https://www.pewresearch.org/wp-content/mu-plugins/jetpack-12.8/modules/related-posts/related-posts.css?m=1700155927g' type='text/css' media='all' />
+<link rel='stylesheet' id='prc-font-families-css' href='https://use.typekit.net/tic0xoy.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://www.pewresearch.org/_static/??/wp-content/themes/prc_parent/dist/theme/core-42a77c21.css,/wp-content/plugins/vimeo/build/style-index.css?m=1700072052' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{clip:auto!important;background-color:#ddd;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='prc-block-core-navigation-style-inline-css'>
+.wp-block-navigation.is-style-default{gap:0;line-height:1em;width:auto}.wp-block-navigation.is-style-default .wp-block-navigation-link a{color:var(--wp--preset--color--link-color)}.wp-block-navigation.is-style-default .wp-block-navigation-link a:hover>.wp-block-navigation-item__label{text-decoration:underline!important}.wp-block-navigation.is-style-default .wp-block-navigation-link .wp-block-navigation-item__label{border-right:1px solid #000;display:inline-block;padding:0 .5em}@media(prefers-color-scheme:dark),(prefers-dark-interface){.wp-block-navigation.is-style-default .wp-block-navigation-link .wp-block-navigation-item__label{border-right:1px solid #fff}}.wp-block-navigation.is-style-default .wp-block-navigation-link:last-of-type .wp-block-navigation-item__label{border-right:none!important;padding-right:0}.wp-block-navigation.is-style-pills .wp-block-navigation-item{border:1px solid #eaeaea;border-radius:3px;padding:.7857142857em 1.5em;text-align:center;text-decoration:none;transition:opacity .1s ease,background-color .1s ease,color .1s ease,box-shadow .1s ease,background .1s ease}.wp-block-navigation.is-style-pills .wp-block-navigation-item:hover{background-color:#eaeaea}.wp-block-navigation.is-style-mega-menu{margin-left:-1em!important;margin-right:-1em!important;max-width:calc(var(--wp--style--global--wide-size) + 2em)!important;position:relative;width:100%}.wp-block-navigation.is-style-mega-menu .wp-block-navigation-item{display:flex;flex-grow:1}.wp-block-navigation.is-style-mega-menu .wp-block-navigation-item.current-menu-item{font-weight:700}.wp-block-navigation.is-style-mega-menu .wp-block-navigation-item .wp-block-navigation-item__content{display:block;flex-grow:1;padding:1em!important;text-align:center}.wp-block-group:has(>.wp-block-navigation.is-style-mega-menu){display:flex;justify-content:center}
+
+</style>
+<style id='yoast-seo-breadcrumbs-style-inline-css'>
+.yoast-breadcrumbs{line-height:1em;margin-bottom:.75em;margin-top:.75em}.yoast-breadcrumbs>.ui.breadcrumbs{-webkit-line-clamp:1;-webkit-box-orient:vertical;display:-webkit-box;overflow:hidden}
+
+</style>
+<link rel='stylesheet' id='all-css-8' href='https://www.pewresearch.org/wp-content/plugins/facetwp-years/public/css/yearly-archive-facetwp-public.css?m=1673290447g' type='text/css' media='all' />
+<style id='dominant-color-styles-inline-css'>
+img[data-dominant-color]:not(.has-transparency) { background-color: var(--dominant-color); }
+</style>
+<link rel='stylesheet' id='all-css-10' href='https://www.pewresearch.org/wp-content/mu-plugins/jetpack-12.8/css/jetpack.css?m=1700155927g' type='text/css' media='all' />
+<script type="text/javascript" id="jetpack_related-posts-js-extra">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.pewresearch.org/_static/??-eJyVjksOwjAMRC9E6hapfBaIo6DSmMohcYLjgHp7ggQLFkhlNbLmzXjgkcwYWZEVQjHJl4k4g0NNw3g13brZwYl4hHMhb0HQD4rWpJg1f19NIG5cXkFtrAFfLNaeDJaywh3ZRnlZKfr5Qt5XBkWXhAQnrOygUYwUVgr4569fuLsVlPktiyATaKpLPgOO4dBt27br+/16456FTnqz" ></script><script type="text/javascript" src="https://player.vimeo.com/api/player.js?ver=1.1.2" id="vimeo-for-wordpress-player-js"></script>
+<script type="text/javascript" src="https://www.pewresearch.org/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0" id="react-js"></script>
+<script type="text/javascript" src="https://www.pewresearch.org/_static/??-eJyFjUsOwjAMRC9E6lAJdYU4Sxqb4iifykkouT2pUBewYemZN8+wrcqmWCgWWH1dOGZYxSruYYa5skcQWjgXacAR6TW4fIK+4mh9RcrgMmDvAVNQQgbbEDge1D+3TwZJvs2/m7uxVHreyEg31Nmz3b/ut2/KiH3wk9SBfYAuu4XredJaT6O+jO4NdlhWhA==" ></script><link rel="https://api.w.org/" href="https://www.pewresearch.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.pewresearch.org/wp-json/wp/v2/short-read/441740" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pewresearch.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<link rel='shortlink' href='https://www.pewresearch.org/?p=441740' />
+<link rel="alternate" type="application/json+oembed" href="https://www.pewresearch.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pewresearch.org%2Fshort-reads%2F2023%2F09%2F25%2Fmajority-of-americans-continue-to-favor-moving-away-from-electoral-college%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.pewresearch.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pewresearch.org%2Fshort-reads%2F2023%2F09%2F25%2Fmajority-of-americans-continue-to-favor-moving-away-from-electoral-college%2F&#038;format=xml" />
+<link rel='alternate' type='application/json' title='JSON Representation' href='https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college//feed/json/'><link rel='alternate' type='text/plain' title='Prism XML Version' href='https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college//feed/prism/'><link rel='alternate' type='text/plain' title='Plain Text Version' href='https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college//feed/plain/'><link rel='alternate' type='application/rss+xml' title='Pew Research Center Short Reads RSS Feed' href='https://www.pewresearch.org/short-read//feed/'><meta name='robots' content='NOODP' />
+
+<!-- Begin Taxonomy Meta -->
+<meta name='topic' content='Politics &amp; Policy'>
+<meta name='topic' content='U.S. Elections &amp; Voters'>
+<meta name='topic' content='Election System &amp; Voting Process'>
+<meta name='research-teams' content='Politics'>
+<meta name='regions-countries' content='United States'>
+<meta name='_primary-topic' content='Election System &amp; Voting Process'>
+
+<!-- End Taxonomy Meta -->
+<meta name="generator" content="Performance Lab 2.6.0; modules: images/dominant-color-images, images/webp-support, images/webp-uploads">
+        <!-- GTM Data Layer -->
+        <script>
+			dataLayer = [];
+        </script>
+        <!-- Cross Domain GTM -->
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVFJNW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MVFJNW');
+        </script>
+        <!-- End Google Tag Manager -->
+        <meta property="share:appID:fb" content="414381495423010">	<style>img#wpstats{display:none}</style>
+		<meta name="theme-color" content="#1b1c1d"><link rel="shortcut icon" href="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/favicon/favicon.svg" type="image/x-icon"/>
+<link rel="icon" href="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/favicon/favicon.svg" sizes="32x32" />
+<link rel="icon" href="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/favicon/favicon_128x128.png" sizes="192x192" />
+<link rel="msapplication-TileImage" href="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/favicon/favicon_128x128.png" />
+<style type="text/css" id="wp-custom-css">.contact-form label span {
+	opacity: 1.0!important;
+}</style></head>
+
+<body class="short-read-template-default single single-short-read postid-441740 wp-embed-responsive has-sidebar">
+
+		<div id="tophat" class="ui top attached inverted text menu">
+			<div class="ui container">
+				<div class="item">Numbers, Facts and Trends Shaping Your World</div>
+
+				<div class="right menu">
+					<a class="item" href="https://www.pewresearch.org/newsletters">Newsletters</a>
+					<a class="item" href="https://www.pewresearch.org/about/press">Press</a>
+					<a class="item" href="https://pewresearch.networkforgood.com/?utm_source=PewResearch&#038;utm_medium=InternalPromo&#038;utm_campaign=TopDonateButton">Donate</a>
+					<a class="item" href="https://www.pewresearch.org/profile">My Account</a>
+					<a class="item" href="https://www.pewresearch.org/contactedbyus">Contacted By Us?</a>
+				</div>
+			</div>
+		</div>
+				<header id="masthead" role="banner">
+			<!--- Mobile Masthead -->
+			<div class="ui fluid container">
+				<div class="ui grid mobile-header">
+					<div class="four wide middle aligned column">
+						<div id="js-mobile-nav-trigger" class="ui icon secondary button"><i class="bars icon"></i></div>
+					</div>
+					<div class="eight wide middle aligned column">
+						<a href="https://www.pewresearch.org/" class="logo" rel="home">
+							<img src="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/logos/logo-white-alt.svg" alt="Pew Research Center Logo">
+						</a>
+					</div>
+					<div class="four wide middle aligned right aligned column">
+						<div id="js-mobile-search-trigger" class="ui icon secondary button"><i class="search icon"></i></div>
+					</div>
+				</div>
+			</div>
+			<!-- Desktop Masthead -->
+			<div class="ui container desktop-header">
+				<div class="ui relaxed grid">
+					<!--fwp-loop-->
+<div class="row breaking-news"><div class="sixteen wide right aligned column">		<div class="prc-block-area" data-block-area-id="398950" data-block-area-location="breaking-news">
+			
+<p class="sans-serif">Read our research on: <a href="https://www.pewresearch.org/regions-countries/israel/">Israel</a> | <a href="https://www.pewresearch.org/topic/internet-technology/">Internet &amp; Technology</a> | <a href="https://www.pewresearch.org/topic/science/">Science</a></p>
+		</div>
+		</div></div>					<div class="row">
+						<div class="ten wide middle aligned column">
+							<a href="https://www.pewresearch.org/" class="logo" rel="home">
+								<img src="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/logos/logo-standard.svg" alt="Pew Research Center Logo">
+							</a>
+						</div>
+						<div class="six wide middle aligned column">
+								<form role="search" action="https://www.pewresearch.org/">
+		<div class="ui action fluid input">
+			<input type="search" placeholder="Search pewresearch.org..." spellcheck="false" data-ms-editor="true" value="" name="s">
+			<button class="ui icon secondary button">
+				<i class="search icon"></i>
+			</button>
+		</div>
+	</form>
+							</div>
+					</div>
+					<div class="row">
+						<div class="sixteen wide column">
+							<nav id="main-navigation" class="ui big tabular menu">
+								<div id="js-desktop-mega-menu-trigger" class="item"><span>Research Topics <i class="caret down icon"></i></span></div><a aria-role='menuitem' aria-label='All Publications' href='https://www.pewresearch.org/publications/' class='item'>All Publications</a><a aria-role='menuitem' aria-label='Methods' href='https://www.pewresearch.org/our-methods/' class='item'>Methods</a><a aria-role='menuitem' aria-label='Short Reads' href='https://www.pewresearch.org/short-reads/' class='item'>Short Reads</a><a aria-role='menuitem' aria-label='Tools &amp; Resources' href='https://www.pewresearch.org/tools-and-resources/' class='item'>Tools &amp; Resources</a><a aria-role='menuitem' aria-label='Experts' href='https://www.pewresearch.org/about/experts/' class='item'>Experts</a><a aria-role='menuitem' aria-label='About' href='https://www.pewresearch.org/about/' class='item'>About</a>							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="ui fitted divider"></div>
+		</header><!-- /#masthead -->
+				<div id="desktop-mega-menu" class="hidden">
+			<div class="ui container">
+				<div class="ui relaxed stackable grid">
+					<div class="divided row">
+						<div class="eight wide column">
+											<h5 class="ui fitted sans-serif header">
+			Topics		</h5>
+				<div class="ui equal width fitted grid"><div class="fitted column"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/topic/politics-policy/' class='item'>Politics &amp; Policy</a><a href='https://www.pewresearch.org/topic/international-affairs/' class='item'>International Affairs</a><a href='https://www.pewresearch.org/topic/immigration-migration/' class='item'>Immigration &amp; Migration</a><a href='https://www.pewresearch.org/topic/race-ethnicity/' class='item'>Race &amp; Ethnicity</a><a href='https://www.pewresearch.org/topic/religion/' class='item'>Religion</a><a href='https://www.pewresearch.org/topic/generations-age/' class='item'>Age & Generations</a><a href='https://www.pewresearch.org/topic/gender-lgbtq/' class='item'>Gender &amp; LGBTQ</a></div></div><div class="fitted column"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/topic/family-relationships/' class='item'>Family &amp; Relationships</a><a href='https://www.pewresearch.org/topic/economy-work/' class='item'>Economy &amp; Work</a><a href='https://www.pewresearch.org/topic/science/' class='item'>Science</a><a href='https://www.pewresearch.org/topic/internet-technology/' class='item'>Internet &amp; Technology</a><a href='https://www.pewresearch.org/topic/news-habits-media/' class='item'>News Habits &amp; Media</a><a href='https://www.pewresearch.org/topic/methodological-research/' class='item'>Methodological Research</a><a href='https://www.pewresearch.org/topics-categorized/' class='item blue'>Full topic list</a></div></div></div>								</div>
+						<div class="eight wide column">
+							<div class="ui equal width stackable fitted grid">
+								<div class="divided row">
+									<div class="fitted column">
+														<h5 class="ui fitted sans-serif header">
+			Regions &amp; Countries		</h5>
+				<div class="ui link relaxed list"><a href='https://www.pewresearch.org/regions-countries/asia-pacific/' class='item'>Asia &amp; the Pacific</a><a href='https://www.pewresearch.org/regions-countries/europe-russia/' class='item'>Europe &amp; Russia</a><a href='https://www.pewresearch.org/regions-countries/latin-america/' class='item'>Latin America</a><a href='https://www.pewresearch.org/regions-countries/middle-east-north-africa/' class='item'>Middle East &amp; North Africa</a><a href='https://www.pewresearch.org/regions-countries/north-america/' class='item'>North America</a><a href='https://www.pewresearch.org/regions-countries/sub-saharan-africa/' class='item'>Sub-Saharan Africa</a><a href='https://www.pewresearch.org/regions-countries/multiple-regions-worldwide/' class='item'>Multiple Regions / Worldwide</a></div>											</div>
+									<div class="fitted column">
+														<h5 class="ui fitted sans-serif header">
+			Formats<i class="close icon" style="cursor:pointer;"></i>		</h5>
+				<div class="ui link relaxed list"><a href='https://www.pewresearch.org/formats/feature/' class='item'>Features</a><a href='https://www.pewresearch.org/formats/fact-sheet/' class='item'>Fact Sheets</a><a href='https://www.pewresearch.org/formats/video/' class='item'>Videos</a><a href='https://www.pewresearch.org/formats/data-essay/' class='item'>Data Essays</a></div>											</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									</div>
+			</div>
+			<div class="ui fitted divider"></div>
+		</div>
+				<div class="pushable">
+			<div id="mobile-nav" class="ui left vertical large menu sidebar">
+				<div id="js-mobile-mega-menu-trigger" class="item active"><span>Research Topics <i class="caret up icon"></i></span></div><div id="mobile-mega-menu" class="item"><div class="ui accordion">				<h5 class="title active">
+			Topics<i class="dropdown icon"></i>		</h5>
+				<div class="content active"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/topic/politics-policy/' class='item'>Politics &amp; Policy</a><a href='https://www.pewresearch.org/topic/international-affairs/' class='item'>International Affairs</a><a href='https://www.pewresearch.org/topic/immigration-migration/' class='item'>Immigration &amp; Migration</a><a href='https://www.pewresearch.org/topic/race-ethnicity/' class='item'>Race &amp; Ethnicity</a><a href='https://www.pewresearch.org/topic/religion/' class='item'>Religion</a><a href='https://www.pewresearch.org/topic/generations-age/' class='item'>Age & Generations</a><a href='https://www.pewresearch.org/topic/gender-lgbtq/' class='item'>Gender &amp; LGBTQ</a><a href='https://www.pewresearch.org/topic/family-relationships/' class='item'>Family &amp; Relationships</a><a href='https://www.pewresearch.org/topic/economy-work/' class='item'>Economy &amp; Work</a><a href='https://www.pewresearch.org/topic/science/' class='item'>Science</a><a href='https://www.pewresearch.org/topic/internet-technology/' class='item'>Internet &amp; Technology</a><a href='https://www.pewresearch.org/topic/news-habits-media/' class='item'>News Habits &amp; Media</a><a href='https://www.pewresearch.org/topic/methodological-research/' class='item'>Methodological Research</a><a href='https://www.pewresearch.org/topics-categorized/' class='item blue'>Full topic list</a></div></div>						<h5 class="title">
+			Regions &amp; Countries<i class="dropdown icon"></i>		</h5>
+				<div class="content"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/regions-countries/asia-pacific/' class='item'>Asia &amp; the Pacific</a><a href='https://www.pewresearch.org/regions-countries/europe-russia/' class='item'>Europe &amp; Russia</a><a href='https://www.pewresearch.org/regions-countries/latin-america/' class='item'>Latin America</a><a href='https://www.pewresearch.org/regions-countries/middle-east-north-africa/' class='item'>Middle East &amp; North Africa</a><a href='https://www.pewresearch.org/regions-countries/north-america/' class='item'>North America</a><a href='https://www.pewresearch.org/regions-countries/sub-saharan-africa/' class='item'>Sub-Saharan Africa</a><a href='https://www.pewresearch.org/regions-countries/multiple-regions-worldwide/' class='item'>Multiple Regions / Worldwide</a></div></div>						<h5 class="title">
+			Formats<i class="dropdown icon"></i>		</h5>
+				<div class="content"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/formats/feature/' class='item'>Features</a><a href='https://www.pewresearch.org/formats/fact-sheet/' class='item'>Fact Sheets</a><a href='https://www.pewresearch.org/formats/video/' class='item'>Videos</a><a href='https://www.pewresearch.org/formats/data-essay/' class='item'>Data Essays</a></div></div>		</div></div><a href='https://www.pewresearch.org/publications/' class='item'>All Publications</a><a href='https://www.pewresearch.org/our-methods/' class='item'>Methods</a><a href='https://www.pewresearch.org/short-reads/' class='item'>Short Reads</a><a href='https://www.pewresearch.org/tools-and-resources/' class='item'>Tools &amp; Resources</a><a href='https://www.pewresearch.org/about/experts/' class='item'>Experts</a><a href='https://www.pewresearch.org/about/' class='item'>About</a><a href="https://www.pewresearch.org/newsletters" class="item">Newsletters</a><a href="https://www.pewresearch.org/about/press" class="item">Press</a><a href="https://www.pewresearch.org/my-account" class="item">My Account</a><a href="https://www.pewresearch.org/contactedbyus" class="item">Contacted By Us?</a><div class="item"><a href="https://pewresearch.networkforgood.com/?utm_source=PewResearch&#038;utm_medium=InternalPromo&#038;utm_campaign=MobileDonateButton" class="ui fluid mustard button">DONATE</a></div>			</div>
+			<div id="mobile-search" class="ui top sidebar">
+					<form role="search" action="https://www.pewresearch.org/">
+		<div class="ui action fluid input">
+			<input type="search" placeholder="Search pewresearch.org..." spellcheck="false" data-ms-editor="true" value="" name="s">
+			<button class="ui icon secondary button">
+				<i class="search icon"></i>
+			</button>
+		</div>
+	</form>
+					<div style="padding-top: 1em;">		<div class="prc-block-area" data-block-area-id="398950" data-block-area-location="breaking-news">
+			
+<p class="sans-serif">Read our research on: <a href="https://www.pewresearch.org/regions-countries/israel/">Israel</a> | <a href="https://www.pewresearch.org/topic/internet-technology/">Internet &amp; Technology</a> | <a href="https://www.pewresearch.org/topic/science/">Science</a></p>
+		</div>
+		</div>			</div>
+			<div class="pusher">
+		
+
+<div id="content" class="ui container">
+
+	<div id="breadcrumbs"><div class="ui breadcrumb"><a href='https://www.pewresearch.org/' data-label='Home' class='section'>Home</a> <i class="chevron right icon divider"></i> <a href='https://www.pewresearch.org/topics-categorized' data-label='Research Topics' class='section'>Research Topics</a> <i class="chevron right icon divider"></i> <a href='https://www.pewresearch.org/topic/politics-policy/' data-label='Politics &amp; Policy' class='section'>Politics &amp; Policy</a> <i class="chevron right icon divider"></i> <a href='https://www.pewresearch.org/topic/politics-policy/us-elections-voters/' data-label='U.S. Elections &amp; Voters' class='section'>U.S. Elections &amp; Voters</a> <i class="chevron right icon divider"></i> <a href='https://www.pewresearch.org/topic/politics-policy/us-elections-voters/voters-voting/' data-label='Voters &amp; Voting' class='section'>Voters &amp; Voting</a> <i class="chevron right icon divider"></i> <a href='https://www.pewresearch.org/topic/politics-policy/us-elections-voters/voters-voting/election-system-voting-process/' data-label='Election System &amp; Voting Process' class='section'>Election System &amp; Voting Process</a></div></div><div data-content-divider class="ui top attached divider"></div>
+	<div class="ui stackable divided grid">
+	<main id="primary" class="sixteen wide mobile ten wide computer column content-area">
+		<div class="ui text container">
+			
+<article id="post-441740 ?>" class="post-441740 short-read type-short-read status-publish has-post-thumbnail hentry topic-election-system-voting-process topic-politics-policy topic-us-elections-voters bylines-jocelyn-kiley regions-countries-united-states research-teams-politics">
+		<header class="post-header">
+				<div id="js-post-date-share" class="ui align-center flex" style="padding-bottom: 0.3rem;">
+			<div class="justify-left">
+				<div class='meta'><span class='date' data-timestamp='1695649885'>September 25, 2023</span></div>			</div>
+			<div class="justify-right">
+				<div class="ui text menu share-tools">		<a		href=""
+		class="item social-link facebook"
+		data-share-url="https://pewrsr.ch/3PQrtnT"
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-brands fa-facebook"></i></a>		<a		href=""
+		class="item social-link twitter"
+		data-share-url="https://pewrsr.ch/3PQrtnT"
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-brands fa-twitter"></i></a>		<a		href=""
+		class="item social-link linkedin"
+		data-share-url="https://pewrsr.ch/3PQrtnT"
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-brands fa-linkedin"></i></a>		<a		href="javascript:window.print();"
+		class="item social-link print"
+		data-share-url=""
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-solid fa-print"></i></a></div>			</div>
+		</div>
+		<h1 class="ui post header">Majority of Americans continue to favor moving away from Electoral College</h1><div class="bylines">By <a href="https://www.pewresearch.org/staff/jocelyn-kiley"><span class="author">Jocelyn Kiley</span></a></div>	</header>
+	<div id="prc-mobile-toc"></div>
+	<div class="post-content">
+		<div class="wp-block-prc-block-collapsible" id="how-we-did-this"><div class="wp-block-prc-block-collapsible__title"><div>How we did this</div><button class="wp-block-prc-block-collapsible__icon"><i aria-hidden="true" class="fa-light fa-circle-plus"></i><i aria-hidden="true" class="fa-light fa-circle-minus"></i></button></div><div class="wp-block-prc-block-collapsible__content">
+
+<p>In 2000 and 2016, the winners of the popular vote lost their bids for U.S. president after receiving fewer Electoral College votes than their opponents. To continue tracking how the public views the U.S. system for presidential elections, we surveyed 8,480 U.S. adults from July 10 to 16, 2023.</p>
+
+
+
+<p>Everyone who took part in the current survey is a member of Pew Research Center’s American Trends Panel (ATP), an online survey panel that is recruited through national, random sampling of residential addresses. This way nearly all U.S. adults have a chance of selection. The survey is weighted to be representative of the U.S. adult population by gender, race, ethnicity, partisan affiliation, education and other categories. Read more about the <a href="https://www.pewresearch.org/methods/u-s-survey-research/american-trends-panel/">ATP’s methodology</a>.</p>
+
+
+
+<p>Here are the <a href="https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2023/09/PP_2023.09.19_views-of-politics_TOPLINE.pdf">questions used for this analysis</a>, along with responses, and its <a href="https://www.pewresearch.org/politics/2023/09/19/views-of-politics-methodology/">methodology</a>.</p>
+
+</div></div>
+
+
+<p>The Electoral College has played an outsize role in some recent U.S. elections. And a majority of Americans would welcome a change to the way presidents are elected, according to a <a href="https://www.pewresearch.org/politics/2023/09/19/americans-dismal-views-of-the-nations-politics/">new Pew Research Center survey</a>.</p>
+
+
+
+<figure class="wp-block-image alignright size-640-wide is-resized"><a href="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/sr_23-09-25_electoral-college_1/"><img data-dominant-color="f0efec" data-has-transparency="false" decoding="async" src="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?w=640" alt="A line chart showing that, by about 2 to 1, Americans want popular vote, not Electoral College, to decide who is president." class="not-transparent wp-image-441748" style="--dominant-color: #f0efec; width:420px" width="420" srcset="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png 840w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=300,280 300w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=768,717 768w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=160,149 160w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=434,405 434w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=200,187 200w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=260,243 260w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=310,289 310w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=420,392 420w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=640,597 640w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_1.png?resize=740,691 740w" sizes="(max-width: 840px) 100vw, 840px" /></a></figure>
+
+
+
+<p>Nearly two-thirds of U.S. adults (65%) say the way the president is elected should be changed so that the winner of the popular vote nationwide wins the presidency. A third favor keeping the current Electoral College system.</p>
+
+
+
+<p>Public opinion on this question is essentially unchanged from last year, though Americans’ support for using the popular vote to decide the presidency remains higher than it was a few years ago.</p>
+
+
+
+<div class="wp-block-group alignright is-style-callout is-style-250-wide has-beige-background-color has-background is-layout-flow wp-block-group-is-layout-flow">
+<h4 class="wp-block-heading" id="explore-americans-views-of-the-political-system">Explore Americans’ views of the political system</h4>
+
+
+
+<p>This article draws from our major report on Americans’ attitudes about the political system and political representation, conducted July 10-16, 2023. For more, explore:</p>
+
+
+
+<ul class="has-sans-serif-font-family" style="font-size:14px">
+<li>The report chapter on <a href="https://www.pewresearch.org/politics/2023/09/19/how-americans-view-proposals-to-change-the-political-system/">Americans’ views of proposed changes</a> to the political system</li>
+</ul>
+
+
+
+<ul class="has-sans-serif-font-family" style="font-size:14px">
+<li>The <a href="https://www.pewresearch.org/politics/2023/09/19/americans-dismal-views-of-the-nations-politics/">full report</a></li>
+</ul>
+</div>
+
+
+
+<p>The current electoral system in the United States allows for the possibility that the winner of the popular vote may not secure enough <a href="https://www.loc.gov/classroom-materials/elections/presidential-election-process/what-is-the-electoral-college/">Electoral College</a> votes to win the presidency. This occurred in both the 2000 and 2016 elections, which were won by George W. Bush and Donald Trump, respectively.</p>
+
+
+
+<h4 class="wp-block-heading" id="partisan-views-over-time">Partisan views over time</h4>
+
+
+
+<figure class="wp-block-image alignright size-640-wide is-resized"><a href="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/sr_23-09-25_electoral-college_2/"><img data-dominant-color="eeeded" data-has-transparency="false" decoding="async" src="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?w=640" alt="A line chart showing that most Democrats support moving to a popular vote for president, while Republicans are more divided." class="not-transparent wp-image-441749" style="--dominant-color: #eeeded; width:420px" width="420" srcset="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png 840w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=300,280 300w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=768,717 768w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=160,149 160w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=434,405 434w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=200,187 200w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=260,243 260w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=310,289 310w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=420,392 420w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=640,597 640w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_2.png?resize=740,691 740w" sizes="(max-width: 840px) 100vw, 840px" /></a></figure>
+
+
+
+<p>Democrats and Democratic-leaning independents are far more likely than Republicans and Republican leaners to support moving to a popular vote system for presidential elections (82% vs. 47%).</p>
+
+
+
+<p>The share of Democrats saying this is nearly identical to last year but higher than in January 2021, a few weeks before President Joe Biden was sworn into office after winning both the Electoral College and the popular vote.</p>
+
+
+
+<p>Republicans are fairly divided on this question: 52% support keeping the current Electoral College system, and 47% support moving to a popular vote system. GOP support for moving to a popular vote is the highest it’s been in recent years – up&nbsp;from 37% in 2021 and just 27% in the days following the 2016 election.</p>
+
+
+
+<h4 class="wp-block-heading" id="party-and-ideology">Party and ideology</h4>
+
+
+
+<figure class="wp-block-image alignright size-640-wide is-resized"><a href="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/sr_23-09-25_electoral-college_3/"><img data-dominant-color="f0ece2" data-has-transparency="false" decoding="async" src="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?w=640" alt="A bar chart showing that conservative Republicans stand out for their support for maintaining the Electoral College." class="not-transparent wp-image-441750" style="--dominant-color: #f0ece2; width:420px" width="420" srcset="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png 840w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=213,300 213w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=768,1083 768w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=726,1024 726w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=160,226 160w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=287,405 287w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=200,282 200w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=260,366 260w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=310,437 310w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=420,592 420w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=640,902 640w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_3.png?resize=740,1043 740w" sizes="(max-width: 840px) 100vw, 840px" /></a></figure>
+
+
+
+<p>Nearly nine-in-ten liberal Democrats (88%) and about three-quarters of conservative and moderate Democrats (77%) say they would prefer presidents to be elected based on the popular vote.</p>
+
+
+
+<p>Ideological differences are wider among Republicans. A clear majority – 63% – of conservative Republicans prefer keeping the current system, while 36% would change it.</p>
+
+
+
+<p>The balance of opinion reverses among moderate and liberal Republicans (who make up a much smaller share of the Republican coalition). A majority of moderate and liberal Republicans (63%) say they would back the country moving to a popular vote for president.</p>
+
+
+
+<h4 class="wp-block-heading" id="age">Age</h4>
+
+
+
+<p>Younger adults are somewhat more supportive of changing the system than older adults. About seven-in-ten Americans under 50 (69%) support this. That share drops to about six-in-ten (58%) among those 65 and older.</p>
+
+
+
+<h4 class="wp-block-heading" id="political-engagement">Political engagement</h4>
+
+
+
+<p>Political engagement – being interested in and paying attention to politics – is associated with views about the Electoral College, particularly among Republicans.</p>
+
+
+
+<figure class="wp-block-image alignright size-640-wide is-resized"><a href="https://www.pewresearch.org/short-reads/2023/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college/sr_23-09-25_electoral-college_4/"><img data-dominant-color="ebeaea" data-has-transparency="false" decoding="async" src="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?w=620" alt="A dot plot showing that highly politically engaged Republicans are least likely to support moving to a popular vote for president." class="not-transparent wp-image-441752" style="--dominant-color: #ebeaea; width:310px" width="310" srcset="https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png 620w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=250,300 250w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=160,192 160w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=338,405 338w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=200,240 200w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=260,312 260w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=310,372 310w, https://www.pewresearch.org/wp-content/uploads/2023/09/SR_23.09.25_electoral-college_4.png?resize=420,504 420w" sizes="(max-width: 620px) 100vw, 620px" /></a></figure>
+
+
+
+<p>Highly politically engaged Republicans overwhelmingly favor keeping the Electoral College: 72% say this, while 27% support moving to a popular vote system.</p>
+
+
+
+<p>Republicans with a moderate level of engagement are more divided, with 51% wanting to keep the system as is and 48% wanting to change it. And a clear majority of Republicans with lower levels of political engagement (70%) back moving to a popular vote.</p>
+
+
+
+<p>Differences by engagement are much less pronounced among Democrats. About eight-in-ten Democrats with low (78%) and medium (82%) levels of engagement favor changing the system, as do 86% of highly engaged Democrats.</p>
+
+
+
+<p><em>Note: This is an update of posts previously published on Jan. 27, 2021 (written by Bradley Jones, a former senior researcher), and Aug. 5, 2022 (written by Jocelyn Kiley and Rebecca Salzer, a former intern).</em> <em>Here are the <a href="https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2023/09/PP_2023.09.19_views-of-politics_TOPLINE.pdf">questions used for this analysis</a>, along with responses, and its <a href="https://www.pewresearch.org/politics/2023/09/19/views-of-politics-methodology/">methodology</a>.</em></p>
+
+
+<div class="wp-block-prc-block-collapsible" id="a-note-on-question-wording"><div class="wp-block-prc-block-collapsible__title"><div>A note on question wording</div><button class="wp-block-prc-block-collapsible__icon"><i aria-hidden="true" class="fa-light fa-circle-plus"></i><i aria-hidden="true" class="fa-light fa-circle-minus"></i></button></div><div class="wp-block-prc-block-collapsible__content">
+
+<p>In January 2020, Pew Research Center ran a <a href="https://www.pewresearch.org/fact-tank/2019/01/29/good-jobs-vs-jobs-survey-experiments-can-measure-the-effects-of-question-wording-and-more/">survey experiment</a> that asked this question in two slightly different ways. One used the language that we and other organizations had used in prior years, with the reform option asking about “amending the Constitution so the candidate who receives the most votes nationwide wins the election.” The other version asked about “changing the system so the candidate who receives the most votes nationwide wins the election.” The January 2020 survey revealed no substantive differences between asking about “amending the Constitution” and “changing the system.”</p>
+
+
+
+<p>We conducted this experiment in large part because reforming the way presidents are selected does not technically require amending the Constitution. The <a href="https://www.nationalpopularvote.com/written-explanation">National Popular Vote Interstate Compact</a>, for example, could theoretically accomplish it without a constitutional amendment. Since there was no substantive difference in the survey results between the two question wordings, we have adopted the revised wording.</p>
+
+</div></div>					<div class="taxonomies">
+				<div class="ui small horizontal comma-seperated list">
+					<div class="item">Topics</div>
+					<a class='item' href='https://www.pewresearch.org/topic/politics-policy/'>Politics &amp; Policy</a><a class='item' href='https://www.pewresearch.org/topic/politics-policy/us-elections-voters/'>U.S. Elections &amp; Voters</a><a class='item' href='https://www.pewresearch.org/topic/politics-policy/us-elections-voters/voters-voting/election-system-voting-process/'>Election System &amp; Voting Process</a>				</div>
+			</div>
+					<div id="js-end-of-fact-tank-post">
+			<div class="ui text menu attached top borderless share-tools"><div class='item' style='flex-grow: 1;font-size: 12px;text-transform: uppercase;padding-left: 0;'><div style='min-width:120px;'>Share this link: </div><div class='ui input'><input type='text' readonly onClick='this.focus();this.select();' value='https://pewrsr.ch/3PQrtnT' readonly></div></div>		<a		href=""
+		class="item social-link facebook"
+		data-share-url="https://pewrsr.ch/3PQrtnT"
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-brands fa-facebook"></i></a>		<a		href=""
+		class="item social-link twitter"
+		data-share-url="https://pewrsr.ch/3PQrtnT"
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-brands fa-twitter"></i></a>		<a		href=""
+		class="item social-link linkedin"
+		data-share-url="https://pewrsr.ch/3PQrtnT"
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-brands fa-linkedin"></i></a>		<a		href="javascript:window.print();"
+		class="item social-link print"
+		data-share-url=""
+		data-share-description="Majority of Americans continue to favor moving away from Electoral College"><i class="fa-solid fa-print"></i></a></div>			<div class='ui divided unstackable serif very relaxed flex list'>		<div class="item is-style-left">
+						<div class="image">
+				<img class='ui tiny bordered padded image' src='https://www.pewresearch.org/wp-content/uploads/2012/11/JocelynKiley-20221213.jpg?w=240' width='80px'>			</div>
+			
+			<div class="content">
+				<div>
+					<a class="blue-link" href="https://www.pewresearch.org/staff/jocelyn-kiley">Jocelyn Kiley</a>&nbsp; <i>is an associate director of research at Pew Research Center.</i>				</div>
+				<div class="ui small horizontal divided list">
+					<a href='https://www.pewresearch.org/staff/jocelyn-kiley' class='item blue-link'>POSTS</a>					<a href='https://www.pewresearch.org/staff/jocelyn-kiley' class='item blue-link'>BIO</a>					<a href='http://twitter.com/jocelynkiley' class='item blue-link'>TWITTER</a>					<a href="https://www.pewresearch.org/contact/" class="item blue-link">EMAIL</a>
+				</div>
+			</div>
+		</div>
+		</div>		</div>
+			</div><!-- /.content -->
+</article><!-- /#post-441740 -->
+<div class="ui divider"></div>		<div class="prc-block-area" data-block-area-id="370258" data-block-area-location="bottom-of-post">
+			<div class="has-icon has-form has-border-color has-e-4-e-4-e-4-border-color has-background has-gray-cool-background-color  wp-block-prc-block-promo has-sans-serif-font-family" id="8548a6056919c2df42dce2b11a474ccf">
+	<div class='wp-block-prc-block-promo__inner-container'>
+		<div class="wp-block-prc-block-promo__icon"><img src="https://www.pewresearch.org/wp-content/plugins/prc-block-library/blocks/promo/assets/weekly.svg" /></div>		
+<div class="wp-block-prc-block-promo__text"><h3 class="wp-block-prc-block-promo__heading">Sign up for our weekly newsletter</h3><div class="wp-block-prc-block-promo__sub_heading"><p>Fresh data delivered Saturday mornings</p></div></div><div class="wp-block-prc-block-promo__action"><div class="is-style-horizontal is-style-horizontal wp-block-prc-block-mailchimp-form" id="0007aa334080b9e9b8ce3f3da3fe0f8b" data-segment-id="7c1390ba46">
+<input class="wp-block-prc-block-form-input-text" placeholder="Enter email address..." type="email"></input>
+
+
+<div class="wp-block-button has-custom-font-size is-style-fill has-small-label-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase"><a class="wp-block-button__link wp-element-button">Sign Up</a></div>
+
+</div></div>
+	</div>
+</div>
+		</div>
+				</div>
+	</main><!-- #primary -->
+
+				<div id="secondary" class="sixteen wide mobile five wide computer column attached top">
+			 <div class="wp-block-group is-style-card-alt widget-related-posts is-layout-flow wp-block-group-is-layout-flow">
+ 
+ <h3 class="is-style-sub-header has-white-color has-slate-background-color has-text-color has-background wp-block-heading" id="related">Related</h3>
+ 
+  				<article class="story item wp-block-prc-block-story-item" id="post-441740" data-cached="1">
+			<div class="meta"><span class='report label'>short reads</span> | <span class='date'>Jul 22, 2021</span></div><h3 class='header small light'><a href='https://www.pewresearch.org/short-reads/2021/07/22/wide-partisan-divide-on-whether-voting-is-a-fundamental-right-or-a-privilege-with-responsibilities/'>Wide partisan divide on whether voting is a fundamental right or a privilege with responsibilities</a></h3>					
+								</article>
+						<article class="story item wp-block-prc-block-story-item" id="post-441740" data-cached="1">
+			<div class="meta"><span class='report label'>short reads</span> | <span class='date'>Jun 29, 2021</span></div><h3 class='header small light'><a href='https://www.pewresearch.org/short-reads/2021/06/29/more-u-s-locations-experimenting-with-alternative-voting-systems/'>More U.S. locations experimenting with alternative voting systems</a></h3>					
+								</article>
+						<article class="story item wp-block-prc-block-story-item" id="post-441740" data-cached="1">
+			<div class="meta"><span class='report label'>short reads</span> | <span class='date'>May 18, 2021</span></div><h3 class='header small light'><a href='https://www.pewresearch.org/short-reads/2021/05/18/many-western-europeans-think-mandatory-voting-is-important-but-americans-are-split/'>Many Western Europeans think mandatory voting is important, but Americans are split</a></h3>					
+								</article>
+						<article class="story item wp-block-prc-block-story-item" id="post-441740" data-cached="1">
+			<div class="meta"><span class='report label'>report</span> | <span class='date'>Apr 22, 2021</span></div><h3 class='header small light'><a href='https://www.pewresearch.org/politics/2021/04/22/republicans-and-democrats-move-further-apart-in-views-of-voting-access/'>Republicans and Democrats Move Further Apart in Views of Voting Access</a></h3>					
+								</article>
+						<article class="story item wp-block-prc-block-story-item" id="post-441740" data-cached="1">
+			<div class="meta"><span class='report label'>short reads</span> | <span class='date'>Apr 1, 2021</span></div><h3 class='header small light'><a href='https://www.pewresearch.org/short-reads/2021/04/01/share-of-republicans-saying-everything-possible-should-be-done-to-make-voting-easy-declines-sharply/'>Share of Republicans saying ‘everything possible’ should be done to make voting easy declines sharply</a></h3>					
+								</article>
+		
+  </div>
+  <div class="wp-block-group is-style-card-alt widget-topics is-layout-flow wp-block-group-is-layout-flow">
+ 
+ <h3 class="is-style-sub-header has-white-color has-slate-background-color has-text-color has-background wp-block-heading" id="topics">Topics</h3>
+ 
+  <div role="list" class="ui selection link list"><a class="item" href="https://www.pewresearch.org/topic/politics-policy/">Politics &amp; Policy</a><a class="item" href="https://www.pewresearch.org/topic/politics-policy/us-elections-voters/">U.S. Elections &amp; Voters</a><a class="item" href="https://www.pewresearch.org/topic/politics-policy/us-elections-voters/voters-voting/election-system-voting-process/">Election System &amp; Voting Process</a></div>
+  </div>
+ 		<div class="prc-block-area" data-block-area-id="367626" data-block-area-location="most-popular">
+			
+<div class="wp-block-group is-style-card-alt is-layout-flow wp-block-group-is-layout-flow">
+<h3 class="is-style-sub-header has-white-color has-slate-background-color has-text-color has-background wp-block-heading" id="most-popular">MOST POPULAR</h3>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><aside class="wp-block-prc-block-popular-story"><div class="big-number">1</div><a href="https://www.pewresearch.org/short-reads/2023/11/15/more-americans-are-getting-news-on-tiktok-bucking-the-trend-seen-on-most-other-social-media-sites/" class="title">More Americans are getting news on TikTok, bucking the trend seen on most other social media sites</a></aside>
+
+<aside class="wp-block-prc-block-popular-story"><div class="big-number">2</div><a href="https://www.pewresearch.org/2023/11/09/tipping-culture-in-america-public-sees-a-changed-landscape/" class="title">Tipping Culture in America: Public Sees a Changed Landscape</a></aside>
+
+<aside class="wp-block-prc-block-popular-story"><div class="big-number">3</div><a href="https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/" class="title">Americans’ Trust in Scientists, Positive Views of Science Continue to Decline</a></aside>
+
+<aside class="wp-block-prc-block-popular-story"><div class="big-number">4</div><a href="https://www.pewresearch.org/global/2023/11/06/comparing-views-of-the-us-and-china-in-24-countries/" class="title">Comparing Views of the U.S. and China in 24 Countries</a></aside>
+
+<aside class="wp-block-prc-block-popular-story"><div class="big-number">5</div><a href="https://www.pewresearch.org/short-reads/2023/10/27/working-husbands-in-the-us-have-more-leisure-time-than-working-wives-do-especially-among-those-with-children/" class="title">Working husbands in U.S. have more leisure time than working wives do, especially among those with children</a></aside></div>
+</div>
+		</div>
+							</div>
+		
+		</div><!-- /.ui.grid -->
+	
+</div><!-- #content -->
+
+		<div class="ui fitted divider"></div>
+		<div id="site-footer" role="contentinfo">
+			<div class="ui container">
+				<div class="ui stackable grid">
+					<div class="four wide column contact vcard">
+						<p><img class="fn org organization-name" src="https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/logos/logo-alt.svg" onerror="this.src='https://www.pewresearch.org/wp-content/themes/prc_parent/src/images/logos/logo-fallback.png'" alt="Pew Research Center"><br><span class="adr"> <span class="street-address">1615 L St. NW, Suite 800</span><br><span class="locality">Washington</span>, <span class="region">DC</span> <span class="postal-code">20036</span><br><span class="country-name">USA</span></span><br>
+							<a href="tel:+12024194300" class="tel"> <span class="value">(+1) 202-419-4300</span> | <span class="type">Main</span></a><br>
+							<a href="tel:+12028578562" class="tel"> <span class="value">(+1) 202-857-8562</span> | <span class="type">Fax</span></a><br>
+							<a class="blue-link" href="tel:+12024194372" class="tel"> <span class="value">(+1) 202-419-4372</span> | <span class="type"><strong class="medium">Media Inquiries</strong></span></a>
+						</p>
+					</div>
+					<div class="twelve wide column">
+						<div class="ui fitted stackable grid">
+							<div class="projects eleven wide column">
+								<div class="ui compact link list">
+									<div class="item">
+										<div class="header sans-serif"><a href="https://www.pewresearch.org/topics/">Research Topics</a></div>
+										<div class="ui dotted divider"></div>
+									</div>
+								</div>
+												<div class="ui equal width fitted grid"><div class="fitted column"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/topic/politics-policy/' class='item'>Politics &amp; Policy</a><a href='https://www.pewresearch.org/topic/international-affairs/' class='item'>International Affairs</a><a href='https://www.pewresearch.org/topic/immigration-migration/' class='item'>Immigration &amp; Migration</a><a href='https://www.pewresearch.org/topic/race-ethnicity/' class='item'>Race &amp; Ethnicity</a><a href='https://www.pewresearch.org/topic/religion/' class='item'>Religion</a><a href='https://www.pewresearch.org/topic/generations-age/' class='item'>Age & Generations</a><a href='https://www.pewresearch.org/topic/gender-lgbtq/' class='item'>Gender &amp; LGBTQ</a></div></div><div class="fitted column"><div class="ui link relaxed list"><a href='https://www.pewresearch.org/topic/family-relationships/' class='item'>Family &amp; Relationships</a><a href='https://www.pewresearch.org/topic/economy-work/' class='item'>Economy &amp; Work</a><a href='https://www.pewresearch.org/topic/science/' class='item'>Science</a><a href='https://www.pewresearch.org/topic/internet-technology/' class='item'>Internet &amp; Technology</a><a href='https://www.pewresearch.org/topic/news-habits-media/' class='item'>News Habits &amp; Media</a><a href='https://www.pewresearch.org/topic/methodological-research/' class='item'>Methodological Research</a><a href='https://www.pewresearch.org/topics-categorized/' class='item blue'>Full topic list</a></div></div></div>									</div>
+							<div class="follow-us five wide column">
+								<div class="ui relaxed link list">
+									<div class="item">
+										<div class="header sans-serif">Follow Us</div>
+										<div class="ui dotted divider"></div>
+									</div>
+									<a class="item" href="https://www.pewresearch.org/follow-pew-research-center/"><i class="mail icon"></i> Email Newsletters</a>
+									<a class="item" href="https://www.instagram.com/pewresearch/"><i class="instagram icon"></i> Instagram</a>
+									<a class="item" href="https://twitter.com/pewresearch/"><i class="twitter icon"></i> Twitter</a>
+									<a class="item" href="https://www.linkedin.com/company/pew-research-center/"><i class="linkedin icon"></i> LinkedIn</a>
+									<a class="item" href="https://www.youtube.com/user/PewResearchCenter/featured/"><i class="youtube icon"></i> YouTube</a>
+									<a class="item" href="https://www.pewresearch.org/feed/" title="Really Simple Syndication"><i class="rss icon"></i> RSS</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<p class="about"><strong><a href="https://www.pewresearch.org/about">About Pew Research Center</a></strong> Pew Research Center is a nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world. It conducts public opinion polling, demographic research, media content analysis and other empirical social science research. Pew Research Center does not take policy positions. It is a subsidiary of <a href="https://www.pewtrusts.org/">The Pew Charitable Trusts</a>.</p>
+			</div>
+		</div>
+		<div class="ui fitted divider"></div>
+				<div class="fine-print ui container">
+			<div class="ui link list horizontal">
+				<span class="item">Copyright 2023 Pew Research Center</span>
+								<a class="item" href="https://www.pewresearch.org/about/">About</a>
+				<a class="item" href="https://www.pewresearch.org/terms-and-conditions/">Terms &amp; Conditions</a>
+				<a class="item" href="https://www.pewresearch.org/privacy-policy/">Privacy Policy</a>
+				<a class="item ot-sdk-show-settings">Cookie Settings</a>
+				<a class="item" href="https://www.pewresearch.org/about/use-policy/">Reprints, Permissions &amp; Use Policy</a>
+				<a class="item" href="https://www.pewresearch.org/contact-form/">Feedback</a>
+				<a class="item" href="https://www.pewresearch.org/about/careers/">Careers</a>
+			</div>
+		</div>
+					</div><!--- .pusher -->
+		</div><!-- .pushable -->
+		
+<script>var atpLegalModal = "\t<div id=\"js-atp-legal-modal\" class=\"ui modal\">\n\t\t<i class=\"close icon\"><\/i>\n\t\t<div class=\"header\">\n\t\t\tAmerican Trends Panel Dataset\n\t\t<\/div>\n\t\t<div class=\"content\">\n\t\t\t<div id=\"js-atp-legal-form\" class=\"ui form\">\n\t\t\t\t<textarea wrap=\"virtual\" cols=\"65\" rows=\"10\" id=\"Legal\" disabled>Terms and Conditions\n\n\tThis is a legal agreement (this \u201cAgreement\u201d) between you, the end user (\u201cyou\u201d or \u201cUser\u201d), and Pew Research Center (the \u201cCenter\u201d). By downloading the American Trends Panel survey data made available on this web site (\u201cData\u201d) you are agreeing to be bound by the terms and conditions of this Agreement. If you do not agree to be bound by these terms, do not download or use the Data.\n\n\tI.\tLicense.\n\tA.\t The Center hereby grants User a non-exclusive, revocable, limited, non-sublicensable, non-transferable, worldwide, royalty-free license to use the Data solely for (1) research, scholarly or academic purposes, or (2) User\u2019s own personal, non-commercial use. The foregoing license is personal to User, and you may not share (or otherwise permit access to) the Data to any other individual or entity, including those within your business or organization.  Further, you may not reproduce, sell, rent, lease, loan, distribute or sublicense, or otherwise transfer any Data, in whole or in part, to any other party, or use the Data to create any derivative work or product for resale, lease or license. Notwithstanding the foregoing, you may incorporate limited portions of the Data in scholarly, research or academic publications or for the purposes of news reporting provided that you:\n\t1.\t acknowledge the source of the Data with express reference to the Center in accordance with the following citation:\n\n\t\u201cPew Research Center\u2019s American Trends Panel\u201d\n\n\t2.\tdo not use the Data in any manner that implies, suggests, or could otherwise be perceived as attributing a particular policy or lobbying objective or opinion to the Center, and\n\t3.\tinclude the following disclaimer: \u201cThe opinions expressed herein, including any implications for policy, are those of the author and not of Pew Research Center.\u201d\n\tB.\tUser acknowledges that, as between the parties, the Center is the sole and exclusive owner of all right, title and interest in the Data.  Except for the limited license granted herein, this Agreement does not give User any right, title or interest in the Data.\n\n\tII.\tDisclaimers and Limitations of Liability. THE DATA IS PROVIDED \u201cAS IS\u201d WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, ARISING BY LAW OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF COMPLETENESS, NON-INFRINGEMENT, ACCURACY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. THE CENTER EXPRESSLY DISCLAIMS, AND SHALL HAVE NO LIABILITY FOR, ANY ERRORS, OMISSIONS, INACCURACIES, OR INTERRUPTIONS IN THE DATA.  USER ASSUMES ALL RISK ASSOCIATED WITH USE OF THE DATA AND AGREES THAT IN NO EVENT SHALL THE CENTER OR ITS AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF BUSINESS, LOSS OF REVENUE OR PROFITS, BUSINESS INTERRUPTIONS, LOSS OF INFORMATION OR DATA, OR OTHER FINANCIAL LOSS, ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE DATA BASED ON ANY THEORY OF LIABILITY INCLUDING, BUT NOT LIMITED TO, BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF USER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n\tIII.\tPrivacy, Confidentiality and Security.\n\tA.\tThe Center respects the privacy of individuals. The Center has taken measures to ensure that the Data is devoid of information that could be used to identify individuals (including, but not limited to, names, telephone numbers and email addresses) who participated in or who were the subject of any research surveys or studies used to collect the Data (\u201cPersonally Identifying Information\u201d). However, in the event that you discover any such Personally Identifying Information in the Data, you shall immediately notify the Center and refrain from using any such Personally Identifying Information. User further agrees not to (and will not allow other to) attempt to ascertain the identity of or derive information about individual survey respondents nor link the individual survey records contained in the Data with other data sets for the purpose of identifying individuals.\n\tB.\tUser shall maintain the Data as confidential, and will not use it, in any way nor disclose it to any third party, except as expressly permitted under this Agreement. User agrees, at its sole expense, to take reasonable precautions to protect the confidentiality of Data, at least as stringent as User takes to protect User\u2019s own confidential information, but in no case less than reasonable care.  The foregoing confidentiality obligations shall not apply to any information which: (a) is known to User prior to receipt from the Center other than as a result of User\u2019s breach of any legal obligation; (b) becomes known (independently of disclosure by the Center) to User directly or indirectly from a source having the legal right to disclose such information; (c) is or becomes publicly known, except through a breach of this Agreement by User; or (d) is required to be disclosed by User to comply with applicable laws or governmental regulations, provided that User gives the Center, to the extent practicable, reasonable prior written notice of such disclosure sufficient to permit the Center to contest such disclosure and User takes reasonable and lawful actions to avoid and\/or minimize the extent of such disclosure.  The parties agree that any breach of the confidentiality obligations of this Agreement by User will result in irreparable damage to the Center for which it will have no adequate remedy at law.  Therefore, it is agreed that the Center shall be entitled to equitable relief, including an injunction enjoining any such breach by any court of competent jurisdiction.  Such injunction shall be without prejudice to any other right or remedy to which the Center may be entitled, including but not limited to any damages resulting from User\u2019s breach of the confidentiality obligations under this Agreement.  Any failure or delay in exercising any right, power or privilege hereunder shall not operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any right, power or privilege hereunder.\n\tC.\tUser will immediately notify the Center and cooperate with investigations, and provide any information reasonably requested by the Center if User knows of or suspects any breach of security or potential vulnerability of the Data and will promptly remedy such breach.\n\n\tIV.\tIndemnification. User shall indemnify and hold harmless the Center, its affiliates and related organizations, and each of their respective officers, directors, employees, legal representatives, agents, successors and assigns, from and against any damages, liabilities, costs and expenses (including reasonable attorneys\u2019 and professionals\u2019 fees and court costs arising out of any third-party claims based on (a) User\u2019s access or use of the Data; (b) any changes made by User to the Data in accordance with this Agreement; or (c) any breach by User of any of the terms and conditions of this Agreement.\n\n\tV.\tTermination. This license will terminate (1) automatically without notice from the Center if you fail to comply with the provisions of this Agreement or (2) immediately upon written notice (by e-mail or otherwise) from the Center. Upon termination of this Agreement, you agree to destroy all copies of any Data, in whole or in part and in any and all media, in your custody and control.\n\n\tVI.\tGoverning law. This Agreement shall be governed by, construed and interpreted in accordance with the laws of the District of Columbia. You further agree to submit to the jurisdiction and venue of the courts of the District of Columbia for any dispute relating to this Agreement.<\/textarea>\n\n\t\t\t\t<div class=\"required field\" style=\"margin-top: 1em\">\n\t\t\t\t\t<div class=\"ui checkbox\">\n\t\t\t\t\t\t<input type=\"checkbox\" tabindex=\"0\" name=\"acceptance\" data-validate=\"terms\">\n\t\t\t\t\t\t<label>I have read and abide by the conditions in this agreement<\/label>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\n\t\t\t\t<div class=\"ui secondary submit button flat\">Submit<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\t\t"</script>		<script>
+				window.prcBreakingNews = {
+			label: 'SEE ALL CORONAVIRUS RESEARCH >',
+			url: 'https://www.pewresearch.org/topics/coronavirus-disease-2019-covid-19/'		};
+					</script>
+		<script>var siteURL = 'https://www.pewresearch.org'; var siteID = 1; var siteDomain = 'https://www.pewresearch.org';</script>        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=MVFJNW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        			<div
+				id="js-react-user-survey"
+				data-survey-year="2023"
+				data-blog-id="1"
+				data-post-pub-date="2023-09-25"
+			></div>
+		<link rel='stylesheet' id='all-css-0' href='https://www.pewresearch.org/wp-content/plugins/prc-block-areas/style.css?m=1700072052g' type='text/css' media='all' />
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<style id='prc-block-core-paragraph-style-inline-css'>
+p.has-drop-cap:not(:focus):first-letter{font-size:3.6em!important;line-height:1;margin:0;padding-right:.14em}.wp-block[data-type="core/paragraph"].is-style-has-big-number:before,p.is-style-has-big-number:before{color:#ec9f2e;content:counter(section);counter-increment:section;float:left;font-family:var(--wp--preset--font-family--sans-serif);font-size:3.2142857143em;font-weight:700;margin-right:1rem;padding-bottom:1rem;padding-top:.6rem}.wp-block[data-type="core/paragraph"].is-style-has-big-number>strong,p.is-style-has-big-number>strong{font-family:var(--wp--preset--font-family--sans-serif);font-size:1.2142857143em}p:first-child{margin-top:0}p:last-child{margin-bottom:0}
+
+</style>
+<style id='prc-block-collapsible-style-inline-css'>
+.wp-block-prc-block-collapsible{background-color:#f7f7f1;border:1px solid rgba(34,36,38,.15);box-sizing:border-box;margin-block-end:1.5em;padding:12px 16px}.wp-block-prc-block-collapsible .wp-block-prc-block-collapsible__icon{-webkit-appearance:none;appearance:none;background:transparent!important;border:none!important;cursor:pointer;padding:0 0 0 .5em!important}.wp-block-prc-block-collapsible .wp-block-prc-block-collapsible__icon .fa-circle-plus{display:inherit}.wp-block-prc-block-collapsible .wp-block-prc-block-collapsible__icon .fa-circle-minus{display:none}.wp-block-prc-block-collapsible .wp-block-prc-block-collapsible__title{align-items:center;color:rgba(0,0,0,.95);display:flex;font-family:var(--wp--preset--font-family--sans-serif);font-size:1em;font-weight:700;line-height:160%}.wp-block-prc-block-collapsible .wp-block-prc-block-collapsible__content{display:none;font-family:var(--wp--preset--font-family--sans-serif);font-size:14px;padding-top:1em}.wp-block-prc-block-collapsible .wp-block-prc-block-collapsible__content:after{content:"";display:table;width:100%}.wp-block-prc-block-collapsible:not(.wp-block) .wp-block-prc-block-collapsible__title{cursor:pointer}.wp-block-prc-block-collapsible.is-open .wp-block-prc-block-collapsible__content{display:block}.wp-block-prc-block-collapsible.is-open .wp-block-prc-block-collapsible__icon .fa-circle-plus{display:none}.wp-block-prc-block-collapsible.is-open .wp-block-prc-block-collapsible__icon .fa-circle-minus{display:inherit}.wp-block-prc-block-collapsible.is-style-caret .wp-block-prc-block-collapsible__title>div,.wp-block-prc-block-collapsible.is-style-caret .wp-block-prc-block-collapsible__title>span{order:2}.wp-block-prc-block-collapsible.is-style-caret .wp-block-prc-block-collapsible__title button{order:1}
+
+</style>
+<link rel='stylesheet' id='all-css-6' href='https://www.pewresearch.org/wp-content/plugins/prc-block-library/blocks/core-image/build/style-index.css?m=1700072052g' type='text/css' media='all' />
+<style id='wp-block-heading-inline-css'>
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+</style>
+<style id='prc-block-core-heading-style-inline-css'>
+h1.is-style-section-header,h1[data-type="core/heading"].is-style-section-header,h2.is-style-section-header,h2[data-type="core/heading"].is-style-section-header,h3.is-style-section-header,h3[data-type="core/heading"].is-style-section-header,h4.is-style-section-header,h4[data-type="core/heading"].is-style-section-header,h5.is-style-section-header,h5[data-type="core/heading"].is-style-section-header,h6.is-style-section-header,h6[data-type="core/heading"].is-style-section-header{border-bottom:1px solid #000;margin-bottom:24px;padding-bottom:4px}h2.is-style-section-header,h2[data-type="core/heading"].is-style-section-header{font-size:21px}h1.is-style-sub-header-alt,h1[data-type="core/heading"].is-style-sub-header-alt,h2.is-style-sub-header-alt,h2[data-type="core/heading"].is-style-sub-header-alt,h3.is-style-sub-header-alt,h3[data-type="core/heading"].is-style-sub-header-alt,h4.is-style-sub-header-alt,h4[data-type="core/heading"].is-style-sub-header-alt,h5.is-style-sub-header-alt,h5[data-type="core/heading"].is-style-sub-header-alt,h6.is-style-sub-header-alt,h6[data-type="core/heading"].is-style-sub-header-alt{background:#000;color:#fff;display:block}h1.is-style-hidden:not(.wp-block-heading),h2.is-style-hidden:not(.wp-block-heading),h3.is-style-hidden:not(.wp-block-heading),h4.is-style-hidden:not(.wp-block-heading),h5.is-style-hidden:not(.wp-block-heading),h6.is-style-hidden:not(.wp-block-heading){font-size:0!important;height:0!important;line-height:0px!important;margin:none!important;opacity:0!important}h1[data-type="core/heading"].is-style-hidden,h2[data-type="core/heading"].is-style-hidden,h3[data-type="core/heading"].is-style-hidden,h4[data-type="core/heading"].is-style-hidden,h5[data-type="core/heading"].is-style-hidden,h6[data-type="core/heading"].is-style-hidden{opacity:.5}
+
+</style>
+<style id='wp-block-list-item-inline-css'>
+.wp-block-list-item.is-style-list-item-float-image-right img { float: right; margin-left: 1em; margin-bottom: 1em; }
+</style>
+<style id='wp-block-list-inline-css'>
+ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}
+</style>
+<style id='wp-block-group-inline-css'>
+.wp-block-group{box-sizing:border-box}
+.wp-block-group.is-style-fluid{width: 100%; max-width: 100%}
+.wp-block-group.is-style-200-wide, .wp-block[data-type="core/group"].is-style-200-wide {width: 100%!important; max-width: 200px!important}
+.wp-block-group.is-style-250-wide, .wp-block[data-type="core/group"].is-style-250-wide {width: 100%!important; max-width: 250px!important}
+.wp-block-group.is-style-300-wide, .wp-block[data-type="core/group"].is-style-300-wide {width: 100%!important; max-width: 300px!important}
+.wp-block-group.is-style-320-wide, .wp-block[data-type="core/group"].is-style-320-wide {width: 100%!important; max-width: 320px!important}
+.wp-block-group.is-style-420-wide, .wp-block[data-type="core/group"].is-style-420-wide {width: 100%!important; max-width: 420px!important}
+.wp-block-group.is-style-640-wide, .wp-block[data-type="core/group"].is-style-640-wide {width: 100%!important; max-width: 640p!important}
+</style>
+<style id='prc-block-core-group-style-inline-css'>
+.wp-block-cover.alignfull+.wp-block-group.alignfull{margin-top:-2em;padding:1em 2em 2em}.wp-block-group.is-style-social-group{border-bottom:1px solid var(--wp--preset--color--gray);margin-block-end:1.5em}.wp-block-group.is-style-social-group .wp-block-social-links{background:#fff;padding-bottom:.5em;padding-top:.65em}.wp-block-group.is-style-callout{border-top:1px solid #e6e7e6}.wp-block-group.is-style-callout p{font-family:var(--wp--preset--font-family--sans-serif);font-size:14px}.wp-block-group.is-style-callout .wp-block-group__inner-container ul li{font-family:var(--wp--preset--font-family--sans-serif)!important;font-size:13px}.wp-block-group.is-style-card-alt{padding-bottom:1rem}@media only screen and (min-width:767px){.wp-block-group.is-style-card-alt{padding-left:1rem;padding-right:1rem}}.wp-block-group.is-style-card-alt .is-style-sub-header{font-weight:400;letter-spacing:.1em;line-height:1.28571429em;margin-bottom:1rem;padding:9px 1em}.wp-block-group.is-style-card-alt .is-style-sub-header a{color:#fff}@media only screen and (min-width:992px){.wp-block-group.alignright{clear:right;float:right;margin-left:1em}.wp-block-group.alignleft{clear:left;float:left;margin-right:1em}}.is-root-container,.wp-site-blocks{container:prc-responsive-container/inline-size}@container prc-responsive-container (max-width: 420px){.wp-block-group[data-hide-on-mobile=true].wp-block:before{border:1px dashed #ddd;color:#999;content:"This block is hidden on mobile.";display:block;font-size:.8em;padding:1em;text-align:center}.wp-block-group[data-hide-on-mobile=true]>*{display:none!important}}@container prc-responsive-container (min-width: 420px) and (max-width: 790px){.wp-block-group[data-hide-on-tablet=true].wp-block:before{border:1px dashed #ddd;color:#999;content:"This block is hidden on tablet.";display:block;font-size:.8em;padding:1em;text-align:center}.wp-block-group[data-hide-on-tablet=true]>*{display:none!important}}@container prc-responsive-container (min-width: 791px){.wp-block-group[data-hide-on-desktop=true].wp-block:before{border:1px dashed #ddd;color:#999;content:"This block is hidden on desktop.";display:block;font-size:.8em;padding:1em;text-align:center}.wp-block-group[data-hide-on-desktop=true]>*{display:none!important}}.wp-block-group.essay--toolbar{align-items:center;display:flex;padding:1em 0;width:100%}.wp-block-group.essay--toolbar .wp-block-social-links{margin-top:0!important;padding-top:0!important}.wp-block-group.essay--toolbar .wp-block-post-date{flex-grow:1}
+
+</style>
+<style id='prc-block-form-input-text-style-inline-css'>
+.wp-block-prc-block-form-input-text{--border-color:rgba(0,0,0,.2);--wp--custom--border-radius:3px;-webkit-appearance:none;border:1px solid transparent;border-color:var(--border-color);border-radius:var(--wp--custom--border-radius);box-shadow:inset 0 0 0 0 transparent;box-sizing:border-box;flex-grow:1;margin:0;outline:none;padding:9px 13px;text-align:left;transition:color .1s ease,border-color .1s ease;vertical-align:top}
+
+</style>
+<style id='wp-block-button-inline-css'>
+.wp-block-button__link{box-sizing:border-box;cursor:pointer;display:inline-block;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}.wp-block-button .wp-block-button__link.is-style-outline,.wp-block-button.is-style-outline>.wp-block-button__link{border:2px solid;padding:.667em 1.333em}.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color),.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color){color:currentColor}.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background),.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background){background-color:transparent;background-image:none}.wp-block-button .wp-block-button__link:where(.has-border-color){border-width:initial}.wp-block-button .wp-block-button__link:where([style*=border-top-color]){border-top-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-right-color]){border-right-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-bottom-color]){border-bottom-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-left-color]){border-left-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-style]){border-width:initial}.wp-block-button .wp-block-button__link:where([style*=border-top-style]){border-top-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-right-style]){border-right-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-bottom-style]){border-bottom-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-left-style]){border-left-width:medium}
+.wp-block-button .wp-block-button__link{border-radius: 3px;}
+</style>
+<style id='prc-block-mailchimp-form-style-inline-css'>
+.wp-block-prc-block-mailchimp-form{display:flex;flex-direction:column;gap:1em}@container action (min-width: 362px){.wp-block-prc-block-mailchimp-form{flex-direction:row}.wp-block-prc-block-mailchimp-form input{flex-grow:1;margin-right:5px}}.wp-block-prc-block-mailchimp-form button{-webkit-appearance:none;appearance:none;background:none;border:none;font-size:inherit;margin:0;padding:0}.wp-block-prc-block-mailchimp-form .wp-block-button>.wp-block-button__link.has-success{background-color:green!important;color:#fff!important}.wp-block-prc-block-mailchimp-form .wp-block-button>.wp-block-button__link.has-error{background-color:red!important;color:#fff!important}
+
+</style>
+<link rel='stylesheet' id='all-css-24' href='https://www.pewresearch.org/wp-content/plugins/prc-block-library/blocks/promo/build/style-index.css?m=1692280908g' type='text/css' media='all' />
+<style id='prc-block-table-of-contents-style-inline-css'>
+#prc-mobile-toc,.wp-block-group.mobile-toc{position:sticky;top:0;z-index:100}#prc-mobile-toc .wp-block-group.mobile-toc,.wp-block-group.mobile-toc .wp-block-group.mobile-toc{position:relative}.wp-block-group:not(.wp-block).mobile-toc{background:var(--wp--preset--color--white)!important;border-bottom:1px solid #dadbdb;border-top:1px solid #dadbdb;margin-bottom:1em;max-width:100%!important;padding-bottom:1em}.wp-block-group:not(.wp-block).mobile-toc h3{cursor:pointer;letter-spacing:.1em;margin-bottom:0;padding-top:1em}.wp-block-group:not(.wp-block).mobile-toc h3:after{content:var(--prc--icon--dropdown--content);display:block;float:right;font-family:var(--prc--icon--dropdown--family)}.wp-block-group:not(.wp-block).mobile-toc .wp-block-prc-block-table-of-contents{padding-top:1em}.wp-block-group:not(.wp-block).mobile-toc.is-open h3:after{transform:rotate(180deg) scaleX(-1)}.wp-block-group:not(.wp-block).mobile-toc:not(.is-open) .wp-block-prc-block-table-of-contents{display:none}.wp-block-group:not(.wp-block).mobile-toc-icons{align-items:center;background:var(--wp--preset--color--white)!important;border-bottom:1px solid #dadbdb;border-top:1px solid #dadbdb;display:flex;margin-bottom:1em;padding-bottom:0}.wp-block-group:not(.wp-block).mobile-toc-icons h3{display:block}.wp-block-group:not(.wp-block).mobile-toc-icons .hidden-text{display:none}.wp-block-group:not(.wp-block).mobile-toc-icons .wp-block-prc-block-table-of-contents{padding-top:0}.wp-block-group:not(.wp-block).mobile-toc-icons .wp-block-prc-block-table-of-contents .ui.list{align-items:stretch;display:flex}.wp-block-group:not(.wp-block).mobile-toc-icons .wp-block-prc-block-table-of-contents .ui.list .item{display:inline-block;filter:grayscale(100%);flex-grow:1;opacity:.7}.wp-block-group:not(.wp-block).mobile-toc-icons .wp-block-prc-block-table-of-contents .ui.list .item.active{filter:grayscale(0);opacity:1}.wp-block-group:not(.wp-block).mobile-toc-icons .wp-block-prc-block-table-of-contents .ui.list .item.hidden,.wp-block-prc-block-table-of-contents img{display:none!important}
+
+</style>
+<link rel='stylesheet' id='all-css-26' href='https://www.pewresearch.org/wp-content/plugins/prc-block-library/blocks/story-item/build/style-index.css?m=1700072052g' type='text/css' media='all' />
+<style id='prc-block-popular-story-style-inline-css'>
+.big-number{color:#d7b236;content:counter(section);counter-increment:section;float:left;font-family:franklin-gothic-urw,Verdana,Geneva,sans-serif;font-size:21px;font-weight:500;margin-right:13px;opacity:81%;padding-bottom:.15rem;padding-top:.15rem}.wp-block-prc-block-popular-story{display:flex;margin-bottom:15px;padding-bottom:15px}.wp-block-prc-block-popular-story:not(:last-child){border-bottom:1px solid var(--wp--preset--color--gray-cool)}.wp-block-prc-block-popular-story .title{color:var(--wp--preset--color--text-color);font-family:var(--wp--preset--font-family--serif);font-size:18px;font-weight:400;line-height:23px;margin:0}
+
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--link-color: #346EAD;--wp--preset--color--text-color: #2a2a2a;--wp--preset--color--slate: #282828;--wp--preset--color--gray-darkest: #444444;--wp--preset--color--gray-dark: #818181;--wp--preset--color--gray-medium: #b7b8b9;--wp--preset--color--gray-light: #dadbdb;--wp--preset--color--gray: #efefef;--wp--preset--color--gray-alt: #6b6b6b;--wp--preset--color--gray-cool: #F8F8F8;--wp--preset--color--beige-dark: #b7b8af;--wp--preset--color--beige-medium: #f0f0e6;--wp--preset--color--beige: #f7f7f1;--wp--preset--color--oatmeal-text: #58585a;--wp--preset--color--oatmeal-dark: #b2b3a5;--wp--preset--color--oatmeal-light: #f8f9f5;--wp--preset--color--oatmeal: #ecece3;--wp--preset--color--democrat-blue: #436983;--wp--preset--color--republican-red: #bf3927;--wp--preset--color--eggplant: #756a7e;--wp--preset--color--science-orange: #ea9e2c;--wp--preset--color--global-green: #949d48;--wp--preset--color--race-ethnicity-brown: #a55a26;--wp--preset--color--politics-brown: #d1a730;--wp--preset--color--religion-blue: #0090bf;--wp--preset--color--social-trends-teal: #377668;--wp--preset--color--journalism-plum: #733d47;--wp--preset--color--internet-blue: #006699;--wp--preset--color--mustard: #d7b236;--wp--preset--color--sandwisp: #e4cb84;--wp--preset--color--cape-palliser: #a5673f;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 16px;--wp--preset--font-size--medium: 18px;--wp--preset--font-size--large: 20px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--small-label: 13px;--wp--preset--font-size--h-1: 36px;--wp--preset--font-size--h-2: 28px;--wp--preset--font-size--h-3: 20px;--wp--preset--font-size--h-4: 18px;--wp--preset--font-size--h-5: 16px;--wp--preset--font-family--sans-serif: 'franklin-gothic-urw', Verdana, Geneva, sans-serif;--wp--preset--font-family--serif: 'abril-text', var(--wp--preset--font-family--default);--wp--preset--font-family--default: Georgia, 'Times New Roman', Times, serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);--wp--custom--base-unit: 16px;--wp--custom--column-count: 16;--wp--custom--max-width: 1152px;--wp--custom--offset-margin: calc(-1400px + var(--wp--custom--max-width));--wp--custom--content-size: 640px;--wp--custom--content-size-wide: 920px;--wp--custom--margin-block-end: 1.5em;--wp--custom--border-radius: 3px;}body { margin: 0;--wp--style--global--content-size: 640px;--wp--style--global--wide-size: 1152px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{color: var(--wp--preset--color--text-color);font-family: var(--wp--preset--font-family--default);font-size: var(--wp--preset--font-size--small);line-height: 160%;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--link-color);text-decoration: none;}h1{font-family: var(--wp--preset--font-family--serif);font-size: var(--wp--preset--font-size--h-1);font-weight: bold;}h2{font-family: var(--wp--preset--font-family--sans-serif);font-size: var(--wp--preset--font-size--h-2);font-weight: bold;}h3{font-family: var(--wp--preset--font-family--sans-serif);font-size: var(--wp--preset--font-size--h-3);font-weight: bold;}h4{font-family: var(--wp--preset--font-family--sans-serif);font-size: var(--wp--preset--font-size--h-4);font-weight: bold;}h5{font-family: var(--wp--preset--font-family--serif-default);font-size: var(--wp--preset--font-size--h-5);font-weight: normal;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-link-color-color{color: var(--wp--preset--color--link-color) !important;}.has-text-color-color{color: var(--wp--preset--color--text-color) !important;}.has-slate-color{color: var(--wp--preset--color--slate) !important;}.has-gray-darkest-color{color: var(--wp--preset--color--gray-darkest) !important;}.has-gray-dark-color{color: var(--wp--preset--color--gray-dark) !important;}.has-gray-medium-color{color: var(--wp--preset--color--gray-medium) !important;}.has-gray-light-color{color: var(--wp--preset--color--gray-light) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-gray-alt-color{color: var(--wp--preset--color--gray-alt) !important;}.has-gray-cool-color{color: var(--wp--preset--color--gray-cool) !important;}.has-beige-dark-color{color: var(--wp--preset--color--beige-dark) !important;}.has-beige-medium-color{color: var(--wp--preset--color--beige-medium) !important;}.has-beige-color{color: var(--wp--preset--color--beige) !important;}.has-oatmeal-text-color{color: var(--wp--preset--color--oatmeal-text) !important;}.has-oatmeal-dark-color{color: var(--wp--preset--color--oatmeal-dark) !important;}.has-oatmeal-light-color{color: var(--wp--preset--color--oatmeal-light) !important;}.has-oatmeal-color{color: var(--wp--preset--color--oatmeal) !important;}.has-democrat-blue-color{color: var(--wp--preset--color--democrat-blue) !important;}.has-republican-red-color{color: var(--wp--preset--color--republican-red) !important;}.has-eggplant-color{color: var(--wp--preset--color--eggplant) !important;}.has-science-orange-color{color: var(--wp--preset--color--science-orange) !important;}.has-global-green-color{color: var(--wp--preset--color--global-green) !important;}.has-race-ethnicity-brown-color{color: var(--wp--preset--color--race-ethnicity-brown) !important;}.has-politics-brown-color{color: var(--wp--preset--color--politics-brown) !important;}.has-religion-blue-color{color: var(--wp--preset--color--religion-blue) !important;}.has-social-trends-teal-color{color: var(--wp--preset--color--social-trends-teal) !important;}.has-journalism-plum-color{color: var(--wp--preset--color--journalism-plum) !important;}.has-internet-blue-color{color: var(--wp--preset--color--internet-blue) !important;}.has-mustard-color{color: var(--wp--preset--color--mustard) !important;}.has-sandwisp-color{color: var(--wp--preset--color--sandwisp) !important;}.has-cape-palliser-color{color: var(--wp--preset--color--cape-palliser) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-link-color-background-color{background-color: var(--wp--preset--color--link-color) !important;}.has-text-color-background-color{background-color: var(--wp--preset--color--text-color) !important;}.has-slate-background-color{background-color: var(--wp--preset--color--slate) !important;}.has-gray-darkest-background-color{background-color: var(--wp--preset--color--gray-darkest) !important;}.has-gray-dark-background-color{background-color: var(--wp--preset--color--gray-dark) !important;}.has-gray-medium-background-color{background-color: var(--wp--preset--color--gray-medium) !important;}.has-gray-light-background-color{background-color: var(--wp--preset--color--gray-light) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-gray-alt-background-color{background-color: var(--wp--preset--color--gray-alt) !important;}.has-gray-cool-background-color{background-color: var(--wp--preset--color--gray-cool) !important;}.has-beige-dark-background-color{background-color: var(--wp--preset--color--beige-dark) !important;}.has-beige-medium-background-color{background-color: var(--wp--preset--color--beige-medium) !important;}.has-beige-background-color{background-color: var(--wp--preset--color--beige) !important;}.has-oatmeal-text-background-color{background-color: var(--wp--preset--color--oatmeal-text) !important;}.has-oatmeal-dark-background-color{background-color: var(--wp--preset--color--oatmeal-dark) !important;}.has-oatmeal-light-background-color{background-color: var(--wp--preset--color--oatmeal-light) !important;}.has-oatmeal-background-color{background-color: var(--wp--preset--color--oatmeal) !important;}.has-democrat-blue-background-color{background-color: var(--wp--preset--color--democrat-blue) !important;}.has-republican-red-background-color{background-color: var(--wp--preset--color--republican-red) !important;}.has-eggplant-background-color{background-color: var(--wp--preset--color--eggplant) !important;}.has-science-orange-background-color{background-color: var(--wp--preset--color--science-orange) !important;}.has-global-green-background-color{background-color: var(--wp--preset--color--global-green) !important;}.has-race-ethnicity-brown-background-color{background-color: var(--wp--preset--color--race-ethnicity-brown) !important;}.has-politics-brown-background-color{background-color: var(--wp--preset--color--politics-brown) !important;}.has-religion-blue-background-color{background-color: var(--wp--preset--color--religion-blue) !important;}.has-social-trends-teal-background-color{background-color: var(--wp--preset--color--social-trends-teal) !important;}.has-journalism-plum-background-color{background-color: var(--wp--preset--color--journalism-plum) !important;}.has-internet-blue-background-color{background-color: var(--wp--preset--color--internet-blue) !important;}.has-mustard-background-color{background-color: var(--wp--preset--color--mustard) !important;}.has-sandwisp-background-color{background-color: var(--wp--preset--color--sandwisp) !important;}.has-cape-palliser-background-color{background-color: var(--wp--preset--color--cape-palliser) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-link-color-border-color{border-color: var(--wp--preset--color--link-color) !important;}.has-text-color-border-color{border-color: var(--wp--preset--color--text-color) !important;}.has-slate-border-color{border-color: var(--wp--preset--color--slate) !important;}.has-gray-darkest-border-color{border-color: var(--wp--preset--color--gray-darkest) !important;}.has-gray-dark-border-color{border-color: var(--wp--preset--color--gray-dark) !important;}.has-gray-medium-border-color{border-color: var(--wp--preset--color--gray-medium) !important;}.has-gray-light-border-color{border-color: var(--wp--preset--color--gray-light) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-gray-alt-border-color{border-color: var(--wp--preset--color--gray-alt) !important;}.has-gray-cool-border-color{border-color: var(--wp--preset--color--gray-cool) !important;}.has-beige-dark-border-color{border-color: var(--wp--preset--color--beige-dark) !important;}.has-beige-medium-border-color{border-color: var(--wp--preset--color--beige-medium) !important;}.has-beige-border-color{border-color: var(--wp--preset--color--beige) !important;}.has-oatmeal-text-border-color{border-color: var(--wp--preset--color--oatmeal-text) !important;}.has-oatmeal-dark-border-color{border-color: var(--wp--preset--color--oatmeal-dark) !important;}.has-oatmeal-light-border-color{border-color: var(--wp--preset--color--oatmeal-light) !important;}.has-oatmeal-border-color{border-color: var(--wp--preset--color--oatmeal) !important;}.has-democrat-blue-border-color{border-color: var(--wp--preset--color--democrat-blue) !important;}.has-republican-red-border-color{border-color: var(--wp--preset--color--republican-red) !important;}.has-eggplant-border-color{border-color: var(--wp--preset--color--eggplant) !important;}.has-science-orange-border-color{border-color: var(--wp--preset--color--science-orange) !important;}.has-global-green-border-color{border-color: var(--wp--preset--color--global-green) !important;}.has-race-ethnicity-brown-border-color{border-color: var(--wp--preset--color--race-ethnicity-brown) !important;}.has-politics-brown-border-color{border-color: var(--wp--preset--color--politics-brown) !important;}.has-religion-blue-border-color{border-color: var(--wp--preset--color--religion-blue) !important;}.has-social-trends-teal-border-color{border-color: var(--wp--preset--color--social-trends-teal) !important;}.has-journalism-plum-border-color{border-color: var(--wp--preset--color--journalism-plum) !important;}.has-internet-blue-border-color{border-color: var(--wp--preset--color--internet-blue) !important;}.has-mustard-border-color{border-color: var(--wp--preset--color--mustard) !important;}.has-sandwisp-border-color{border-color: var(--wp--preset--color--sandwisp) !important;}.has-cape-palliser-border-color{border-color: var(--wp--preset--color--cape-palliser) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-small-label-font-size{font-size: var(--wp--preset--font-size--small-label) !important;}.has-h-1-font-size{font-size: var(--wp--preset--font-size--h-1) !important;}.has-h-2-font-size{font-size: var(--wp--preset--font-size--h-2) !important;}.has-h-3-font-size{font-size: var(--wp--preset--font-size--h-3) !important;}.has-h-4-font-size{font-size: var(--wp--preset--font-size--h-4) !important;}.has-h-5-font-size{font-size: var(--wp--preset--font-size--h-5) !important;}.has-sans-serif-font-family{font-family: var(--wp--preset--font-family--sans-serif) !important;}.has-serif-font-family{font-family: var(--wp--preset--font-family--serif) !important;}.has-default-font-family{font-family: var(--wp--preset--font-family--default) !important;}
+:where(.wp-block-prc-block-grid-column.is-layout-flex){gap: 24px;}:where(.wp-block-prc-block-grid-column.is-layout-grid){gap: 24px;}
+.wp-block-prc-block-taxonomy-list a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<script type="text/javascript" id="pew-firebase-interactives-js-extra">
+/* <![CDATA[ */
+var interactivesDBConfig = {"apiKey":"AIzaSyCrK2dKMxf9Fmhpym2M4dajfcKyMY4_MBA","databaseURL":"https:\/\/prc-app-prod-interactives.firebaseio.com","projectId":"prc-app-prod"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="prc-firebase-js-extra">
+/* <![CDATA[ */
+var config = {"apiKey":"AIzaSyCrK2dKMxf9Fmhpym2M4dajfcKyMY4_MBA","authDomain":"prc-app-prod.firebaseapp.com","databaseURL":"https:\/\/prc-app-prod.firebaseio.com","projectId":"prc-app-prod"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.pewresearch.org/_static/??-eJy1Ul1vwjAM/EMLLh0V7AHtp6DEMatL87E4ofv5S0W7B6RJExpPcay7sy85mKLC4DP5DLknRwIx4SnqNHcsy9KGVHxmR+rQorEH2m0GeYG/kjEkUu3b6+7cNd09M47lg73AtcoHMIVHC+wtfd0DceR6KFfUSqnT1KwNgoljFjBhonTC4GLwFStw5kRGC/0USsf4HGGrs56LB9QlYbWcKWnMfCX5jwXJf5a62u0blsvGsX/Sq5bcP2h81fgtFzPJjAEvquZKzzmhacWyx7HYmrtBbkb7EC6y2Hx3x+2+aZp923Tt8A3qPxhB" ></script><script type="text/javascript" id="wp-parsely-loader-js-before">
+/* <![CDATA[ */
+window.wpParselySiteId = 'pewresearch.org';
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.pewresearch.org/wp-content/mu-plugins/wp-parsely-3.10/build/loader.js?ver=1d54726e91ce976b3e82" id="wp-parsely-loader-js"></script>
+<script type="text/javascript" data-parsely-site="pewresearch.org" src="https://cdn.parsely.com/keys/pewresearch.org/p.js?ver=3.10.0" id="parsely-cfg"></script>
+<script type="text/javascript" src="https://www.pewresearch.org/_static/??-eJydjlEKAjEMBS+kTV2Q/RKPIrUNbItJu0nWxdu7Qi9geX8DMzzY2zlWNmQDW5BQoUl8tCA/ElTRFIoCZYY3cqriFCmw5egO5oqe4I+ELpnGvCoWa0Idsfvxsm4oH5eCHXu+xlrjZn+BvG5ZsBfudLvM3vt58tepfAHy3pVk" ></script><script type="text/javascript" src="https://www.pewresearch.org/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0" id="react-dom-js"></script>
+<script type="text/javascript" src="https://www.pewresearch.org/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.pewresearch.org/wp-includes/js/dist/url.min.js?m=1699561119g" ></script><script type="text/javascript" src="https://www.pewresearch.org/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a" id="wp-api-fetch-js"></script>
+<script type="text/javascript" id="wp-api-fetch-js-after">
+/* <![CDATA[ */
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://www.pewresearch.org/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "da9855c603" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://www.pewresearch.org/wp-admin/admin-ajax.php?action=rest-nonce";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.pewresearch.org/_static/??/wp-includes/js/dist/escape-html.min.js,/wp-includes/js/dist/element.min.js,/wp-content/plugins/prc-user-accounts/build/index.js?m=1700072052j" ></script><script defer type="text/javascript" src="https://stats.wp.com/e-202346.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'151703594',post:'441740',tz:'-5',srv:'www.pewresearch.org',hp:'vip',j:'1:12.8.1'} ]);
+_stq.push([ "clickTrackerInit", "151703594", "441740" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="prc-block-mailchimp-form-view-script-js-extra">
+/* <![CDATA[ */
+var mailChimpFormConfig = {"HCAPTCHA_KEY":"0fe85c0d-1c67-498a-9b51-eb9d3b473970"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.pewresearch.org/_static/??-eJylj90KwjAMRl/ImFaQeSM+irRd5zLTH5rOsbd3DgXx0t0lJ5yPLzhlcClWHyvW3gcvmIu7ZlNepCV5YwxGlsG0oO1Ja9X5/SA7/LIzjzeKqw6Wk7sDky2mzLhugi4VD5IcGV5OcSF2JG7xQX76I4zZZCHLfktMMMSup5ChSyVsSapmqQKp+xibvpOaygxU/U+lSzjrRinVHNTxMDwByTqldA==" ></script><script type="text/javascript" src="https://www.pewresearch.org/wp-content/plugins/prc-user-surveys/build/content-strategy/index.js?ver=1.0.0" id="prc-user-survey-content-strategy-js"></script>
+<script type="text/javascript" id="prc-user-survey-content-strategy-js-after">
+/* <![CDATA[ */
+window.countryCode = "US";
+/* ]]> */
+</script>
+
+</body>
+</html>

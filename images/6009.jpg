@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<!-- 
+ _________  _______   ____    ____  
+|  _   _  ||_   __ \ |_   \  /   _| 
+|_/ | | \_|  | |__) |  |   \/   |   
+    | |      |  ___/   | |\  /| |   
+   _| |_    _| |_     _| |_\/_| |_  
+  |_____|  |_____|   |_____||_____|
+  T A L K I N G P O I N T S M E M O                               
+ -->
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Language" content="en">
+  <link rel="alternate" type="application/rss+xml" name="Full RSS Feed" href="https://talkingpointsmemo.com/feed">
+  <link rel="alternate" type="application/rss+xml" name="Edblog RSS Feed" href="https://talkingpointsmemo.com/edblog/feed">
+  <script>
+  //preact and react dont diff vdom nodes the same way
+  //causes a bug where svgs are re-inserted every time a component renders
+  //this patch makes fa svg icons work in our preact components
+  // https://github.com/fullcalendar/fullcalendar/issues/5544#issuecomment-658390524
+  window.FontAwesomeConfig = {
+    autoReplaceSvg: 'nest'
+  }
+</script>
+<script src="https://kit.fontawesome.com/b2c312b4d8.js" crossorigin="anonymous"></script>  <script>
+      var article_views_bucket = "0-3";
+  
+
+  
+  
+      var tpm_category = "Morning Memo";
+  
+      var tpm_author = window.tpm_republished_from || "David Kurtz";
+  
+      var tpm_post_type = "post";
+  
+  var tpm_user_membership = "none";
+
+
+
+    var tpm_wp_env = "production";
+
+      var is_desktop = true;
+  
+      var is_logged_out = true;
+  
+      var is_basic = false;
+  
+      var is_prime = false;
+  
+      var is_adfree = false;
+  
+      var is_inside = false;
+  
+      var is_staff = false;
+  </script>  <title>We All Pay The Price For Kevin McCarthy&#8217;s Pathetic Weakness</title>
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+<meta name="description" content="McCarthy is being extorted by the far&#x2d;right and caving to the pressure by refusing to bring to the floor budget vehicles that would pass right now." />
+<meta property="og:image" content="https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="683" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We All Pay The Price For Kevin McCarthy&#8217;s Pathetic Weakness" />
+<meta property="og:description" content="McCarthy is being extorted by the far&#x2d;right and caving to the pressure by refusing to bring to the floor budget vehicles that would pass right now." />
+<meta property="og:url" content="https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus" />
+<meta property="og:site_name" content="TPM &#8211; Talking Points Memo" />
+<meta property="og:updated_time" content="2023-09-28T13:05+00:00" />
+<meta property="article:published_time" content="2023-09-28T13:05+00:00" />
+<meta property="article:modified_time" content="2023-09-28T13:05+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@TPM_dk" />
+<meta name="twitter:title" content="We All Pay The Price For Kevin McCarthy&#8217;s Pathetic Weakness" />
+<meta name="twitter:description" content="McCarthy is being extorted by the far&#x2d;right and caving to the pressure by refusing to bring to the floor budget vehicles that would pass right now." />
+<meta name="twitter:image" content="https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg" />
+<meta name="twitter:image:width" content="1024" />
+<meta name="twitter:image:height" content="683" />
+<link rel="canonical" href="https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://talkingpointsmemo.com/","name":"TPM: Talking Points Memo"}},{"@type":"ListItem","position":2,"item":{"@id":"https://talkingpointsmemo.com/morning-memo","name":"Morning Memo"}},{"@type":"ListItem","position":3,"item":{"@id":"https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus","name":"We All Pay The Price For Kevin McCarthy&#8217;s Pathetic Weakness"}}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 16.16ms meta | 0.21ms boot -->
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//htlbid.com' />
+<link rel="alternate" type="application/rss+xml" title="TPM - Talking Points Memo &raquo; We Are All Paying The Price For Kevin McCarthy&#8217;s Pathetic Weakness Comments Feed" href="https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus/feed" />
+<link rel='stylesheet' id='all-css-0' href='https://talkingpointsmemo.com/wp-includes/css/dist/block-library/style.min.css?m=1699561119g' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+.is-style-round-corners { border-radius: 6px; padding: 8px 16px; } .is-style-round-corners *:first-child {margin-top: 0 !important} .is-style-round-corners *:last-child {margin-bottom: 0 !important}
+</style>
+<style id='create-block-tpmbackchannelform-style-inline-css'>
+
+
+</style>
+<style id='create-block-tpm-breaking-block-style-inline-css'>
+.wp-block-create-block-tpm-breaking-block{border:1px solid #c3c3c3;border-bottom:0}.wp-block-create-block-tpm-breaking-block p{margin-bottom:0;padding-bottom:1em}@media(max-width:600px){.wp-block-create-block-tpm-breaking-block p{font-size:21px!important;line-height:1.3em!important}}.newspack-front-page .wp-block-create-block-tpm-breaking-block{margin-left:-16px;max-width:calc(100% + 32px);width:calc(100% + 32px)}@media(max-width:600px){.newspack-front-page .wp-block-create-block-tpm-breaking-block{margin-left:0;max-width:100%;width:100%}}
+
+</style>
+<style id='create-block-tpmcontributionbanner-style-inline-css'>
+.wp-block-create-block-tpmcontributionbanner{margin-bottom:16px;margin-left:-16px;max-width:calc(100% + 32px);width:calc(100% + 32px)}
+
+</style>
+<style id='create-block-tpmcontributionmeter-style-inline-css'>
+
+
+</style>
+<style id='create-block-tpmadblock-style-inline-css'>
+.wp-block-create-block-tpmadblock .AdSlot{margin-bottom:1em}.wp-block-create-block-tpmadblock.is-style-border-both .AdSlot [class*=htlad-]{border-bottom:1px solid rgba(0,0,0,.2);border-top:1px solid rgba(0,0,0,.2);padding-bottom:16px;padding-top:16px}.wp-block-create-block-tpmadblock.is-style-border-top .AdSlot [class*=htlad-]{border-top:1px solid rgba(0,0,0,.2);padding-top:16px}.wp-block-create-block-tpmadblock.is-style-border-bottom .AdSlot [class*=htlad-]{border-bottom:1px solid rgba(0,0,0,.2);padding-bottom:16px}.wp-block-create-block-tpmadblock.is-style-border-none .AdSlot [class*=htlad-]{border:0;padding-bottom:0;padding-top:0}
+
+</style>
+<style id='create-block-tpmcivicscience-style-inline-css'>
+.wp-block-create-block-tpmcivicscience{display:block;margin-left:auto;margin-right:auto}.wp-block-create-block-tpmcivicscience.is-style-border-both .csw-wrapper{border-bottom:1px solid rgba(0,0,0,.2);border-top:1px solid rgba(0,0,0,.2);padding-bottom:16px;padding-top:16px}.wp-block-create-block-tpmcivicscience.is-style-border-top .csw-wrapper{border-top:1px solid rgba(0,0,0,.2);padding-top:16px}.wp-block-create-block-tpmcivicscience.is-style-border-bottom .csw-wrapper{border-bottom:1px solid rgba(0,0,0,.2);padding-bottom:16px}.wp-block-create-block-tpmcivicscience.is-style-border-none .csw-wrapper{border:0;padding-bottom:0;padding-top:0}@media(min-width:900px){.wp-block-create-block-tpmcivicscience .csw-wrapper{flex-direction:row!important;flex-wrap:nowrap!important}.wp-block-create-block-tpmcivicscience .csw-wrapper>*{margin:unset!important;width:50%!important}}
+
+</style>
+<style id='create-block-tpmrevcontent-style-inline-css'>
+.wp-block-create-block-tpmrevcontent{display:block;margin-left:auto;margin-right:auto}
+
+</style>
+<style id='wp-parsely-recommendations-style-inline-css'>
+.parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+
+</style>
+<link rel='stylesheet' id='all-css-20' href='https://talkingpointsmemo.com/_static/??-eJyVy0sKwjAQBuALmQ6iBroQz5LHMEYn09BJKL29za7dFFz+jw+WYpIEbhEVPgoZY3LImFHqIRR2K86GkVxYh5xkCKoXOOPbts8HFCap/VO4URKFWrKhtlUeZzKep/BV0Obf6OJ/qIsk1NErP692HO3tYe/2B+neV1Y=' type='text/css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 15px;--wp--preset--font-size--medium: 17px;--wp--preset--font-size--large: 19px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-large: 21px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-extra-large-font-size{font-size: var(--wp--preset--font-size--extra-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='all-css-22' href='https://talkingpointsmemo.com/_static/??/wp-content/plugins/newspack-blocks/dist/block_styles.css,/wp-content/themes/talkingpointsmemo/style.css?m=1700252242' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-google-fonts-css' href='https://fonts.googleapis.com/css?family=Noto+Serif+Display%3A%2C400%2C700%2C900%7CNoto+Serif%3A%2C400%2C400i%2C700%2C700i%7CRoboto%3A300%2C400%2C400i%2C700%2C700i%2C900%7COswald%3A700%2C700i%2C400%2C400i%2C300%2C300i%7CArapey%3A400%2C400i&#038;ver=6.4.1' media='all' />
+<link rel='stylesheet' id='htlbid-style-css' href='https://htlbid.com/v3/talkingpointsmemov2.com/htlbid.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='all-css-26' href='https://talkingpointsmemo.com/_static/??/wp-content/themes/talkingpointsmemo/assets/webpack/theme.cecf2.css,/wp-content/mu-plugins/jetpack-12.8/css/jetpack.css?m=1700278470' type='text/css' media='all' />
+<script type="text/javascript" src="https://talkingpointsmemo.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZpaWpmaGhoWUWAK++Iig=" ></script><link rel="https://api.w.org/" href="https://talkingpointsmemo.com/wp-json/" /><link rel="alternate" type="application/json" href="https://talkingpointsmemo.com/wp-json/wp/v2/posts/1469853" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://talkingpointsmemo.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://talkingpointsmemo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftalkingpointsmemo.com%2Fmorning-memo%2Fkevin-mccarthy-government-shutdown-freedom-caucus" />
+<link rel="alternate" type="text/xml+oembed" href="https://talkingpointsmemo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftalkingpointsmemo.com%2Fmorning-memo%2Fkevin-mccarthy-government-shutdown-freedom-caucus&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		    <script type="text/javascript">
+      var current_post_id = 1469853;
+      var current_post_type = "post";
+      var is_mobile = false;
+      var category = "morning-memo";
+      var googletag = googletag || {};
+      var login_url = "https:\/\/talkingpointsmemo.com\/signin";
+      var SiteSettings = {"cdn_url":"\/\/talkingpointsmemo.com"};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+<script type=x-settings data-module="ad-controller" data-config="{&quot;targeting&quot;:{&quot;section&quot;:&quot;morning-memo&quot;,&quot;membership&quot;:[&quot;anonymous&quot;]},&quot;account_id&quot;:&quot;\/\/&quot;}" ></script>    <!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-5XZ8HFK');
+    </script>
+    <!-- End Google Tag Manager -->
+  
+  
+  
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var _sf_startpt = (new Date()).getTime();
+    var _sf_async_config = {};
+  </script>
+
+  <!-- Sendinblue -->
+    <script type="text/javascript">
+    window.tpm_current_user_email = '';
+    (function() {
+      window.sib = {
+        equeue: [],
+        client_key: "usljlmjmwj4sjrz4bztvbo8u"
+      };
+      /* 
+      OPTIONAL: email for identify request
+      */
+      if (window.tpm_current_user_email) {
+        window.sib.email_id = window.tpm_current_user_email
+      }
+      window.sendinblue = {};
+      for (var j = ['track', 'identify', 'trackLink', 'page'], i = 0; i < j.length; i++) {
+        (function(k) {
+          window.sendinblue[k] = function() {
+            var arg = Array.prototype.slice.call(arguments);
+            (window.sib[k] || function() {
+              var t = {};
+              t[k] = arg;
+              window.sib.equeue.push(t);
+            })(arg[0], arg[1], arg[2], arg[3]);
+          };
+        })(j[i]);
+      }
+      var n = document.createElement("script"),
+        i = document.getElementsByTagName("script")[0];
+      n.type = "text/javascript", n.id = "sendinblue-js", n.async = !0, n.src = "https://sibautomation.com/sa.js?key=" + window.sib.client_key, i.parentNode.insertBefore(n, i), window.sendinblue.page();
+    })();
+  </script>
+
+  
+  <meta property="og:site_name" content='Talking Points Memo' />
+  <meta property="og:description" content='A lot of things happened. Here are some of the things. This...' />
+      <meta property="og:image" content='http://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?w=804' />
+    <meta property="og:image:secure_url" content='https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?w=804' />
+    <meta property="og:image:width" content='804' />
+    <meta property="og:image:height" content='536' />
+    <meta property="og:title" content="We Are All Paying The Price For Kevin McCarthy&#039;s Pathetic Weakness" />
+  <meta property="og:type" content='article' />
+  <meta property="og:locale" content="en_US">
+  <meta property="og:url" content='https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus' />
+  <meta property="og:site_name" content="TPM" />
+  <meta property="fb:admins" content="12330256" />
+  <meta property="fb:pages" content='98658495398' />
+      <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@TPM">
+    <meta name="twitter:site" content="@TPM">
+  <meta name="twitter:title" content="We Are All Paying The Price For Kevin McCarthy&#039;s Pathetic Weakness">
+  <meta name="twitter:description" content="A lot of things happened. Here are some of the things. This...">
+  <meta name="twitter:image" content="https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?w=804">
+  <link rel="pingback" href="https://talkingpointsmemo.com/xmlrpc.php">		<style type="text/css" id="wp-custom-css">
+			body.single-post.postid-1442251 .wp-block-quote.is-style-imessage-left {
+    float: none !important;
+}
+
+body.single-post.postid-1442352 .wp-block-quote.is-style-imessage-left {
+    float: none !important;
+}
+
+body.postid-1442003 blockquote.wp-block-quote.is-style-imessage-left {
+    float: none;
+}
+
+.entry-wrapper figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+@media (max-width: 600px) {
+	.wp-block-columns.is-style-borders>.wp-block-column:after {
+		border: 0 none !important;
+}
+}
+
+
+.newspack-front-page .wp-block-column-edblog-bar .wpnbha .accent-header,
+.newspack-front-page .wp-block-column-edblog-bar .wpnbha .article-section-title:before, 
+.newspack-static-front-page .wp-block-column-edblog-bar .wpnbha .accent-header,
+.newspack-static-front-page .wp-block-column-edblog-bar .wpnbha .article-section-title:before{
+  display:none !important;
+}
+
+.newspack-front-page .wpnbha .cat-links-and-timestamp .entry-meta:first-child {
+  flex-shrink: 0;
+}
+
+.newspack-front-page .wp-block-create-block-tpm-breaking-block {
+  margin: unset;
+  max-width: 100%;
+  width: 100%;
+}
+
+.ProductCard {
+	color: #333;
+}
+
+@media (max-width: 576px){
+	.HeaderAccount.--signed-out .Button{
+		font-size: 13px;
+  padding-left: 6px;
+  padding-right: 6px;
+	}
+}
+
+
+	.HeaderAccount .Button .desktop{
+		display:inline;
+	}
+	
+		.HeaderAccount .Button .mobile{
+		display:none;
+	}
+
+@media (max-width: 576px){
+	.HeaderAccount .Button .desktop{
+		display:none;
+	}
+	
+		.HeaderAccount .Button .mobile{
+		display:inline;
+	}
+}
+
+
+.LatestPosts__Post{
+	padding-right:8px;
+	width: 33.333%;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+@media (max-width:768px){
+	.LatestPosts__Post{
+		width: 100%;
+	}
+}
+.LatestPosts__Post img {
+	max-width: 115px !important;
+	flex-shrink: 0;
+  flex-grow: 0;
+}
+
+
+/* Hide livewire fp scroll controls unless scroll track has at least 4 children   */
+@media(min-width: 1170px) {
+	.is-style-horizontal-scroll
+	.horizontal-scroll-controls:not(:has( +.horizontal-scroll-track>article:nth-child(4) ) ) {
+			opacity: 0;
+	}
+}
+
+
+@media (max-width: 576px) {
+  .TrayMenu.--sitenav {
+    height: unset;
+  }
+}		</style>
+		</head>
+
+<body class="post-template-default single single-post postid-1469853 single-format-standard  category-morning-memo device-desktop group-blog" id="body">
+      <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XZ8HFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+  
+    <div id="fb-root"></div>
+  <script type="text/javascript">
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId: "101800829865996",
+        xfbml: true,
+        version: ' v2.6'
+      });
+      window.fbAsyncInit.__didInit = true;
+    };
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {
+        return;
+      }
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <div class="BannerAd --preheader js_preheader-ad-container ">
+      <div class='htlad-TPM_preHeader'></div>
+  <div id="breakout-TPM_preHeader"></div>  </div>
+  <div id="page" class="site">
+            <header id="masthead" class="js_site-header SiteHeader" role="banner">
+              <script type=x-placeholder data-widget=Notifications></script>
+              <div class="TrayMenu dropdown dropdown-sitenav --sitenav" id="trayWrapper">
+    <div class="TrayMenu__Inner">
+      <div class="TrayMenu__Header">
+        <div class="TrayMenu__Close dropdown-control" data-target="dropdown-sitenav" data-action="click">
+          <i class="fal fa-times"></i>
+        </div>
+        <div class="TrayMenu__SearchForm">
+          <form action="/search" id="cse-search-box" method="get">
+            <input type="text" class="search-query" id="search" name="s" placeholder="Search TPM" style="font-family:roboto; font-style: italic;">
+            <button><i class="fal fa-search" alt="Submit Search"></i></button>
+          </form>
+        </div>
+      </div>
+      <nav class="TrayMenu__Nav">
+        <ul>
+          <li><a href="https://talkingpointsmemo.com/edblog">
+              Editors' Blog
+              <span class="slash"> / </span>
+              <span class="tagline">Analysis &amp; Opinion</span>
+            </a></li>
+          <li><a href="https://talkingpointsmemo.com/news">News</a></li>
+          <li><a href="https://talkingpointsmemo.com/live-blog">Live Blog</a></li>
+          <li><a href="https://talkingpointsmemo.com/morning-memo">Morning Memo</a></li>
+          <li><a href="https://talkingpointsmemo.com/cafe">
+              Cafe
+              <span class="slash"> / </span>
+              <span class="tagline">outside voices &amp; analysis</span>
+            </a></li>
+          <li><a href="https://talkingpointsmemo.com/muckraker">
+              Muckraker
+              <span class="slash"> / </span>
+              <span class="tagline">scandal &amp; investigations</span>
+            </a></li>
+          <li><a href="https://talkingpointsmemo.com/prime">
+              Prime
+              <span class="slash"> / </span>
+              <span class="tagline">Member Exclusives</span>
+              <img class="NavMore__PrimeBadge" src="https://talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/logo/TPMRedes_PrimeLogo_Red.svg" alt="Prime Only">
+            </a></li>
+          <li><a href="https://talkingpointsmemo.com/podcast-series/the-josh-marshall-podcast/">Podcast</a></li>
+          <li><a href="https://talkingpointsmemo.com/feature">Features</a></li>
+        </ul>
+      </nav> <!-- TrayMenu__Nav -->
+      <div class="TrayMenu__Buy">
+        <a class="TrayMenu__BuyLink" href="https://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=menu-link&utm_campaign=memberships">
+          <div class="left">
+            <span class="large-text">Memberships</span>
+          </div>
+          <div class="right">
+            <span class="small-text">View Options</span>
+            <i class="fal fa-long-arrow-right"></i>
+          </div>
+        </a>
+        <!-- <a class="TrayMenu__BuyLink" href="/contribute?utm_source=on_site&utm_medium=menu-link&utm_campaign=contributions">
+          <div class="left">
+            <span class="large-text">Contribute</span>
+          </div>
+          <div class="right">
+            <span class="small-text">Learn More</span>
+            <i class="fal fa-long-arrow-right"></i>
+          </div>
+        </a> -->
+        <a class="TrayMenu__BuyLink" href="https://talkingpointsmemo.com/newsletters">
+          <div class="left">
+            <span class="large-text">Newsletters</span>
+          </div>
+          <div class="right">
+            <span class="small-text">Subscribe</span>
+            <i class="fal fa-long-arrow-right"></i>
+          </div>
+        </a>
+        <a class="TrayMenu__BuyLink" href="https://store.talkingpointsmemo.com/">
+          <div class="left">
+            <span class="large-text">Get TPM Merch</span>
+            <i class="far fa-tshirt"></i>
+          </div>
+          <div class="right">
+            <span class="small-text">Shop Now</span>
+            <i class="fal fa-long-arrow-right"></i>
+          </div>
+        </a>
+      </div>
+      <div class="TrayMenu__Social">
+        <div class="TrayMenu__Follow">Follow TPM</div>
+        <a href="https://twitter.com/tpm" title="twitter" class="TrayMenu__SocialLink"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+        <a href="https://facebook.com/talkingpointsmemo" title="facebook" class="TrayMenu__SocialLink"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+        <a href="https://www.instagram.com/talkingpointsmemo/" title="instagram" class="TrayMenu__SocialLink"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+      </div>
+      <div class="TrayMenu__SendTips">
+        <a href="/cdn-cgi/l/email-protection#e793868b8ca793868b8c8e898097888e8993948a828a88c984888a">Send Comments and Tips</a>
+      </div>
+      <div class="TrayMenu__Etc">
+        <ul>
+          <li><a href="/about">about</a></li>
+          <li><a href="/contact">contact</a></li>
+          <li><a href="/careers">careers</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/terms-of-use">terms of use</a></li>
+          <li><a href="http://status.talkingpointsmemo.com" target="_blank">site status</a></li>
+        </ul>
+      </div>
+      <div class="TrayMenu__Copyright">
+        &copy; 2023 TPM MEDIA LLC. ALL RIGHTS RESERVED.
+      </div>
+    </div> <!-- Inner -->
+  </div><!-- TrayMenu -->      <div class="SiteHeader__Inner">
+        <div class="SiteHeader__Left">
+          <div class="SiteHeader__Hamburger dropdown-control" data-target="dropdown-sitenav" data-action="click">
+            <i class="far fa-bars"></i>
+          </div>
+          <div class="SiteHeader__Logo">
+            <a href="https://talkingpointsmemo.com" rel="home" class="--span-12"><img src="https://talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/logo/TPM-logo.svg?v=0" alt="Talking Points Memo Logo" /></a>
+          </div>
+        </div>
+                <div class="SiteHeader__Right">
+                    <!-- <a href="/contribute?utm_source=on_site&utm_medium=header-button_&utm_campaign=contributions" class="SiteHeader__ContributeButton Button --beige">MAKE A CONTRIBUTION</a> -->
+          <a class="SiteHeader__CommentsAndTips" href="https://talkingpointsmemo.com/about">ABOUT</a>
+          <a class="SiteHeader__CommentsAndTips" href="/cdn-cgi/l/email-protection#9de9fcf1f6dde9fcf1f6f4f3faedf2f4f3e9eef0f8f0f2b3fef2f0">TIPS</a>
+          <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type=x-placeholder data-widget="HeaderAccount" data-props="{&quot;mode&quot;:&quot;desktop&quot;,&quot;fp&quot;:false,&quot;single&quot;:true,&quot;utm_medium&quot;:&quot;article&quot;}" ></script>        </div> <!-- SiteHeader__Right -->
+      </div>
+          </header>
+    <script>
+  var htlbid_layout = "article-desktop";
+  var single_post = true;
+</script>
+  <style>
+    .Article__Content .Annotation {
+      display: none !important;
+    }
+  </style>
+<div class="Primary" id="primary">
+    <div class="BannerAd --postheader">
+      <div class='htlad-TPM_preContent'></div>
+  <div id="breakout-TPM_preContent"></div>  </div>
+  
+        <div class="container">
+      <div class="row">
+        <div class="--span-12">
+                <div class="LatestPosts --span-12">
+              <div class="LatestPosts__Inner">
+        <div class="row">
+          <div class="--span-12 LatestPosts__Heading">Latest</div>
+        </div>
+        <div class="LatestPosts__ScrollTrack">
+                                    <a href="https://talkingpointsmemo.com/news/ohio-abortion-supreme-court-amendment" class="LatestPosts__Post">
+                <img width="150" height="150" src="https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1761977865.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1761977865.jpg?resize=150,150 150w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1761977865.jpg?resize=300,300 300w" sizes="(max-width: 150px) 100vw, 150px" />                <div class="LatestPosts__Bullet"><span></span></div>
+                <div class="LatestPosts__PostTitle">
+                  <div class="time-posted">8 hours ago</div>
+                  <span class="latest-title">The Fight For Abortion Access In Ohio Isn’t Over </span>
+                </div>
+              </a>
+                                                <a href="https://talkingpointsmemo.com/news/we-talked-to-george-santos-botox-doctor-and-got-skincare-advice-for-the-scandal-spotlight" class="LatestPosts__Post">
+                <img width="150" height="150" src="https://talkingpointsmemo.com/wp-content/uploads/2023/01/GettyImages-1453122612-scaled.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="George Santos during a press conference" decoding="async" srcset="https://talkingpointsmemo.com/wp-content/uploads/2023/01/GettyImages-1453122612-scaled.jpg?resize=150,150 150w, https://talkingpointsmemo.com/wp-content/uploads/2023/01/GettyImages-1453122612-scaled.jpg?resize=300,300 300w" sizes="(max-width: 150px) 100vw, 150px" />                <div class="LatestPosts__Bullet"><span></span></div>
+                <div class="LatestPosts__PostTitle">
+                  <div class="time-posted">2 days ago</div>
+                  <span class="latest-title">We Talked To George Santos’ ‘Botox’ Doctor And Got Skincare Advice For The Scandal Spotlight </span>
+                </div>
+              </a>
+                                                <a href="https://talkingpointsmemo.com/news/definitely-a-high-roller-biggest-bombshells-from-santos-report-include-imaginary-maserati-spending-sprees-on-casinos-botox-and-onlyfans" class="LatestPosts__Post">
+                <img width="150" height="150" src="https://talkingpointsmemo.com/wp-content/uploads/2022/12/GettyImages-1451484079.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://talkingpointsmemo.com/wp-content/uploads/2022/12/GettyImages-1451484079.jpg?resize=150,150 150w, https://talkingpointsmemo.com/wp-content/uploads/2022/12/GettyImages-1451484079.jpg?resize=300,300 300w" sizes="(max-width: 150px) 100vw, 150px" />                <div class="LatestPosts__Bullet"><span></span></div>
+                <div class="LatestPosts__PostTitle">
+                  <div class="time-posted">2 days ago</div>
+                  <span class="latest-title">‘High Roller&#8217;: Bombshells From Santos Report Include Imaginary Maserati, Spending Sprees On Casinos, ‘Botox’ And OnlyFans </span>
+                </div>
+              </a>
+                                                <a href="https://talkingpointsmemo.com/news/senate-democrats-supreme-court-subpoena-crow-leo" class="LatestPosts__Post">
+                <img width="150" height="150" src="https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1784229206.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1784229206.jpg?resize=150,150 150w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1784229206.jpg?resize=300,300 300w" sizes="(max-width: 150px) 100vw, 150px" />                <div class="LatestPosts__Bullet"><span></span></div>
+                <div class="LatestPosts__PostTitle">
+                  <div class="time-posted">2 days ago</div>
+                  <span class="latest-title">Senate Democrats Punt On Supreme Court Oversight In Favor Of Early Vacation </span>
+                </div>
+              </a>
+                              </div> <!-- .row -->
+      </div> <!-- .Latest -->
+          </div>
+              <article class="Article row --morning-memo">
+                          <div class="Article__Prehead --span-12">
+                <div class="Breadcrumbs">
+                  <a class="Breadcrumbs__CatImage" href="https://talkingpointsmemo.com/morning-memo">
+                    <img src="https://talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/logo/morning-memo-badge.svg" alt="Morning Memo" />
+                  </a>
+                </div>
+              </div>
+                        <div class="Article__Head --span-12">
+              <h1>We Are All Paying The Price For Kevin McCarthy&#8217;s Pathetic Weakness</h1> </div>
+                          <div class="Article__Subhead --span-12">
+                INSIDE: Donald Trump ... MTG ... Mark Milley              </div>
+                        <div class="--span-12 Article__Flex">
+              <div class="Article__Main">
+                <figure class="ArticleImage">
+                  <img width="804" height="536" src="https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?w=804" class="attachment-feature-large size-feature-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg 2560w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=768,512 768w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=804,536 804w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=1536,1024 1536w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=2048,1366 2048w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=600,400 600w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=1000,667 1000w, https://talkingpointsmemo.com/wp-content/uploads/2023/09/GettyImages-1704234835-scaled.jpg?resize=98,64 98w" sizes="(max-width: 804px) 100vw, 804px" />                    <figcaption class="ArticleImage__AttachmentCaption">
+                                              <span class="content active">WASHINGTON, DC - SEPTEMBER 27: Speaker of the House Kevin McCarthy (R-CA) (C) listens to reporters' questions following a House Republican caucus meeting at the U.S. Capitol on September 27, 2023 in Washington, DC. M...</span>
+                        <span class="content">WASHINGTON, DC - SEPTEMBER 27: Speaker of the House Kevin McCarthy (R-CA) (C) listens to reporters' questions following a House Republican caucus meeting at the U.S. Capitol on September 27, 2023 in Washington, DC. McCarthy continues to look for a legislative path that would prevent the federal government from partially shutting down at midnight on September 30 while also preserving his speakership. (Photo by Chip Somodevilla/Getty Images)</span>
+                        <span class="toggle js_figcaption-toggle active">MORE <i class="fal fa-chevron-down" style="margin-left: 4px;"></i></span>
+                        <span class="toggle js_figcaption-toggle">LESS <i class="fal fa-chevron-up" style="margin-left: 4px;"></i></span>
+                                          </figcaption>
+                                  </figure><!-- .ArticleImage -->
+                <div class="Article__Precontent js_article-precontent">
+                  <div class="Article__AuthorAndDate">
+                    <div class="AuthorAndDate">
+                      <div class="AuthorAndDate__Byline">By <a href="/profile/david_kurtz" title="Posts by David Kurtz" class="author url fn" rel="author">David Kurtz</a></div>
+                      <div class="AuthorAndDate__Separator">|</div>
+                      <div class="AuthorAndDate__Date">
+                        September 28, 2023 9:05 a.m. </div>
+                    </div>
+                                      </div>
+                  <div class="Article__Stats">
+                          <div class="Sharebar --span-12">
+         <a class="Sharebar__Link  --top" onclick="window.open('http://www.facebook.com/sharer.php?u=https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus&amp;t=We+Are+All+Paying+The+Price+For+Kevin+McCarthy%E2%80%99s+Pathetic+Weakness', 'newwindow', 'width=530, height=450'); return false;" target="blank" aria-label="share to facebook">
+      <i class="fab fa-facebook-f" aria-hidden="true"></i>
+    </a>
+    <a class="Sharebar__Link  --top" onclick="window.open('https://twitter.com/intent/tweet?via=TPM&text=We+Are+All+Paying+The+Price+For+Kevin+McCarthy%E2%80%99s+Pathetic+Weakness&url=https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus', 'newwindow', 'width=530, height=450'); return false;" target="blank" aria-label="share to twitter">
+      <i class="fab fa-twitter" aria-hidden="true"></i>
+    </a>
+
+    <a class="Sharebar__Link  --top" onclick="window.open('mailto:?subject=We Are All Paying The Price For Kevin McCarthy&#8217;s Pathetic Weakness&amp;body=Check%20out%20this%20article%20on%20TPM:%20https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus', 'newwindow', 'width=530, height=450'); return false;" target="blank" aria-label="share via email">
+      <i class="far fa-envelope" aria-hidden="true"></i>
+    </a>
+        </div>
+                                              <script type=x-placeholder data-widget=CommentsButton data-mode=top></script>
+                                      </div>
+                </div><!-- Precontent -->
+                <div class="Article__Content">
+                        <div class="Substack --span-12">
+            <div class="SubstackWidget">
+      <div class="SubstackWidget__Text">
+        <div class="SubstackWidget__Start">Start your day with TPM.</div>
+        <a target="_blank" href="https://morningmemo.talkingpointsmemo.com/" class="SubstackWidget__Link">Sign up for the Morning Memo newsletter</a>
+      </div>
+    </div>
+    <div class="SubstackWidget__Clear"></div>
+      </div>
+                      <div id='article-content' class="js_article-content js_sticky-bounds">
+                    
+<p><em>A lot of things happened. Here are some of the things. This is TPM’s Morning Memo. <a href="https://morningmemo.talkingpointsmemo.com/">Sign up<em> for the email version</em></a>.</em></p><h2 class="wp-block-heading">GOP Shutdown Watch</h2><p>Much of the coverage of the looming government shutdown is just terrible because it doesn&#8217;t accurately capture the power dynamic at play, obscures what&#8217;s really going on, and falls into lazy (yet breathless!) procedural play-by-play. </p><p>Here&#8217;s the real power dynamic to focus on: There is bipartisan support for a budget deal in the Senate and there are enough votes in the House for such a deal, but the holdup (or the stickup, to be more accurate) is that the Freedom Caucus is threatening Kevin McCarthy&#8217;s speakership so he won&#8217;t bring bipartisan deals to the floor. That is the rub here. Full stop.</p><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;unit&quot;:&quot;TPM_In_Content_1&quot;,&quot;maxWidth&quot;:&quot;md&quot;,&quot;checkForPitch&quot;:&quot;true&quot;}" ></script><p>Anything you read about the dynamic being Biden v. McCarthy or Senate v. House is simply wrong. It&#8217;s not even quite right to frame it as far-right House GOP v. rest of the House GOP. McCarthy is being extorted by the far-right and caving to the pressure by refusing to bring to the floor budget vehicles that would pass right now &#8230; today &#8230; in a heartbeat. </p><h2 class="wp-block-heading">What Happens Next?</h2><p>I&#8217;m getting questions about what will happen, and while I don&#8217;t like making predictions, it&#8217;s fair to say:</p><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;unit&quot;:&quot;TPM_In_Content_2&quot;,&quot;maxWidth&quot;:&quot;md&quot;,&quot;checkForPitch&quot;:&quot;true&quot;}" ></script><ul>
+<li>With the House GOP&#8217;s right-wing circus <em>wanting</em> a shutdown, it&#8217;s more likely than not we get one starting Oct. 1. In lieu of a shutdown, they might take McCarthy&#8217;s speakership instead but that would be the dog catching the car, and for as crazy as the Freedom Caucus is they seem to realize that the current setup is perfect for them: They can keep McCarthy on a short leash, continue to hold a cartoon bomb (💣) and threaten to detonate it, and break institutions, processes, and norms with impunity. </li><li>For those reasons, it&#8217;s hard for me to imagine a short, quickly resolved shutdown. It&#8217;s possible, but there&#8217;s no obvious forcing mechanism to get a deal done now or after the shutdown begins. Perhaps the end-of-year holidays create some additional pressure, but that would mean a record-long shutdown.</li><li>Whatever the ultimate resolution, it&#8217;s going to be messy and convoluted and designed to save face and obscure the real underlying power dynamic. Unfortunately, part of why we&#8217;re in this morass is that the Freedom Caucus sees shutting the government down as a &#8220;win&#8221; no matter what concessions they make later.  </li>
+</ul><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;unit&quot;:&quot;TPM_In_Content_3&quot;,&quot;maxWidth&quot;:&quot;md&quot;,&quot;checkForPitch&quot;:&quot;true&quot;}" ></script><p>McCarthy deserves everything he gets, but dragging the elderly, the poor, the most vulnerable with him into a needless shutdown is a product of his own political and characterological weakness. </p><h2 class="wp-block-heading">The Man Can&#8217;t Drive A Hard Bargain</h2><p>It looked for a time like McCarthy was greenlighting a Biden impeachment inquiry as a  way to placate the Freedom Caucus: You give me a budget deal, and I&#8217;ll give you room to run on impeachment. But at this point, it looks like McCarthy once again made a concession and in return got &#8230; nothing. </p><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;unit&quot;:&quot;TPM_In_Content_4&quot;,&quot;maxWidth&quot;:&quot;md&quot;,&quot;checkForPitch&quot;:&quot;true&quot;}" ></script><p>The House GOP&#8217;s inane, baseless, evidence-free impeachment inquiry <a href="https://www.washingtonpost.com/nation/2023/09/27/shutdown-looms-house-impeachment-inquiry-biden-commences/">kicks off</a> today. All you need to know: Among the witnesses (none of whom are fact witnesses) for the first impeachment hearing is the shameless Jonathan Turley.</p><h2 class="wp-block-heading">This Is Gross</h2><p>Rep. Marjorie Taylor Greene, a conservative white woman from Georgia, inserted a provision into the defense spending bill to <a href="https://www.nytimes.com/2023/09/27/us/politics/house-republicans-lloyd-austin-salary.html">slash the salary</a> of Lloyd Austin, the first Black secretary of defense, to $1 per year. The bill passed the House (though it is DOA in the Senate).</p><script type=x-placeholder data-widget="AdSlot" data-props="{&quot;unit&quot;:&quot;TPM_In_Content_5&quot;,&quot;maxWidth&quot;:&quot;md&quot;,&quot;checkForPitch&quot;:&quot;true&quot;}" ></script><h2 class="wp-block-heading">Chutkan Refuses To Recuse</h2><p>In a tight, solid, almost bulletproof <a href="https://storage.courtlistener.com/recap/gov.uscourts.dcd.258148/gov.uscourts.dcd.258148.61.0_4.pdf">ruling</a>, U.S. District Judge Tanya Chutkan denied Donald Trump&#8217;s motion to recuse herself from his Jan. 6 case. </p><h2 class="wp-block-heading">Delay, Delay, Delay</h2><p>You may have noticed that things have quieted a bit in the Trump prosecutions, at least publicly. Much pretrial wrangling is ahead, and there is prep behind the scenes for that and for the trials themselves. So a fierce level of activity behind closed doors, but a lot less public-facing movement – and notably a lot fewer new factual reveals, bombshells, or other newsy tidbits. Alas, this is what happens when the story shifts from the investigative and political realms into the criminal justice system.</p><p>Two new developments yesterday, though, that tell the story of Trump&#8217;s delay strategy:</p><ul>
+<li>Special Counsel Jack Smith told the judge in the Mar-a-Lago case that Trump&#8217;s latest delay request &#8220;<a href="https://www.documentcloud.org/documents/23994264-smith-response">threatens to upend the entire schedule</a>&#8221; and amounts to seeking a continuance without saying he&#8217;s seeking a continuance. </li><li>Trump is now <a href="https://www.documentcloud.org/documents/23993440-62-mf-extension-of-time">seeking a similar delay</a> in a new filing in the Jan. 6 case.  </li>
+</ul><h2 class="wp-block-heading">Trump&#8217;s Threats Against Judges</h2><p>Another day, another threat from Donald Trump toward a judge:</p><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">If a defendant in one of my cases had done this, I don&#39;t believe he&#39;d just get a pass from the courts. &amp; certainly not from the prosecutor. Trump has a pattern of disregard for the danger he places the community in. <a href="https://t.co/Na56pM3o2D">pic.twitter.com/Na56pM3o2D</a></p>&mdash; Joyce Alene (@JoyceWhiteVance) <a href="https://twitter.com/JoyceWhiteVance/status/1707076243898687878?ref_src=twsrc%5Etfw">September 27, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure><p>Andrew Weissmann is exactly right when he says something awful is going to happen to someone targeted by Trump and we&#8217;re all going to sit around lamenting that we saw it coming from a million miles away:</p><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">&quot;It is so unreal that we&#39;re sitting at a table discussing that the former leader of the free world is making statements knowing darn well the sort of call and response affect he has&#8230;something terrible is going to happen&quot; &#8211; <a href="https://twitter.com/AWeissmann_?ref_src=twsrc%5Etfw">@AWeissmann_</a> w/ <a href="https://twitter.com/NicolleDWallace?ref_src=twsrc%5Etfw">@NicolleDWallace</a> <a href="https://t.co/jPaYgOsXOH">pic.twitter.com/jPaYgOsXOH</a></p>&mdash; Deadline White House (@DeadlineWH) <a href="https://twitter.com/DeadlineWH/status/1707130202281705839?ref_src=twsrc%5Etfw">September 27, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure><h2 class="wp-block-heading">Trump&#8217;s Threats Against The Military</h2><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Chairman of the Joint Chiefs Gen. Mark Milley is responding to comments by former President Donald Trump suggesting that Milley deserves to be executed for communications the general had with China. <a href="https://t.co/gOlcC0rE41">https://t.co/gOlcC0rE41</a> <a href="https://t.co/pSgO9mNcEY">pic.twitter.com/pSgO9mNcEY</a></p>&mdash; 60 Minutes (@60Minutes) <a href="https://twitter.com/60Minutes/status/1707163778578632755?ref_src=twsrc%5Etfw">September 27, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">“What we are seeing is a parallel to the 1930s in Nazi Germany,&quot; says Ret. Gen. <a href="https://twitter.com/mccaffreyr3?ref_src=twsrc%5Etfw">@mccaffreyr3</a> on the Trump movement. <br><br>“That’s 15-25 House members, a couple of Senators, and all those who are Trump MAGA loyalists—it’s a major threat to the armed forces of the United States.&quot; <a href="https://t.co/EFiowWA1Mb">pic.twitter.com/EFiowWA1Mb</a></p>&mdash; All In with Chris Hayes (@allinwithchris) <a href="https://twitter.com/allinwithchris/status/1707189900129538178?ref_src=twsrc%5Etfw">September 28, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure><h2 class="wp-block-heading">ICYMI</h2><p>I had missed this exchange from Cassidy Hutchison&#8217;s interview with Lawrence O&#8217;Donnell the other night. You&#8217;ll recall that O&#8217;Donnell connected Hutchinson with Alexander Butterfield, the Nixon White House figure who revealed the Oval Office taping system. She recalls crying when she saw the segment with Butterfield and the promise she later made to him when they talked:</p><iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?height=314&#038;href=https%3A%2F%2Fwww.facebook.com%2Fmsnbc%2Fvideos%2F132774393227237%2F&#038;show_text=false&#038;width=560&#038;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe><h2 class="wp-block-heading">About Last Night&#8217;s Debate Fiasco &#8230;</h2><p>The GOP debates sans Trump are the most meaningless exercises in the six decades we&#8217;ve been doing the televised presidential debate schtick:</p><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Fun fact about tonight&#39;s debate: The 7 people on stage are collectively polling at 36% in national Republican average. If they were all one person, they would still be losing to Trump by 20 percent.</p>&mdash; Michael Scherer (@michaelscherer) <a href="https://twitter.com/michaelscherer/status/1707170972309069860?ref_src=twsrc%5Etfw">September 27, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure><p>If you&#8217;re curious despite yourself about what went down last night, our team has you covered:</p><ul>
+<li><a href="https://talkingpointsmemo.com/live-blog/republican-second-debate">TPM</a>: Republicans Yell, Interrupt, Make Uncomfortable Sex Jokes At Second Debate</li><li><a href="https://talkingpointsmemo.com/edblog/quick-debate-thoughts">Josh Marshall</a>: &#8220;The two GOP debates have amounted to a kind of cosplay episode.&#8221;</li>
+</ul><h2 class="wp-block-heading">Good Read</h2><p>TPM&#8217;s <a href="https://talkingpointsmemo.com/news/joe-kent-is-the-most-extreme-house-candidate-you-havent-heard-about">Hunter Walker</a>: Joe Kent Is The Most Extreme House Candidate You Haven’t Heard About </p><h2 class="wp-block-heading">YOLO</h2><p>Led by the sartorialists Joe Manchin and Mitt Romey, the Senate attended to the urgent business of <a href="https://www.cnn.com/2023/09/27/politics/senate-passes-formal-dress-code/index.html">formalizing a dress code</a> for itself, to which John Fetterman responded:</p><blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">And Sen Fetterman is out with this statement in response to the new dress code, which isn’t a statement at all, it’s just this picture: <a href="https://t.co/1rzVdIUPuU">pic.twitter.com/1rzVdIUPuU</a></p>&mdash; Frank Thorp V (@frankthorp) <a href="https://twitter.com/frankthorp/status/1707168909567148186?ref_src=twsrc%5Etfw">September 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><h2 class="wp-block-heading">Hoochie Coochie Man</h2><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">I couldn’t pass up tonight’s opportunity to combine music and diplomacy. Was a pleasure to launch <a href="https://twitter.com/StateDept?ref_src=twsrc%5Etfw">@StateDept</a>’s new Global Music Diplomacy Initiative. <a href="https://t.co/6MUfTXO9xK">pic.twitter.com/6MUfTXO9xK</a></p>&mdash; Secretary Antony Blinken (@SecBlinken) <a href="https://twitter.com/SecBlinken/status/1707230831528620109?ref_src=twsrc%5Etfw">September 28, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure><p><strong><em><strong><em>Do you like Morning Memo? </em></strong><a href="/cdn-cgi/l/email-protection#fd899c9196bd899c919694939a8d929493898e90989092d39e9290c28e889f97989e89c0b0b0"><strong><em>Let us know</em></strong></a>!</em></strong></p>
+                                                              <!-- <script type='x-placeholder' data-widget='SoftPaywallSummer23'></script> -->
+                      <!-- <script type='x-placeholder' data-widget='PostArticleAsk'></script> -->
+                    
+                  </div><!-- .Article__Content -->
+                </div><!-- #article-content js_article-content js_sticky-bounds-->
+                                  <!-- <script type="x-placeholder" data-widget="FundraiserMeterWidget"></script> -->
+                                    <div class="Article__Footer">
+                    <div class="Article__FooterSubstack">
+                            <div class="Substack --span-12">
+            <div class="SubstackWidget">
+      <div class="SubstackWidget__Text">
+        <div class="SubstackWidget__Start">Start your day with TPM.</div>
+        <a target="_blank" href="https://morningmemo.talkingpointsmemo.com/" class="SubstackWidget__Link">Sign up for the Morning Memo newsletter</a>
+      </div>
+    </div>
+    <div class="SubstackWidget__Clear"></div>
+      </div>
+                        </div>
+                    <div class="Article__FooterFlex ">
+                            <div class="Sharebar --span-12">
+         <a class="Sharebar__Link  --bottom" onclick="window.open('http://www.facebook.com/sharer.php?u=https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus&amp;t=We+Are+All+Paying+The+Price+For+Kevin+McCarthy%E2%80%99s+Pathetic+Weakness', 'newwindow', 'width=530, height=450'); return false;" target="blank" aria-label="share to facebook">
+      <i class="fab fa-facebook-f" aria-hidden="true"></i>
+    </a>
+    <a class="Sharebar__Link  --bottom" onclick="window.open('https://twitter.com/intent/tweet?via=TPM&text=We+Are+All+Paying+The+Price+For+Kevin+McCarthy%E2%80%99s+Pathetic+Weakness&url=https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus', 'newwindow', 'width=530, height=450'); return false;" target="blank" aria-label="share to twitter">
+      <i class="fab fa-twitter" aria-hidden="true"></i>
+    </a>
+
+    <a class="Sharebar__Link  --bottom" onclick="window.open('mailto:?subject=We Are All Paying The Price For Kevin McCarthy&#8217;s Pathetic Weakness&amp;body=Check%20out%20this%20article%20on%20TPM:%20https://talkingpointsmemo.com/morning-memo/kevin-mccarthy-government-shutdown-freedom-caucus', 'newwindow', 'width=530, height=450'); return false;" target="blank" aria-label="share via email">
+      <i class="far fa-envelope" aria-hidden="true"></i>
+    </a>
+        </div>
+                          <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type=x-placeholder data-widget=Plugs data-layout=standard data-postId=1469853></script>
+                                              <div class="comments">
+                          <script type=x-placeholder data-widget=CommentsButton data-mode=bottom></script>
+                        </div>
+                                          </div>
+                    <div class="ArticleFooter">
+                                                                                                  <div class="ArticleFooter__AuthorInFooter">
+                                                          <img src="https://res.cloudinary.com/tpm/image/upload/c_fill,g_face,w_200,h_200,f_auto,q_auto,fl_lossy,dpr_2.0/david_kurtz_profile2019.jpg" alt="Author Headshot" onerror="this.onerror=null;this.style='display:none!important';" />
+                                                        <div>
+                              <span class="author-name">
+                                David Kurtz                              </span>
+                              <span class="author-description">
+                                                                  <a href="https://twitter.com/TPM_dk" class="author-twitter" target="_blank">(@TPM_dk)</a>&nbsp;
+                                                                is TPM's executive editor and Washington Bureau chief. He oversees the news operations of TPM.                              </span>
+                            </div>
+                          </div>
+                                                                    <div class="SendTip">
+                        <i class="far fa-paper-plane"></i>&nbsp;Have a tip? <a href="/cdn-cgi/l/email-protection#2753464b4c6753464b4c4e494057484e4953544a424a480944484a">Send it Here</a>!
+                      </div>
+                                          </div> <!-- .ArticleFooter -->
+                  </div> <!-- .Article__Footer -->
+                
+              </div><!-- .Article__Main  -->
+              <div class="Article__Side" style="">
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type=x-placeholder data-widget="StickyAdRail" data-props="{&quot;bounds&quot;:[900,1800,2700,3600,4500],&quot;slots&quot;:[&quot;TPM_Right_Rail_1&quot;,&quot;TPM_Right_Rail_2&quot;,&quot;TPM_Right_Rail_3&quot;,&quot;TPM_Right_Rail_4&quot;,&quot;TPM_Right_Rail_5&quot;],&quot;contentEl&quot;:&quot;.js_sticky-bounds&quot;,&quot;civicSciencePoll&quot;:false,&quot;isLiveBlog&quot;:false,&quot;device&quot;:&quot;desktop&quot;,&quot;minWidth&quot;:&quot;md&quot;}" ></script>            </div><!-- .Article__Flex -->
+          </article><!-- .Article.row -->
+        </div><!-- .--span-12 -->
+      </div><!-- .row -->
+    </div><!-- .container -->
+          <!-- taboola -->
+              <div class="container">
+          <div class="row">
+            <div class="--span-8 --span-md-12 --span-sm-12">
+                          </div>
+          </div>
+        </div>
+      
+      <!-- AfterContent stuff -->
+      <div class="container">
+        <div class="row AfterContent">
+          <div class="AfterContent__Main --span-8 --span-md-12 --span-sm-12">
+            <script type=x-placeholder data-widget=Insights></script>
+                  <div class="MoreCoverage --span-12">
+              <a class="MoreCoverage__Header " href="https://talkingpointsmemo.com/morning-memo">
+        Latest Morning Memo      </a>
+      <ul class="MoreCoverage__List">
+                            <li class="MoreCoverage__Post " style="">
+            <div class="MoreCoverage__PostContent ">
+              <div class="MoreCoverage__PostTitle">
+                <a href="https://talkingpointsmemo.com/morning-memo/aileen-cannon-makes-a-mal-trial-before-election-day-nearly-impossible">Aileen Cannon Makes A MAL Trial Before Election Day Nearly Impossible</a>
+              </div>
+              <div class="AuthorAndDate">
+                <div class="AuthorAndDate__Byline"><span class="by">By </span><a href="/profile/david_kurtz" title="Posts by David Kurtz" class="author url fn" rel="author">David Kurtz</a></div>
+                <div class="AuthorAndDate__Separator">|</div>
+                <div class="AuthorAndDate__Date">November 17, 2023 9:15 a.m.</div>
+              </div>
+              <div class="MoreCoverage__PostExcerpt">
+                <p>A lot of things happened. Here are some of the things. This is TPM’s Morning Memo. Sign up for the&#8230;</p>
+                              </div>
+            </div>
+                          <div class="MoreCoverage__PostImage">
+                <a href="https://talkingpointsmemo.com/morning-memo/aileen-cannon-makes-a-mal-trial-before-election-day-nearly-impossible">
+                  <img width="804" height="536" src="https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?w=804" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg 1800w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?resize=768,512 768w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?resize=804,536 804w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?resize=1536,1024 1536w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?resize=600,400 600w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?resize=1000,667 1000w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/aileen-cannon2-1.jpg?resize=98,64 98w" sizes="(max-width: 804px) 100vw, 804px" />                </a>
+              </div>
+                      </li>
+                            <li class="MoreCoverage__Post " style="">
+            <div class="MoreCoverage__PostContent ">
+              <div class="MoreCoverage__PostTitle">
+                <a href="https://talkingpointsmemo.com/morning-memo/chris-wray-clay-higgins-marjorie-taylor-greene">What It Looks Like When You Elect Online Trolls To Congress</a>
+              </div>
+              <div class="AuthorAndDate">
+                <div class="AuthorAndDate__Byline"><span class="by">By </span><a href="/profile/david_kurtz" title="Posts by David Kurtz" class="author url fn" rel="author">David Kurtz</a></div>
+                <div class="AuthorAndDate__Separator">|</div>
+                <div class="AuthorAndDate__Date">November 16, 2023 8:56 a.m.</div>
+              </div>
+              <div class="MoreCoverage__PostExcerpt">
+                <p>A lot of things happened. Here are some of the things. This is TPM’s Morning Memo. Sign up for the&#8230;</p>
+                              </div>
+            </div>
+                          <div class="MoreCoverage__PostImage">
+                <a href="https://talkingpointsmemo.com/morning-memo/chris-wray-clay-higgins-marjorie-taylor-greene">
+                  <img width="804" height="535" src="https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?w=804" class="attachment-large size-large wp-post-image" alt="UNITED STATES - JUNE 26: Rep. Clay Higgins, R-La., is seen after a meeting of the House Republican Conference in the Capitol on June 26, 2018. (Photo By Tom Williams/CQ Roll Call)" decoding="async" loading="lazy" srcset="https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg 3616w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=768,511 768w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=804,535 804w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=1536,1023 1536w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=2048,1364 2048w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=600,400 600w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=1000,666 1000w, https://talkingpointsmemo.com/wp-content/uploads/2019/03/GettyImages-984401186.jpg?resize=98,64 98w" sizes="(max-width: 804px) 100vw, 804px" />                </a>
+              </div>
+                      </li>
+                            <li class="MoreCoverage__Post " style="">
+            <div class="MoreCoverage__PostContent ">
+              <div class="MoreCoverage__PostTitle">
+                <a href="https://talkingpointsmemo.com/morning-memo/the-long-national-nightmare-inflicted-by-the-house-gop-isnt-nearly-over">The Long National Nightmare Inflicted By The House GOP Isn&#8217;t Nearly Over</a>
+              </div>
+              <div class="AuthorAndDate">
+                <div class="AuthorAndDate__Byline"><span class="by">By </span><a href="/profile/david_kurtz" title="Posts by David Kurtz" class="author url fn" rel="author">David Kurtz</a></div>
+                <div class="AuthorAndDate__Separator">|</div>
+                <div class="AuthorAndDate__Date">November 15, 2023 9:09 a.m.</div>
+              </div>
+              <div class="MoreCoverage__PostExcerpt">
+                <p>A lot of things happened. Here are some of the things. This is TPM’s Morning Memo. Sign up for the&#8230;</p>
+                              </div>
+            </div>
+                          <div class="MoreCoverage__PostImage">
+                <a href="https://talkingpointsmemo.com/morning-memo/the-long-national-nightmare-inflicted-by-the-house-gop-isnt-nearly-over">
+                  <img width="804" height="539" src="https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?w=804" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg 8170w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?resize=768,515 768w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?resize=804,539 804w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?resize=1536,1030 1536w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?resize=2048,1373 2048w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?resize=600,402 600w, https://talkingpointsmemo.com/wp-content/uploads/2023/11/GettyImages-1782806275.jpg?resize=1000,670 1000w" sizes="(max-width: 804px) 100vw, 804px" />                </a>
+              </div>
+                      </li>
+                            <li class="MoreCoverage__Post " style="">
+            <div class="MoreCoverage__PostContent ">
+              <div class="MoreCoverage__PostTitle">
+                <a href="https://talkingpointsmemo.com/morning-memo/proffer-session-recordings-tapes-georgia-rico-trump">Damning New Evidence That Trump Planned Not To Leave The White House</a>
+              </div>
+              <div class="AuthorAndDate">
+                <div class="AuthorAndDate__Byline"><span class="by">By </span><a href="/profile/david_kurtz" title="Posts by David Kurtz" class="author url fn" rel="author">David Kurtz</a></div>
+                <div class="AuthorAndDate__Separator">|</div>
+                <div class="AuthorAndDate__Date">November 14, 2023 9:11 a.m.</div>
+              </div>
+              <div class="MoreCoverage__PostExcerpt">
+                <p>A lot of things happened. Here are some of the things. This is TPM’s Morning Memo. Sign up for the&#8230;</p>
+                              </div>
+            </div>
+                          <div class="MoreCoverage__PostImage">
+                <a href="https://talkingpointsmemo.com/morning-memo/proffer-session-recordings-tapes-georgia-rico-trump">
+                  <img width="804" height="536" src="https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg?w=804" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg 1024w, https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg?resize=768,512 768w, https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg?resize=804,536 804w, https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg?resize=600,400 600w, https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg?resize=1000,667 1000w, https://talkingpointsmemo.com/wp-content/uploads/2022/03/GettyImages-802036310.jpg?resize=98,64 98w" sizes="(max-width: 804px) 100vw, 804px" />                </a>
+              </div>
+                      </li>
+              </ul><!-- .MoreCoverage__List -->
+      </div>
+                              <div id="EmbedCommentsWrapper">
+                <div id="comments-1469853">
+                        <div class="EmbedComments --span-12">
+            <div class="row">
+      <div class="EmbedComments__Header">
+        Comments
+      </div>
+      <div id='discourse-comments' class="--span-12">
+      </div>
+    </div>
+    <script>
+      window.DiscourseEmbed = {
+        discourseUrl: (document.location.protocol + '//forums.' + document.location.hostname + '/'),
+        discourseEmbedUrl: "https://talkingpointsmemo.com/?p=1469853"
+      };
+    </script>
+        </div>
+                    </div>
+              </div>
+                      </div> <!-- AfterContent__Main -->
+
+          <div class="AfterContent__Sidebar --span-4 --span-md-12 --span-sm-12">
+                                      <div style="text-align: center; max-width: 300px;">
+                  <div class='htlad-TPM_postContent'></div>
+  <div id="breakout-TPM_postContent"></div>              </div>
+                      </div> <!-- AfterContent__Sidebar -->
+        </div><!-- .row AfterContent -->
+      </div><!-- .container -->
+              <!-- <script type='x-placeholder' data-widget='MeteredBumperSummer23BWidget' data-device=""></script> -->
+            
+        <script type='x-placeholder' data-widget='MegaSaleModal' data-foo="bar" data-device="desktop"></script>
+    <script type='x-placeholder' data-widget='MegaSaleBumper' data-foo="bar" data-device="desktop"></script>
+  </div><!-- .Primary -->
+</div> <!-- close .site from header -->
+<div class="Masthead">
+  <div class="Masthead__Toggle js_masthead-toggle">
+    <span class="inactive"><span class="unhover">Masthead</span><i class="fal fa-long-arrow-up hover"></i></span>
+    <span class="active"><span class="unhover">Masthead</span><i class="fal fa-long-arrow-down hover"></i></span>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="--span-12">
+        <div class="Masthead__Contents">
+          <div class="Masthead__Slidecontainer js_masthead-slidecontainer">
+            <div class="row">
+              <div class="--span-3 --span-sm-6">
+                <div class="Masthead__Title">
+                  Founder &amp; Editor-in-Chief:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/josh-m">Josh Marshall</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Executive Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/david-kurtz">David Kurtz</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Managing Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/john-light">John Light</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Associate Editor:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/nicole-lafond">Nicole Lafond</a>
+                  </li>
+                </ul>
+
+              </div>
+              <div class="--span-3 --span-sm-6">
+                <div class="Masthead__Title">
+                  Investigations Desk:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/josh_kovensky">Josh Kovensky</a>
+                  </li>
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/hunter">Hunter Walker</a>
+                  </li>
+                </ul>
+
+                <div class="Masthead__Title">
+                  Reporters:
+                </div>
+                <ul class="Masthead__List">
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/kate-riga">Kate Riga</a>
+                  </li>
+                  <li>
+                    <a href="https://talkingpointsmemo.com/profile/emine">Emine Yücel</a>
+                  </li>
+                </ul>
+
+
+              </div>
+                          <div class="--span-3 --span-sm-6">
+              <div class="Masthead__Title">
+                Editor at Large:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/johnjudis">John B. Judis</a>
+                </li>
+              </ul>
+
+              <div class="Masthead__Title">
+                General Counsel:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/millet">Millet Israeli</a>
+                </li>
+              </ul>
+            </div>
+            <div class="--span-3 --span-sm-6">
+              <div class="Masthead__Title">
+                Publisher:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/tpmjoe">Joe Ragazzo</a>
+                </li>
+              </ul>
+
+              <div class="Masthead__Title">
+                Head of Product:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/derick">Derick Dirmaier</a>
+                </li>
+              </ul>
+
+              <div class="Masthead__Title">
+                Director of Technology:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/woz">Matt Wozniak</a>
+                </li>
+              </ul>
+
+              <div class="Masthead__Title">
+                Associate Publisher:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/jackiewilhelm">Jackie Wilhelm</a>
+                </li>
+              </ul>
+
+              <div class="Masthead__Title">
+                Front End Developer:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/jacobtpm">Jacob Harris</a>
+                </li>
+              </ul>
+
+              <div class="Masthead__Title">
+                Senior Designer:
+              </div>
+              <ul class="Masthead__List">
+                <li>
+                  <a href="https://talkingpointsmemo.com/profile/cfrapech">Christine Frapech</a>
+                </li>
+              </ul>
+
+            </div>
+            </div><!-- .row -->
+          </div><!-- .Masthead__Slidecontainer.container -->
+        </div><!-- .Masthead__Contents -->
+      </div><!-- .Masthead span-12-->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</div> <!-- .Masthead --><footer id="footer" class="js_site-footer Footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="--span-12">
+        <div class="Footer__Follow">
+          <div class="Footer__FollowText">Follow TPM</div>
+          <div class="Footer__Social">
+            <a href="https://twitter.com/tpm" title="twitter" class="footer-social-twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/talkingpointsmemo" title="facebook" class="footer-social-facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+            <a href="https://www.instagram.com/talkingpointsmemo/" title="instagram" class="footer-social-instagram"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+          </div>
+        </div>
+        <nav class="Footer__Nav">
+          <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/memberships?utm_source=on_site&utm_medium=footer-link&utm_campaign=memberships">Memberships</a></li>
+            <li><a href="/careers">Careers</a></li>
+            <li><a href="https://s3.amazonaws.com/tpm-media/2021-ad-offerings-site_compressed.pdf" target="_blank">Advertise</a></li>
+            <li><a href="http://status.talkingpointsmemo.com" target="_blank">Site Status</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/faq">FAQ</a></li>
+            <li><a href="/newsletters">Newsletters</a></li>
+            <li><a href="/pitch-us">Pitch Us</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/terms-of-use">Terms of Use</a></li>
+            <li><a href="/ccpa-notice">CCPA Notice</a></li>
+          </ul>
+        </nav>
+        <div class="Footer__Bottom">
+          <img class="Footer__Logo" src="https://talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/images/logo/TPMRedes_FullLogo_GrayLight.svg" alt="Talking Point Memo">
+          <div class="Footer__Copyright">
+            &copy; 2023 TPM MEDIA LLC. ALL RIGHTS RESERVED.
+                          <div class="Footer__Privacy">
+                <a href="javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage)">Change Privacy Settings</a>
+              </div>
+                      </div>
+        </div>
+      </div><!-- span-12 -->
+      <div class="--span-12 Footer__ModalAds">
+          <div class='htlad-TPM_Custom_1x1_1'></div>
+  <div id="breakout-TPM_Custom_1x1_1"></div>      </div> <!-- .Footer__ModalAds -->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</footer>
+
+  <script type="text/javascript">
+    // chartbeat
+    (function() {
+      var e, t;
+      _sf_async_config.uid = 986, _sf_async_config.domain = "talkingpointsmemo.com";
+      _sf_async_config.useCanonical = !0, e = function() {
+        var e;
+        return window._sf_endpt = (new Date).getTime(), e = document.createElement("script"), e.setAttribute("language", "javascript"), e.setAttribute("type", "text/javascript"), e.setAttribute("src", "https://static.chartbeat.com/js/chartbeat_pub.js"), document.body.appendChild(e)
+      }, t = window.onload, window.onload = typeof window.onload != "function" ? e : function() {
+        return t(), e()
+      }
+    })();
+
+    var _cbq = window._cbq || [];
+    // _cbq.push(['_acct', '#{cb_user_type}']);
+    // _sf_async_config.zone="#{cb_zone}";
+  </script>
+
+      <!-- BEGIN Krux ControlTag for "PAA-TalkingPointsMemo" -->
+    <script class="kxct" data-id="r3oivopn7" data-timing="async" data-version="3.0" type="text/javascript">
+      window.Krux || ((Krux = function() {
+        Krux.q.push(arguments)
+      }).q = []);
+      (function() {
+        var k = document.createElement('script');
+        k.type = 'text/javascript';
+        k.async = true;
+        k.src = (location.protocol === 'https:' ? 'https:' : 'http:') + '//cdn.krxd.net/controltag/r3oivopn7.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(k, s);
+      }());
+    </script>
+    <!-- END Krux ControlTag -->
+  <script type="text/javascript" src="https://talkingpointsmemo.com/wp-content/themes/talkingpointsmemo/assets/webpack/theme.cecf2.js?m=1700278470g" ></script><script defer type="text/javascript" src="https://stats.wp.com/e-202346.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'225280093',post:'1469853',tz:'-5',srv:'talkingpointsmemo.com',hp:'vip',j:'1:12.8.1'} ]);
+_stq.push([ "clickTrackerInit", "225280093", "1469853" ]);
+/* ]]> */
+</script>
+<div style="background-color: #f8f6f1">
+    <div class='htlad-TPM_Out_Of_Page'></div>
+  <div id="breakout-TPM_Out_Of_Page"></div>  <div class='htlad-TPM_Custom_1x1_2'></div>
+  <div id="breakout-TPM_Custom_1x1_2"></div>  <div class='htlad-TPM_Custom_1x1_3'></div>
+  <div id="breakout-TPM_Custom_1x1_3"></div></div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"82838726bb97f993","b":1,"version":"2023.10.0","token":"33a8a5634dd6436ab9d6e3ed0bb68d02"}' crossorigin="anonymous"></script>
+</body>
+
+</html>

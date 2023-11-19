@@ -1,0 +1,817 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="canonical" href="https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/">
+<title>Jewish man dead after ‘altercation’ with anti-Israel protester in LA area - JNS.org</title>
+<script>
+        var redirectToSignUpPress = false;
+        if (document.cookie.indexOf('CRMSESSION') > -1 && document.cookie.indexOf('crmUser') > -1) {
+            var name = "crmUser=";
+            var crmUserCookie = '';
+            var ca = document.cookie.split(';');
+            for(var i=0; i<ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) crmUserCookie = c.substring(name.length,c.length);
+            }
+            if (crmUserCookie != '') {
+                
+                let crmUser = decodeURIComponent( crmUserCookie );
+                if( crmUser ) {
+                    try {
+                        crmUser = JSON.parse( crmUser );
+                        if (crmUser.status.toLowerCase() != 'pressplus') {
+                            // location.href = '//crm.jns.org/sign-up-press?referral=' + btoa(location.href);
+                        }
+                        if ('id' in crmUser) {
+                            let userLocalStorageName = 'userID'+crmUser.id;
+                            let crmUserJson   = localStorage.getItem(userLocalStorageName),
+                                now           = new Date(),
+                                crmUserObject = {'updatedAt': '', 'id': 0, 'status': '', 'email': '', 'plan': ''},
+                                crmUserResponse;
+                                
+                            window.rgbCrmUser = crmUser;
+                            if( crmUserJson ) {
+                                try {
+                                    crmUserObject = JSON.parse(crmUserJson);
+                                    if ( 'status' in crmUserObject ) {
+                                        if (crmUserObject.status.toLowerCase() == 'pressplus') {
+                                            window.rgbCrmUser = crmUserObject;
+                                            redirectToSignUpPress = false;
+                                        }
+                                    } else {
+                                        redirectToSignUpPress = false;
+                                    }
+                                } catch(e) {/* ignore to refetch */}
+                            } else {
+                                redirectToSignUpPress = false;
+                            }
+                        }
+                    } catch(e) { console.log(e); }
+                }
+            }   
+        }
+        if (redirectToSignUpPress) {
+            location.href = '//crm.jns.org/sign-up-press?referral=' + btoa(location.href);
+        }
+    </script>
+
+<meta name="cse_post_id" content="338982">
+
+<link rel="manifest" href="/manifest.json">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://cdn.jns.org/www/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.jns.org/www/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.jns.org/www/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jns.org/www/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.jns.org/www/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.jns.org/www/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.jns.org/www/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.jns.org/www/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jns.org/www/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://cdn.jns.org/www/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jns.org/www/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://cdn.jns.org/www/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jns.org/www/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://cdn.jns.org/www/img/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://cdn.jns.org/www/img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<script src="https://tagan.adlightning.com/jmedia-jns/op.js" defer></script>
+<script> !(function () { window.googletag = window.googletag || {}; window.vmpbjs = window.vmpbjs || {}; window.vpb = window.vpb || {}; vpb.cmd = vpb.cmd || []; vpb.st=Date.now();  vpb.fastLoad = true; googletag.cmd = googletag.cmd || []; vmpbjs.cmd = vmpbjs.cmd || []; var cmds = []; try{ cmds = googletag.cmd.slice(0); googletag.cmd.length = 0; }catch(e){} var ready = false; function exec(cb) { return cb.call(googletag); } var overriden = false; googletag.cmd.push(function () { overriden = true; googletag.cmd.unshift = function (cb) { if (ready) { return exec(cb); } cmds.unshift(cb); if (cb._startgpt) { ready = true; for (var k = 0; k < cmds.length; k++) { exec(cmds[k]); } } }; googletag.cmd.push = function (cb) { if (ready) { return exec(cb); } cmds.push(cb); }; }); if(!overriden){ googletag.cmd.push = function (cb) { cmds.push(cb); }; googletag.cmd.unshift = function (cb) { cmds.unshift(cb); if (cb._startgpt) { ready = true; if (googletag.apiReady) { cmds.forEach(function (cb) { googletag.cmd.push(cb); }); } else { googletag.cmd = cmds; } } }; } var dayMs = 36e5, cb = parseInt(Date.now() / dayMs), vpbSrc = '//player.adtcdn.com/prebidlink/' + cb + '/wrapper_hb_495468_12715.js', pbSrc = vpbSrc.replace('wrapper_hb', 'hb'), gptSrc = '//securepubads.g.doubleclick.net/tag/js/gpt.js', c = document.head || document.body || document.documentElement; function loadScript(src, cb) { var s = document.createElement('script'); s.src = src; s.defer=false; c.appendChild(s); s.onload = cb; s.onerror = function(){ var fn = function(){}; fn._startgpt = true; googletag.cmd.unshift(fn); }; return s; } loadScript(pbSrc); loadScript(gptSrc); loadScript(vpbSrc); })() </script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    
+    //       // lb_1
+//       googletag.defineSlot('/22215292831/jns_org/desktop/article/lb_1', [[970,250],[970,90],[728,90]], 'div-gpt-ad-lb_1')
+//               .addService(googletag.pubads());
+
+      // in_text_1
+      googletag.defineSlot('/22215292831/jns_org/desktop/article/in_text_1', [[300,250],[336,280],"fluid"], 'div-gpt-ad-in_text_1')
+              .addService(googletag.pubads());
+
+      // in_text_2
+      googletag.defineSlot('/22215292831/jns_org/desktop/article/in_text_2', [[300,250],[336,280],"fluid"], 'div-gpt-ad-in_text_2')
+              .addService(googletag.pubads());
+
+      // in_text_3
+      googletag.defineSlot('/22215292831/jns_org/desktop/article/in_text_3', [[300,250],[336,280],"fluid"], 'div-gpt-ad-in_text_3')
+              .addService(googletag.pubads());
+
+      // in_text_4
+      googletag.defineSlot('/22215292831/jns_org/desktop/article/in_text_4', [[300,250],[336,280],"fluid"], 'div-gpt-ad-in_text_4')
+              .addService(googletag.pubads());
+
+      // in_text_5
+      googletag.defineSlot('/22215292831/jns_org/desktop/article/in_text_5', [[300,250],[336,280],"fluid"], 'div-gpt-ad-in_text_5')
+              .addService(googletag.pubads());
+
+      // in_text_6
+      googletag.defineSlot('/22215292831/jns_org/desktop/article/in_text_6', [[300,250],[336,280],"fluid"], 'div-gpt-ad-in_text_6')
+              .addService(googletag.pubads());
+              
+        googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().setForceSafeFrame(false);
+
+    // googletag.pubads().disableInitialLoad(); 
+    // googletag.pubads().enableLazyLoad({
+    //   fetchMarginPercent: 0,
+    //   renderMarginPercent: 0,
+    //   mobileScaling: 0
+    // });
+    
+    googletag.enableServices();
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://cdn.jns.org/www/fonts/jns/style.css?ver=1683784761" />
+<link rel="stylesheet" href="https://use.typekit.net/tqa7qfi.css">
+<link rel="stylesheet" href="https://cdn.jns.org/www/css/style.css?ver=1699948623" />
+
+<link type="text/css" rel="stylesheet" href="https://cdn.jns.org/www/css/accessibility.css?ver=1683784760">
+<script>
+        (function() {
+        var isIe = /(trident|msie)/i.test( navigator.userAgent );
+        if ( isIe && document.getElementById && window.addEventListener ) {
+            window.addEventListener( 'hashchange', function() {
+            var id = location.hash.substring( 1 ),
+                element;
+            if ( ! ( /^[A-z0-9_-]+$/.test( id ) ) ) {
+                return;
+            }
+            element = document.getElementById( id );
+            if ( element ) {
+                if ( ! ( /^(?:a|select|input|button|textarea)$/i.test( element.tagName ) ) ) {
+                element.tabIndex = -1;
+                }
+                element.focus();
+            }
+            }, false );
+        }
+        }());
+    </script>
+<style>
+	/* Custom BSA_PRO Styles */
+
+	/* fonts */
+
+	/* form */
+	.bsaProOrderingForm {   }
+	.bsaProInput input,
+	.bsaProInput input[type='file'],
+	.bsaProSelectSpace select,
+	.bsaProInputsRight .bsaInputInner,
+	.bsaProInputsRight .bsaInputInner label {   }
+	.bsaProPrice  {  }
+	.bsaProDiscount  {   }
+	.bsaProOrderingForm .bsaProSubmit,
+	.bsaProOrderingForm .bsaProSubmit:hover,
+	.bsaProOrderingForm .bsaProSubmit:active {   }
+
+	/* alerts */
+	.bsaProAlert,
+	.bsaProAlert > a,
+	.bsaProAlert > a:hover,
+	.bsaProAlert > a:focus {  }
+	.bsaProAlertSuccess {  }
+	.bsaProAlertFailed {  }
+
+	/* stats */
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-b .ct-slice.ct-donut { stroke: #673AB7 !important; }
+
+	.bsaStatsWrapper  .ct-chart .ct-series.ct-series-a .ct-bar,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-line,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-point,
+	.bsaStatsWrapper .ct-chart .ct-series.ct-series-a .ct-slice.ct-donut { stroke: #FBCD39 !important; }
+
+	/* Custom CSS */
+	</style><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<link rel="canonical" href="https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Jewish man dead after ‘altercation’ with anti-Israel protester in LA area - JNS.org" />
+<meta property="og:description" content="&quot;The Ventura County Sheriff’s Office is investigating the incident and has not ruled out the possibility of a hate crime,&quot; per a release." />
+<meta property="og:url" content="https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/" />
+<meta property="og:site_name" content="JNS.org" />
+<meta property="article:published_time" content="2023-11-07T00:55:27+00:00" />
+<meta property="article:modified_time" content="2023-11-07T20:29:42+00:00" />
+<meta property="og:image" content="https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-scaled.jpg" />
+<meta property="og:image:width" content="2560" />
+<meta property="og:image:height" content="1707" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="Menachem Wecker" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Menachem Wecker" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="3 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#article","isPartOf":{"@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/"},"author":[[{"@type":"Person","@id":"https://www.jns.org/writers/david-swindle//#webpage","name":"David Swindle"}]],"headline":"Jewish man dead after ‘altercation’ with anti-Israel protester in LA area","datePublished":"2023-11-07T00:55:27+00:00","dateModified":"2023-11-07T20:29:42+00:00","mainEntityOfPage":{"@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/"},"wordCount":522,"commentCount":0,"publisher":{"@id":"https://www.jns.org/#organization"},"image":{"@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#primaryimage"},"thumbnailUrl":"https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-scaled.jpg","keywords":["Protests","Death","Los Angeles","California"],"articleSection":["Antisemitism"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#respond"]}]},{"@type":"WebPage","@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/","url":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/","name":"Jewish man dead after ‘altercation’ with anti-Israel protester in LA area - JNS.org","isPartOf":{"@id":"https://www.jns.org/#website"},"primaryImageOfPage":{"@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#primaryimage"},"image":{"@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#primaryimage"},"thumbnailUrl":"https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-scaled.jpg","datePublished":"2023-11-07T00:55:27+00:00","dateModified":"2023-11-07T20:29:42+00:00","breadcrumb":{"@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#primaryimage","url":"https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-scaled.jpg","contentUrl":"https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-scaled.jpg","width":2560,"height":1707,"caption":"A police officer in Ventura, Calif. Credit: Glenn Highcove/Shutterstock."},{"@type":"BreadcrumbList","@id":"https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.jns.org/"},{"@type":"ListItem","position":2,"name":"Jewish man dead after ‘altercation’ with anti-Israel protester in LA area"}]},{"@type":"WebSite","@id":"https://www.jns.org/#website","url":"https://www.jns.org/","name":"JNS.org","description":"Jewish News Syndicate","publisher":{"@id":"https://www.jns.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.jns.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.jns.org/#organization","name":"JNS.org","url":"https://www.jns.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.jns.org/#/schema/logo/image/","url":"https://cdn.jns.org/uploads/2023/10/logo_desktop-1.png","contentUrl":"https://cdn.jns.org/uploads/2023/10/logo_desktop-1.png","width":170,"height":130,"caption":"JNS.org"},"image":{"@id":"https://www.jns.org/#/schema/logo/image/"}},[{"@type":"Person","@id":"https://www.jns.org/writers/david-swindle//#webpage","name":"David Swindle","image":{"@type":"ImageObject","@id":"https://www.jns.org/writers/david-swindle/#authorlogo","url":"https://cdn.jns.org/uploads/2023/05/image000000_4_360-360x240.jpg","contentUrl":"https://cdn.jns.org/uploads/2023/05/image000000_4_360-360x240.jpg","caption":"David Swindle"}}]]}</script>
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//cdn.jns.org" />
+<link rel="stylesheet" id="buy_sell_ads_pro_main_stylesheet-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/style.css?v=4.3.97&#038;ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="buy_sell_ads_pro_user_panel-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/user-panel.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="buy_sell_ads_pro_template_stylesheet-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/all.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="buy_sell_ads_pro_animate_stylesheet-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/animate.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="buy_sell_ads_pro_chart_stylesheet-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/chart.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="buy_sell_ads_pro_carousel_stylesheet-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/bsa.carousel.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="buy_sell_ads_pro_materialize_stylesheet-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/material-design.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<link rel="stylesheet" id="jquery-ui-css" href="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/css/asset/ui-datapicker.css?ver=ec66d6caea100891c24576d1117aeae7" type="text/css" media="all" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=3.6.0" id="jquery-js"></script>
+<script type="text/javascript" id="thickbox-js-extra">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.jns.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105" id="thickbox-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/shortcode.min.js?ver=ec66d6caea100891c24576d1117aeae7" id="shortcode-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-admin/js/media-upload.min.js?ver=ec66d6caea100891c24576d1117aeae7" id="media-upload-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/script.js?ver=ec66d6caea100891c24576d1117aeae7" id="buy_sell_ads_pro_js_script-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/jquery.viewportchecker.js?ver=ec66d6caea100891c24576d1117aeae7" id="buy_sell_ads_pro_viewport_checker_js_script-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/chart.js?ver=ec66d6caea100891c24576d1117aeae7" id="buy_sell_ads_pro_chart_js_script-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/bsa.carousel.js?ver=ec66d6caea100891c24576d1117aeae7" id="buy_sell_ads_pro_carousel_js_script-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-content/plugins/bsa-plugin-pro-scripteo/frontend/js/jquery.simplyscroll.js?ver=ec66d6caea100891c24576d1117aeae7" id="buy_sell_ads_pro_simply_scroll_js_script-js"></script>
+<script type="text/javascript" src="https://cdn.jns.org/www/js/responsiveslides.min.js?ver=1683784763" id="responsiveslides-js"></script>
+<script type="text/javascript" src="https://cdn.jns.org/www/js/siema.min.js?ver=1683784763" id="siemaslider-js"></script>
+<script type="text/javascript" src="https://cdn.jns.org/www/js/global_functions.js?ver=1698651754" id="rgb-main-js-js"></script>
+<link rel="shortlink" href="https://www.jns.org/?p=338982" />
+<link rel="manifest" href="/manifest.json">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PQRNQ5G');</script>
+
+
+<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-37052883-1', 'auto');
+		ga('send', 'pageview');</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K6H02W22XT"></script>
+<script>
+			
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-K6H02W22XT');
+	
+					gtag('event', 'page_view', {
+						
+					'Topics': 'protests,death,los-angeles,california',
+					
+					'Writers': 'david-swindle',
+					
+					'Categories': 'antisemitism',
+					
+					'publication_date': '23/11/6',
+					
+					'article_type': 'Brief',
+					
+					});
+				
+		</script>
+
+<script defer src="https://unpkg.com/alpinejs@3.10.3/dist/cdn.min.js"></script>
+</head>
+<body class="post-template-default single single-post postid-338982 single-format-standard">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQRNQ5G"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="over-close"></div>
+
+<header class="header header-with-iaw">
+<div class="header-wrapper bg-white">
+<div class="header-wrapper-inner">
+<div class="header-logo-block">
+<div class="header-logo-wrapper">
+
+
+<div class="header-logo-image">
+<a href="/"><img src="https://cdn.jns.org/www/img/jns_logo_tagline.svg" alt="JNS"></a>
+</div>
+</div>
+</div>
+<div class="header-menu-block">
+<div class="header-menu-block-wrapper">
+<div class="header-account-block color-secondary">
+<a class="header-account-item _hide_on_login" href="//crm.jns.org/log-in?referral=aHR0cHM6Ly93d3cuam5zLm9yZy9qZXdpc2gtbWFuLWRlYWQtYWZ0ZXItYW50aS1pc3JhZWwtcHJvdGVzdGVyLWFzc2F1bHRzLWhpbS1pbi1jYWxpZm9ybmlh">Log in</a>
+<div class="header-account-wrapper _show_on_login hid has-children">
+<a class="dropdown-btn" href="#">Account</a>
+<nav class="header-account-menu main-sub-menu">
+<ul>
+<li><a href="//crm.jns.org/profile">My Account</a></li>
+<li><a href="//crm.jns.org/support">Support</a></li>
+<li><a href="//crm.jns.org/sign-out?referral=aHR0cHM6Ly93d3cuam5zLm9yZy9qZXdpc2gtbWFuLWRlYWQtYWZ0ZXItYW50aS1pc3JhZWwtcHJvdGVzdGVyLWFzc2F1bHRzLWhpbS1pbi1jYWxpZm9ybmlh">Log out</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="header-main-menu color-black2">
+<nav class="main-menu">
+<ul class="main-menu-list">
+<li class="has-children ">
+<button class="dropdown-btn">Israel</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/israel/">Israel News</a></li>
+<li><a href="https://www.jns.org/topic/judicial-reform/">Judicial Reform</a></li>
+<li><a href="https://www.jns.org/topic/abraham-accords/">Abraham Accords</a></li>
+<li><a href="https://www.jns.org/topic/israeli-palestinian-conflict/">Israel-Palestinian Conflict</a></li>
+<li><a href="https://www.jns.org/topic/u-s-israel-relations/">US-Israel Relations</a></li>
+<li><a href="https://www.jns.org/topic/judea-and-samaria/">Judea and Samaria</a></li>
+<li><a href="https://www.jns.org/topic/israeli-politics/">Israeli Politics</a></li>
+<li><a href="https://www.jns.org/topic/startup-nation/">Startup Nation</a></li>
+</ul>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn">United States</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/american-jewry">American Jewry</a></li>
+<li><a href="https://www.jns.org/topic/american-jewish-organizations">American Jewish Organizations</a></li>
+<li><a href="https://www.jns.org/topic/college-campus">Universities</a></li>
+<li><a href="https://www.jns.org/topic/israel-diaspora-relations/">Diaspora Relations</a></li>
+</ul>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn">Antisemitism</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/antisemitism/">Antisemitism</a></li>
+<li><a href="https://www.jns.org/topic/bds-movement/">BDS Movement</a></li>
+<li><a href="https://www.jns.org/topic/anti-israel/">Anti-Israel Bias</a></li>
+<li><a href="https://www.jns.org/topic/campus-antisemitism/">Campus Antisemitism</a></li>
+<li><a href="https://www.jns.org/topic/holocaust/">Holocaust</a></li>
+</ul>
+</li>
+<li class="has-children do-after">
+<button class="dropdown-btn"> JNS TV</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/caroline-glick-show">Caroline Glick Show</a></li>
+<li><a href="https://www.jns.org/topic/the-quad/">The Quad </a></li>
+<li><a href="https://www.jns.org/topic/top-story-with-jonathan-tobin">Top Story w/ Jonathan Tobin</a></li>
+<li><a href="https://www.jns.org/topic/our-middle-east-podcast">Our Middle East</a></li>
+<li><a href="https://www.jns.org/topic/yishai-fleisher-podcast">Yishai Fleisher Podcast</a></li>
+<li><a href="https://www.jns.org/topic/emet">EMET</a></li>
+</ul>
+</li>
+<li class>
+<a href="https://www.jns.org/wire/">Wire</a>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn">Opinion</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/opinion/">All Opinion</a></li>
+<li><a href="https://www.jns.org/writers/jonathan-s-tobin/">Jonathan S. Tobin</a></li>
+<li><a href="https://www.jns.org/writers/caroline-b-glick/">Caroline B. Glick</a></li>
+<li><a href="https://www.jns.org/writers/melanie-phillips/">Melanie Phillips</a></li>
+<li><a href="https://www.jns.org/writers/alex-traiman/">Alex Traiman</a></li>
+<li><a href="https://www.jns.org/writers/dry-bones/">Dry Bones</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="header-buttons">
+<button class="ic icon-search header-search-button"><span>Search</span></button>
+<button class="ic icon-mobile-menu header-menu-button"><span>Open menu</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-banner header-banner-iaw _hide_if_premium_user _hide_if_pressplus_user _hide_if_society_user color-white" style="background-image: url('https://cdn.jns.org/www/img/Israel_Is_At_War.png');">
+<div class="header-banner-wrapper">
+<div class="header-banner-text">
+<div class="header-banner-title">ISRAEL IS AT WAR</div>
+<div class="header-banner-subtitle">Help JNS get the facts out</div>
+</div>
+<div class="header-banner-button">
+<a class="bg-primary" href="//crm.jns.org/sign-up-israel-at-war?utm_source=jns_website&utm_medium=header_banner">Donate</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<div class="header-search hid">
+<div class="header-search-wrapper">
+<form novalidate autocomplete="off" class="header-searchform" method="get" action="/">
+<label class="hide-for-sr" for="searchform_text_header-top"><span>Type to Search</span></label>
+<div class="header-searchform-wrapper bg-white">
+<input class="color-black2" autocomplete="off" id="searchform-text-header-top" type="text" name="s" value placeholder="Type to Search">
+<button type="submit" id="searchform-header-submit" class="bg-black2 color-white header-submit-button"><span>Search</span></button>
+</div>
+</form>
+</div>
+</div>
+
+<div class="header-large-menu hid">
+<div class="header-large-menu-wrapper">
+<div class="header-large-menu-inner">
+<div class="header-large-menu-column">
+<div class="header-large-menu-column-inner header-large-menu-column-first">
+<nav class="large-menu-list-main color-black2">
+<a class="header-account-item _hide_on_login color-secondary" href="//crm.jns.org/log-in?referral=aHR0cHM6Ly93d3cuam5zLm9yZy9qZXdpc2gtbWFuLWRlYWQtYWZ0ZXItYW50aS1pc3JhZWwtcHJvdGVzdGVyLWFzc2F1bHRzLWhpbS1pbi1jYWxpZm9ybmlh">Log in</a>
+<div class="large-menu-account-block _show_on_login hid color-secondary">
+
+<div class="large-menu-account-wrapper _show_on_login">
+<div class="large-menu-account-title">Account</div>
+<nav class="large-menu-account-menu">
+<ul>
+<li><a href="//crm.jns.org/profile">My Account</a></li>
+<li><a href="//crm.jns.org/support">Support</a></li>
+<li><a href="//crm.jns.org/sign-out?referral=aHR0cHM6Ly93d3cuam5zLm9yZy9qZXdpc2gtbWFuLWRlYWQtYWZ0ZXItYW50aS1pc3JhZWwtcHJvdGVzdGVyLWFzc2F1bHRzLWhpbS1pbi1jYWxpZm9ybmlh">Log out</a></li>
+</ul>
+</ul>
+</nav>
+</div>
+</div>
+<ul>
+<li class="has-children ">
+<button class="dropdown-btn">Israel</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/israel/">Israel News</a></li>
+<li><a href="https://www.jns.org/topic/judicial-reform/">Judicial Reform</a></li>
+<li><a href="https://www.jns.org/topic/abraham-accords/">Abraham Accords</a></li>
+<li><a href="https://www.jns.org/topic/israeli-palestinian-conflict/">Israel-Palestinian Conflict</a></li>
+<li><a href="https://www.jns.org/topic/u-s-israel-relations/">US-Israel Relations</a></li>
+<li><a href="https://www.jns.org/topic/judea-and-samaria/">Judea and Samaria</a></li>
+<li><a href="https://www.jns.org/topic/israeli-politics/">Israeli Politics</a></li>
+<li><a href="https://www.jns.org/topic/startup-nation/">Startup Nation</a></li>
+</ul>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn">United States</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/american-jewry">American Jewry</a></li>
+<li><a href="https://www.jns.org/topic/american-jewish-organizations">American Jewish Organizations</a></li>
+<li><a href="https://www.jns.org/topic/college-campus">Universities</a></li>
+<li><a href="https://www.jns.org/topic/israel-diaspora-relations/">Diaspora Relations</a></li>
+</ul>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn">Antisemitism</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/antisemitism/">Antisemitism</a></li>
+<li><a href="https://www.jns.org/topic/bds-movement/">BDS Movement</a></li>
+<li><a href="https://www.jns.org/topic/anti-israel/">Anti-Israel Bias</a></li>
+<li><a href="https://www.jns.org/topic/campus-antisemitism/">Campus Antisemitism</a></li>
+<li><a href="https://www.jns.org/topic/holocaust/">Holocaust</a></li>
+</ul>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn"> JNS TV</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/topic/caroline-glick-show">Caroline Glick Show</a></li>
+<li><a href="https://www.jns.org/topic/the-quad/">The Quad </a></li>
+<li><a href="https://www.jns.org/topic/top-story-with-jonathan-tobin">Top Story w/ Jonathan Tobin</a></li>
+<li><a href="https://www.jns.org/topic/our-middle-east-podcast">Our Middle East</a></li>
+<li><a href="https://www.jns.org/topic/yishai-fleisher-podcast">Yishai Fleisher Podcast</a></li>
+<li><a href="https://www.jns.org/topic/emet">EMET</a></li>
+</ul>
+</li>
+<li class>
+<a href="https://www.jns.org/wire/">Wire</a>
+</li>
+<li class="has-children ">
+<button class="dropdown-btn">Opinion</button>
+<ul class="main-sub-menu">
+<li><a href="https://www.jns.org/opinion/">All Opinion</a></li>
+<li><a href="https://www.jns.org/writers/jonathan-s-tobin/">Jonathan S. Tobin</a></li>
+<li><a href="https://www.jns.org/writers/caroline-b-glick/">Caroline B. Glick</a></li>
+<li><a href="https://www.jns.org/writers/melanie-phillips/">Melanie Phillips</a></li>
+<li><a href="https://www.jns.org/writers/alex-traiman/">Alex Traiman</a></li>
+<li><a href="https://www.jns.org/writers/dry-bones/">Dry Bones</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="header-large-menu-column">
+<div class="header-large-menu-column-inner header-large-menu-column-middle">
+<div class="large-menu-list-press-plus">
+<a href="/press-plus">JNS Press+</a>
+</div>
+<nav class="large-menu-list-about large-menu-list-secondary color-black2">
+<ul>
+<li class="large-menu-accent">More from JNS</li>
+<li class>
+<a href="https://www.jns.org/sponsor-jns/">Donate</a>
+</li>
+<li class>
+<a href="https://www.jns.org/about/">About JNS</a>
+</li>
+<li class>
+<a href="https://www.jns.org/contact-us/">Contact</a>
+</li>
+<li class>
+<a href="https://www.jns.org/press-plus/republish-jns-content/">Republish JNS Content</a>
+</li>
+<li class>
+<a href="https://www.jns.org/publish-column">Publish column</a>
+</li>
+<li class>
+<a href="https://www.jns.org/advertise-with-us/">Advertise</a>
+</li>
+<li class>
+<a href="https://www.jns.org/careers">Careers</a>
+</li>
+<li class>
+<a href="https://www.jns.org/terms/">Terms Of Use</a>
+</li>
+<li class>
+<a href="https://www.jns.org/privacy/">Privacy Policy</a>
+</li>
+<li class>
+<a href="https://www.jns.org/join-wire/">Publish a Press Release</a>
+</li>
+<li class>
+<a href="https://www.jns.org/dont-miss-another-headline/">Subscribe to Daily Syndicate</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="header-large-menu-column">
+<div class="header-large-menu-column-inner header-large-menu-column-last">
+<div class="header-large-menu-subscribe">
+<div class="header-large-menu-sub-title">Subscribe to The JNS Daily Syndicate by email and never miss our top stories</div>
+<div class="header-large-menu-subscribe-form-wrapper">
+<form novalidate autocomplete="off" class="header-large-menu-subscribe-form" data-src="website-form">
+<label class="hide-for-sr" for="large-menu-subscribe-form"><span>Free sign up</span></label>
+<div class="header-searchform-wrapper bg-white">
+<input class="color-black2" autocomplete="off" id="large-menu-subscribe-form" type="email" name="newsletter-mail" value placeholder="Your Email">
+<button type="submit" id="searchform-header-submit" class="bg-black2 color-white header-submit-button"><span>Free sign up</span></button>
+</div>
+<span class="newsletter-shortcode-msg errormsg color-primary"></span>
+</form>
+</div>
+</div>
+<div class="header-large-menu-follow">
+<div class="header-large-menu-sub-title">Follow us</div>
+<div class="header-large-menu-social color-primary">
+<ul class="social-list">
+<li class="fb-share">
+<a class="popup-share ic icon-facebook2" data-width="670" data-height="546" href="https://www.facebook.com/JNS.org"><span>Facebook</span></a>
+</li>
+<li class="twitter">
+<a class="popup-share ic icon-twitter-circle" href="https://twitter.com/JNS_org"><span>Twitter</span></a>
+</li>
+<li class="instagram">
+<a class="ic icon-instagram-circle" target="_blank" href="https://www.instagram.com/JNS_org/"><span>instagram</span></a>
+</li>
+<li class="youtube">
+<a class="ic icon-youtube-circle" target="_blank" href="https://www.youtube.com/@JNS_TV"><span>youtube</span></a>
+</li>
+<li class="linkdin">
+<a class="ic icon-linkdin-circle" target="_blank" href="https://www.linkedin.com/company/jns.org"><span>linkdin</span></a>
+</li>
+<li class="rss">
+<a href="/feed/" class="ic icon-rss-circle"><span>Rss</span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="header-large-menu-credit">
+<span class="header-large-menu-credit-str color-black2">© 2023 JNS, All Rights Reserved</span>
+<span class="header-large-menu-credit-str color-light-gray">Concept, design & development by RGB Media.</span>
+<span class="header-large-menu-credit-str color-light-gray">Powered by Salamandra</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<main class="site-main"><div class="infinite-scrolling">
+<article id="article_338982" class="article news is-article post " data-article_type="post" data-article_id="338982" data-article_url_http="https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/" data-article_url="https://www.jns.org/jewish-man-dead-after-anti-israel-protester-assaults-him-in-california/" data-article_title_full="Jewish man dead after ‘altercation’ with anti-Israel protester in LA area | JNS.org" data-article_title="Jewish man dead after ‘altercation’ with anti-Israel protester in LA area" data-article_description="&quot;The Ventura County Sheriff’s
+Office is investigating the incident and has not ruled out the possibility of a hate crime,&quot; per a release." data-image_url="https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-scaled.jpg" data-image_width="2560" data-image_height="1707" data-author_name data-article_can_be_download="yes" data-next_article_id="hp" data-after_hp_article_id="343563">
+<div class="article-header general-view">
+<div class="article-header-wrapper">
+<div class="article-header-flex-wrapper">
+<div class="article-header-text">
+<div class="article-header-labels">
+<div class="article-header-label"><span class="article-header-label-type">update desk</span><a class="article-header-label-topic" href="https://www.jns.org/category/antisemitism/">Antisemitism</a></div> </div>
+<h1 class="article-headline ">
+Jewish man dead after ‘altercation’ with anti-Israel protester in LA area </h1>
+<h2 class="article-underline">
+"The Ventura County Sheriff’s
+Office is investigating the incident and has not ruled out the possibility of a hate crime," per a release. </h2>
+<div class="article-byline color-primary">
+<a title="David Swindle" href="https://www.jns.org/writers/david-swindle/">David Swindle</a>
+</div> </div>
+<div class="article-header-media">
+<div class="media  "><img width="620" height="413" src="https://cdn.jns.org/uploads/2023/11/shutterstock_1918256393-1320x880.jpg" class="attachment-large size-large wp-post-image" alt="A police officer in Ventura, Calif. Credit: Glenn Highcove/Shutterstock." decoding="async" fetchpriority="high" title="A police officer in Ventura, Calif. Credit: Glenn Highcove/Shutterstock." /><div class="caption">A police officer in Ventura, Calif. Credit: Glenn Highcove/Shutterstock.
+</div></div> </div>
+</div>
+</div>
+</div>
+<div class="article-wrapper">
+<div style="margin-bottom:50px;" class="editlink tac hid"><a style="display: inline-flex;justify-content: center;align-items: center;gap: 5px;text-transform: uppercase;font-size: 18px;color: #000;background: #fff;height: 40px;padding: 0 20px;border-radius: 40px;border:solid 1px #000;" data-id="338982" href="https://www.jns.org/wp-admin/post.php?post=338982&action=edit"><svg style="width:15px;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="pencil-alt" class="svg-inline--fa fa-pencil-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"></path></svg> Edit</a></div> <div class="article-content text-container">
+<div class="social article-social article-social-top color-white bg-primary">
+<ul class="social-list">
+<li class="fb-share">
+<a class="popup-share ic icon-facebook" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F" target="_blank"><span>Facebook</span></a>
+</li>
+<li class="twitter">
+<a class="popup-share ic icon-twitter" href="https://twitter.com/intent/tweet?text=Jewish+man+dead+after+%E2%80%98altercation%E2%80%99+with+anti-Israel+protester+in+LA+area&url=https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F&via=JNS_org" target="_blank"><span>Twitter</span></a>
+</li>
+<li class="whatsapp">
+<a class="ic icon-whatsapp-negative" href="https://api.whatsapp.com/send?text=Jewish News Syndicate: Jewish+man+dead+after+%E2%80%98altercation%E2%80%99+with+anti-Israel+protester+in+LA+area https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F" target="_blank"><span>WhatsApp</span></a>
+</li>
+<li class="email open_mailto" data-article="338982" data-lang="eng" data-site="Jewish News Syndicate" data-title="Jewish man dead after ‘altercation’ with anti-Israel protester in LA area">
+<a class="ic icon-mail" href="mailto:?subject=Jewish News Syndicate: Jewish man dead after ‘altercation’ with anti-Israel protester in LA area&body=I found this on Jewish News Syndicate and thought it might interest you: https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F">
+<span>Email</span>
+</a>
+</li>
+<li class="print">
+<button class="ic icon-printer" onclick="window.print();"><span>Print</span></button>
+</li>
+</ul>
+</div>
+<div class="text-content">
+<div class="article-meta-str">(November 6, 2023 / JNS)</div>
+<p class="wp-block-paragraph">Paul Kessler, a 69-year-old Jewish man, died from injuries sustained in &#8220;an altercation&#8221; at about 3:20 p.m. on Sunday in the greater Los Angeles area. At the time, there were simultaneous &#8220;pro-Israeli&#8221; and &#8220;pro-Palestinian&#8221; events at the same intersection, according to the Ventura County Sheriff’s Office.</p>
+<p class="wp-block-paragraph">&#8220;During the altercation, Kessler fell backwards and struck his head on the ground,&#8221; per the sheriff&#8217;s office. He was treated at a local hospital before succumbing to his injuries.</p>
+<p class="wp-block-paragraph">The sheriff&#8217;s office &#8220;is investigating the incident and has not ruled out the possibility of a hate crime,&#8221; it stated in a<a href="https://nixle.us/ETJRK" target="_blank" rel="noreferrer noopener"> release</a>.</p>
+<p class="wp-block-paragraph">&#8220;An autopsy was performed on Nov. 6 and the Ventura County Medical Examiner’s Office determined the cause of death to be blunt force head injury and the manner of death homicide,&#8221; per the sheriff&#8217;s office. &#8220;The incident appears to be isolated and not part of a large effort.&#8221;</p>
+<p class="wp-block-paragraph">Sheriff James “Jim” Fryhoff will hold a press conference on Tuesday at 10 a.m. &#8220;regarding the recent death of a pro-Israeli protester that occurred in the city of Thousand Oaks on Nov. 5 during simultaneous pro-Israeli/pro-Palestinian demonstrations that were taking place in proximity to one another,&#8221; the sheriff&#8217;s office stated.</p>
+<p class="wp-block-paragraph">According to a statement from the Jewish Federation of Greater Los Angeles earlier in the day, the victim was killed in Westlake Village, in the greater Los Angeles area, after an anti-Israel protestor struck him in the head with a megaphone.</p>
+<p class="wp-block-paragraph">&#8220;Our hearts are with the family of the victim,&#8221; the Federation said. &#8220;While we wait for more information from our law-enforcement partners, we remind you that this is the fourth major antisemitic crime committed in Los Angeles this year alone.&#8221;</p>
+<p class="wp-block-paragraph">&#8220;Violence against our people has no place in civilized society,&#8221; it added. &#8220;We demand safety. We will not tolerate violence against our community. We will do everything in our power to prevent it.&#8221;</p>
+<p class="wp-block-paragraph">Photos and videos on social media, which blurred the face of the victim, appeared to show a man bleeding from his head lying on the ground.</p>
+<p class="wp-block-paragraph">Israeli media <a href="https://www.ynetnews.com/article/bkszpgpqa" target="_blank" rel="noreferrer noopener">referred</a> to the victim as &#8220;an older Jewish man&#8221; and the alleged attacker as a &#8220;young pro-Palestinian protester.&#8221;</p>
+<p class="wp-block-paragraph">&#8220;The injured man fell to the ground bleeding and was rushed to the hospital. His death was confirmed to have been caused due to a brain hemorrhage,&#8221; per reports. &#8220;Israelis who were present at the scene described it as &#8216;a terrifying sight&#8217; and expressed shock that such an incident took place in their neighborhood.&#8221;</p>
+<p class="wp-block-paragraph"><em><a href="https://www.foxnews.com/us/jewish-man-dies-apparent-assault-pro-palestinian-california-rally">Fox News</a></em> reported that the anti-Israel protestor threw the megaphone at the pro-Israel victim.</p>
+<p class="wp-block-paragraph">Late last month, Dylan Mann, a Jewish freshman at Tulane University in New Orleans, told JNS that an anti-Israel protestor hit him in the face with a megaphone, <a href="https://www.jns.org/they-broke-my-nose-jewish-tulane-student-tells-jns-of-anti-israel-protesters/">breaking his nose</a>. &#8220;They instantly broke my nose with that,&#8221; Mann said.</p>
+<p class="wp-block-paragraph">&#8220;It was just unlike anything that I&#8217;ve ever experienced before,” Mann added. &#8220;I was mostly just in shock. You see the monsters and what they do on videos, and you hear on the news, but when you&#8217;re really experiencing it, it&#8217;s a new level of shock.&#8221;</p>
+<div class="end-of-article-module popup _hide_if_pressplus_user _hide_if_society_user _hide_if_premium_user">
+<div class="logo">
+<a href="/"><img src="https://cdn.jns.org/www/site_parts/img/end_of_article_module.svg" alt="jns"></a>
+</div>
+<h1 class="headline">Israel is at war - Support JNS</h1>
+<div class="end-of-article-text">
+<h2><strong>JNS is combating the barrage of misinformation with factual reporting.</strong>
+<strong>We depend on your support.</strong></h2>
+</div>
+<div class="end-of-article-button">
+<a href="https://crm.jns.org/sign-up-premium" role="button">Support JNS</a>
+</div>
+<span class="end-of-article-signup">
+<span>Already a member? <a href="//crm.jns.org/log-in">Log in</a> to stop seeing this</span>
+</span>
+</div>
+</div>
+<div class="social article-social article-social-bottom color-white bg-primary">
+<ul class="social-list">
+<li class="fb-share">
+<a class="popup-share ic icon-facebook" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F" target="_blank"><span>Facebook</span></a>
+</li>
+<li class="twitter">
+<a class="popup-share ic icon-twitter" href="https://twitter.com/intent/tweet?text=Jewish+man+dead+after+%E2%80%98altercation%E2%80%99+with+anti-Israel+protester+in+LA+area&url=https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F&via=JNS_org" target="_blank"><span>Twitter</span></a>
+</li>
+<li class="whatsapp">
+<a class="ic icon-whatsapp-negative" href="https://api.whatsapp.com/send?text=Jewish News Syndicate: Jewish+man+dead+after+%E2%80%98altercation%E2%80%99+with+anti-Israel+protester+in+LA+area https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F" target="_blank"><span>WhatsApp</span></a>
+</li>
+<li class="email open_mailto" data-article="338982" data-lang="eng" data-site="Jewish News Syndicate" data-title="Jewish man dead after ‘altercation’ with anti-Israel protester in LA area">
+<a class="ic icon-mail" href="mailto:?subject=Jewish News Syndicate: Jewish man dead after ‘altercation’ with anti-Israel protester in LA area&body=I found this on Jewish News Syndicate and thought it might interest you: https%3A%2F%2Fwww.jns.org%2Fjewish-man-dead-after-anti-israel-protester-assaults-him-in-california%2F">
+<span>Email</span>
+</a>
+</li>
+<li class="print">
+<button class="ic icon-printer" onclick="window.print();"><span>Print</span></button>
+</li>
+</ul>
+</div>
+<div class="republish-button color-white bg-black2 _hide_if_pressplus_user">
+<a href="//crm.jns.org/sign-up-press?referral=aHR0cHM6Ly93d3cuam5zLm9yZy9qZXdpc2gtbWFuLWRlYWQtYWZ0ZXItYW50aS1pc3JhZWwtcHJvdGVzdGVyLWFzc2F1bHRzLWhpbS1pbi1jYWxpZm9ybmlhLw==">Republish this article in your newspaper or website</a>
+</div>
+<div class="article-topics">
+<div class="article-topics-title">Topics</div>
+<ul class="article-topics-items">
+<li class="article-topic-item"><a href="https://www.jns.org/category/antisemitism/">Antisemitism</a></li> <li class="article-topic-item"><a href="https://www.jns.org/topic/protests/">Protests</a></li><li class="article-topic-item"><a href="https://www.jns.org/topic/death/">Death</a></li><li class="article-topic-item"><a href="https://www.jns.org/topic/los-angeles/">Los Angeles</a></li><li class="article-topic-item"><a href="https://www.jns.org/topic/california/">California</a></li> </ul>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="community-popup-wrap hid">
+<div class="community-popup-overlay"></div>
+<div class="community-popup">
+<button class="ic icon-close-search community-popup-close"><span>Popup close</span></button>
+<div class="popup-content">
+<h1>Stay connected to Israel and the Jewish world</h1>
+<h2>Thank you for reading JNS. Register to receive full access to the JNS website.</h2>
+<a href="//crm.jns.org/sign-up" class="register-button" role="button" href="#">Register Now</a>
+<p class="popup-login-link">Already have an account? <a href="//crm.jns.org/log-in">Log in here</a></p>
+</div>
+</div>
+</div>
+<div class="registration-popup popup popup_no_image">
+<button class="ic icon-close-search registration-popup-close"><span>Popup close</span></button>
+<div class="r-popup-content" style="background:url(https://cdn.jns.org/www/img/cross_promotion_bg.svg) var(--color-secondary); padding-bottom:20px;">
+<div class="r-popup-text">
+<h1>ISRAEL IS AT WAR</h1>
+<h2><strong>Stay connected to the latest updates from Israel and the Jewish world.  Register to receive full access to the JNS website and newsletter</strong>
+<div id="gtx-trans" style="position: absolute;left: 238px;top: -13.5px">
+<div class="gtx-trans-icon"></div>
+</div></h2>
+</div>
+<a href="https://crm.jns.org/sign-up" class="register-button" role="button">REGISTER NOW</a>
+<div class="popup-login-link-wrap">
+<p class="popup-login-link">Already a member? <a href="//crm.jns.org/log-in">Log in</a> to continue</p>
+</div>
+</div>
+</div>
+<div class="registered-users-popup popup  _hide_if_society_user _hide_if_premium_user popup_with_image">
+<button class="ic icon-close-search registered-users-popup-close"><span>Popup close</span></button>
+<div class="image-holder">
+<img src="https://cdn.jns.org/uploads/2023/07/PopUp_480x300.png">
+</div>
+<div class="r-popup-content" style="background:var(--color-black2); padding-bottom:30px!important;">
+<div class="r-popup-text">
+<h2>&nbsp;
+<div id="gtx-trans" style="position: absolute;left: 83px;top: -13.5px">
+<div class="gtx-trans-icon"></div>
+</div></h2>
+</div>
+<a href="https://crm.jns.org/sign-up-premium" class="register-button" role="button">Donate Now</a>
+<div class="popup-login-link-wrap">
+</div>
+</div>
+</div>
+</main>
+<div class="push-notification-widget pushwoosh-subscription-widget push-notification-widget_hidden" id="push-notification-widget">
+<div class="p-w-widget__top">
+<button class="ic icon-close-search p-w-widget__close p-w-widget_close_button"><span>Close Popup</span></button>
+</div>
+<div class="p-w-widget__title">
+Never miss a thing
+</div>
+<div class="p-w-widget__subtitle">
+Get the best stories faster with JNS breaking news updates
+</div>
+<div class="p-w-widget__control">
+<button class="p-w-widget__button" type="button" onclick="Pushwoosh.subscribe();">
+Yes, please
+</button>
+</div>
+<button class="p-w-widget__close">Another time</button>
+
+</div>
+<script defer type="text/javascript" src="//cdn.pushwoosh.com/webpush/v3/pushwoosh-web-notifications.js" async></script>
+<script type="text/javascript" id="push-notification-widget-script">
+        if (navigator.userAgent.indexOf('rgbmedia-app') === -1) {
+            var Pushwoosh = Pushwoosh || [];
+            Pushwoosh.push(['init', {
+                logLevel: 'info',
+                applicationCode: 'F638E-AD89C',
+                safariWebsitePushID: 'web.com.jns.www',
+                defaultNotificationTitle: 'JNS',
+                autoSubscribe: false,
+            }]);
+            var $subscriptionWidget = document.getElementById('push-notification-widget');
+            Pushwoosh.push(['onSubscribe', () => {
+                console.log('onSubscribe');
+                $subscriptionWidget.classList.add('p-w-widget_subscribed');
+            }]);
+        }
+</script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after" type="text/javascript">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Ld4SNoUAAAAAJYHUZNju5EMONxp3tp1uaHulpng&#038;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.jns.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Ld4SNoUAAAAAJYHUZNju5EMONxp3tp1uaHulpng","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.jns.org/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.2" id="wpcf7-recaptcha-js"></script>
+</body>
+</html>
+
+

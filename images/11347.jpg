@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en-US" class data-skin="light">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//s.gravatar.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<title>Report: Climate change might bring an end to travel driven economies</title>
+<link rel="canonical" href="https://hopdes.com/news/climate-change-report/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Report: Climate change might bring an end to travel driven economies" />
+<meta property="og:description" content="According to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC), it concludes that human influence on the climate system is unequivocal and that it has warmed the atmosphere, ocean, and land. It&#8217;s igniting more intrigue than a mystery novel. The travel industry might be on its last legs. But before you &hellip;" />
+<meta property="og:url" content="https://hopdes.com/news/climate-change-report/" />
+<meta property="og:site_name" content="HopDes" />
+<meta property="article:publisher" content="https://www.facebook.com/hoppingdestinations/" />
+<meta property="article:published_time" content="2023-10-06T09:08:09+00:00" />
+<meta property="article:modified_time" content="2023-11-01T20:08:10+00:00" />
+<meta property="og:image" content="https://hopdes.com/wp-content/uploads/2022/11/download.jpeg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="853" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="Dawood Janjua" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@hopdestinations" />
+<meta name="twitter:site" content="@hopdestinations" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Dawood Janjua" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="3 minutes" />
+
+<link rel="dns-prefetch" href="//scripts.mediavine.com" />
+<link rel="alternate" type="application/rss+xml" title="HopDes &raquo; Feed" href="https://hopdes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HopDes &raquo; Comments Feed" href="https://hopdes.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HopDes &raquo; Report: Climate change might bring an end to travel driven economies Comments Feed" href="https://hopdes.com/news/climate-change-report/feed/" />
+
+<script src="//www.googletagmanager.com/gtag/js?id=G-KGZ73FHJQ6" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.21.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-KGZ73FHJQ6',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-KGZ73FHJQ6', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hopdes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<script id="hopde-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="preload" class="mv-grow-style" href="https://hopdes.com/wp-content/plugins/social-pug/assets/dist/style-frontend-pro.1.20.3.css?ver=1.20.3" as="style"><noscript><link rel='stylesheet' id='dpsp-frontend-style-pro-css' href='https://hopdes.com/wp-content/plugins/social-pug/assets/dist/style-frontend-pro.1.20.3.css?ver=1.20.3' type='text/css' media='all' />
+</noscript><link rel="stylesheet" id="ez-toc-css" href="https://hopdes.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.58" type="text/css" media="all" />
+<style id="ez-toc-inline-css" type="text/css">
+div#ez-toc-container .ez-toc-title {font-size: 120%;}div#ez-toc-container .ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}div#ez-toc-container nav ul ul li ul li {font-size: 90%!important;}
+.ez-toc-container-direction {direction: ltr;}.ez-toc-counter ul{counter-reset: item ;}.ez-toc-counter nav ul li a::before {content: counters(item, ".", decimal) ". ";display: inline-block;counter-increment: item;flex-grow: 0;flex-shrink: 0;margin-right: .2em; float: left; }.ez-toc-widget-direction {direction: ltr;}.ez-toc-widget-container ul{counter-reset: item ;}.ez-toc-widget-container nav ul li a::before {content: counters(item, ".", decimal) ". ";display: inline-block;counter-increment: item;flex-grow: 0;flex-shrink: 0;margin-right: .2em; float: left; }
+</style>
+<link rel="stylesheet" id="card_map_leaflet_css-css" href="https://hopdes.com/wp-content/plugins/card-map/leaflet/leaflet.css?ver=1.0.0" type="text/css" media="all" />
+<link rel="stylesheet" id="card_map_frontend_css-css" href="https://hopdes.com/wp-content/plugins/card-map/css/style.css?ver=1.0.0" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-base-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/base.min.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-styles-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/style.min.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-widgets-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/widgets.min.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-helpers-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/helpers.min.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-fontawesome5-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/fontawesome.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-ilightbox-css" href="https://hopdes.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-shortcodes-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/plugins/shortcodes.min.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-single-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/single.min.css?ver=5.4.10" type="text/css" media="all" />
+<link rel="stylesheet" id="tie-css-print-css" href="https://hopdes.com/wp-content/themes/jannah/assets/css/print.css?ver=5.4.10" type="text/css" media="print" />
+<link rel="stylesheet" id="tmmp-css" href="https://hopdes.com/wp-content/plugins/team-members-pro/inc/css/tmm_style.css?ver=6.4.1" type="text/css" media="all" />
+<style id="tmmp-inline-css" type="text/css">
+body{font-weight: 400;}#main-nav .main-menu > ul > li > a{font-size: 16px;font-weight: 700;text-transform: uppercase;}#main-nav .main-menu > ul ul li a{font-size: 16px;font-weight: 500;}#breadcrumb{font-size: 16px;}.post-cat{font-size: 15px;}#tie-wrapper .copyright-text{font-size: 15px;}.entry h1{font-size: 23px;font-weight: 600;}.entry h2{font-size: 23px;font-weight: 600;}.entry h3{font-size: 22px;font-weight: 600;}.entry h4{font-size: 21px;font-weight: 600;}.entry h5{font-size: 20px;font-weight: 600;}.entry h6{font-size: 19px;font-weight: 600;}.background-overlay {background-image: url(https://hopdes.com/wp-content/themes/jannah/assets/images/bg-dots.png);}.brand-title,a:hover,.tie-popup-search-submit,#logo.text-logo a,.theme-header nav .components #search-submit:hover,.theme-header .header-nav .components > li:hover > a,.theme-header .header-nav .components li a:hover,.main-menu ul.cats-vertical li a.is-active,.main-menu ul.cats-vertical li a:hover,.main-nav li.mega-menu .post-meta a:hover,.main-nav li.mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .menu ul:not(.cats-horizontal) li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,.top-nav .menu li:hover > a,.top-nav .menu > .tie-current-menu > a,.search-in-top-nav.autocomplete-suggestions .post-title a:hover,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-slider-nav-wrapper .slide,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,.review-final-score h3,#mobile-menu-icon:hover .menu-text,body .entry a,.dark-skin body .entry a,.entry .post-bottom-meta a:hover,.comment-list .comment-content a,q a,blockquote a,.widget.tie-weather-widget .icon-basecloud-bg:after,.site-footer a:hover,.site-footer .stars-rating-active,.site-footer .twitter-icon-wrap span,.site-info a:hover{color: #000000;}#instagram-link a:hover{color: #000000 !important;border-color: #000000 !important;}#theme-header #main-nav .spinner-circle:after{color: #000000;}[type='submit'],.button,.generic-button a,.generic-button button,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button,nav.main-nav .menu > li.tie-current-menu > a,nav.main-nav .menu > li:hover > a,.main-menu .mega-links-head:after,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.search-in-main-nav.autocomplete-suggestions a.button,.search-in-top-nav.autocomplete-suggestions a.button,.spinner > div,.post-cat,.pages-numbers li.current span,.multiple-post-pages > span,#tie-wrapper .mejs-container .mejs-controls,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,#story-index-icon,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,.digital-rating-static,.timeline-widget li a:hover .date:before,#wp-calendar #today,.posts-list-counter li.widget-post-list:before,.cat-counter a + span,.tie-slider-nav li span:hover,.fullwidth-area .widget_tag_cloud .tagcloud a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs .active a,.magazine1 .dark-widgetized-area ul.tabs a:hover,.magazine1 .dark-widgetized-area ul.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:before,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:after,.demo_store,.demo #logo:after,.demo #sticky-logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top,.latest-tweets-widget .slider-links .button:not(:hover){background-color: #000000;color: #FFFFFF;}.tie-weather-widget .widget-title .the-subtitle,.block-head-4.magazine2 #footer .tabs .active a:hover{color: #FFFFFF;}pre,code,.pages-numbers li.current span,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,#tie-body .tie-slider-nav li > span:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,.main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,.main-menu .menu > li > .menu-sub-content{border-color: #000000;}.main-menu .menu > li.tie-current-menu{border-bottom-color: #000000;}.top-nav .menu li.tie-current-menu > a:before,.top-nav .menu li.menu-item-has-children:hover > a:before{border-top-color: #000000;}.main-nav .main-menu .menu > li.tie-current-menu > a:before,.main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-left-color: #000000;}.rtl header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,.rtl header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-right-color: #000000;border-left-color: transparent;}.top-nav ul.menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #000000;}.rtl .top-nav ul.menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #000000;}::-moz-selection{background-color: #000000;color: #FFFFFF;}::selection{background-color: #000000;color: #FFFFFF;}circle.circle_bar{stroke: #000000;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 0,0,0,0.7);}#logo.text-logo a:hover,body .entry a:hover,.dark-skin body .entry a:hover,.comment-list .comment-content a:hover,.block-head-4.magazine2 .site-footer .tabs li a:hover,q a:hover,blockquote a:hover{color: #000000;}.button:hover,input[type='submit']:hover,.generic-button a:hover,.generic-button button:hover,a.post-cat:hover,.site-footer .button:hover,.site-footer [type='submit']:hover,.search-in-main-nav.autocomplete-suggestions a.button:hover,.search-in-top-nav.autocomplete-suggestions a.button:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button:hover{background-color: #000000;color: #FFFFFF;}.theme-header .header-nav .comp-sub-menu a.checkout-button:not(:hover),body .entry a.button{color: #FFFFFF;}#story-index.is-compact .story-index-content{background-color: #000000;}#story-index.is-compact .story-index-content a,#story-index.is-compact .story-index-content .is-current{color: #FFFFFF;}#tie-body .has-block-head-4,#tie-body .mag-box-title h3,#tie-body .comment-reply-title,#tie-body .related.products > h2,#tie-body .up-sells > h2,#tie-body .cross-sells > h2,#tie-body .cart_totals > h2,#tie-body .bbp-form legend,#tie-body .mag-box-title h3 a,#tie-body .section-title-default a,#tie-body #cancel-comment-reply-link {color: #FFFFFF;}#tie-body .has-block-head-4:before,#tie-body .mag-box-title h3:before,#tie-body .comment-reply-title:before,#tie-body .related.products > h2:before,#tie-body .up-sells > h2:before,#tie-body .cross-sells > h2:before,#tie-body .cart_totals > h2:before,#tie-body .bbp-form legend:before {background-color: #000000;}#tie-body .block-more-button{color: #000000;}#tie-body .block-more-button:hover{color: #000000;}#tie-body .tabs,#tie-body .tabs .flexMenu-popup{border-color: #000000;}#tie-body .tabs li a{color: #000000;}#tie-body .tabs li a:hover{color: #000000;}#tie-body .tabs li.active a{color: #FFFFFF;background-color: #000000;}#tie-body .tabs > .active a:before,#tie-body .tabs > .active a:after{background-color: #000000;}.brand-title,a:hover,.tie-popup-search-submit,#logo.text-logo a,.theme-header nav .components #search-submit:hover,.theme-header .header-nav .components > li:hover > a,.theme-header .header-nav .components li a:hover,.main-menu ul.cats-vertical li a.is-active,.main-menu ul.cats-vertical li a:hover,.main-nav li.mega-menu .post-meta a:hover,.main-nav li.mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .menu ul:not(.cats-horizontal) li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,.top-nav .menu li:hover > a,.top-nav .menu > .tie-current-menu > a,.search-in-top-nav.autocomplete-suggestions .post-title a:hover,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-slider-nav-wrapper .slide,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,.review-final-score h3,#mobile-menu-icon:hover .menu-text,body .entry a,.dark-skin body .entry a,.entry .post-bottom-meta a:hover,.comment-list .comment-content a,q a,blockquote a,.widget.tie-weather-widget .icon-basecloud-bg:after,.site-footer a:hover,.site-footer .stars-rating-active,.site-footer .twitter-icon-wrap span,.site-info a:hover{color: #000000;}#instagram-link a:hover{color: #000000 !important;border-color: #000000 !important;}#theme-header #main-nav .spinner-circle:after{color: #000000;}[type='submit'],.button,.generic-button a,.generic-button button,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button,nav.main-nav .menu > li.tie-current-menu > a,nav.main-nav .menu > li:hover > a,.main-menu .mega-links-head:after,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.search-in-main-nav.autocomplete-suggestions a.button,.search-in-top-nav.autocomplete-suggestions a.button,.spinner > div,.post-cat,.pages-numbers li.current span,.multiple-post-pages > span,#tie-wrapper .mejs-container .mejs-controls,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,#story-index-icon,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,.digital-rating-static,.timeline-widget li a:hover .date:before,#wp-calendar #today,.posts-list-counter li.widget-post-list:before,.cat-counter a + span,.tie-slider-nav li span:hover,.fullwidth-area .widget_tag_cloud .tagcloud a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs .active a,.magazine1 .dark-widgetized-area ul.tabs a:hover,.magazine1 .dark-widgetized-area ul.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:before,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:after,.demo_store,.demo #logo:after,.demo #sticky-logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top,.latest-tweets-widget .slider-links .button:not(:hover){background-color: #000000;color: #FFFFFF;}.tie-weather-widget .widget-title .the-subtitle,.block-head-4.magazine2 #footer .tabs .active a:hover{color: #FFFFFF;}pre,code,.pages-numbers li.current span,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,#tie-body .tie-slider-nav li > span:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,.main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,.main-menu .menu > li > .menu-sub-content{border-color: #000000;}.main-menu .menu > li.tie-current-menu{border-bottom-color: #000000;}.top-nav .menu li.tie-current-menu > a:before,.top-nav .menu li.menu-item-has-children:hover > a:before{border-top-color: #000000;}.main-nav .main-menu .menu > li.tie-current-menu > a:before,.main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-left-color: #000000;}.rtl header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,.rtl header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-right-color: #000000;border-left-color: transparent;}.top-nav ul.menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #000000;}.rtl .top-nav ul.menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #000000;}::-moz-selection{background-color: #000000;color: #FFFFFF;}::selection{background-color: #000000;color: #FFFFFF;}circle.circle_bar{stroke: #000000;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 0,0,0,0.7);}#logo.text-logo a:hover,body .entry a:hover,.dark-skin body .entry a:hover,.comment-list .comment-content a:hover,.block-head-4.magazine2 .site-footer .tabs li a:hover,q a:hover,blockquote a:hover{color: #000000;}.button:hover,input[type='submit']:hover,.generic-button a:hover,.generic-button button:hover,a.post-cat:hover,.site-footer .button:hover,.site-footer [type='submit']:hover,.search-in-main-nav.autocomplete-suggestions a.button:hover,.search-in-top-nav.autocomplete-suggestions a.button:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button:hover{background-color: #000000;color: #FFFFFF;}.theme-header .header-nav .comp-sub-menu a.checkout-button:not(:hover),body .entry a.button{color: #FFFFFF;}#story-index.is-compact .story-index-content{background-color: #000000;}#story-index.is-compact .story-index-content a,#story-index.is-compact .story-index-content .is-current{color: #FFFFFF;}#tie-body .has-block-head-4,#tie-body .mag-box-title h3,#tie-body .comment-reply-title,#tie-body .related.products > h2,#tie-body .up-sells > h2,#tie-body .cross-sells > h2,#tie-body .cart_totals > h2,#tie-body .bbp-form legend,#tie-body .mag-box-title h3 a,#tie-body .section-title-default a,#tie-body #cancel-comment-reply-link {color: #FFFFFF;}#tie-body .has-block-head-4:before,#tie-body .mag-box-title h3:before,#tie-body .comment-reply-title:before,#tie-body .related.products > h2:before,#tie-body .up-sells > h2:before,#tie-body .cross-sells > h2:before,#tie-body .cart_totals > h2:before,#tie-body .bbp-form legend:before {background-color: #000000;}#tie-body .block-more-button{color: #000000;}#tie-body .block-more-button:hover{color: #000000;}#tie-body .tabs,#tie-body .tabs .flexMenu-popup{border-color: #000000;}#tie-body .tabs li a{color: #000000;}#tie-body .tabs li a:hover{color: #000000;}#tie-body .tabs li.active a{color: #FFFFFF;background-color: #000000;}#tie-body .tabs > .active a:before,#tie-body .tabs > .active a:after{background-color: #000000;}#main-nav,#main-nav .menu-sub-content,#main-nav .comp-sub-menu,#main-nav .guest-btn:not(:hover),#main-nav ul.cats-vertical li a.is-active,#main-nav ul.cats-vertical li a:hover.search-in-main-nav.autocomplete-suggestions{background-color: #ffffff;}#main-nav{border-width: 0;}#theme-header #main-nav:not(.fixed-nav){bottom: 0;}#main-nav .icon-basecloud-bg:after{color: #ffffff;}#main-nav *,.search-in-main-nav.autocomplete-suggestions{border-color: rgba(0,0,0,0.07);}.main-nav-boxed #main-nav .main-menu-wrapper{border-width: 0;}#theme-header:not(.main-nav-boxed) #main-nav,.main-nav-boxed .main-menu-wrapper{border-bottom-color:#f1c40f !important;border-bottom-width:3px !important;border-right: 0 none;border-left : 0 none;}.main-nav-boxed #main-nav.fixed-nav{box-shadow: none;}#main-nav .comp-sub-menu .button:hover,#main-nav .menu > li.tie-current-menu,#main-nav .menu > li > .menu-sub-content,#main-nav .cats-horizontal a.is-active,#main-nav .cats-horizontal a:hover{border-color: #000000;}#main-nav .menu > li.tie-current-menu > a,#main-nav .menu > li:hover > a,#main-nav .mega-links-head:after,#main-nav .comp-sub-menu .button:hover,#main-nav .comp-sub-menu .checkout-button,#main-nav .cats-horizontal a.is-active,#main-nav .cats-horizontal a:hover,.search-in-main-nav.autocomplete-suggestions .button,#main-nav .spinner > div{background-color: #000000;}#main-nav .menu ul li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,#main-nav .components a:hover,#main-nav .components > li:hover > a,#main-nav #search-submit:hover,#main-nav .cats-vertical a.is-active,#main-nav .cats-vertical a:hover,#main-nav .mega-menu .post-meta a:hover,#main-nav .mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .spinner-circle:after{color: #000000;}#main-nav .menu > li.tie-current-menu > a,#main-nav .menu > li:hover > a,#main-nav .components .button:hover,#main-nav .comp-sub-menu .checkout-button,.theme-header #main-nav .mega-menu .cats-horizontal a.is-active,.theme-header #main-nav .mega-menu .cats-horizontal a:hover,.search-in-main-nav.autocomplete-suggestions a.button{color: #FFFFFF;}#main-nav .menu > li.tie-current-menu > a:before,#main-nav .menu > li:hover > a:before{border-top-color: #FFFFFF;}.main-nav-light #main-nav .menu-item-has-children li:hover > a:before,.main-nav-light #main-nav .mega-menu li:hover > a:before{border-left-color: #000000;}.rtl .main-nav-light #main-nav .menu-item-has-children li:hover > a:before,.rtl .main-nav-light #main-nav .mega-menu li:hover > a:before{border-right-color: #000000;border-left-color: transparent;}.search-in-main-nav.autocomplete-suggestions .button:hover,#main-nav .comp-sub-menu .checkout-button:hover{background-color: #000000;}#footer,#footer textarea,#footer input:not([type='submit']),#footer select,#footer #wp-calendar tbody,#footer .tie-slider-nav li span:not(:hover),#footer .widget_categories li a:before,#footer .widget_product_categories li a:before,#footer .widget_layered_nav li a:before,#footer .widget_archive li a:before,#footer .widget_nav_menu li a:before,#footer .widget_meta li a:before,#footer .widget_pages li a:before,#footer .widget_recent_entries li a:before,#footer .widget_display_forums li a:before,#footer .widget_display_views li a:before,#footer .widget_rss li a:before,#footer .widget_display_stats dt:before,#footer .subscribe-widget-content h3,#footer .about-author .social-icons a:not(:hover) span{color: #ffffff;}#footer post-widget-body .meta-item,#footer .post-meta,#footer .stream-title,#footer.dark-skin .timeline-widget .date,#footer .wp-caption .wp-caption-text,#footer .rss-date{color: rgba(255,255,255,0.7);}#footer input::-moz-placeholder{color: #ffffff;}#footer input:-moz-placeholder{color: #ffffff;}#footer input:-ms-input-placeholder{color: #ffffff;}#footer input::-webkit-input-placeholder{color: #ffffff;}.site-footer.dark-skin a:not(:hover){color: #ffffff;}.site-footer.dark-skin a:hover,#footer .stars-rating-active,#footer .twitter-icon-wrap span,.block-head-4.magazine2 #footer .tabs li a{color: #e5e5e5;}#footer .circle_bar{stroke: #e5e5e5;}#footer .widget.buddypress .item-options a.selected,#footer .widget.buddypress .item-options a.loading,#footer .tie-slider-nav span:hover,.block-head-4.magazine2 #footer .tabs{border-color: #e5e5e5;}.magazine2:not(.block-head-4) #footer .tabs a:hover,.magazine2:not(.block-head-4) #footer .tabs .active a,.magazine1 #footer .tabs a:hover,.magazine1 #footer .tabs .active a,.block-head-4.magazine2 #footer .tabs.tabs .active a,.block-head-4.magazine2 #footer .tabs > .active a:before,.block-head-4.magazine2 #footer .tabs > li.active:nth-child(n) a:after,#footer .digital-rating-static,#footer .timeline-widget li a:hover .date:before,#footer #wp-calendar #today,#footer .posts-list-counter .posts-list-items li.widget-post-list:before,#footer .cat-counter span,#footer.dark-skin .the-global-title:after,#footer .button,#footer [type='submit'],#footer .spinner > div,#footer .widget.buddypress .item-options a.selected,#footer .widget.buddypress .item-options a.loading,#footer .tie-slider-nav span:hover,#footer .fullwidth-area .tagcloud a:hover{background-color: #e5e5e5;color: #000000;}.block-head-4.magazine2 #footer .tabs li a:hover{color: #c7c7c7;}.block-head-4.magazine2 #footer .tabs.tabs .active a:hover,#footer .widget.buddypress .item-options a.selected,#footer .widget.buddypress .item-options a.loading,#footer .tie-slider-nav span:hover{color: #000000 !important;}#footer .button:hover,#footer [type='submit']:hover{background-color: #c7c7c7;color: #000000;}.social-icons-item .custom-link-1-social-icon{background-color: #333 !important;}.social-icons-item .custom-link-1-social-icon span{color: #333;}.tie-cat-2,.tie-cat-item-2 > span{background-color:#e67e22 !important;color:#FFFFFF !important;}.tie-cat-2:after{border-top-color:#e67e22 !important;}.tie-cat-2:hover{background-color:#c86004 !important;}.tie-cat-2:hover:after{border-top-color:#c86004 !important;}.tie-cat-11,.tie-cat-item-11 > span{background-color:#2ecc71 !important;color:#FFFFFF !important;}.tie-cat-11:after{border-top-color:#2ecc71 !important;}.tie-cat-11:hover{background-color:#10ae53 !important;}.tie-cat-11:hover:after{border-top-color:#10ae53 !important;}.tie-cat-14,.tie-cat-item-14 > span{background-color:#9b59b6 !important;color:#FFFFFF !important;}.tie-cat-14:after{border-top-color:#9b59b6 !important;}.tie-cat-14:hover{background-color:#7d3b98 !important;}.tie-cat-14:hover:after{border-top-color:#7d3b98 !important;}.tie-cat-16,.tie-cat-item-16 > span{background-color:#34495e !important;color:#FFFFFF !important;}.tie-cat-16:after{border-top-color:#34495e !important;}.tie-cat-16:hover{background-color:#162b40 !important;}.tie-cat-16:hover:after{border-top-color:#162b40 !important;}.tie-cat-18,.tie-cat-item-18 > span{background-color:#795548 !important;color:#FFFFFF !important;}.tie-cat-18:after{border-top-color:#795548 !important;}.tie-cat-18:hover{background-color:#5b372a !important;}.tie-cat-18:hover:after{border-top-color:#5b372a !important;}.tie-cat-19,.tie-cat-item-19 > span{background-color:#4CAF50 !important;color:#FFFFFF !important;}.tie-cat-19:after{border-top-color:#4CAF50 !important;}.tie-cat-19:hover{background-color:#2e9132 !important;}.tie-cat-19:hover:after{border-top-color:#2e9132 !important;}@media (min-width: 1200px){.container{width: auto;}}.boxed-layout #tie-wrapper,.boxed-layout .fixed-nav{max-width: 1278px;}@media (min-width: 1248px){.container,.wide-next-prev-slider-wrapper .slider-main-container{max-width: 1248px;}}@media (max-width: 991px){.side-aside #mobile-menu .menu > li{border-color: rgba(0,0,0,0.05);}}@media (max-width: 991px){.side-aside.dark-skin{background-color: #f9f9f9;}}.side-aside #mobile-menu li a,.side-aside #mobile-menu .mobile-arrows,.side-aside #mobile-search .search-field{color: #000000;}#mobile-search .search-field::-moz-placeholder {color: #000000;}#mobile-search .search-field:-moz-placeholder {color: #000000;}#mobile-search .search-field:-ms-input-placeholder {color: #000000;}#mobile-search .search-field::-webkit-input-placeholder {color: #000000;}@media (max-width: 991px){.tie-btn-close span{color: #000000;}}#mobile-social-icons .social-icons-item a:not(:hover) span{color: #002030!important;}.category .more-link {display: none !important;} body.author .more-link {display: none !important;} html #main-nav .menu>li.tie-current-menu,html #main-nav .menu>li {border: none !important;} .main-menu .menu>li.tie-current-menu>a::after {} .main-menu .menu>li.tie-current-menu>a::hover {} blockquote.twitter-tweet {display: none;} .entry-header .post-meta .meta-author .fa {display: none !important;} #ftwp-container #ftwp-header-control {display: none;} #the-post blockquote {position: relative;top: -23px; } #the-post blockquote {font-weight: 300;background-color: #ffffff;color: #070707;padding-left: 26px;position: relative;top: -23px;padding-bottom: 0px;padding-top: 10px; } .header-layout-1 #logo {margin: 0 !important;;} #main-nav {line-height: 63px !important;} .sidebar .widget .widget-title-icon {display: none;} .sidebar .widget .widget-title {background-color: #f1c40f;} .main-menu .menu>li>a:hover::after,.main-menu .menu>li.tie-current-menu>a:after {background-image: linear-gradient(to right,#40e0d0 0%,#ff8c00 33%,#ff0080 100%) !important;} .main-menu .menu>li.tie-current-menu>a:after {width: 20px !important;} .main-menu .menu>li>a:hover {color: #2c2f34 !important;} .main-menu .menu>li>a:hover:after {content: "";width: 25px;height: 2px;position: absolute;margin-top: 17px;left: 50%;top: 50%;bottom: auto;right: auto;-webkit-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);background: #2c2f34;transition: 0.3s;} #main-nav .mega-menu .post-box-title a:hover:after {content: "";width: 100px;height: 2px;position: absolute;margin-top: 17px;left: 50px;top: auto;bottom: -4px;-webkit-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);transition: 0.3s;background-image: linear-gradient(to right,#40e0d0 0%,#ff8c00 33%,#ff0080 100%) !important;} #main-nav .mega-menu .post-box-title a:hover {color: black;} #main-nav .menu>li.tie-current-menu>a,#main-nav .menu>li:hover>a,#main-nav .components .button:hover,#main-nav .comp-sub-menu .checkout-button,.theme-header #main-nav .mega-menu .cats-horizontal a.is-active,.theme-header #main-nav .mega-menu .cats-horizontal a:hover,.search-in-main-nav.autocomplete-suggestions a.button {color: black !important;background-color: transparent !important;} .main-nav-light .main-nav .menu-item-has-children>a:before,.main-nav-light .mega-menu>a:before {border-top-color: #2c2f34 !important;} .slide-mask .thumb-overlay:after {opacity: 0 !important;} html .grid-slider-wrapper .thumb-title {font-size: 20px !important;line-height: 1.4;display: inline;padding: 0.2rem 0.4em;position: relative;background-color: #eeee22;background-position: 0 0,100% 0;-webkit-box-decoration-break: clone;-o-box-decoration-break: clone;box-decoration-break: clone;} .main-slider .thumb-meta {background-color: black;color: white;max-width: 90px;text-align: center;} .thumb-overlay .post-meta,.thumb-overlay .thumb-title a {color: #000000 !important;} .slide .grid-item:hover .thumb-desc {background-color: black;padding: 10px;margin-top: 0;text-align: center;} .five-post-sec .slide.slick-slide.slick-current.slick-active {border-bottom: 0px !important;border: 4px solid #222327;} .five-post-sec .slider-area-inner {background-color: #222327;padding: 5px;} .grid-item.tie-standard:hover {opacity: 0.9;} .grid-item.tie-standard:hover .thumb-title a {color: black !important;opacity: .6;} html .grid-slider-wrapper .thumb-title:after {content: " ";width: 30px;height: 100%;position: absolute;transform: skew(-20deg,0deg);z-index: -1;top: 0;} .ez-toc-title-container p:before { background-color: black; content: " "; width: 100%; height: 100%; position: absolute; z-index: -1; padding: 5px 15px; left: 0; top: 0; -webkit-transform: skew(-20deg) translateX(6px); -ms-transform: skew(-20deg) translateX(6px); transform: skew(-20deg) translateX(6px);}.ez-toc-title-container p:after { background-color: #F44336; content: " "; width: 100%; height: 100%; position: absolute; z-index: -2; padding: 5px 15px; left: 0; top: 0;}div#ez-toc-container p.ez-toc-title { display: inline; position: relative; z-index: 1; line-height: 2; padding: 6px 20px; color: white !important; margin-bottom: 20px;} .the-global-title h3 {background-color: #f1c40f;} ul button {background-color: #f1c40f !important;} .main-menu ul li:hover>.menu-sub-content {border-top: 6px solid #f1c40f !important;} #the-post h2 {border-left-style: solid;border-left-width: 4px;border-left-color: #f1c40f;position: relative;padding-left: 5px;} .main-menu ul li:hover>.menu-sub-content li a:hover:after {content: "";width: 20px;height: 2px;position: absolute;margin-top: 17px;left: 20px;top: 50%;bottom: auto;right: auto;-webkit-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);background: #2c2f34;transition: 0.3s;background-image: linear-gradient(to right,#40e0d0 0%,#ff8c00 33%,#ff0080 100%) !important;} ul.sub-menu-columns li a:after {background-image: linear-gradient(to right,#40e0d0 0%,#ff8c00 33%,#ff0080 100%) !important;} .has-first-big-post.tabs-box .mag-box .post-title {line-height: 1 !important;display: inline;padding: 0.2rem 0.4em;position: relative;background-color: #eeee22;background-position: 0 0,100% 0;-webkit-box-decoration-break: clone;-o-box-decoration-break: clone;box-decoration-break: clone;top: 5px;} .has-first-big-post.tabs-box .mag-box .post-title a {color: black;} html .has-first-big-post.tabs-box .mag-box .post-title:after {content: " ";width: 15px;height: 100%;position: absolute;background-color: #eeee22;transform: skew(-20deg,0deg);z-index: -1;top: 0;right: -10px;} .tie-slider-nav {opacity: 1;} .scrolling-box h2.post-title {line-height: 1.4;display: inline;padding: 0.2rem 0.4em;position: relative;background-color: #eeee22;background-position: 0 0,100% 0;-webkit-box-decoration-break: clone;-o-box-decoration-break: clone;box-decoration-break: clone;} .scrolling-box h2.post-title:after {content: " ";width: 15px;height: 100%;position: absolute;transform: skew(-20deg,0deg);z-index: -1;top: 0;right: -10px;} .scrolling-box .slide.tie-standard {border-radius: 5px;} .scrolling-box .slide.tie-standard .slide-content {padding: 10px 10px 0px;} .sidebar .widget-title .the-subtitle {font-size: 20px;min-height: 36px;line-height: 38px !important;} .scrolling-box .scrolling-slider .post-meta span.meta-author {background-color: black;padding: 6px;color: white;height: 38px;} .scrolling-box .scrolling-slider .post-meta span.date {background-color: black;color: white;padding: 3px 13px 3px 3px;position: relative;} .scrolling-box .scrolling-slider .post-meta span.meta-author :is(label,a) {color: white !important;} .scrolling-box .scrolling-slider .post-meta span.date:after {content: " ";width: 15px;height: 100%;position: absolute;background-color: #000000;transform: skew(20deg,0deg);z-index: -1;top: 0;right: -5px;} .dark-skin .mag-box .post-excerpt {background-color: black;padding: 7px 10px;margin-top: 0px;color: white;} .dark-skin .post-meta {font-weight: bold;} #tie-block_2430 .tie-slider-nav li>span:hover,#tie-block_2430 .button {background-color: #ffe000;} .tie-slider-nav li span {color: #eeee22;background: #000;} .wth-helpful-wraper {margin-top: 0px;background-color: transparent !important;border: 0px !important;margin-bottom: 40px;} .wth-heading div {text-align: left !important;color: rgb(0 0 0);font-size: 18px;font-weight: 600;margin-top: 5px;} .wth-helpful-wraper button.wth-helpful-button {width: 30px !important;height: 30px !important;background-color: transparent !important;box-shadow: none !important;color: transparent;box-shadow: none;padding: 10px 0px;border: 0px;position: relative;} .wth-helpful-wraper button img {display: none !important;} .wth-helpful-wraper button.wth-helpful-button:after,#wthf-yes-no span:last-child:after {content: "\f164";color: #013f1b;height: 40px;border-radius: 100%;line-height: 38px !important;text-align: center;font-size: 22px !important; font-family: 'tiefonticon' !important;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;display: inline-block;margin-left: -15px;margin-left: -15px;position: absolute;bottom: -9px;left: 8px;} .wth-helpful-wraper button.button-negative:after {content: "\f165" !important;color: red;} .share-buttons .share-rounded a { border-radius: 2px; margin: 2px 0px;}.share-links .share-btn-icon { font-size: 25px !important;}.post-bottom-meta span.tagcloud a {color: #eeee28;background-color: black;} div#share-buttons-bottom {position: fixed; left: 0px; padding: 0px; top: 50vh !important; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%); display: flex; flex-direction: column; border: 0px;}div#share-buttons-bottom .share-links.icons-only { display: flex; flex-direction: column;}.slider-arrow-nav a {background: #000;color: #eeee22;}.three-colm-post .main-content.tie-col-md-12 .mag-box {width: 33.33%;padding: 0% .8%;}.three-colm-post .main-content.tie-col-md-12 {display: flex;}.three-colm-post li.post-item.no-small-thumbs {display: none !important;}.three-colm-post .wide-post-box .posts-items li .post-thumb {-webkit-flex: 0 0 45%;-ms-flex: 0 0 45%;flex: 0 0 45%;}.three-colm-post .wide-post-box .posts-items li .post-thumb img {height: 100px;object-fit: scale-down;}.three-colm-post .a.more-link.button,.three-colm-post .tie-alignright {display: none;}.three-colm-post .wide-post-box .posts-items li .post-title {font-size: 15px;white-space: normal;display: block !important;display: -webkit-box !important;-webkit-line-clamp: 2;-webkit-box-orient: vertical;overflow: hidden;text-overflow: ellipsis;line-height: 1.3 !important;max-height: 4.1em;padding-top: 18px;}.three-colm-post .mag-box .post-meta {position: absolute;bottom: -5px;}.three-colm-post .wide-post-box .posts-items li .post-details {position: relative;}.three-colm-post span.post-cat-wrap {top: -10px;margin: 0;left: 178px;}.three-colm-post span.post-cat-wrap span.post-cat {color: #ae2548 !important;font-weight: 700;text-transform: uppercase;}.three-colm-post .wide-post-box .posts-items li .post-thumb {margin-right: 10px;}html .three-colm-post .post-cat-wrap .post-cat {background-color: transparent !important;color: black !important;padding: 5px 6px;}html .three-colm-post span.date.meta-item.tie-icon {display: block;}html .three-colm-post .post-meta,html .three-colm-post .post-meta a:not(:hover) {font-weight: bold !important;}html .three-colm-post .post-meta label {font-weight: 400;}.three-colm-post.three-colmn-wtitle .main-content.tie-col-md-12 .mag-box:not(:first-child) { padding-top: 53px;}body .main-content .post-content .entry a { color: #ae2548 !important; font-weight: 600;}#the-post .card-map .card-map-get-directions,#the-post .card-map .card-map-view-website { color: #f1c40f !important;}html .owl-carousel .active a.carousel-item-button { color: white !important;}body .main-content .post-content .entry span.tagcloud a { color: white !important;}div#ez-toc-container { width: 100%; background-color: white; box-shadow: none; border: 0px;}#ez-toc-container a { color: black !important; font-size: 15px; line-height: 2;}.ez-toc-counter nav ul li a::before { color: #F44336;}@media only screen and (max-width: 359px) { .single-post .main-content-row { margin-left: unset !important; margin-right: unset !important; } .single-post .main-content { padding-left: 10px !important; padding-right: 10px !important; } li .mv-ad-box { margin-left: -18px !important; }}@media only screen and (max-width: 768px) and (min-width: 0px){.grid-slider-wrapper .thumb-overlay,.grid-slider-wrapper .thumb-content {padding: 10px 10px 0px;}html .grid-slider-wrapper .thumb-title:after,html .has-first-big-post.tabs-box .mag-box .post-title:after,html .has-first-big-post.tabs-box .mag-box .post-title:after {display: none;}html .grid-slider-wrapper .grid-item:first-child h2.thumb-title {font-size: 18px;}html .grid-slider-wrapper .thumb-title {font-size: 15px !important; line-height: 1.2 !important; color: black !important;}.side-aside.is-fullwidth {bottom: 0px;height: calc(100% - 80px);top: auto;}.side-aside { bottom: 0px; height: calc(100% - 74px); top: auto; width: 100vw !important; background-color: white !important;}.side-aside-open #tie-wrapper:after {opacity: 0;}div#mobile-search {display: none;}div#mobile-social-icons {position: absolute;top: 15px;left: auto;right: auto;margin: auto;width: 85%;background-image: linear-gradient(to right,#40e0d0 0%,#ff8c00 33%,#ff0080 100%) !important;background-position: bottom center;background-repeat: no-repeat;background-size: 100% 2px;padding-bottom: 10px;}.scrolling-slider .post-meta { display: none;}.solid-social-icons .social-link span {font-size: 25px;line-height: 25px;}span.mobile-arrows.tie-icon-chevron-down {color: #ff6a00 !important;font-size: 21px !important;}.dark-skin #mobile-menu li a {font-size: 20px;font-weight: bold;}.side-aside.dark-skin {background-color: #f3f3f3;}.side-aside a.remove {top: 20px !important; left: auto; right: 2px;}a.remove.light-btn:not(:hover):before {color: #000;}div#share-buttons-bottom {width: 100%;top: auto;padding-bottom: 30px;height: auto;margin-left: 0px;display: flex;justify-content: center;}.share-inverted {text-align: center;}.wth-helpful-wraper {width: 100%;display: flex !important;justify-content: center;margin-bottom: 0px; flex-wrap: wrap;}.feed-form-wraper,.no-title { width: 100%;}.feed-form-wraper textarea.feedback-textarea { background-color: transparent !important; border-width: 1px;}button#feedback { color: #eeee28; background-color: black !important; width: 120px !important; height: 45px !important; line-height: 14px !important;}.magazine2.sidebar-right .sidebar,.magazine2 .sidebar-right .sidebar {margin-top: 0px;}.postid-8260 div#share-buttons-bottom {top: -60px;}.side-aside-open header#theme-header {position: fixed;width: 100%;top: 0;}.scrolling-box h2.post-title:after {display: none;}div#share-buttons-bottom { position: initial; padding: 10px; transform: none; display: block;}div#share-buttons-bottom .share-links.share-centered.icons-only { display: block;}.three-colm-post .main-content.tie-col-md-12 .mag-box {width: 100%;padding: 0%;padding-top: 0px !important;}.three-colm-post .main-content.tie-col-md-12 {display: inherit;}.three-colm-post .wide-post-box .posts-items li {-webkit-flex-direction: row;-ms-flex-direction: row;flex-direction: row;}.three-colm-post .mag-box .post-meta {bottom: 10px;}.three-colm-post span.post-cat-wrap {left: 102%;}.ez-toc-icon-toggle-span svg path,.ez-toc-icon-toggle-span svg { color: #f6655b; fill: #f6655b;}#ez-toc-container .ez-toc-toggle label,#ez-toc-container label.cssicon,#ez-toc-widget-container label.cssicon,.ez-toc-cssicon { border: 1px solid #f1c40f;}.ez-toc-title-container { text-align: center;}}
+</style>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=8.21.0" id="monsterinsights-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="monsterinsights-frontend-script-js-extra">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/hopdes.com","hash_tracking":"false","v4_id":"G-KGZ73FHJQ6"};/* ]]> */
+</script>
+<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="https://scripts.mediavine.com/tags/hopdes.js?ver=6.4.1" id="mv-script-wrapper-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/team-members-pro/inc/js/tmm.min.js?ver=6.4.1" id="tmmp-js"></script>
+<link rel="https://api.w.org/" href="https://hopdes.com/wp-json/" /><link rel="alternate" type="application/json" href="https://hopdes.com/wp-json/wp/v2/posts/24924" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hopdes.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<link rel="shortlink" href="https://hopdes.com/?p=24924" />
+<link rel="alternate" type="application/json+oembed" href="https://hopdes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhopdes.com%2Fnews%2Fclimate-change-report%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hopdes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhopdes.com%2Fnews%2Fclimate-change-report%2F&#038;format=xml" />
+<style type="text/css" data-source="Grow Social by Mediavine"></style>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Hopdes",
+    "legalName": "HopDes LLC",
+    "url": "https://hopdes.com/",
+    "logo": "https://hopdes.com/wp-content/uploads/2023/02/designcrowd_85aexrncnw2m191rt9k093vvs6_image.png",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8 The Green, Suite A, Dover",
+        "addressLocality": "Dover",
+        "addressRegion": "DE",
+        "postalCode": "19901",
+        "addressCountry": {
+            "@type": "Country",
+            "name": "USA"
+        }
+    },
+    "brand": {
+        "@type": "Brand",
+        "name": "HopDes"
+    },
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "editor@hopdes.com",
+        "contactType": "Editorial",
+        "telephone": "+1-302-572-4671",
+        "url": "https://hopdes.com/"
+    },
+    "publishingPrinciples": "https://hopdes.com/about/#go-to-editorial-guidelines",
+    "diversityPolicy": "https://hopdes.com/about/#go-to-diversity-and-inclusion",
+    "areaServed": "Worldwide",
+    "founder": {
+        "@type": "Person",
+        "name": "Hassam Nasir",
+        "sameAs": [
+            "https://www.crunchbase.com/person/hassam-nasir",
+            "https://www.linkedin.com/in/hassam-nasir/"
+        ]
+    },
+    "sameAs": [
+        "https://www.crunchbase.com/organization/hopdes",
+        "https://www.facebook.com/hoppingdestinations",
+        "https://twitter.com/hopdestinations",
+        "https://www.instagram.com/hoppingdestinations/",
+        "https://www.linkedin.com/company/hopdescom/",
+        "https://www.pinterest.com/hopdestinations/",
+        "https://www.tumblr.com/hopdestinations"
+    ]
+}
+</script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="theme-color" content="#000000" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="icon" href="https://hopdes.com/wp-content/uploads/2023/02/cropped-favicon-hopdes-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://hopdes.com/wp-content/uploads/2023/02/cropped-favicon-hopdes-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://hopdes.com/wp-content/uploads/2023/02/cropped-favicon-hopdes-180x180.png" />
+<meta name="msapplication-TileImage" content="https://hopdes.com/wp-content/uploads/2023/02/cropped-favicon-hopdes-270x270.png" />
+</head>
+<body id="tie-body" class="post-template-default single single-post postid-24924 single-format-standard tie-no-js non-logged-in block-head-4 block-head-5 magazine2 is-thumb-overlay-disabled is-desktop is-header-layout-1 sidebar-right has-sidebar post-layout-3 wide-title-narrow-media is-standard-format aa-prefix-hopde-">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="theme-header header-layout-1 main-nav-light main-nav-default-light main-nav-below no-stream-item has-normal-width-logo mobile-header-centered">
+<div class="main-nav-wrapper">
+<nav id="main-nav" data-skin="search-in-main-nav" class="main-nav header-nav live-search-parent" style="line-height:83px" aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div id="mobile-header-components-area_1" class="mobile-header-components"><ul class="components"><li class="mobile-component_menu custom-menu-link"><a href="#" id="mobile-menu-icon" class><span class="tie-mobile-menu-icon nav-icon is-layout-1"></span><span class="screen-reader-text">Menu</span></a></li></ul></div>
+<div class="header-layout-1-logo" style="width:214px">
+<div id="logo" class="image-logo" style="margin-top: 10px; margin-bottom: 10px;">
+<a title="HopDes" href="https://hopdes.com/">
+<picture class="tie-logo-default tie-logo-picture">
+<source class="tie-logo-source-default tie-logo-source" srcset="https://hopdes.com/wp-content/uploads/2023/02/designcrowd_85aexrncnw2m191rt9k093vvs6_image.png">
+<img class="tie-logo-img-default tie-logo-img" src="https://hopdes.com/wp-content/uploads/2023/02/designcrowd_85aexrncnw2m191rt9k093vvs6_image.png" alt="HopDes" width="214" height="63" style="max-height:63px; width: auto;" />
+</picture>
+</a>
+</div>
+</div>
+<div id="mobile-header-components-area_2" class="mobile-header-components"><ul class="components"><li class="mobile-component_search custom-menu-link">
+<a href="#" class="tie-search-trigger-mobile">
+<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</a>
+</li></ul></div>
+<div id="menu-components-wrap">
+<div id="sticky-logo" class="image-logo">
+<a title="HopDes" href="https://hopdes.com/">
+<picture class="tie-logo-default tie-logo-picture">
+<source class="tie-logo-source-default tie-logo-source" srcset="https://hopdes.com/wp-content/uploads/2023/02/designcrowd_85aexrncnw2m191rt9k093vvs6_image.png">
+<img class="tie-logo-img-default tie-logo-img" src="https://hopdes.com/wp-content/uploads/2023/02/designcrowd_85aexrncnw2m191rt9k093vvs6_image.png" alt="HopDes" />
+</picture>
+</a>
+</div>
+<div class="flex-placeholder"></div>
+<div class="main-menu main-menu-wrap tie-alignleft">
+<div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-tielabs-secondry-menu" class="menu" role="menubar"><li id="menu-item-22424" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-22424 tie-current-menu"><a href="https://hopdes.com/category/news/">News</a></li>
+<li id="menu-item-9086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-9086"><a href="https://hopdes.com">Destinations</a>
+<ul class="sub-menu menu-sub-content">
+<li id="menu-item-9085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9085"><a href="https://hopdes.com/category/united-states/">United States</a></li>
+<li id="menu-item-12706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12706"><a href="https://hopdes.com/category/europe/">Europe</a></li>
+<li id="menu-item-12697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12697"><a href="https://hopdes.com/category/middle-east/dubai/">Dubai</a></li>
+<li id="menu-item-22676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22676"><a href="https://hopdes.com/category/australia/">Australia</a></li>
+</ul>
+</li>
+<li id="menu-item-22429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22429"><a href="https://hopdes.com/category/exclusives/">Exclusives</a></li>
+<li id="menu-item-22417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22417"><a href="https://hopdes.com/category/travel-tips/">Travel Tips</a></li>
+<li id="menu-item-22572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22572"><a href="https://hopdes.com/category/travel-explained/">Travel Explained</a></li>
+</ul></div> </div>
+<ul class="components"> <li class="search-compact-icon menu-item custom-menu-link">
+<a href="#" class="tie-search-trigger">
+<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<div class="container fullwidth-entry-title-wrapper">
+<div class="container-wrapper fullwidth-entry-title">
+<header class="entry-header-outer">
+<nav id="breadcrumb"><a href="https://hopdes.com/"><span class="tie-icon-home" aria-hidden="true"></span> Home</a><em class="delimiter">/</em><a href="https://hopdes.com/category/news/">News</a><em class="delimiter">/</em><span class="current">Report: Climate change might bring an end to travel driven economies</span></nav><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","@id":"#Breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/hopdes.com\/"}},{"@type":"ListItem","position":2,"item":{"name":"News","@id":"https:\/\/hopdes.com\/category\/news\/"}}]}</script>
+<div class="entry-header">
+<h1 class="post-title entry-title">Report: Climate change might bring an end to travel driven economies</h1>
+<div id="single-post-meta" class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/dawood-janjua/" class title="Dawood Janjua"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Dawood Janjua</a>
+</span>
+</span></span><span class="meta-item last-updated">Last Updated: November 1, 2023</span><div class="tie-alignright"><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 2 minutes read</span> </div><div>Dawood is a <a href="https://hopdes.com/about/#:~:text=Dawood%20Janjua" style="text-decoration: underline;">certified</a> International Travel Preparation, Safety, &amp; Wellness Expert from Johns Hopkins University, as well as a <a href="https://hopdes.com/about/#:~:text=Dawood%20Janjua" style="text-decoration: underline;">certified</a> digital journalist by Reuters for digital journalism.</div></div> </div>
+</header>
+</div>
+</div>
+<div id="content" class="site-content container"><div id="main-content-row" class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<article id="the-post" class="container-wrapper post-content tie-standard">
+<div class="featured-area"><div class="featured-area-inner"><figure class="single-featured-image"><img width="1280" height="853" src="https://hopdes.com/wp-content/uploads/2022/11/download.jpeg" class="attachment-full size-full wp-post-image" alt="climate change factory smoke" is_main_img="1" decoding="async" fetchpriority="high" srcset="https://hopdes.com/wp-content/uploads/2022/11/download.jpeg 1280w, https://hopdes.com/wp-content/uploads/2022/11/download-300x200.jpeg 300w, https://hopdes.com/wp-content/uploads/2022/11/download-1024x682.jpeg 1024w, https://hopdes.com/wp-content/uploads/2022/11/download-768x512.jpeg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<figcaption class="single-caption-text">
+<span class="tie-icon-camera" aria-hidden="true"></span> Climate Change. Copyright: © 2013 Robert S. Donovan
+</figcaption>
+</figure></div></div>
+<div class="entry-content entry clearfix">
+<p>According to the <a href="https://www.ipcc.ch/assessment-report/ar6/" target="_blank" rel="nofollow">Sixth Assessment Report of the Intergovernmental Panel </a>on Climate Change (IPCC), it concludes that human influence on the climate system is unequivocal and that it has warmed the atmosphere, ocean, and land. It&#8217;s igniting more intrigue than a mystery novel. The travel industry might be on its last legs. But before you pack up your suitcase and cancel your plans, let&#8217;s dissect the evidence and see what we find.</p>
+<p>To understand if the fuss about &#8220;climate change&#8221; is worrisome, let&#8217;s briefly understand the effect it has and is predicted to have on Earth;<br/>
+Climate change is increasing the frequency and severity of <a href="https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/" target="_blank" rel="nofollow">extreme weather events</a>, such as hurricanes, floods, and wildfires. These events can damage or destroy tourist infrastructure, making it difficult or impossible for travelers to visit certain destinations. Australian bushfires, Hurricane IDA, and European floods in 2021 are prime examples of this.&nbsp;</p>
+<p>A 2020 study published in the journal Nature Climate Change identifies that <a href="https://www.nature.com/collections/cdhcfgcahg" target="_blank" rel="nofollow">Sea level rise</a> is threatening coastal tourist destinations around the world. Beaches, hotels, and other tourist infrastructure are being inundated by rising waters. To verify if this is a true fact, we can take a look at Maldives. The islands are low-lying and are therefore vulnerable to sea level rise. In recent years, the islands have experienced more frequent and severe flooding. In 2018, the government of the Maldives announced that it was planning to relocate the entire population of the islands to higher ground due to sea level rise.</p>
+<p>A <a href="https://www.intrepidtravel.com/en/annualreport" target="_blank" rel="nofollow">report by Intrepid</a>, one of the biggest names in the travel business, explains what travel destinations would look like by 2040 if no major actions were taken by the authorities. The report suggests that virtual holidays may become more normal as technology advances. The dangers climate change brings upon the usual destinations, i.e. hill stations, ski resorts, etc., and incidents such as the floods and landslides earlier this year in <a href="https://crisis24.garda.com/alerts/2023/04/pakistan-landslides-and-flooding-causing-road-closures-and-casualties-across-northern-regions-as-of-april-18)" target="_blank" rel="nofollow">northern Pakistan</a> resulting in casualties have created a negative image of traveling to these places for people that love their lives dearly.</p>
+<p>The report further highlights how authorities could change travel for the better by outlining a few key trends it predicts will shape the future.</p>
+<p>For instance, the report suggests that by 2040, governments will be required to implement regulations on travel businesses to ensure that the majority of money spent by tourists in a destination stays in the local economy. This basically means that It&#8217;d be more beneficial for the people who have a kind of inherent right to it. This is a major problem in South Asian travel destinations where locals are exploited by outside big-time companies, thus resulting in a sort of clash between the locals and the authorities.</p>
+<p>Moreover, The Sustainable Future for Travel analysis predicts carbon tracking will become “even more individualized thanks to AI.” It reads that, “Travelers will log daily emissions and track travel metrics in real-time to reduce their footprint to meet individual carbon goals.</p>
+<p>Lastly, <a href="https://www.intrepidgroup.travel/darrell-wade" target="_blank" rel="nofollow">Darrel Wade</a>, the president of Intrepid, said, &#8221; The direct, catastrophic impact of climate change has for too long been viewed as something distant in the future. But this is no longer an impending event; it&#8217;s happening now. Tourism must evolve and become regenerative, as the current model is unsustainable. There is limited time left, and immediate collective action and innovation is needed to decarbonize travel together and truly achieve the immense potential for sustainable development within our industry.&#8221;</p>
+<p>In conclusion, the rumors are true and should not be taken lightly, economies depending solely on travel will take a hit, and something should be done about it.</p>
+</div>
+<div id="post-extra-info">
+<div class="theiaStickySidebar">
+<div id="single-post-meta" class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/dawood-janjua/" class title="Dawood Janjua"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Dawood Janjua</a>
+</span>
+</span></span><span class="meta-item last-updated">Last Updated: November 1, 2023</span><div class="tie-alignright"><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 2 minutes read</span> </div><div>Dawood is a <a href="https://hopdes.com/about/#:~:text=Dawood%20Janjua" style="text-decoration: underline;">certified</a> International Travel Preparation, Safety, &amp; Wellness Expert from Johns Hopkins University, as well as a <a href="https://hopdes.com/about/#:~:text=Dawood%20Janjua" style="text-decoration: underline;">certified</a> digital journalist by Reuters for digital journalism.</div></div> </div>
+</div>
+<div class="clearfix"></div>
+<script id="tie-schema-json" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","dateCreated":"2023-10-06T09:08:09+00:00","datePublished":"2023-10-06T09:08:09+00:00","dateModified":"2023-11-01T20:08:10+00:00","headline":"Report: Climate change might bring an end to travel driven economies","keywords":[],"url":"https:\/\/hopdes.com\/news\/climate-change-report\/","description":"According to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC), it concludes that human influence on the climate system is unequivocal and that it has warmed the atmo","articleSection":"News","publisher":{"@id":"#Publisher","@type":"Organization","name":"HopDes","logo":{"@type":"ImageObject","url":"https:\/\/hopdes.com\/wp-content\/uploads\/2023\/02\/designcrowd_85aexrncnw2m191rt9k093vvs6_image.png"},"publishingPrinciples":"https:\/\/hopdes.com\/about\/#go-to-editorial-guidelines","sameAs":["https:\/\/www.facebook.com\/hoppingdestinations","https:\/\/twitter.com\/hopdestinations","https:\/\/www.pinterest.com\/hopdestinations\/","https:\/\/www.linkedin.com\/company\/hopdescom\/","https:\/\/www.tumblr.com\/hopdestinations","https:\/\/www.instagram.com\/hoppingdestinations\/","https:\/\/www.crunchbase.com\/organization\/hopdes"]},"author":{"@type":"Person","name":"Dawood Janjua","url":"https:\/\/hopdes.com\/author\/dawood-janjua\/","description":"Dawood Janjua joined HopDes in October 2023, He\u2019s the man with a burning passion for travel, a true aficionado of what the world has to offer. This guy doesn&#039;t just wander; he dives headfirst into the great unknown, racking up an encyclopedia of experiences that spans from the concrete jungle to the wildest wilderness.\r\n\r\nIn short, Dawood isn&#039;t just a traveler; he&#039;s the guy who helps you write the story of a lifetime, one incredible chapter at a time.","jobTitle":"","sameAs":["https:\/\/instagram.com\/Janjuayy","https:\/\/www.linkedin.com\/in\/janjuayy\/"],"knowsAbout":["Travel, Tourism, Hospitaltity"],"alumniOf":{"@type":"Organization","Name":""},"hasCredential":[{"@type":"EducationalOccupationalCredential","name":"Reuters Digital Journalism\r","credentialCategory":"Professional certification","url":"https:\/\/reutersdigitaljournalism.com\/course_completed_certificate\/322960.html?l=en\r","recognizedBy":{"@type":"Organization","name":"Reuters\r"}},{"@type":"EducationalOccupationalCredential","name":"International Travel Preparation, Safety, &amp; Wellness","credentialCategory":"Professional certification","url":"https:\/\/www.coursera.org\/account\/accomplishments\/verify\/B8FGHB5XHDEF","recognizedBy":{"@type":"Organization","name":"John Hopkins"}}]},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/hopdes.com\/news\/climate-change-report\/","breadcrumb":{"@id":"#Breadcrumb"}},"image":{"@type":"ImageObject","url":"https:\/\/hopdes.com\/wp-content\/uploads\/2022\/11\/download.jpeg","width":1280,"height":853}}</script>
+<div id="share-buttons-bottom" class="share-buttons share-buttons-bottom">
+<div class="share-links  share-centered icons-only">
+<a href="https://www.facebook.com/sharer.php?u=https://hopdes.com/news/climate-change-report/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
+</a>
+<a href="https://twitter.com/intent/tweet?text=Report%3A%20Climate%20change%20might%20bring%20an%20end%20to%20travel%20driven%20economies&#038;url=https://hopdes.com/news/climate-change-report/" rel="external noopener nofollow" title="Twitter" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">Twitter</span>
+</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https://hopdes.com/news/climate-change-report/&#038;title=Report%3A%20Climate%20change%20might%20bring%20an%20end%20to%20travel%20driven%20economies" rel="external noopener nofollow" title="LinkedIn" target="_blank" class="linkedin-share-btn " data-raw="https://www.linkedin.com/shareArticle?mini=true&amp;url={post_full_link}&amp;title={post_title}">
+<span class="share-btn-icon tie-icon-linkedin"></span> <span class="screen-reader-text">LinkedIn</span>
+</a>
+<a href="https://pinterest.com/pin/create/button/?url=https://hopdes.com/news/climate-change-report/&#038;description=Report%3A%20Climate%20change%20might%20bring%20an%20end%20to%20travel%20driven%20economies&#038;media=https://hopdes.com/wp-content/uploads/2022/11/download.jpeg" rel="external noopener nofollow" title="Pinterest" target="_blank" class="pinterest-share-btn " data-raw="https://pinterest.com/pin/create/button/?url={post_link}&amp;description={post_title}&amp;media={post_img}">
+<span class="share-btn-icon tie-icon-pinterest"></span> <span class="screen-reader-text">Pinterest</span>
+</a>
+<a href="https://reddit.com/submit?url=https://hopdes.com/news/climate-change-report/&#038;title=Report%3A%20Climate%20change%20might%20bring%20an%20end%20to%20travel%20driven%20economies" rel="external noopener nofollow" title="Reddit" target="_blank" class="reddit-share-btn " data-raw="https://reddit.com/submit?url={post_link}&amp;title={post_title}">
+<span class="share-btn-icon tie-icon-reddit"></span> <span class="screen-reader-text">Reddit</span>
+</a>
+<a href="https://api.whatsapp.com/send?text=Report%3A%20Climate%20change%20might%20bring%20an%20end%20to%20travel%20driven%20economies%20https://hopdes.com/news/climate-change-report/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+</a>
+<a href="/cdn-cgi/l/email-protection#bb84c8ced9d1ded8cf86e9decbd4c9cf9e88fa9e898bf8d7d2d6dacfde9e898bd8d3dad5dcde9e898bd6d2dcd3cf9e898bd9c9d2d5dc9e898bdad59e898bded5df9e898bcfd49e898bcfc9dacdded79e898bdfc9d2cdded59e898bded8d4d5d4d6d2dec89d988b888380d9d4dfc286d3cfcfcbc8819494d3d4cbdfdec895d8d4d694d5deccc894d8d7d2d6dacfde96d8d3dad5dcde96c9decbd4c9cf94" rel="external noopener nofollow" title="Share via Email" target="_blank" class="email-share-btn " data-raw="mailto:?subject={post_title}&amp;body={post_link}">
+<span class="share-btn-icon tie-icon-envelope"></span> <span class="screen-reader-text">Share via Email</span>
+</a>
+<a href="#" rel="external noopener nofollow" title="Print" target="_blank" class="print-share-btn " data-raw="#">
+<span class="share-btn-icon tie-icon-print"></span> <span class="screen-reader-text">Print</span>
+</a> </div>
+</div>
+</article>
+<div class="post-components">
+<div class="about-author container-wrapper about-author-53">
+<div class="author-avatar">
+<a href="https://hopdes.com/author/dawood-janjua/">
+<img alt="Photo of Dawood Janjua" src="https://secure.gravatar.com/avatar/8eea03940b156e19dbd9631337ed6b76?s=180&#038;d=retro&#038;r=g" srcset="https://secure.gravatar.com/avatar/8eea03940b156e19dbd9631337ed6b76?s=360&#038;d=retro&#038;r=g 2x" class="avatar avatar-180 photo" height="180" width="180" decoding="async" /> </a>
+</div>
+<div class="author-info">
+<span class="author-name" style="font-weight: 600;"><a href="https://hopdes.com/author/dawood-janjua/">Dawood Janjua</a></span>
+<ul class="social-icons"><li class="social-icons-item"><label style="color: #939c9b;font-weight: 600;">Author</label><label style="margin-right: 3px;margin-left: 2px;color: #939c9b;font-weight: 600;"> | </label></li><li class="social-icons-item"><a rel="external noopener nofollow" target="_blank" class="social-link envelope-social-icon" href="/cdn-cgi/l/email-protection#56323721393932163e39263233257835393b"><span style="margin: auto;" class="tie-icon-envelope" aria-hidden="true"><span class="screen-reader-text">Email</span></span></a></li>
+<li class="social-icons-item">
+<a href="https://hopdes.com/" rel="external noopener nofollow" target="_blank" class="social-link url-social-icon">
+<span class="tie-icon-home" aria-hidden="true"></span>
+<span class="screen-reader-text">Website</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a href="https://www.linkedin.com/in/janjuayy/" rel="external noopener nofollow" target="_blank" class="social-link linkedin-social-icon">
+<span class="tie-icon-linkedin" aria-hidden="true"></span>
+<span class="screen-reader-text">LinkedIn</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a href="https://instagram.com/Janjuayy" rel="external noopener nofollow" target="_blank" class="social-link instagram-social-icon">
+<span class="tie-icon-instagram" aria-hidden="true"></span>
+<span class="screen-reader-text">Instagram</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a href="https://medium.com/@whoisdawoodanyways" rel="external noopener nofollow" target="_blank" class="social-link medium-social-icon">
+<span class="tie-icon-medium" aria-hidden="true"></span>
+<span class="screen-reader-text">Medium</span>
+</a>
+</li>
+</ul><br>
+<div class="author-bio">
+Dawood Janjua joined HopDes in October 2023, He’s the man with a burning passion for travel, a true aficionado of what the world has to offer. This guy doesn't just wander; he dives headfirst into the great unknown, racking up an encyclopedia of experiences that spans from the concrete jungle to the wildest wilderness.
+In short, Dawood isn't just a traveler; he's the guy who helps you write the story of a lifetime, one incredible chapter at a time. </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div id="related-posts" class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>Related Articles</h3>
+</div>
+<div class="related-posts-list">
+<div class="related-item tie-standard">
+<a aria-label="Thailand to welcome Indians and Taiwanese visa-free for the next 6 months" href="https://hopdes.com/news/thailand-indians-and-taiwanese-visa-free/" class="post-thumb"><img width="390" height="220" src="https://hopdes.com/wp-content/uploads/2023/11/thailand-buddha-mountain-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Thailand to welcome Indians and Taiwanese visa-free for the next 6 months" decoding="async" /></a>
+<h3 class="post-title"><a href="https://hopdes.com/news/thailand-indians-and-taiwanese-visa-free/">Thailand to welcome Indians and Taiwanese visa-free for the next 6 months</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">2 weeks ago</span></div> </div>
+<div class="related-item tie-standard">
+<a aria-label="Saudi makes significant progress in cutting emissions in tourism" href="https://hopdes.com/news/saudi-cutting-emissions-in-tourism-progress/" class="post-thumb"><img width="390" height="220" src="https://hopdes.com/wp-content/uploads/2023/02/King_Salman_of_Saudi_Arabia-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Saudiarabia King Salman" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://hopdes.com/news/saudi-cutting-emissions-in-tourism-progress/">Saudi makes significant progress in cutting emissions in tourism</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">2 weeks ago</span></div> </div>
+<div class="related-item tie-standard">
+<a aria-label="A new European travel requirement proposed in 2016 will take 2 more years to take effect" href="https://hopdes.com/news/europe-travel-etias/" class="post-thumb"><img width="390" height="220" src="https://hopdes.com/wp-content/uploads/2023/03/europe-flag-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="europe flag" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://hopdes.com/news/europe-travel-etias/">A new European travel requirement proposed in 2016 will take 2 more years to take effect</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">2 weeks ago</span></div> </div>
+<div class="related-item tie-standard">
+<a aria-label="Egypt plans on welcoming 30M tourists by the end of 2028" href="https://hopdes.com/news/egypt-30m-tourists/" class="post-thumb"><img width="390" height="220" src="https://hopdes.com/wp-content/uploads/2023/05/pyramids-egypt-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Pyramids Egypt" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://hopdes.com/news/egypt-30m-tourists/">Egypt plans on welcoming 30M tourists by the end of 2028</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">2 weeks ago</span></div> </div>
+<div class="related-item tie-standard">
+<a aria-label="Muslims in the US should watch out as Donald Trump wants nothing to do with Palestine supporters" href="https://hopdes.com/news/trump-voices-his-islamophobic-beliefs/" class="post-thumb"><img width="390" height="220" src="https://hopdes.com/wp-content/uploads/2022/11/download-1-390x220.jpeg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="donald trump" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://hopdes.com/news/trump-voices-his-islamophobic-beliefs/">Muslims in the US should watch out as Donald Trump wants nothing to do with Palestine supporters</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">2 weeks ago</span></div> </div>
+<div class="related-item tie-standard">
+<a aria-label="Yet another European city introduces a one-euro tourist tax" href="https://hopdes.com/news/peniche-tourist-tax/" class="post-thumb"><img width="390" height="220" src="https://hopdes.com/wp-content/uploads/2023/10/porto-de-peniche-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Porto de Peniche. Creator: Vitor Oliveira" decoding="async" loading="lazy" /></a>
+<h3 class="post-title"><a href="https://hopdes.com/news/peniche-tourist-tax/">Yet another European city introduces a one-euro tourist tax</a></h3>
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">2 weeks ago</span></div> </div>
+</div>
+</div>
+<div id="disqus_thread">
+</div>
+</div>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="posts-list-widget-4" class="container-wrapper widget posts-list"><div class="widget-title the-global-title has-block-head-4"><div class="the-subtitle">Popular Articles<span class="widget-title-icon tie-icon"></span></div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container posts-list-counter"><ul class="posts-list-items widget-posts-wrapper">
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Can You Swim in Big Bear Lake? 4 Safe Swimming Spots!" href="https://hopdes.com/united-states/california/can-you-swim-in-big-bear-lake/" class="post-thumb"><img width="220" height="150" src="https://hopdes.com/wp-content/uploads/2023/11/Can-You-Swim-in-Big-Bear-Lake-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Can You Swim in Big Bear Lake?" decoding="async" loading="lazy" /></a> </div>
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://hopdes.com/united-states/california/can-you-swim-in-big-bear-lake/">Can You Swim in Big Bear Lake? 4 Safe Swimming Spots!</a>
+<div class="post-meta">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/bilal-ahmed-vohra/" class title="Bilal Ahmed Vohra"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Bilal Ahmed Vohra</a>
+</span>
+</span></span><span class="date meta-item tie-icon">2 weeks ago</span><div class="tie-alignright"></div></div> </div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Most Beautiful Nude Beaches in Virginia &#8211; Top 5" href="https://hopdes.com/united-states/virginia/nude-beaches-in-virginia/" class="post-thumb"><img width="220" height="150" src="https://hopdes.com/wp-content/uploads/2023/10/Top-5-Nude-Beaches-in-Virginia-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Top 5 Nude Beaches in Virginia" decoding="async" loading="lazy" /></a> </div>
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://hopdes.com/united-states/virginia/nude-beaches-in-virginia/">Most Beautiful Nude Beaches in Virginia &#8211; Top 5</a>
+<div class="post-meta">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/saraanwar/" class title="Sara Anwar"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Sara Anwar</a>
+</span>
+</span></span><span class="date meta-item tie-icon">3 weeks ago</span><div class="tie-alignright"></div></div> </div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="What Time Do Nashville Bars Close? Avoid Inconvenience" href="https://hopdes.com/united-states/tennessee/what-time-do-nashville-bars-close/" class="post-thumb"><img width="220" height="150" src="https://hopdes.com/wp-content/uploads/2023/10/what-time-do-nashville-bars-close-220x150.png" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="What Time Do Nashville Bars Close?" decoding="async" loading="lazy" /></a> </div>
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://hopdes.com/united-states/tennessee/what-time-do-nashville-bars-close/">What Time Do Nashville Bars Close? Avoid Inconvenience</a>
+<div class="post-meta">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/bilal-ahmed-vohra/" class title="Bilal Ahmed Vohra"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Bilal Ahmed Vohra</a>
+</span>
+</span></span><span class="date meta-item tie-icon">3 weeks ago</span><div class="tie-alignright"></div></div> </div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="Phoenix to Las Vegas Road Trip &#8211; The Only Guide You&#8217;ll Need" href="https://hopdes.com/united-states/nevada/phoenix-to-las-vegas-road-trip/" class="post-thumb"><img width="220" height="150" src="https://hopdes.com/wp-content/uploads/2023/10/Screenshot-2023-10-18-at-8.55.03 PM-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Road Trip Pheonix to Las Vegas" decoding="async" loading="lazy" /></a> </div>
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://hopdes.com/united-states/nevada/phoenix-to-las-vegas-road-trip/">Phoenix to Las Vegas Road Trip &#8211; The Only Guide You&#8217;ll Need</a>
+<div class="post-meta">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/areebanaveed/" class title="Areeba Naveed"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Areeba Naveed</a>
+</span>
+</span></span><span class="date meta-item tie-icon">October 18, 2023</span><div class="tie-alignright"></div></div> </div>
+</div>
+</li>
+<li class="widget-single-post-item widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a aria-label="14 Things to Do in Destin When It Rains &#8211; Indoor Places" href="https://hopdes.com/united-states/florida/things-to-do-in-destin-when-it-rains/" class="post-thumb"><img width="220" height="150" src="https://hopdes.com/wp-content/uploads/2023/10/Things-to-Do-in-Destin-When-It-Rains-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Things to Do in Destin When It Rains" decoding="async" loading="lazy" /></a> </div>
+<div class="post-widget-body ">
+<a class="post-title the-subtitle" href="https://hopdes.com/united-states/florida/things-to-do-in-destin-when-it-rains/">14 Things to Do in Destin When It Rains &#8211; Indoor Places</a>
+<div class="post-meta">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper">
+<span class="meta-author"><a href="https://hopdes.com/author/areebanaveed/" class title="Areeba Naveed"><span class="fa fa-user" aria-hidden="true" style="display: inline;"></span><label style="color:gray"> By </label>Areeba Naveed</a>
+</span>
+</span></span><span class="date meta-item tie-icon">October 11, 2023</span><div class="tie-alignright"></div></div> </div>
+</div>
+</li>
+</ul></div></div><div class="clearfix"></div></div> </div>
+</aside>
+</div></div>
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="site-info" class="site-info">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+<div class="copyright-text copyright-text-first"><center><strong>HopDes LLC</strong> | 8 The Green, Suite A, Dover, DE 19901, USA | (302) 572-4671</center>
+<center><i>registered in Delaware</i></center>
+<center><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3f5a5b564b504d7f57504f5b5a4c115c5052">[email&#160;protected]</a></center>
+<center>Copyright © 2023 All Rights Reserved</center></div><div class="copyright-text copyright-text-second"><a href="https://hopdes.com/about/">About Us</a> | <a href="https://hopdes.com/about/#go-to-editorial-guidelines/">Editorial Guidelines</a> | <a href="https://hopdes.com/terms-and-conditions/">Terms of Use</a> | <a href="https://hopdes.com/privacy-policy/">Privacy Policy</a> | <a href="https://hopdes.com/contact/">Contact</a></div><ul class="social-icons"><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/hoppingdestinations"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/hopdestinations"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link pinterest-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.pinterest.com/hopdestinations/"><span class="tie-social-icon tie-icon-pinterest"></span><span class="screen-reader-text">Pinterest</span></a></li><li class="social-icons-item"><a class="social-link linkedin-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.linkedin.com/company/hopdescom/"><span class="tie-social-icon tie-icon-linkedin"></span><span class="screen-reader-text">LinkedIn</span></a></li><li class="social-icons-item"><a class="social-link tumblr-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.tumblr.com/hopdestinations"><span class="tie-social-icon tie-icon-tumblr"></span><span class="screen-reader-text">Tumblr</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.instagram.com/hoppingdestinations/"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link social-custom-link custom-link-1-social-icon" rel="external noopener nofollow" target="_blank" href="https://linktr.ee/hopdes"><span class="tie-social-icon fas fa-globe"></span><span class="screen-reader-text">Linktr.ee</span></a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<aside class=" side-aside normal-side dark-skin dark-widgetized-area appear-from-left" aria-label="Secondary Sidebar" style="visibility: hidden;">
+<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+<a href="#" class="close-side-aside remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div id="mobile-container">
+<div id="mobile-menu" class>
+</div>
+<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+<ul><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/hoppingdestinations"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/hopdestinations"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link pinterest-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.pinterest.com/hopdestinations/"><span class="tie-social-icon tie-icon-pinterest"></span><span class="screen-reader-text">Pinterest</span></a></li><li class="social-icons-item"><a class="social-link linkedin-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.linkedin.com/company/hopdescom/"><span class="tie-social-icon tie-icon-linkedin"></span><span class="screen-reader-text">LinkedIn</span></a></li><li class="social-icons-item"><a class="social-link tumblr-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.tumblr.com/hopdestinations"><span class="tie-social-icon tie-icon-tumblr"></span><span class="screen-reader-text">Tumblr</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.instagram.com/hoppingdestinations/"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link social-custom-link custom-link-1-social-icon" rel="external noopener nofollow" target="_blank" href="https://linktr.ee/hopdes"><span class="tie-social-icon fas fa-globe"></span><span class="screen-reader-text">Linktr.ee</span></a></li></ul>
+</div>
+<div id="mobile-search">
+<form role="search" method="get" class="search-form" action="https://hopdes.com/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form> </div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div id="mv-grow-data" data-settings="{&quot;general&quot;:{&quot;contentSelector&quot;:false,&quot;show_count&quot;:{&quot;content&quot;:false,&quot;sidebar&quot;:false},&quot;isTrellis&quot;:false},&quot;post&quot;:{&quot;ID&quot;:24924,&quot;categories&quot;:[{&quot;ID&quot;:81}]},&quot;shareCounts&quot;:[],&quot;shouldRun&quot;:true}"></div><div id="reading-position-indicator"></div><div id="autocomplete-suggestions" class="autocomplete-suggestions"></div><div id="is-scroller-outer"><div id="is-scroller"></div></div><div id="fb-root"></div> <div id="tie-popup-search-desktop" class="tie-popup tie-popup-search-wrap" style="display: none;">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="popup-search-wrap-inner">
+<div class="live-search-parent pop-up-live-search" data-skin="live-search-popup" aria-label="Search">
+<form method="get" class="tie-popup-search-form" action="https://hopdes.com/">
+<input class="tie-popup-search-input is-ajax-search" inputmode="search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Type and hit Enter" />
+<button class="tie-popup-search-submit" type="submit">
+<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+<div id="tie-popup-search-mobile" class="tie-popup tie-popup-search-wrap" style="display: none;">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="popup-search-wrap-inner">
+<div class="live-search-parent pop-up-live-search" data-skin="live-search-popup" aria-label="Search">
+<form method="get" class="tie-popup-search-form" action="https://hopdes.com/">
+<input class="tie-popup-search-input " inputmode="search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Search for" />
+<button class="tie-popup-search-submit" type="submit">
+<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+		if ( typeof(jQuery) !== 'undefined' ) {
+		jQuery( document ).ready(function(){
+		function monsterinsights_scroll_tracking_load() {
+		if ( ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) || ( typeof(__gtagTracker) !== 'undefined' && __gtagTracker ) ) {
+		(function(factory) {
+		factory(jQuery);
+		}(function($) {
+
+		/* Scroll Depth */
+		"use strict";
+		var defaults = {
+		percentage: true
+		};
+
+		var $window = $(window),
+		cache = [],
+		scrollEventBound = false,
+		lastPixelDepth = 0;
+
+		/*
+		* Plugin
+		*/
+
+		$.scrollDepth = function(options) {
+
+		var startTime = +new Date();
+
+		options = $.extend({}, defaults, options);
+
+		/*
+		* Functions
+		*/
+
+		function sendEvent(action, label, scrollDistance, timing) {
+		if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+		return;
+		}
+			var paramName = action.toLowerCase();
+	var fieldsArray = {
+	send_to: 'G-KGZ73FHJQ6',
+	non_interaction: true
+	};
+	fieldsArray[paramName] = label;
+
+	if (arguments.length > 3) {
+	fieldsArray.scroll_timing = timing
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	} else {
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	}
+			}
+
+		function calculateMarks(docHeight) {
+		return {
+		'25%' : parseInt(docHeight * 0.25, 10),
+		'50%' : parseInt(docHeight * 0.50, 10),
+		'75%' : parseInt(docHeight * 0.75, 10),
+		/* Cushion to trigger 100% event in iOS */
+		'100%': docHeight - 5
+		};
+		}
+
+		function checkMarks(marks, scrollDistance, timing) {
+		/* Check each active mark */
+		$.each(marks, function(key, val) {
+		if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+		sendEvent('Percentage', key, scrollDistance, timing);
+		cache.push(key);
+		}
+		});
+		}
+
+		function rounded(scrollDistance) {
+		/* Returns String */
+		return (Math.floor(scrollDistance/250) * 250).toString();
+		}
+
+		function init() {
+		bindScrollDepth();
+		}
+
+		/*
+		* Public Methods
+		*/
+
+		/* Reset Scroll Depth with the originally initialized options */
+		$.scrollDepth.reset = function() {
+		cache = [];
+		lastPixelDepth = 0;
+		$window.off('scroll.scrollDepth');
+		bindScrollDepth();
+		};
+
+		/* Add DOM elements to be tracked */
+		$.scrollDepth.addElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.merge(options.elements, elems);
+
+		/* If scroll event has been unbound from window, rebind */
+		if (!scrollEventBound) {
+		bindScrollDepth();
+		}
+
+		};
+
+		/* Remove DOM elements currently tracked */
+		$.scrollDepth.removeElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.each(elems, function(index, elem) {
+
+		var inElementsArray = $.inArray(elem, options.elements);
+		var inCacheArray = $.inArray(elem, cache);
+
+		if (inElementsArray != -1) {
+		options.elements.splice(inElementsArray, 1);
+		}
+
+		if (inCacheArray != -1) {
+		cache.splice(inCacheArray, 1);
+		}
+
+		});
+
+		};
+
+		/*
+		* Throttle function borrowed from:
+		* Underscore.js 1.5.2
+		* http://underscorejs.org
+		* (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+		* Underscore may be freely distributed under the MIT license.
+		*/
+
+		function throttle(func, wait) {
+		var context, args, result;
+		var timeout = null;
+		var previous = 0;
+		var later = function() {
+		previous = new Date;
+		timeout = null;
+		result = func.apply(context, args);
+		};
+		return function() {
+		var now = new Date;
+		if (!previous) previous = now;
+		var remaining = wait - (now - previous);
+		context = this;
+		args = arguments;
+		if (remaining <= 0) {
+		clearTimeout(timeout);
+		timeout = null;
+		previous = now;
+		result = func.apply(context, args);
+		} else if (!timeout) {
+		timeout = setTimeout(later, remaining);
+		}
+		return result;
+		};
+		}
+
+		/*
+		* Scroll Event
+		*/
+
+		function bindScrollDepth() {
+
+		scrollEventBound = true;
+
+		$window.on('scroll.scrollDepth', throttle(function() {
+		/*
+		* We calculate document and window height on each scroll event to
+		* account for dynamic DOM changes.
+		*/
+
+		var docHeight = $(document).height(),
+		winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+		scrollDistance = $window.scrollTop() + winHeight,
+
+		/* Recalculate percentage marks */
+		marks = calculateMarks(docHeight),
+
+		/* Timing */
+		timing = +new Date - startTime;
+
+		checkMarks(marks, scrollDistance, timing);
+		}, 500));
+
+		}
+
+		init();
+		};
+
+		/* UMD export */
+		return $.scrollDepth;
+
+		}));
+
+		jQuery.scrollDepth();
+		} else {
+		setTimeout(monsterinsights_scroll_tracking_load, 200);
+		}
+		}
+		monsterinsights_scroll_tracking_load();
+		});
+		}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script><script type="text/javascript" id="dcl_comments-js-extra">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"hopdes-com"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.23"},"disqusIdentifier":"24924 https:\/\/hopdes.com\/?p=24924","disqusShortname":"hopdes-com","disqusTitle":"Report: Climate change might bring an end to travel driven economies","disqusUrl":"https:\/\/hopdes.com\/news\/climate-change-report\/","postId":"24924"};
+var dclCustomVars = {"dcl_progress_text":"Loading..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/disqus-conditional-load/assets/js/embed-count-scroll.min.js?ver=11.1.2" id="dcl_comments-js"></script>
+<script type="text/javascript" id="wpil-frontend-script-js-extra">
+/* <![CDATA[ */
+var wpilFrontend = {"ajaxUrl":"\/wp-admin\/admin-ajax.php","postId":"24924","postType":"post","openInternalInNewTab":"0","openExternalInNewTab":"0","disableClicks":"0","openLinksWithJS":"0","trackAllElementClicks":"0","clicksI18n":{"imageNoText":"Image in link: No Text","imageText":"Image Title: ","noText":"No Anchor Text Found"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/linkwhisperpremium225n/js/frontend.min.js?ver=1695983834" id="wpil-frontend-script-js"></script>
+<script type="text/javascript" id="ez-toc-scroll-scriptjs-js-extra">
+/* <![CDATA[ */
+var eztoc_smooth_local = {"scroll_offset":"30"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/easy-table-of-contents/assets/js/smooth_scroll.min.js?ver=2.0.58" id="ez-toc-scroll-scriptjs-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1" id="ez-toc-js-cookie-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2" id="ez-toc-jquery-sticky-kit-js"></script>
+<script type="text/javascript" id="ez-toc-js-js-extra">
+/* <![CDATA[ */
+var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","scroll_offset":"30","fallbackIcon":"<span class=\"\"><span class=\"eztoc-hide\" style=\"display:none;\">Toggle<\/span><span class=\"ez-toc-icon-toggle-span\"><svg style=\"fill: #999;color:#999\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"><\/path><\/svg><svg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"><path d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"\/><\/svg><\/span><\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.58-1700243057" id="ez-toc-js-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/plugins/card-map/leaflet/leaflet.js?ver=6.4.1" id="card_map_leaflet_js-js"></script>
+<script type="text/javascript" id="tie-scripts-js-extra">
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/hopdes.com\/wp-admin\/admin-ajax.php","is_taqyeem_active":"","is_sticky_video":"1","mobile_menu_top":"","mobile_menu_active":"area_1","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"","reading_indicator":"true","lazyload":"","select_share":"","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"upwards","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"","lang_no_results":"Nothing Found","sticky_share_mobile":"","sticky_share_post":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/js/scripts.min.js?ver=5.4.10" id="tie-scripts-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/ilightbox/lightbox.js?ver=5.4.10" id="tie-js-ilightbox-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/js/sliders.min.js?ver=5.4.10" id="tie-js-sliders-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/js/shortcodes.js?ver=5.4.10" id="tie-js-shortcodes-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=5.4.10" id="tie-js-desktop-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/js/live-search.js?ver=5.4.10" id="tie-js-livesearch-js"></script>
+<script type="text/javascript" src="https://hopdes.com/wp-content/themes/jannah/assets/js/single.min.js?ver=5.4.10" id="tie-js-single-js"></script>
+<script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script> <script type="text/javascript">
+			!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+		</script>
+<script type="text/javascript">
+			var c = document.body.className;
+			c = c.replace(/tie-no-js/, 'tie-js');
+			document.body.className = c;
+		</script>
+</body>
+</html>

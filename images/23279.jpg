@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://notesfrompoland.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://notesfrompoland.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+      e.style.zIndex = '100';
+		 e.style.opacity = '1';
+    }
+   </script>
+<script type="text/javascript">
+    function toggle_invisibility(id) {
+       var e = document.getElementById(id);
+      e.style.zIndex = '-1';
+		 e.style.opacity = '0';
+    }
+   </script>
+<script type="text/javascript">
+    function aktywny(id) {
+       var e = document.getElementById(id);
+      e.style.backgroundColor = '#4BD8A1';
+    }
+   </script>
+<script type="text/javascript">
+    function nieaktywny(id) {
+       var e = document.getElementById(id);
+      e.style.backgroundColor = 'white';
+    }
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function(event) {
+		const miesiacButton = document.getElementById('miesiac');
+
+		if (document.body.contains(miesiacButton)) {
+			miesiacButton.addEventListener('click', function () {
+				toggle_visibility('sposob');
+				aktywny('miesiac');
+				nieaktywny('jednoraz');
+			} , false);
+		}
+
+		const guzikButton = document.getElementById('jednoraz');
+
+		if (document.body.contains(guzikButton)) {
+			guzikButton.addEventListener('click', function () {
+				toggle_invisibility('sposob');
+				nieaktywny('miesiac');
+				aktywny('jednoraz');
+			} , false);
+		}
+	});
+</script>
+<title>Polish minister apologises for falsely accusing Ukraine of not inviting Poland to defence forum | Notes From Poland</title>
+<style id="et-divi-userfonts">@font-face { font-family: "Breuer Bold"; font-display: swap;  src: url("https://notesfrompoland.com/wp-content/uploads/et-fonts/TypeTrust-BreuerCondensed-Bold.otf") format("opentype"); }@font-face { font-family: "Breuer"; font-display: swap;  src: url("https://notesfrompoland.com/wp-content/uploads/et-fonts/TypeTrust-BreuerCondensed-Medium.otf") format("opentype"); }</style><meta name="robots" content="max-image-preview:large" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="alternate" type="application/rss+xml" title="Notes From Poland &raquo; Feed" href="https://notesfrompoland.com/feed/" />
+<meta content="Notes from Poland v.1.0.2" name="generator" /><link rel="stylesheet" id="wp-block-library-css" href="https://notesfrompoland.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2" type="text/css" media="all" />
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="donation-widget-payu-frontend-css" href="https://notesfrompoland.com/wp-content/plugins/donation-widget-payu/assets/css/frontend.css?ver=1.0.0" type="text/css" media="all" />
+<link rel="stylesheet" id="widgetopts-styles-css" href="https://notesfrompoland.com/wp-content/plugins/widget-options/assets/css/widget-options.css" type="text/css" media="all" />
+<link rel="stylesheet" id="give-donation-summary-style-frontend-css" href="https://notesfrompoland.com/wp-content/plugins/give/assets/dist/css/give-donation-summary.css?ver=2.27.2" type="text/css" media="all" />
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://notesfrompoland.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all" />
+<link rel="stylesheet" id="et_monarch-css-css" href="https://notesfrompoland.com/wp-content/plugins/monarch/css/style.css?ver=1.4.14" type="text/css" media="all" />
+<style id="et-gf-open-sans-css" media="all">@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
+}
+</style>
+<style id="et-builder-googlefonts-cached-css" media="all">@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf) format('truetype');
+}
+</style>
+<link rel="stylesheet" id="popup-maker-site-css" href="https://notesfrompoland.com/wp-content/plugins/popup-maker/assets/css/pum-site.min.css?ver=1.18.1" type="text/css" media="all" />
+<style id="popup-maker-site-inline-css" type="text/css">
+/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Montserrat:100');
+
+/* Popup Theme 18173: Content Only - For use with page builders or block editor */
+.pum-theme-18173, .pum-theme-content-only { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-18173 .pum-container, .pum-theme-content-only .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ) } 
+.pum-theme-18173 .pum-title, .pum-theme-content-only .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-18173 .pum-content, .pum-theme-content-only .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-18173 .pum-content + .pum-close, .pum-theme-content-only .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 7px; bottom: auto; top: 7px; padding: 0px; color: #000000; font-family: inherit; font-weight: 700; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
+
+/* Popup Theme 17607: Floating Bar - Soft Blue */
+.pum-theme-17607, .pum-theme-floating-bar { background-color: rgba( 255, 255, 255, 0.00 ) } 
+.pum-theme-17607 .pum-container, .pum-theme-floating-bar .pum-container { padding: 8px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 238, 246, 252, 1.00 ) } 
+.pum-theme-17607 .pum-title, .pum-theme-floating-bar .pum-title { color: #505050; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-17607 .pum-content, .pum-theme-floating-bar .pum-content { color: #505050; font-family: inherit; font-weight: 400 } 
+.pum-theme-17607 .pum-content + .pum-close, .pum-theme-floating-bar .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 5px; bottom: auto; top: 50%; padding: 0px; color: #505050; font-family: Sans-Serif; font-weight: 700; font-size: 15px; line-height: 18px; border: 1px solid #505050; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ); transform: translate(0, -50%) } 
+
+/* Popup Theme 17608: Floating Bar - Soft Blue */
+.pum-theme-17608, .pum-theme-floating-bar-2 { background-color: rgba( 255, 255, 255, 0.00 ) } 
+.pum-theme-17608 .pum-container, .pum-theme-floating-bar-2 .pum-container { padding: 8px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 238, 246, 252, 1.00 ) } 
+.pum-theme-17608 .pum-title, .pum-theme-floating-bar-2 .pum-title { color: #505050; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-17608 .pum-content, .pum-theme-floating-bar-2 .pum-content { color: #505050; font-family: inherit; font-weight: 400 } 
+.pum-theme-17608 .pum-content + .pum-close, .pum-theme-floating-bar-2 .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 5px; bottom: auto; top: 50%; padding: 0px; color: #505050; font-family: Sans-Serif; font-weight: 700; font-size: 15px; line-height: 18px; border: 1px solid #505050; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ); transform: translate(0, -50%) } 
+
+/* Popup Theme 66: Default Theme */
+.pum-theme-66, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-66 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: px; border: 1px none #000000; box-shadow: 1px 1px 3px px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-66 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: px px px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-66 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400; font-style: inherit } 
+.pum-theme-66 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: px; bottom: auto; top: px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; font-style: inherit; line-height: 36px; border: 1px none #ffffff; border-radius: px; box-shadow: 1px 1px 3px px rgba( 2, 2, 2, 0.23 ); text-shadow: px px px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+/* Popup Theme 67: Light Box */
+.pum-theme-67, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
+.pum-theme-67 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-67 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-67 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit; font-weight: 100 } 
+.pum-theme-67 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { position: absolute; height: 26px; width: 26px; left: auto; right: -13px; bottom: auto; top: -13px; padding: 0px; color: #ffffff; font-family: Arial; font-weight: 100; font-size: 24px; line-height: 24px; border: 2px solid #ffffff; border-radius: 26px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+
+/* Popup Theme 68: Enterprise Blue */
+.pum-theme-68, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-68 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-68 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 34px; line-height: 36px } 
+.pum-theme-68 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-68 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { position: absolute; height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: Times New Roman; font-weight: 100; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 69: Hello Box */
+.pum-theme-69, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-69 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-69 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-69 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-69 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+/* Popup Theme 70: Cutting Edge */
+.pum-theme-70, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-70 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-70 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-weight: 100; font-size: 26px; line-height: 28px } 
+.pum-theme-70 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit; font-weight: 100 } 
+.pum-theme-70 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { position: absolute; height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 71: Framed Border */
+.pum-theme-71, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-71 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-71 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-71 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-71 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { position: absolute; height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Tahoma; font-weight: 700; font-size: 16px; line-height: 18px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+#pum-34567 {z-index: 1999999999}
+#pum-34548 {z-index: 1999999999}
+#pum-33845 {z-index: 1999999999}
+#pum-674 {z-index: 1999999999}
+#pum-1327 {z-index: 1999999999}
+#pum-8353 {z-index: 1999999999}
+#pum-10077 {z-index: 1999999999}
+#pum-8320 {z-index: 1999999999}
+#pum-78 {z-index: 1999999999}
+#pum-643 {z-index: 1999999999}
+#pum-684 {z-index: 1999999999}
+#pum-1257 {z-index: 1999999999}
+#pum-1294 {z-index: 1999999999}
+#pum-1308 {z-index: 1999999999}
+#pum-1319 {z-index: 1999999999}
+#pum-1336 {z-index: 1999999999}
+#pum-1344 {z-index: 1999999999}
+#pum-1301 {z-index: 1999999999}
+#pum-692 {z-index: 1999999999}
+
+</style>
+<link rel="stylesheet" id="divi-style-parent-css" href="https://notesfrompoland.com/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" type="text/css" media="all" />
+<link rel="stylesheet" id="child-style-css" href="https://notesfrompoland.com/wp-content/themes/LPD-Extra-Divi-Child/style.css?ver=1.0.2" type="text/css" media="all" />
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/donation-widget-payu/assets/js/frontend.min.js?ver=1.0.0" id="donation-widget-payu-frontend-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script type="text/javascript" id="say-what-js-js-extra">
+/* <![CDATA[ */
+var say_what_data = {"replacements":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/say-what/assets/build/frontend.js?ver=fd31684c45e4d85aeb4e" id="say-what-js-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" id="give-js-extra">
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"https:\/\/notesfrompoland.com\/wp-admin\/admin-ajax.php","checkout_nonce":"3ac4fe01dc","currency":"PLN","currency_sign":"z\u0142","currency_pos":"after","thousands_separator":" ","decimal_separator":",","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","textForOverlayScreen":"<h3>Processing...<\/h3><p>This will only take a second!<\/p>","number_decimals":"0","is_test_mode":"","give_version":"2.27.2","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_last":"Please enter your last name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/notesfrompoland.com\/wp-admin\/admin-ajax.php","ajaxNonce":"c4e0d12a52","loading":"Loading","select_option":"Please select an option","default_gateway":"paypal","permalinks":"1","number_decimals":0},"cookie_hash":"ce242bb7baea4863bf0c93813fb01d36","session_nonce_cookie_name":"wp-give_session_reset_nonce_ce242bb7baea4863bf0c93813fb01d36","session_cookie_name":"wp-give_session_ce242bb7baea4863bf0c93813fb01d36","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"https:\/\/notesfrompoland.com\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/give/assets/dist/js/give.js?ver=025b1e7cc9612693" id="give-js"></script>
+<link rel="https://api.w.org/" href="https://notesfrompoland.com/wp-json/" /><link rel="alternate" type="application/json" href="https://notesfrompoland.com/wp-json/wp/v2/posts/59279" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://notesfrompoland.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://notesfrompoland.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel="canonical" href="https://notesfrompoland.com/2023/10/03/polish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum/" />
+<link rel="shortlink" href="https://notesfrompoland.com/?p=59279" />
+<link rel="alternate" type="application/json+oembed" href="https://notesfrompoland.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://notesfrompoland.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;format=xml" />
+<meta name="generator" content="Give v2.27.2" />
+<style type="text/css" id="et-social-custom-css">
+				 .et_monarch .et_social_inline .et_social_circle .et_social_icons_container li i, .et_monarch .et_social_inline li { background: #d3d3d3; } .et_monarch .et_social_inline .et_social_circle .et_social_icons_container li:hover i, .et_monarch .et_social_inline .et_social_rounded .et_social_icons_container li:hover, .et_monarch .et_social_inline .et_social_rectangle .et_social_icons_container li:hover { background: #4ddaa3 !important; } 
+			</style> <script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PXNNL4D');</script>
+<style type="text/css">.saboxplugin-wrap{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;border:1px solid #eee;width:100%;clear:both;display:block;overflow:hidden;word-wrap:break-word;position:relative}.saboxplugin-wrap .saboxplugin-gravatar{float:left;padding:0 20px 20px 20px}.saboxplugin-wrap .saboxplugin-gravatar img{max-width:100px;height:auto;border-radius:0;}.saboxplugin-wrap .saboxplugin-authorname{font-size:18px;line-height:1;margin:20px 0 0 20px;display:block}.saboxplugin-wrap .saboxplugin-authorname a{text-decoration:none}.saboxplugin-wrap .saboxplugin-authorname a:focus{outline:0}.saboxplugin-wrap .saboxplugin-desc{display:block;margin:5px 20px}.saboxplugin-wrap .saboxplugin-desc a{text-decoration:underline}.saboxplugin-wrap .saboxplugin-desc p{margin:5px 0 12px}.saboxplugin-wrap .saboxplugin-web{margin:0 20px 15px;text-align:left}.saboxplugin-wrap .sab-web-position{text-align:right}.saboxplugin-wrap .saboxplugin-web a{color:#ccc;text-decoration:none}.saboxplugin-wrap .saboxplugin-socials{position:relative;display:block;background:#fcfcfc;padding:5px;border-top:1px solid #eee}.saboxplugin-wrap .saboxplugin-socials a svg{width:20px;height:20px}.saboxplugin-wrap .saboxplugin-socials a svg .st2{fill:#fff; transform-origin:center center;}.saboxplugin-wrap .saboxplugin-socials a svg .st1{fill:rgba(0,0,0,.3)}.saboxplugin-wrap .saboxplugin-socials a:hover{opacity:.8;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;box-shadow:none!important;-webkit-box-shadow:none!important}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color{box-shadow:none;padding:0;border:0;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;display:inline-block;color:#fff;font-size:0;text-decoration:inherit;margin:5px;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0;border-radius:0;overflow:hidden}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey{text-decoration:inherit;box-shadow:none;position:relative;display:-moz-inline-stack;display:inline-block;vertical-align:middle;zoom:1;margin:10px 5px;color:#444;fill:#444}.clearfix:after,.clearfix:before{content:' ';display:table;line-height:0;clear:both}.ie7 .clearfix{zoom:1}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitch{border-color:#38245c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-addthis{border-color:#e91c00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-behance{border-color:#003eb0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-delicious{border-color:#06c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-deviantart{border-color:#036824}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-digg{border-color:#00327c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-dribbble{border-color:#ba1655}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-facebook{border-color:#1e2e4f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-flickr{border-color:#003576}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-github{border-color:#264874}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-google{border-color:#0b51c5}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-googleplus{border-color:#96271a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-html5{border-color:#902e13}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-instagram{border-color:#1630aa}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-linkedin{border-color:#00344f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-pinterest{border-color:#5b040e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-reddit{border-color:#992900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-rss{border-color:#a43b0a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-sharethis{border-color:#5d8420}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-skype{border-color:#00658a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-soundcloud{border-color:#995200}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-spotify{border-color:#0f612c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stackoverflow{border-color:#a95009}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-steam{border-color:#006388}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-user_email{border-color:#b84e05}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stumbleUpon{border-color:#9b280e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-tumblr{border-color:#10151b}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitter{border-color:#0967a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vimeo{border-color:#0d7091}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-windows{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-whatsapp{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-wordpress{border-color:#0f3647}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-yahoo{border-color:#14002d}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-youtube{border-color:#900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-xing{border-color:#000202}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mixcloud{border-color:#2475a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vk{border-color:#243549}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-medium{border-color:#00452c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-quora{border-color:#420e00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-meetup{border-color:#9b181c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-goodreads{border-color:#000}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-snapchat{border-color:#999700}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-500px{border-color:#00557f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mastodont{border-color:#185886}.sabox-plus-item{margin-bottom:20px}@media screen and (max-width:480px){.saboxplugin-wrap{text-align:center}.saboxplugin-wrap .saboxplugin-gravatar{float:none;padding:20px 0;text-align:center;margin:0 auto;display:block}.saboxplugin-wrap .saboxplugin-gravatar img{float:none;display:inline-block;display:-moz-inline-stack;vertical-align:middle;zoom:1}.saboxplugin-wrap .saboxplugin-desc{margin:0 10px 20px;text-align:center}.saboxplugin-wrap .saboxplugin-authorname{text-align:center;margin:10px 0 20px}}body .saboxplugin-authorname a,body .saboxplugin-authorname a:hover{box-shadow:none;-webkit-box-shadow:none}a.sab-profile-edit{font-size:16px!important;line-height:1!important}.sab-edit-settings a,a.sab-profile-edit{color:#0073aa!important;box-shadow:none!important;-webkit-box-shadow:none!important}.sab-edit-settings{margin-right:15px;position:absolute;right:0;z-index:2;bottom:10px;line-height:20px}.sab-edit-settings i{margin-left:5px}.saboxplugin-socials{line-height:1!important}.rtl .saboxplugin-wrap .saboxplugin-gravatar{float:right}.rtl .saboxplugin-wrap .saboxplugin-authorname{display:flex;align-items:center}.rtl .saboxplugin-wrap .saboxplugin-authorname .sab-profile-edit{margin-right:10px}.rtl .sab-edit-settings{right:auto;left:0}img.sab-custom-avatar{max-width:75px;}.saboxplugin-wrap {margin-top:0px; margin-bottom:0px; padding: 0px 0px }.saboxplugin-wrap .saboxplugin-authorname {font-size:18px; line-height:25px;}.saboxplugin-wrap .saboxplugin-desc p, .saboxplugin-wrap .saboxplugin-desc {font-size:14px !important; line-height:21px !important;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials a svg {width:18px;height:18px;}</style><link rel="icon" href="https://notesfrompoland.com/wp-content/uploads/2019/10/cropped-2019-10-29_1838-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://notesfrompoland.com/wp-content/uploads/2019/10/cropped-2019-10-29_1838-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://notesfrompoland.com/wp-content/uploads/2019/10/cropped-2019-10-29_1838-180x180.png" />
+<meta name="msapplication-TileImage" content="https://notesfrompoland.com/wp-content/uploads/2019/10/cropped-2019-10-29_1838-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://notesfrompoland.com/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1699620248" /><link rel="stylesheet" id="et-core-unified-deferred-59279-cached-inline-styles" href="https://notesfrompoland.com/wp-content/et-cache/59279/et-core-unified-deferred-59279.min.css?ver=1699638386" />
+
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Notes From Poland" />
+<meta property="og:title" content="Polish minister apologises for falsely accusing Ukraine of not inviting Poland to defence forum" />
+<meta property="og:url" content="https://notesfrompoland.com/2023/10/03/polish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum/" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Meanwhile, the Polish foreign minister yesterday skipped a meeting of his EU counterparts in Kyiv yesterday." />
+<meta property="og:image" content="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpka.jpeg" />
+<meta property="og:image:url" content="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpka.jpeg" />
+<meta property="og:image:secure_url" content="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpka.jpeg" />
+<meta property="article:published_time" content="2023-10-03T09:55:26+02:00" />
+<meta property="article:modified_time" content="2023-10-03T09:58:19+02:00" />
+<meta property="og:updated_time" content="2023-10-03T09:58:19+02:00" />
+<meta property="article:section" content="Business" />
+<meta property="article:section" content="News" />
+<meta property="article:section" content="Politics" />
+
+
+<meta name="twitter:title" content="Polish minister apologises for falsely accusing Ukraine of not inviting Poland to defence forum" />
+<meta name="twitter:url" content="https://notesfrompoland.com/2023/10/03/polish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum/" />
+<meta name="twitter:description" content="Meanwhile, the Polish foreign minister yesterday skipped a meeting of his EU counterparts in Kyiv yesterday." />
+<meta name="twitter:image" content="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpka.jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@danieltilles1" />
+
+
+
+
+</head>
+<body class="post-template-default single single-post postid-59279 single-format-standard give-divi et_monarch et_pb_button_helper_class et_fixed_nav et_show_nav et_pb_show_title et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_svg_logo et_pb_footer_columns3 et_cover_background et_pb_gutter et_pb_gutters2 et_right_sidebar et_divi_theme et-db">
+<div id="page-container">
+<header id="main-header" data-height-onload="130">
+<div class="container clearfix et_menu_container">
+<div class="logo_container">
+<span class="logo_helper"></span>
+<a href="https://notesfrompoland.com/">
+<img alt="Notes From Poland" id="logo" data-height-percentage="70" data-src="/wp-content/uploads/2019/10/logo-1.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2019/10/logo-1.svg" alt="Notes From Poland" id="logo" data-height-percentage="70" /></noscript>
+</a>
+</div>
+<div id="et-top-navigation" data-height="130" data-fixed-height="40">
+<nav id="top-menu-nav">
+<ul id="top-menu" class="nav et_disable_top_tier"><li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-340"><a href="https://notesfrompoland.com/category/news/">News</a></li>
+<li id="menu-item-333" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-333"><a href="https://notesfrompoland.com/category/insights/">Insights</a></li>
+<li id="menu-item-13293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13293"><a href="https://notesfrompoland.com/category/po-polsku/">Po polsku</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86"><a href="#">Topics</a>
+<ul class="sub-menu">
+<li id="menu-item-455" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-455"><a href="https://notesfrompoland.com/category/politics/">Politics</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454"><a href="https://notesfrompoland.com/category/society/">Society</a></li>
+<li id="menu-item-453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-453"><a href="https://notesfrompoland.com/category/culture/">Culture</a></li>
+<li id="menu-item-456" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-456"><a href="https://notesfrompoland.com/category/business/">Business</a></li>
+<li id="menu-item-452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452"><a href="https://notesfrompoland.com/category/history/">History</a></li>
+<li id="menu-item-34278" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34278"><a href="https://notesfrompoland.com/category/education/">Education</a></li>
+<li id="menu-item-34312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34312"><a href="https://notesfrompoland.com/category/enerygy-climate/">Energy &amp; Climate</a></li>
+<li id="menu-item-34313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34313"><a href="https://notesfrompoland.com/category/law/">Law</a></li>
+<li id="menu-item-34314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34314"><a href="https://notesfrompoland.com/category/media/">Media</a></li>
+</ul>
+</li>
+<li id="menu-item-41645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41645"><a href="#">Podcasts</a>
+<ul class="sub-menu">
+<li id="menu-item-4973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4973"><a href="https://notesfrompoland.com/category/podcast/">Notes from Poland Podcast</a></li>
+<li id="menu-item-41647" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41647"><a href="https://notesfrompoland.com/category/the-voicee-podcast/">The VoiCEE podcast</a></li>
+</ul>
+</li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84"><a href="https://notesfrompoland.com/about-us/">About us</a>
+<ul class="sub-menu">
+<li id="menu-item-2549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2549"><a href="https://notesfrompoland.com/about-us/">Our story</a></li>
+<li id="menu-item-2548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2548"><a href="/about-us/#editor-team">Editorial team</a></li>
+<li id="menu-item-2552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2552"><a href="/about-us/#ad-board">Advisory Board</a></li>
+<li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="https://notesfrompoland.com/notes-from-poland-foundation/">Notes from Poland Foundation</a></li>
+</ul>
+</li>
+<li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a href="https://notesfrompoland.com/contact/">Contact</a></li>
+<li id="menu-item-40994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-40994"><a href="#">Newsletters</a>
+<ul class="sub-menu">
+<li id="menu-item-40996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40996"><a href="https://notesfrompoland.com/newsletter/">Notes from Poland Newsletter</a></li>
+<li id="menu-item-40995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40995"><a href="https://notesfrompoland.com/cee-newsletter/">Central and Eastern Europe Newsletter</a></li>
+</ul>
+</li>
+<li id="menu-item-41887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41887"><a href="https://www.facebook.com/notesfrompoland/"><img alt="Facebook" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/facebook.svg" alt="Facebook"></noscript></a></li>
+<li id="menu-item-41888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41888"><a href="https://twitter.com/notesfrompoland"><img alt="Twitter" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/twitter.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/twitter.svg" alt="Twitter"></noscript></a></li>
+</ul> </nav>
+<div id="et_top_search">
+<span id="et_search_icon"></span>
+</div>
+<div id="et_mobile_nav_menu">
+<div class="mobile_nav closed">
+<span class="select_page">Select Page</span>
+<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+</div>
+</div> </div> 
+</div> 
+<div class="et_search_outer">
+<div class="container et_search_form_container">
+<form role="search" method="get" class="et-search-form" action="https://notesfrompoland.com/">
+<input type="search" class="et-search-field" placeholder="Search &hellip;" value name="s" title="Search for:" /> </form>
+<span class="et_close_search_field"></span>
+</div>
+</div>
+</header> 
+<div id="et-main-area">
+<div id="main-content">
+<div class="container">
+<div id="content-area" class="clearfix">
+<div id="left-area">
+<article id="post-59279" class="et_pb_post post-59279 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-news category-politics tag-ukraine">
+<div class="et_post_meta_wrapper">
+<h1 class="entry-title">Polish minister apologises for falsely accusing Ukraine of not inviting Poland to defence forum</h1>
+<p class="post-meta"><span class="published">Oct 3, 2023</span> | <a href="https://notesfrompoland.com/category/business/" rel="category tag">Business</a>, <a href="https://notesfrompoland.com/category/politics/" rel="category tag">Politics</a></p><img alt width="1080" height="675" data-srcset="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpk-980x571.jpeg 980w, https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpk-480x280.jpeg 480w" data-src="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpk-1080x675.jpeg" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpk-1080x675.jpeg" alt="" class="" width="1080" height="675" srcset="https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpk-980x571.jpeg 980w, https://notesfrompoland.com/wp-content/uploads/2023/10/F7b8snNW8AEQWpk-480x280.jpeg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" /></noscript>
+</div>
+<div class="entry-content">
+<div class="et_social_inline et_social_mobile_on et_social_inline_top">
+<div class="et_social_networks et_social_6col et_social_slide et_social_circle et_social_left et_social_no_animation et_social_nospace et_social_outer_dark">
+<ul class="et_social_icons_container"><li class="et_social_facebook">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;t=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_facebook"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_twitter">
+<a href="https://twitter.com/share?text=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum&#038;url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_twitter"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_pinterest">
+<a href="#" class="et_social_share_pinterest" rel="nofollow" data-social_name="pinterest" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_pinterest"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_reddit">
+<a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;title=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_reddit"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_linkedin">
+<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;title=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_linkedin"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_stumbleupon">
+<a href="http://www.stumbleupon.com/badge?url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;title=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="stumbleupon" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_stumbleupon"></i><span class="et_social_overlay"></span>
+</a>
+</li></ul>
+</div>
+</div><p>Poland and Ukraine have clashed over the absence of Polish defence firms from an industry forum in Kyiv at the weekend. The Polish state assets minsiter eventually apologised after realising he had falsely accused Ukraine of not inviting Poland.</p>
+<p>Meanwhile, the Polish foreign minister skipped a meeting of his EU counterparts in Kyiv yesterday, saying that the decision was due to a current &#8220;downturn&#8221; in relations with Ukraine.</p>
+<p>Though Poland has been a close ally of Ukraine since Russia&#8217;s invasion last year, the two countries are currently embroiled in a dispute over Ukrainian grain exports, which Warsaw has unilaterally banned.</p>
+<div class="et_post_video">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Poland is &quot;no longer providing any weapons to Ukraine&quot; because it needs to focus on boosting its own defence capabilities, the prime minister has announced.</p>
+<p>His remarks come amid rising tensions between the two allies over Ukrainian grain exports <a href="https://t.co/HnLV47nFfV">https://t.co/HnLV47nFfV</a></p>
+<p>&mdash; Notes from Poland 🇵🇱 (@notesfrompoland) <a href="https://twitter.com/notesfrompoland/status/1704787588945506750?ref_src=twsrc%5Etfw">September 21, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>Yesterday, the majority of the EU&#8217;s foreign ministers gathered in Kyiv for their first ever summit in a country outside the EU itself. They agreed a €5 billion package of additional military aid for Ukraine.</p>
+<p>However, Poland was among a small number of countries that did not send its foreign minister, Zbigniew Rau, with one of his deputies attending instead.</p>
+<p>&#8220;My absence from the meeting of EU foreign ministers in Kyiv is partly an expression of the fact that, when it comes to relations between Poland and Ukraine, we are entering a period of decline,&#8221; Rau told Polsat News.</p>
+<p>&#8220;I wouldn&#8217;t call it retaliation,&#8221; he added, emphasising that Poland still has &#8220;common strategic interests with Ukraine&#8221;. However, when it comes to &#8220;national interests we have divergent interests and misunderstandings regarding the transit of Ukrainian grain through Poland&#8221;.</p>
+<div class="et_post_video">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">When we are together, we are stronger.</p>
+<p>The EU is and remains Ukraine’s first supporter.</p>
+<p>Thank you <a href="https://twitter.com/ZelenskyyUa?ref_src=twsrc%5Etfw">@ZelenskyyUa</a> and <a href="https://twitter.com/DmytroKuleba?ref_src=twsrc%5Etfw">@DmytroKuleba</a> for hosting us today. <a href="https://t.co/HyGBhrdbqE">pic.twitter.com/HyGBhrdbqE</a></p>
+<p>&mdash; Josep Borrell Fontelles (@JosepBorrellF) <a href="https://twitter.com/JosepBorrellF/status/1708830959422828580?ref_src=twsrc%5Etfw">October 2, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>Rau&#8217;s remarks yesterday followed a war of words with Ukraine over a defence industry meeting last weekend in Kyiv. While firms from over 30 countries were present, there was no representative from Poland.</p>
+<p>&#8220;Shame on you, Mr Zelensky,&#8221; tweeted Krzysztof Lipiec, an MP from Poland&#8217;s ruling Law and Justice (PiS) party. &#8220;Where is Poland? This is how Ukraine thanks Poland?&#8221;</p>
+<p>In an interview with Radio Zet yesterday, Poland&#8217;s minister for state assets Jacek Sasin said that &#8220;PGZ [Poland&#8217;s state defence holding firm] as a company was not invited&#8221;. He added that &#8220;we have been dealing with a series of unfriendly gestures from Ukraine recently&#8221;.</p>
+<p>&#8220;I am afraid that this is a matter of current political interest on the part of the Ukrainian authorities, who believe that when an [election] campaign is underway in Poland, it is better to side with Germany and to play for a change of government in Poland,&#8221; said Sasin.&#8221;This will have a negative impact on Ukraine.&#8221;</p>
+<div class="et_post_video">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Shame on you, Mr. <a href="https://twitter.com/ZelenskyyUa?ref_src=twsrc%5Etfw">@ZelenskyyUa</a> <br/>Where is Poland?<br/>This is how Ukraine thanks Poland? <a href="https://t.co/1bMiHnda8J">https://t.co/1bMiHnda8J</a></p>
+<p>&mdash; Krzysztof Lipiec (@KrzysztofLipiec) <a href="https://twitter.com/KrzysztofLipiec/status/1708247213984432373?ref_src=twsrc%5Etfw">September 30, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>However, that version of events was disputed by Ukraine&#8217;s ambassador to Poland, Vasyl Zvarych, who told broadcaster TVN that &#8220;Poland was among the first to be invited to this event&#8221; and its absence is &#8220;a question for the Polish side&#8221;.</p>
+<p>Shortly after, Sasin issued a statement admitting that he had been wrong and that PGZ had, in fact, been invited to the forum in Kyiv. &#8220;I am sorry for the misunderstanding,&#8221; he wrote.</p>
+<p>Sasin added that PGZ &#8220;decided not to attend due to the circumstances described below&#8221; and shared a statement from the firm. However, the statement did not provide any reason for PGZ&#8217;s decision not to attend the forum and instead talked about the firm&#8217;s existing good relations with Ukraine.</p>
+<div class="et_post_video">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pl" dir="ltr">W związku z moją dzisiejszą wypowiedzią w <a href="https://twitter.com/RadioZET_NEWS?ref_src=twsrc%5Etfw">@RadioZET_NEWS</a> przepraszam za powstałe nieporozumienie. <a href="https://t.co/XhiJBmjO5q">https://t.co/XhiJBmjO5q</a> <a href="https://t.co/X4aRLVf2NN">pic.twitter.com/X4aRLVf2NN</a></p>
+<p>&mdash; Jacek Sasin (@SasinJacek) <a href="https://twitter.com/SasinJacek/status/1708879560442368212?ref_src=twsrc%5Etfw">October 2, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>The government&#8217;s conflict with Kyiv has drawn criticism from the opposition, who have accused it of harming Poland&#8217;s relations with Ukraine in order to benefit the ruling Law and Justice (PiS) party&#8217;s current campaign for parliamentary elections that will take place on 15 October.</p>
+<p>&#8220;Poland as a country is currently paying the cost of an election campaign in which PiS subordinates the issues of national defence and relations with Ukraine to its own political benefits,&#8221; said Czesław Mroczek, an opposition MP and deputy head of the parliamentary defence committee.</p>
+<p>&#8220;If Poland excludes itself from the group of countries and companies that will participate in the rebuilding of Ukraine, that will cause terrible harm to the interests and economy of our country,&#8221; Mroczek told industry news service Defence24.</p>
+<p><img decoding="async" alt width="275" height="97" data-src="https://notesfrompoland.com/wp-content/uploads/2023/07/support.png" class="alignnone size-full wp-image-57162 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" class="alignnone size-full wp-image-57162" src="https://notesfrompoland.com/wp-content/uploads/2023/07/support.png" alt="" width="275" height="97" /></noscript><br/>
+Notes from Poland is run by a <a href="https://notesfrompoland.com/about-us/#editor-team">small editorial team</a> and published by an independent, non-profit foundation that is funded through donations from our readers. We cannot do what we do without your support.<br/>
+<script src="https://donorbox.org/widget.js" paypalExpress="false"></script></p>
+<p><iframe style="max-width: 500px; min-width: 250px; max-height: none!important;" src="https://donorbox.org/embed/donation-form-248" name="donorbox" width="100%" height="900px" frameborder="0" scrolling="no" seamless="seamless"></iframe></p>
+<p>Main image credit: <a href="https://twitter.com/JosepBorrellF/status/1708830959422828580">Josep Borrell/Twitter</a></p>
+<div class="et_social_inline et_social_mobile_on et_social_inline_bottom">
+<div class="et_social_networks et_social_6col et_social_slide et_social_circle et_social_left et_social_no_animation et_social_nospace et_social_outer_dark">
+<ul class="et_social_icons_container"><li class="et_social_facebook">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;t=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_facebook"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_twitter">
+<a href="https://twitter.com/share?text=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum&#038;url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_twitter"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_pinterest">
+<a href="#" class="et_social_share_pinterest" rel="nofollow" data-social_name="pinterest" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_pinterest"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_reddit">
+<a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;title=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_reddit"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_linkedin">
+<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;title=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_linkedin"></i><span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_stumbleupon">
+<a href="http://www.stumbleupon.com/badge?url=https%3A%2F%2Fnotesfrompoland.com%2F2023%2F10%2F03%2Fpolish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum%2F&#038;title=Polish%20minister%20apologises%20for%20falsely%20accusing%20Ukraine%20of%20not%20inviting%20Poland%20to%C2%A0defence%C2%A0forum" class="et_social_share" rel="nofollow" data-social_name="stumbleupon" data-post_id="59279" data-social_type="share" data-location="inline">
+<i class="et_social_icon et_social_icon_stumbleupon"></i><span class="et_social_overlay"></span>
+</a>
+</li></ul>
+</div>
+</div><div class="saboxplugin-wrap" itemtype="http://schema.org/Person" itemscope itemprop="author"><div class="saboxplugin-tab"><div class="saboxplugin-gravatar"><img decoding="async" width="100" height="100" alt itemprop="image" data-src="https://notesfrompoland.com/wp-content/uploads/2021/01/074dae4a-3c17-4ad1-8b85-ee4336bda93c1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" src="https://notesfrompoland.com/wp-content/uploads/2021/01/074dae4a-3c17-4ad1-8b85-ee4336bda93c1.jpg" width="100"  height="100" alt="" itemprop="image"></noscript></div><div class="saboxplugin-authorname"><a href="https://notesfrompoland.com/author/daniel/" class="vcard author" rel="author"><span class="fn">Daniel Tilles</span></a></div><div class="saboxplugin-desc"><div itemprop="description"><p>Daniel Tilles is editor-in-chief of <i>Notes from Poland</i>. He has written on Polish affairs for a wide range of publications, including <i>Foreign Policy</i>, <i>POLITICO Europe</i>, <i>EUobserver</i> and <i>Dziennik Gazeta Prawna</i>.</p>
+</div></div><div class="clearfix"></div><div class="saboxplugin-socials "><a title="Twitter" target="_blank" href="https://twitter.com/danieltilles1" rel="nofollow noopener" class="saboxplugin-icon-grey"><svg aria-hidden="true" class="sab-twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span></a></div></div></div> </div>
+<div class="et_post_meta_wrapper">
+</div>
+</article>
+</div>
+<div id="sidebar">
+<div id="custom_html-7" class="widget_text widget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><h3>
+Latest news
+</h3>
+<div class="et_pb_module et_pb_blog_0 latest-news et_pb_posts et_pb_bg_layout_light ">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-60941" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_0 post-60941 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics tag-coalition tag-elections tag-government tag-mateusz-morawiecki">
+<h2 class="entry-title"><a href="https://notesfrompoland.com/2023/11/17/polish-pm-appeals-to-opposition-groups-to-form-new-government-with-him/">Polish PM appeals to opposition groups to form new government with him</a></h2>
+<p class="post-meta"><a href="https://notesfrompoland.com/category/news/" rel="tag">News</a>, <a href="https://notesfrompoland.com/category/politics/" rel="tag">Politics</a></p><div class="post-content"><div class="post-content-inner"><p>All opposition parties have ruled out working with the ruling PiS party, which lost its parliamentary majority at last month&#8217;s elections.</p>
+</div></div>
+</article>
+<article id="post-60916" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_1 post-60916 post type-post status-publish format-standard has-post-thumbnail hentry category-law category-news category-society tag-court tag-discrimination tag-ikea tag-krakow tag-lgbt tag-religion">
+<h2 class="entry-title"><a href="https://notesfrompoland.com/2023/11/17/court-orders-ikea-to-reinstate-polish-employee-fired-for-homophobia/">Court orders IKEA to reinstate Polish employee fired for homophobia</a></h2>
+<p class="post-meta"><a href="https://notesfrompoland.com/category/law/" rel="tag">Law</a>, <a href="https://notesfrompoland.com/category/news/" rel="tag">News</a>, <a href="https://notesfrompoland.com/category/society/" rel="tag">Society</a></p><div class="post-content"><div class="post-content-inner"><p>His lawyers hailed the ruling as “a milestone towards protecting religious freedom” against “large corporations that impose left-wing ideology on employees”.</p>
+</div></div>
+</article>
+<article id="post-60915" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_2 post-60915 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics tag-ambassador tag-america tag-mark-brzezinski tag-us">
+<h2 class="entry-title"><a href="https://notesfrompoland.com/2023/11/17/us-happy-that-incoming-polish-government-will-improve-relations-with-eu-says-ambassador/">US &#8220;happy&#8221; that incoming Polish government will improve relations with EU, says ambassador</a></h2>
+<p class="post-meta"><a href="https://notesfrompoland.com/category/news/" rel="tag">News</a>, <a href="https://notesfrompoland.com/category/politics/" rel="tag">Politics</a></p><div class="post-content"><div class="post-content-inner"><p>Mark Brzezinski says he expects Polish-American cooperation, already very strong, to now &#8220;get even better&#8221;.</p>
+</div></div>
+</article>
+</div>
+</div>
+<a class="et_pb_button" href="/category/news/">MORE NEWS</a></div></div><div id="custom_html-4" class="widget_text widget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><h3>You may also like</h3>
+<div class="et_pb_module et_pb_blog_1 three-grid one-grid et_pb_posts et_pb_bg_layout_light ">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-60708" class="et_pb_post clearfix et_pb_blog_item_1_0 post-60708 post type-post status-publish format-standard has-post-thumbnail hentry category-hot-news category-news category-readers-choice tag-independence-day tag-jaroslaw-kaczynski">
+<a href="https://notesfrompoland.com/2023/11/11/eu-preparing-german-plan-to-annihilate-polish-state-claims-kaczynski/" class="entry-featured-image-url"><img alt="EU preparing &#8220;German plan to annihilate Polish state&#8221;, claims Kaczyński" width="1080" height="675" data-srcset="https://notesfrompoland.com/wp-content/uploads/2023/11/SK231110_0345308-980x653.jpg 980w, https://notesfrompoland.com/wp-content/uploads/2023/11/SK231110_0345308-480x320.jpg 480w" data-src="https://notesfrompoland.com/wp-content/uploads/2023/11/SK231110_0345308-1080x675.jpg" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2023/11/SK231110_0345308-1080x675.jpg" alt="EU preparing &#8220;German plan to annihilate Polish state&#8221;, claims Kaczyński" class="" width="1080" height="675" srcset="https://notesfrompoland.com/wp-content/uploads/2023/11/SK231110_0345308-980x653.jpg 980w, https://notesfrompoland.com/wp-content/uploads/2023/11/SK231110_0345308-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" /></noscript></a>
+<h2 class="entry-title"><a href="https://notesfrompoland.com/2023/11/11/eu-preparing-german-plan-to-annihilate-polish-state-claims-kaczynski/">EU preparing &#8220;German plan to annihilate Polish state&#8221;, claims Kaczyński</a></h2>
+<p class="post-meta"><span class="published">Nov 11, 2023</span> | <a href="https://notesfrompoland.com/category/hot-news/" rel="tag">Hot news</a>, <a href="https://notesfrompoland.com/category/news/" rel="tag">News</a>, <a href="https://notesfrompoland.com/category/readers-choice/" rel="tag">Reader's choice</a></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>The ruling party leader called on Poles to &#8220;fight, fight and fight again&#8221; to resist the EU&#8217;s plans.</p>
+</div></div>
+</article>
+<article id="post-60684" class="et_pb_post clearfix et_pb_blog_item_1_1 post-60684 post type-post status-publish format-standard has-post-thumbnail hentry category-hot-news category-news category-politics tag-donald-tusk tag-government tag-opposition tag-politics">
+<a href="https://notesfrompoland.com/2023/11/10/polish-opposition-groups-sign-agreement-setting-out-programme-for-future-coalition-government/" class="entry-featured-image-url"><img alt="Polish opposition groups sign agreement setting out programme for future coalition government" width="1080" height="675" data-srcset="https://notesfrompoland.com/wp-content/uploads/2023/11/53322151396_ae4a08b395_k-980x653.jpg 980w, https://notesfrompoland.com/wp-content/uploads/2023/11/53322151396_ae4a08b395_k-480x320.jpg 480w" data-src="https://notesfrompoland.com/wp-content/uploads/2023/11/53322151396_ae4a08b395_k-1080x675.jpg" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2023/11/53322151396_ae4a08b395_k-1080x675.jpg" alt="Polish opposition groups sign agreement setting out programme for future coalition government" class="" width="1080" height="675" srcset="https://notesfrompoland.com/wp-content/uploads/2023/11/53322151396_ae4a08b395_k-980x653.jpg 980w, https://notesfrompoland.com/wp-content/uploads/2023/11/53322151396_ae4a08b395_k-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" /></noscript></a>
+<h2 class="entry-title"><a href="https://notesfrompoland.com/2023/11/10/polish-opposition-groups-sign-agreement-setting-out-programme-for-future-coalition-government/">Polish opposition groups sign agreement setting out programme for future coalition government</a></h2>
+<p class="post-meta"><span class="published">Nov 10, 2023</span> | <a href="https://notesfrompoland.com/category/hot-news/" rel="tag">Hot news</a>, <a href="https://notesfrompoland.com/category/news/" rel="tag">News</a>, <a href="https://notesfrompoland.com/category/politics/" rel="tag">Politics</a></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>Among their pledges are reversing PiS&#8217;s judicial reforms, overturning the near-total abortion ban, depoliticising public media, and separating church and state.</p>
+</div></div>
+</article>
+<article id="post-60687" class="et_pb_post clearfix et_pb_blog_item_1_2 post-60687 post type-post status-publish format-standard has-post-thumbnail hentry category-hot-news category-news category-society tag-bank tag-church tag-goats tag-police">
+<a href="https://notesfrompoland.com/2023/11/10/goats-escape-drunk-owner-visit-library-and-church-before-police-apprehend-them-at-bus-stop/" class="entry-featured-image-url"><img alt="Goats escape drunk owner, visit library and church, before police apprehend them at bus stop" width="1080" height="675" data-srcset="https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-1080x675.jpg 1080w, https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-980x735.jpg 980w, https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-480x360.jpg 480w" data-src="https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-1080x675.jpg" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-1080x675.jpg" alt="Goats escape drunk owner, visit library and church, before police apprehend them at bus stop" class="" width="1080" height="675" srcset="https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-1080x675.jpg 1080w, https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-980x735.jpg 980w, https://notesfrompoland.com/wp-content/uploads/2023/11/240-181397-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" /></noscript></a>
+<h2 class="entry-title"><a href="https://notesfrompoland.com/2023/11/10/goats-escape-drunk-owner-visit-library-and-church-before-police-apprehend-them-at-bus-stop/">Goats escape drunk owner, visit library and church, before police apprehend them at bus stop</a></h2>
+<p class="post-meta"><span class="published">Nov 10, 2023</span> | <a href="https://notesfrompoland.com/category/hot-news/" rel="tag">Hot news</a>, <a href="https://notesfrompoland.com/category/news/" rel="tag">News</a>, <a href="https://notesfrompoland.com/category/society/" rel="tag">Society</a></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>Images of the goats&#8217; big day out went viral in Poland this week.</p>
+</div></div>
+</article>
+</div>
+</div>
+<a class="et_pb_button" href="/category/hot-news/">MORE HOT NEWS</a></div></div><div id="custom_html-5" class="widget_text widget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="et_pb_module et_pb_cta_0 less-padding et_pb_promo  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_promo_description"><h2 class="et_pb_module_header">We can only do this thanks to your support!</h2><div><p>We are an independent, nonprofit media outlet, funded through the support of our readers.</p>
+<p>If you appreciate the work we do, please consider helping us to continue and expand it.</p></div></div>
+<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="/donations/support-us/">SUPPORT US!</a></div>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+
+<footer id="main-footer">
+<div class="container">
+<div id="footer-widgets" class="clearfix">
+<div class="footer-widget"><div id="custom_html-3" class="widget_text widget fwidget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_0 stopkowa  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_pb_blurb_position_top_phone">
+<div class="et_pb_blurb_content">
+<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img alt data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/logo_stopka.svg" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-1421 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/logo_stopka.svg" alt="" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-1421" /></noscript></span></div>
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>FUNDACJA NOTES FROM POLAND</span></h4>
+<div class="et_pb_blurb_description"><p>Chocimska 7 / 8<br/>30-057 Kraków, Poland<br/>NIP: 677 243 97 04<br/>KRS: 0000758506</p>
+<p><a href="/cdn-cgi/l/email-protection#b1d2dedfc5d0d2c5f1ffdec5d4c2d7c3dedce1deddd0dfd59fd2dedc"><span class="__cf_email__" data-cfemail="51323e3f25303225111f3e25342237233e3c013e3d303f357f323e3c">[email&#160;protected]</span></a></p></div>
+</div>
+</div>
+</div></div></div></div><div class="footer-widget"><div id="text-3" class="widget fwidget et_pb_widget widget_text"><h4 class="title">Topics</h4> <div class="textwidget"><ul>
+<li><a href="/category/news/">NEWS</a></li>
+<li><a href="/category/insights/">INSIGHTS</a></li>
+<li><a href="/category/politics/">POLITICS</a></li>
+<li><a href="/category/society">SOCIETY</a></li>
+<li><a href="/category/culture">CULTURE</a></li>
+<li><a href="/category/business">BUSINESS</a></li>
+<li><a href="/category/editors-pick">EDITOR&#8217;S PICK</a></li>
+<li><a href="/category/readers-choice">READER&#8217;S CHOICE</a></li>
+<li><a href="https://notesfrompoland.com/category/po-polsku/">PO POLSKU</a></li>
+</ul>
+</div>
+</div></div><div class="footer-widget"></div> </div>
+</div>
+<div id="footer-bottom">
+<div class="container clearfix">
+
+<p id="footer-info">Copyright &copy; 2023 <a href="https://notesfrompoland.com/" rel="home">Notes From Poland</a> | <em>Design <a target="_blank" title href="https://malgorzatajurko.pl/">jurko studio</a></em> | Code by <a target="_blank" href="https://2sides.pl">2sides.pl</a></p>
+</div> 
+</div>
+</footer> 
+</div> 
+</div> 
+<div id="pum-674" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:674,&quot;slug&quot;:&quot;paulina-2&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#paulina&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-674" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_section et_pb_section_0 et_section_regular">
+<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><div dir="ltr"><img decoding="async" alt width="150" height="150" data-src="https://notesfrompoland.com/wp-content/uploads/2021/01/IMG_3781-150x150.jpg" class="wp-image-22700 alignnone size-thumbnail aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" class="wp-image-22700 alignnone size-thumbnail aligncenter" src="https://notesfrompoland.com/wp-content/uploads/2021/01/IMG_3781-150x150.jpg" alt="" width="150" height="150" /></noscript></div>
+<div dir="ltr"> </div>
+<div dir="ltr"> </div>
+<h3 dir="ltr" style="text-align: center;"><span style="color: #40b88a;">Paulina Olszanka</span></h3>
+<div dir="ltr" style="text-align: center;"><strong>Solutions journalism project manager</strong></div>
+<div dir="ltr" style="text-align: center;"> </div>
+<div dir="ltr" style="text-align: center;"> Paulina  is a journalist and writer with a background in anthropology, social theory &amp; political economy. She has worked for <em>Fairfax Media</em>, <em>the Polish Press Agency, the Guardian </em>and<em> De Volkskrant</em></div>
+<div dir="ltr" style="text-align: center;"> </div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1327" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1327,&quot;slug&quot;:&quot;agata&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#agata&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1327" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_section et_pb_section_1 et_section_regular">
+<div class="et_pb_row et_pb_row_1">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Agata Gostyńska-Jakubowska" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/agata.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/agata-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/agata-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/agata.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1325 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/agata.png" alt="Agata Gostyńska-Jakubowska" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/agata.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/agata-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/agata-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1325" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Agata Gostyńska-Jakubowska</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div><p>Senior Research Fellow at the Global Europe Centre, University of Kent.</p>
+<p><a href="/author/agata-gostynska-jakubowska/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-8353" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay click_open" data-popmake="{&quot;id&quot;:8353,&quot;slug&quot;:&quot;weronika-strzyzynska&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#percy&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-8353" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_section et_pb_section_2 et_section_regular">
+<div class="et_pb_row et_pb_row_2">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><p><img decoding="async" alt width="194" height="139" data-src="https://notesfrompoland.com/wp-content/uploads/2020/11/weronika-300x216.jpeg" class="wp-image-19802  aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" class="wp-image-19802  aligncenter" src="https://notesfrompoland.com/wp-content/uploads/2020/11/weronika-300x216.jpeg" alt="" width="194" height="139" /></noscript></p>
+<h3 style="text-align: center;"><span style="color: #69dca4;">Weronika Strzyżyńska</span></h3>
+<p style="text-align: center;"><strong>contributing editorial assistant </strong></p>
+<p style="text-align: center;">Weronika Strzyżyńska is currently studying journalism at Goldsmiths as a Scott Trust Bursary recipient. She  has written on issues immigration and Brexit for <em>New Statesman</em> and<em> Prospect</em></p>
+<p style="text-align: center;">ARTICLES BY THIS AUTHOR</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-10077" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay click_open" data-popmake="{&quot;id&quot;:10077,&quot;slug&quot;:&quot;agnieszka-wadolowska&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#Agnieszka&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-10077" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_section et_pb_section_3 et_section_regular">
+<div class="et_pb_row et_pb_row_3">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><p><img decoding="async" alt width="110" height="123" data-src="https://notesfrompoland.com/wp-content/uploads/2020/04/Agnieszka-Wądołowska-915x1024.jpg" class="wp-image-10067  aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" class="wp-image-10067  aligncenter" src="https://notesfrompoland.com/wp-content/uploads/2020/04/Agnieszka-Wądołowska-915x1024.jpg" alt="" width="110" height="123" /></noscript></p>
+<h3 style="text-align: center;"><span style="color: #69dca4;">Agnieszka Wądołowska</span></h3>
+<p style="text-align: center;"><strong>managing editor</strong></p>
+<p style="text-align: center;">Agnieszka Wądołowska is managing editor of Notes from Poland. She has previously worked for Gazeta.pl and Tokfm.pl and contributed to<em> Gazeta Wyborcza</em>, <em>Wysokie Obcasy, Duży Format, Midrasz</em> and <em>Kultura Liberalna&#8221;</em></p>
+<p style="text-align: center;"><a href="https://notesfrompoland.com/?s=Agnieszka+W%C4%85do%C5%82owska+"><span style="color: #000000;">ARTICLES BY THIS AUTHOR</span></a></p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-8320" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay click_open" data-popmake="{&quot;id&quot;:8320,&quot;slug&quot;:&quot;juliette-bretan&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#Juliette&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-8320" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_1 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Juliette  Bretan" data-src="https://notesfrompoland.com/wp-content/uploads/2020/02/Juliette-Bretan-2-1-e1582192397212.png" class="wp-image-8327 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2020/02/Juliette-Bretan-2-1-e1582192397212.png" alt="Juliette  Bretan" class="wp-image-8327" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Juliette Bretan</h4>
+<p class="et_pb_member_position">contributing writer</p>
+<div><div style="text-align: center;">Juliette Bretan is a freelance journalist covering Polish and Eastern European current affairs and culture. Her work has featured on the BBC World Service, and in CityMetric, The Independent, Ozy, New Eastern Europe and Culture.pl.</div>
+<p style="text-align: center;"><a href="/author/juliette-bretan/">ARTICLES BY THIS AUTHOR</a></p></div>
+<ul class="et_pb_member_social_links"><li><a href="https://twitter.com/JCBretan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="et_pb_font_icon et_pb_twitter_icon"><span>Twitter</span></a></li></ul>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-78" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:78,&quot;slug&quot;:&quot;daniel&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#daniel&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-78" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_2 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Daniel Tilles" data-src="https://notesfrompoland.com/wp-content/uploads/2019/09/daniel.png" class="wp-image-74 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/09/daniel.png" alt="Daniel Tilles" class="wp-image-74" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Daniel Tilles</h4>
+<p class="et_pb_member_position">editor-in-chief</p>
+<div><p>Daniel Tilles is editor-in-chief of <i>Notes from Poland</i> and assistant professor of history at the Pedagogical University of Krakow. He has written on Polish affairs for a wide range of publications, including <i>Foreign Policy</i>, <i>POLITICO Europe</i>, <i>The Independent</i> and <i>Dziennik Gazeta Prawna</i>.</p>
+<p><a href="/author/daniel/">ARTICLES BY THIS AUTHOR</a></p></div>
+<ul class="et_pb_member_social_links"><li><a href="http://@DanielTilles" class="et_pb_font_icon et_pb_twitter_icon"><span>Twitter</span></a></li></ul>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-643" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:643,&quot;slug&quot;:&quot;stanley&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#stanley&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-643" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_3 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Stanley Bill " data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/stanley.gif" class="wp-image-641 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/stanley.gif" alt="Stanley Bill " class="wp-image-641" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Stanley Bill </h4>
+<p class="et_pb_member_position">founder, editor-at-large</p>
+<div><p>Stanley Bill is the founder and editor-at-large of Notes from Poland.<br/>He is also Senior Lecturer in Polish Studies and Director of the Polish Studies Programme at the University of Cambridge, where he works on Polish culture, politics and history.</p>
+<p>Stanley has spent more than ten years living in Poland, mostly based in Kraków and Bielsko-Biała. He founded Notes from Poland in 2014 as a blog dedicated to personal impressions, cultural analysis and political commentary. He is committed to the promotion of deeper knowledge and understanding of Poland.</p>
+<p>He is the Chair of the Board of the Notes from Poland Foundation.</p>
+<p><a href="/author/sbill/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-684" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:684,&quot;slug&quot;:&quot;monika&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#monika&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-684" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_4 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Maria Wilczek" data-src="https://notesfrompoland.com/wp-content/uploads/2020/01/Maria-Wilczek-1.1-150x150.jpg" class="wp-image-7247 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2020/01/Maria-Wilczek-1.1-150x150.jpg" alt="Maria Wilczek" class="wp-image-7247" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Maria Wilczek</h4>
+<p class="et_pb_member_position">deputy editor</p>
+<div><div>Maria Wilczek is deputy editor of Notes from Poland. She also contributes regularly to The Economist and Al Jazeera, and has also written for The Times, Politico Europe, The Spectator and Gazeta Wyborcza.<wbr/> She was previously Marjorie Deane fellow at The Economist in London (2018) and a business consultant at the Boston Consulting Group in Warsaw. Maria is a graduate of the University of Oxford and a student at the Polish School of Literary Reportage.</div>
+<div> </div>
+<div><a href="/author/maria-wilczek/">ARTICLES BY THIS AUTHOR</a></div></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1257" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1257,&quot;slug&quot;:&quot;ben&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#ben&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1257" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_5 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Ben Koschalka" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/ben.png" class="wp-image-1255 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/ben.png" alt="Ben Koschalka" class="wp-image-1255" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Ben Koschalka</h4>
+<p class="et_pb_member_position">assistant editor</p>
+<div><div style="text-align: center;">
+<div class="saboxplugin-desc">
+<div>
+<div>Ben Koschalka is a translator and the assistant editor at <em>Notes from Poland</em>. Originally from Britain, he has lived in Kraków since 2005.</div>
+</div>
+</div>
+</div>
+<p style="text-align: center;"><a href="/author/ben-koschalka/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1294" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1294,&quot;slug&quot;:&quot;norman&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#norman&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1294" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_6 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Norman Davies" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/norman.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/norman-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/norman-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/norman.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1292 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/norman.png" alt="Norman Davies" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/norman.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/norman-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/norman-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1292" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Norman Davies</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div>UNESCO Professor at the Jagiellonian University and Professor Emeritus at University College London</p>
+<p><a href="/author/norman-davies/">ARTICLES BY THIS AUTHOR</a></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1308" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1308,&quot;slug&quot;:&quot;timothy&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#timothy&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1308" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_7 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Timothy Garton Ash" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/timothy.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/timothy-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/timothy-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/timothy.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1306 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/timothy.png" alt="Timothy Garton Ash" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/timothy.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/timothy-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/timothy-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1306" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Timothy Garton Ash</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div><p>Professor of European Studies at Oxford University</p>
+<p><a href="/author/timothy-garton-ash/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1319" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1319,&quot;slug&quot;:&quot;andrzej&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#andrzej&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1319" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_8 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Andrzej Nowak" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/andrze.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/andrze-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/andrze-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/andrze.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1317 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/andrze.png" alt="Andrzej Nowak" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/andrze.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/andrze-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/andrze-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1317" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Andrzej Nowak</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div><p>Professor at the Institute of History of the Jagiellonian University</p>
+<p><a href="/author/andrzej-nowak/">ARTICLES BY THIS AUTHOR</a></p></div>
+<ul class="et_pb_member_social_links"><li><a href="https://twitter.com" class="et_pb_font_icon et_pb_twitter_icon"><span>Twitter</span></a></li></ul>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1336" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1336,&quot;slug&quot;:&quot;shana&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#shana&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1336" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_9 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="  Shana Penn" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/shana.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/shana-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/shana-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/shana.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1334 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/shana.png" alt="  Shana Penn" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/shana.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/shana-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/shana-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1334" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header"> Shana Penn</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div><p>Executive Director of Taube Family Foundation</p>
+<p><a href="/author/shana-penn/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1344" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1344,&quot;slug&quot;:&quot;pawel&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#pawel&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1344" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_10 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="  Paweł Kowal" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/pawel.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/pawel-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/pawel-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/pawel.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1341 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/pawel.png" alt="  Paweł Kowal" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/pawel.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/pawel-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/pawel-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1341" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header"> Paweł Kowal</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div><p> Associate Professor at the Institute of Political Studies of the Polish Academy of Science, member of the Polish parliaments</p>
+<p><a href="/author/pawel-kowal/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-1301" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1301,&quot;slug&quot;:&quot;olga&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#olga&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;20&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-1301" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_11 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Olga Tokarczuk" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/olga.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/olga-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/olga-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/olga.png" data-sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1299 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/olga.png" alt="Olga Tokarczuk" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/olga.png 261w, https://notesfrompoland.com/wp-content/uploads/2019/10/olga-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/olga-150x150.png 150w" sizes="(max-width: 261px) 100vw, 261px" class="wp-image-1299" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Olga Tokarczuk</h4>
+<p class="et_pb_member_position">advisory board member</p>
+<div><div>Author, winner of 2018 Nobel Prize in Literature </div>
+<p><a href="/author/olga-tokarczuk/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div id="pum-692" class="pum pum-overlay pum-theme-67 pum-theme-lightbox popmake-overlay click_open" data-popmake="{&quot;id&quot;:692,&quot;slug&quot;:&quot;siobhan&quot;,&quot;theme_id&quot;:67,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#siobhan&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
+<div id="popmake-692" class="pum-container popmake theme-67 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content" tabindex="0">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_12 clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img alt="Sioban Doucette" data-srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/sioban.png 200w, https://notesfrompoland.com/wp-content/uploads/2019/10/sioban-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/sioban-150x150.png 150w" data-src="https://notesfrompoland.com/wp-content/uploads/2019/10/sioban.png" data-sizes="(max-width: 200px) 100vw, 200px" class="wp-image-672 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://notesfrompoland.com/wp-content/uploads/2019/10/sioban.png" alt="Sioban Doucette" srcset="https://notesfrompoland.com/wp-content/uploads/2019/10/sioban.png 200w, https://notesfrompoland.com/wp-content/uploads/2019/10/sioban-100x100.png 100w, https://notesfrompoland.com/wp-content/uploads/2019/10/sioban-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px" class="wp-image-672" /></noscript></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Sioban Doucette</h4>
+<p class="et_pb_member_position">author</p>
+<div><div>Siobhan Doucette is a historian whose work focuses the opposition movement in Communist Poland. Her first book, <em>Books Are Weapons: The Polish Opposition Press and the Overthrow of Communism</em>, is available from University of Pittsburgh Press. It focuses on the Polish independent publishing movement from 1976 to 1989.  </div>
+<div> </div>
+<p><a href="/author/sdoucette/">ARTICLES BY THIS AUTHOR</a></p></div>
+</div>
+</div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+&times; </button>
+</div>
+</div>
+<div class="et_social_pin_images_outer">
+<div class="et_social_pinterest_window">
+<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
+<div class="et_social_pin_images" data-permalink="https://notesfrompoland.com/2023/10/03/polish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum/" data-title="Polish minister apologises for falsely accusing Ukraine of not inviting Poland to defence forum" data-post_id="59279"></div>
+</div>
+</div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PXNNL4D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="latacz">
+<a href="/donations/support-us/">Support us!</a>
+</div>
+<link rel="stylesheet" id="mediaelement-css" href="https://notesfrompoland.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all" />
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://notesfrompoland.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2" type="text/css" media="all" />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" id="give-donation-summary-script-frontend-js-extra">
+/* <![CDATA[ */
+var GiveDonationSummaryData = {"currencyPrecisionLookup":{"USD":2,"EUR":2,"GBP":2,"AUD":2,"BRL":2,"CAD":2,"CZK":2,"DKK":2,"HKD":2,"HUF":2,"ILS":2,"JPY":0,"MYR":2,"MXN":2,"MAD":2,"NZD":2,"NOK":2,"PHP":2,"PLN":2,"SGD":2,"KRW":0,"ZAR":2,"SEK":2,"CHF":2,"TWD":2,"THB":2,"INR":2,"TRY":2,"IRR":2,"RUB":2,"AED":2,"AMD":2,"ANG":2,"ARS":2,"AWG":2,"BAM":2,"BDT":2,"BHD":3,"BMD":2,"BND":2,"BOB":2,"BSD":2,"BWP":2,"BZD":2,"CLP":0,"CNY":2,"COP":2,"CRC":2,"CUC":2,"CUP":2,"DOP":2,"EGP":2,"GIP":2,"GTQ":2,"HNL":2,"HRK":2,"IDR":2,"ISK":0,"JMD":2,"JOD":2,"KES":2,"KWD":2,"KYD":2,"MKD":2,"NPR":2,"OMR":3,"PEN":2,"PKR":2,"RON":2,"SAR":2,"SZL":2,"TOP":2,"TZS":2,"UAH":2,"UYU":2,"VEF":2,"XCD":2,"AFN":2,"ALL":2,"AOA":2,"AZN":2,"BBD":2,"BGN":2,"BIF":0,"BTC":8,"BTN":1,"BYR":2,"BYN":2,"CDF":2,"CVE":2,"DJF":0,"DZD":2,"ERN":2,"ETB":2,"FJD":2,"FKP":2,"GEL":2,"GGP":2,"GHS":2,"GMD":2,"GNF":0,"GYD":2,"HTG":2,"IMP":2,"IQD":2,"IRT":2,"JEP":2,"KGS":2,"KHR":0,"KMF":2,"KPW":0,"KZT":2,"LAK":0,"LBP":2,"LKR":0,"LRD":2,"LSL":2,"LYD":3,"MDL":2,"MGA":0,"MMK":2,"MNT":2,"MOP":2,"MRO":2,"MUR":2,"MVR":1,"MWK":2,"MZN":0,"NAD":2,"NGN":2,"NIO":2,"PAB":2,"PGK":2,"PRB":2,"PYG":2,"QAR":2,"RSD":2,"RWF":2,"SBD":2,"SCR":2,"SDG":2,"SHP":2,"SLL":2,"SOS":2,"SRD":2,"SSP":2,"STD":2,"SYP":2,"TJS":2,"TMT":2,"TND":3,"TTD":2,"UGX":2,"UZS":2,"VND":1,"VUV":0,"WST":2,"XAF":2,"XOF":2,"XPF":2,"YER":2,"ZMW":2},"recurringLabelLookup":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/give/assets/dist/js/give-donation-summary.js?ver=2.27.2" id="give-donation-summary-script-frontend-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.4.14" id="et_monarch-idle-js"></script>
+<script type="text/javascript" id="et_monarch-custom-js-js-extra">
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/notesfrompoland.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/notesfrompoland.com\/2023\/10\/03\/polish-minister-apologises-for-falsely-accusing-ukraine-of-not-inviting-poland-to-defence-forum\/","stats_nonce":"2aad67f0a9","share_counts":"31bd090666","follow_counts":"dbb2ea5889","total_counts":"b7a6536161","media_single":"f0b315d763","media_total":"dd826dd976","generate_all_window_nonce":"3f25fea43f","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/monarch/js/custom.js?ver=1.4.14" id="et_monarch-custom-js-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/notesfrompoland.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/notesfrompoland.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/notesfrompoland.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"d85fc70f30","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"214d8432d6","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"59279","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/notesfrompoland.com\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#49b783","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.0" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0" id="fitvids-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.18.1","pm_dir_url":"https:\/\/notesfrompoland.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/notesfrompoland.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/notesfrompoland.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"66","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/notesfrompoland.com\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/notesfrompoland.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-674":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#paulina"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":674,"slug":"paulina-2"},"pum-1327":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#agata"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1327,"slug":"agata"},"pum-8353":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#percy"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"800%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":8353,"slug":"weronika-strzyzynska"},"pum-10077":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#Agnieszka"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":10077,"slug":"agnieszka-wadolowska"},"pum-8320":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#Juliette"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":8320,"slug":"juliette-bretan"},"pum-78":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#daniel"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":78,"slug":"daniel"},"pum-643":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#stanley"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":643,"slug":"stanley"},"pum-684":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#monika"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":684,"slug":"monika"},"pum-1257":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#ben"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1257,"slug":"ben"},"pum-1294":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#norman"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1294,"slug":"norman"},"pum-1308":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#timothy"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1308,"slug":"timothy"},"pum-1319":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#andrzej"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1319,"slug":"andrzej"},"pum-1336":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#shana"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1336,"slug":"shana"},"pum-1344":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#pawel"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1344,"slug":"pawel"},"pum-1301":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#olga"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"20","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1301,"slug":"olga"},"pum-692":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#siobhan"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"67","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":692,"slug":"siobhan"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&#038;ver=1.18.1" id="popup-maker-site-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.21.0" id="et-core-common-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.12.6" id="smush-lazy-load-js"></script>
+<script type="text/javascript" id="smush-lazy-load-js-after">
+function rw() { Waypoint.refreshAll(); } window.addEventListener( 'lazybeforeunveil', rw, false); window.addEventListener( 'lazyloaded', rw, false);
+</script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2.2" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2.2" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.21.0" id="easypiechart-js"></script>
+<script type="text/javascript" src="https://notesfrompoland.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.21.0" id="salvattore-js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8286bc0a5b869676","b":1,"version":"2023.10.0","token":"0f2f689aa82b4b3c9102c8927b68c9dd"}' crossorigin="anonymous"></script>
+</body>
+</html>
+

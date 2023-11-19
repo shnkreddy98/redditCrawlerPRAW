@@ -1,0 +1,2245 @@
+
+
+
+
+
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+    
+    <!DOCTYPE html>
+<html class="uk-root" lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="/fdn-system/assets/pub/styles/desktop.min.css?cb=ddc434ba7a460d4c40663195884c6553" />
+<script src="/fdn-system/assets/pub/scripts/uikit.min.js"></script>
+<script src="/fdn-system/assets/pub/scripts/uikit-icons-fdn.min.js"></script>
+<script src="/foundation/fontawesome/js/brands.min.js" async></script>
+<script src="/foundation/fontawesome/js/solid.min.js" async></script>
+<script src="/foundation/fontawesome/js/regular.min.js" async></script>
+<script src="/foundation/fontawesome/js/fontawesome.min.js" async></script>
+<script src="/foundation/fontawesome/js/light.min.js" async></script>
+<script src="/foundation/fontawesome/js/duotone.min.js" async></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="layout" content="Content Default (Responsive, Live, Air)" />
+<meta name="oid" content="17524561" />
+<script>
+window.__FOUNDATION_RESPONSIVE__ = true
+// 
+window.__FBAPIv__ = 'v3.2'
+// 
+</script>
+<script src="/foundation/scripts/foundation-air-2-0-1.js?cb=ff828629d650d14278608af6f5f9d3c5"></script>
+<link rel="alternate" type="application/rss+xml" title="Westword RSS: Whole Site" href="https://www.westword.com/denver/Rss.xml" />
+<link rel="alternate" type="application/rss+xml" title="Westword RSS: News Section" href="https://www.westword.com/denver/Rss.xml?oid=5051089" />
+<link rel="alternate" type="application/rss+xml" title="Westword RSS: The Latest Word" href="https://www.westword.com/denver/Rss.xml?oid=5658896" />
+<script>
+fixupProfileLinks("https:\/\/www.westword.com\/denver\/Profile", "https:\/\/posting.westword.com\/denver\/MyProfile");
+</script>
+<meta name="google-signin-client_id" content="363304419989-mfqdfior0nbjoc5erpbgviubmhub83vg.apps.googleusercontent.com">
+
+<style>
+:root { --primary-color: #900; 
+--alt-primary-color: #009;}
+</style>
+
+<script>
+var Pelcro = window.Pelcro || (window.Pelcro = {});
+Pelcro.siteid = "904";
+Pelcro.environment = {
+"ui": "https://js.pelcro.com/ui/plugin/westword/main.min.js"
+};
+Pelcro.environment.domain = "https://www.pelcro.com";
+</script>
+<script async src="https://js.pelcro.com/sdk/main.min.js" type="text/javascript"></script>
+
+<style>
+.pelcro-logged-in {display:none;}
+</style>
+
+<script>
+var Foundation = window.Foundation || (window.Foundation = {});
+Foundation.Pelcro = window.Foundation.Pelcro || {};
+Foundation.Pelcro.init = function () {
+if (typeof(Foundation.Pelcro.user) === 'undefined' &&
+typeof(Pelcro) === "object" &&
+typeof(Pelcro.user) === "object" &&
+Pelcro.user.isAuthenticated()) {
+var user = Pelcro.user.read();
+if (typeof(user) === "object" && !jQuery.isEmptyObject(user)) {
+Foundation.Pelcro.user = user;
+if (typeof(Foundation.Pelcro.user.subscriptions) === "object" &&
+!jQuery.isEmptyObject(Foundation.Pelcro.user.subscriptions) &&
+Foundation.Pelcro.user.subscriptions.length > 0) {
+var subscription = Foundation.Pelcro.user.subscriptions[0];
+if (subscription.status == "active") {
+Foundation.Pelcro.subscription = subscription.plan.product.name;
+}
+}
+jQuery(document).ready(function($) {
+$(".pelcro-logout-button").click(function() {
+Pelcro.user.logout();
+});
+$(".pelcro-logged-in").show();
+$(".pelcro-logged-out").hide();
+var email = Foundation.Pelcro.user.email;
+if (email) {
+var username = email;
+if (username.length > 26) {
+username = username.split("@", 1)[0];
+}
+$(".pelcro-user-name").html(username);
+}
+});
+}
+}
+return (typeof(Foundation.Pelcro.user) === "object");
+};
+document.addEventListener("PelcroUserLogin", function (e) {
+});
+document.addEventListener("PelcroUserLogout", function (e) {
+});
+document.addEventListener("PelcroUserLoaded", function (e) {
+Foundation.Pelcro.init();
+});
+</script>
+
+<style>
+#pelcro-app .pelcro-prefix-view .pelcro-prefix-btn {
+background: #900 !important;
+border-color: #900 !important;
+background-image: none !important;
+}
+#pelcro-app .pelcro-prefix-view .pelcro-prefix-btn:focus,
+#pelcro-app .pelcro-prefix-view .pelcro-prefix-btn:hover
+{
+background: #900 !important;
+border-color: #900 !important;
+}
+#pelcro-app #list .pelcro-prefix-view .pelcro-prefix-link, #pelcro-app .pelcro-prefix-view a{
+color: #900 !important;
+}
+#pelcro-app #list .pelcro-prefix-view .pelcro-prefix-interval .active {
+background-color: #900 !important;
+color: white !important;
+}
+#pelcro-app #list .pelcro-prefix-view .pelcro-prefix-plan-item.active {
+background-color: #900 !important;
+color: white !important;
+}
+#pelcro-app #list .pelcro-prefix-view .pelcro-prefix-interval button {
+color: #900 !important;
+}
+</style>
+<script>
+// 
+console.time('PelcroCheckTime');
+var Foundation = window.Foundation || {};
+Foundation.Pelcro = window.Foundation.Pelcro || {};
+console.time('Pelcro polling');
+Foundation.Pelcro.pollCount = 0;
+Foundation.Pelcro.pollForUser = setInterval(function() {
+// 
+if (Foundation.Pelcro.init() || Foundation.Pelcro.pollCount >= 100) {
+// 
+if (Foundation.Pelcro.init()) {
+// 
+jQuery('.fdn-site-header-login-block').addClass('logged-in');
+var email = Foundation.Pelcro.user.email;
+if (email) {
+// 
+jQuery(function() {
+jQuery.get("https://posting.westword.com/denver/API/Sailthru/User", {"email": email}).done(function(data) {
+// 
+var newsletters = data.newsletters;
+if (Array.isArray(newsletters) &&
+newsletters.length > 0) {
+jQuery("div.MySubscriptions input[type='checkbox'][name='newsletter']").each(function (i, v) {
+var e = jQuery(v);
+var oid = e.data("fdnOid");
+if (oid) {
+e.prop("checked", (jQuery.inArray(oid, newsletters) !== -1)).change();
+e.closest(".fdn-subscriptions-special-member-placement").toggleClass("fdn-subscriptions-special-member-placement", (jQuery.inArray(oid, newsletters) === -1));
+}
+});
+}
+// 
+var token = data.token;
+if (token) {
+// 
+jQuery('div.MySubscriptions input[type="checkbox"][name="newsletter"]').change(function () {
+var oid = jQuery(this).data("fdnOid");
+if (oid) {
+var request = {
+"token": token
+};
+request[this.checked?"subscribe":"unsubscribe"] = oid;
+jQuery.post(
+"https://posting.westword.com/denver/API/Sailthru/User",
+request
+);
+}
+}).prop('disabled', false);
+}
+});
+});
+// Add Sailthru cookie. 
+let cookieList = document.cookie.split('; ');
+const sailthru_content = cookieList.find(item => item.startsWith('sailthru_content'));
+const sailthru_hid = cookieList.find(item => item.startsWith('sailthru_hid'));
+console.log('sailthru_content:  ' + sailthru_content);
+console.log('sailthru_hid:  ' + sailthru_hid);
+if (!sailthru_hid) {
+if (typeof Sailthru !== 'undefined' &&
+typeof Sailthru.integration === 'function') {
+console.log('Transmitting stored activity to Sailthru.');
+const sailthru_content_original = cookieList.find(item => item.startsWith('sailthru_content'));
+const sailthru_hid_original = cookieList.find(item => item.startsWith('sailthru_hid'));
+// Transmit stored activity to Sailthru, set tracking cookie.
+Sailthru.integration("userSignUp",
+{
+"email":  email,
+"vars": {
+"cookieadd":  1
+},
+"onSuccess": function () {
+cookieList = document.cookie.split('; ');
+const sailthru_content_new = cookieList.find(item => item.startsWith('sailthru_content'));
+const sailthru_hid_new = cookieList.find(item => item.startsWith('sailthru_hid'));
+console.log('original sailthru_content: ' + sailthru_content_original);
+console.log('new sailthru_content:  ' + sailthru_content_new);
+console.log('original sailthru_hid: ' + sailthru_hid_original);
+console.log('new sailthru_hid:  ' + sailthru_hid_new);
+},
+"onError": function () {
+console.log('Unable to retrieve Sailthru cookie!');
+}
+}
+);
+}
+else {
+console.log('User logged in, but Sailthru not available yet!');
+}
+}
+else {
+console.log('Sailthru tracking already present and enabled.');
+}
+}
+}
+// 
+else {
+// 
+}
+clearInterval(Foundation.Pelcro.pollForUser);
+const memberMatch = /Member/i.test(Foundation.Pelcro.subscription);
+const donorMatch = /Contrib|Donor|Gift/i.test(Foundation.Pelcro.subscription);
+if (memberMatch ||
+donorMatch) {
+jQuery("div.MySubscriptions .fdn-subscriptions-special-member-placement").removeClass("fdn-subscriptions-special-member-placement");
+}
+// 
+if (memberMatch) {
+jQuery('[fdn-ad-component]').remove()
+jQuery('div[stn-embed-toc], div[stn-embed-toc-embedded]').remove();
+jQuery('div[stn-embed-not-mobile], div[stn-embed-not-mobile-embedded]').remove();
+jQuery('div[stn-embed-mobile-only], div[stn-embed-mobile-only-embedded]').remove();
+// One more time on document ready
+jQuery(function() { 
+jQuery('[fdn-ad-component]').remove() 
+jQuery('div[stn-embed-toc], div[stn-embed-toc-embedded]').remove();
+jQuery('div[stn-embed-not-mobile], div[stn-embed-not-mobile-embedded]').remove();
+jQuery('div[stn-embed-mobile-only], div[stn-embed-mobile-only-embedded]').remove();
+});
+// 
+}
+// 
+else {
+if(window.Foundation && Foundation.ApnAds && typeof Foundation.ApnAds.setup === 'function') {
+// 
+Foundation.ApnAds.setup();
+}
+jQuery('wheresweed-nearby-businesses').closest('[hidden]').attr('hidden', false)
+Foundation.WheresWeed = true
+jQuery(document).trigger('adsetup:ready');
+}
+jQuery(document).trigger('pelcro:check:complete');
+console.timeEnd('PelcroCheckTime');
+console.timeEnd('Pelcro polling');
+}
+// 
+else {
+Foundation.Pelcro.pollCount++;
+}
+}, 30);
+// 
+jQuery(document).on("PelcroUserLogin", function (e) {
+setTimeout(function() {
+jQuery('body').removeClass('pelcro-modal-open').attr('class');
+}, 10);
+});
+// 
+jQuery(function() {
+jQuery('div.MySubscriptions input[type="checkbox"][name="newsletter"]').change(function () {
+jQuery(this).siblings('.fdn-subscriptions-column-item-subscribed-header').text(this.checked?'Subscribed':'Unsubscribed');
+}).change();
+});
+</script>
+<meta name="ir-site-verification-token" value="-1062343762" />
+<meta property="fb:pages" content="23929892794" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<link rel="manifest" href="https://www.westword.com/manifest.json">
+<script type="text/javascript">
+(function(document, window){
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "https://api.pushnami.com/scripts/v1/pushnami-adv/60bf73dba4d9510011da24c7";
+script.onload = function() {
+Pushnami
+.update({
+"source":"pushnami"
+})
+.prompt();
+};
+document.getElementsByTagName("head")[0].appendChild(script);
+})(document, window);
+</script>
+<script>
+window.Foundation = window.Foundation || {};
+window.Foundation.ApnAds = window.Foundation.ApnAds || {};
+window.Foundation.ApnAds.config = {
+publisherId: 1176072,
+pageOptionKeywords: { 'oid': '17524561', 'topic': ["Transportation"], 'publisher': 'vmg' },
+desktopWidth: 1400,
+tabletWidth: 990,
+mobileWidth: 760,
+lazyLoading: true,
+debugging: false,
+adRefreshInterval: 30,
+stickyadRefreshInterval: 30,
+}
+window.Foundation.ApnAds.defineTags = function () {
+// /Macros/Ads/den/news
+// den ad vertical news (3414197)
+if (window.innerWidth > Foundation.ApnAds.tabletWidth) {
+// Rectangle (12903016)                  - 300x250, 300x600
+var mySizes = [300,250]
+Foundation.ApnAds.rectangle = ['apn-rectangle-1','apn-rectangle-2','apn-rectangle-3','apn-rectangle-4','apn-rectangle-5','apn-rectangle-6','apn-rectangle-7','apn-rectangle-8','apn-rectangle-9','apn-rectangle-10','apn-rectangle-11','apn-rectangle-12','apn-rectangle-13','apn-rectangle-14','apn-rectangle-15','apn-rectangle-16','apn-rectangle-17','apn-rectangle-18','apn-rectangle-19','apn-rectangle-20','apn-rectangle-21','apn-rectangle-22','apn-rectangle-23','apn-rectangle-24','apn-rectangle-25','apn-rectangle-26','apn-rectangle-27','apn-rectangle-28','apn-rectangle-29','apn-rectangle-30','apn-rectangle-31','apn-rectangle-32','apn-rectangle-33','apn-rectangle-34','apn-rectangle-35','apn-rectangle-36','apn-rectangle-37','apn-rectangle-38','apn-rectangle-39','apn-rectangle-40','apn-rectangle-41','apn-rectangle-42','apn-rectangle-43','apn-rectangle-44','apn-rectangle-45','apn-rectangle-46','apn-rectangle-47','apn-rectangle-48','apn-rectangle-49','apn-rectangle-50']
+Foundation.ApnAds.rectangle.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903016,
+sizes: mySizes,
+targetId: item,
+}
+})
+// news news_Leaderboard-Top (12903012)
+var mySizes = [970,90]
+Foundation.ApnAds.billboardTop = ['apn-billboardTop-1','apn-billboardTop-2','apn-billboardTop-3']
+Foundation.ApnAds.billboardTop.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903012,
+sizes: mySizes,
+targetId: item,
+}
+})
+// Leaderboard Middle (12903014)         - 970x250, 728x90
+var mySizes = [970,250]
+Foundation.ApnAds.billboard = ['apn-billboard-1','apn-billboard-2','apn-billboard-3']
+Foundation.ApnAds.billboard.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903014,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [970,250]
+Foundation.ApnAds.billboardBetweenContent = ['apn-billboardBetweenContent-1','apn-billboardBetweenContent-2']
+Foundation.ApnAds.billboardBetweenContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903014,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [728,90]
+Foundation.ApnAds.leaderboardInlineContent = ['apn-leaderboardInlineContent-1','apn-leaderboardInlineContent-2','apn-leaderboardInlineContent-3','apn-leaderboardInlineContent-4','apn-leaderboardInlineContent-5','apn-leaderboardInlineContent-6','apn-leaderboardInlineContent-7','apn-leaderboardInlineContent-8','apn-leaderboardInlineContent-9','apn-leaderboardInlineContent-10','apn-leaderboardInlineContent-11','apn-leaderboardInlineContent-12','apn-leaderboardInlineContent-13','apn-leaderboardInlineContent-14','apn-leaderboardInlineContent-15','apn-leaderboardInlineContent-16','apn-leaderboardInlineContent-17','apn-leaderboardInlineContent-18','apn-leaderboardInlineContent-19','apn-leaderboardInlineContent-20','apn-leaderboardInlineContent-21','apn-leaderboardInlineContent-22','apn-leaderboardInlineContent-23','apn-leaderboardInlineContent-24','apn-leaderboardInlineContent-25']
+Foundation.ApnAds.leaderboardInlineContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903014,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [728,90]
+if (window.innerWidth < 728) {
+mySizes = [320, 50]
+}
+Foundation.ApnAds.leaderboardBetweenContent = ['apn-leaderboardBetweenContent-1','apn-leaderboardBetweenContent-2']
+Foundation.ApnAds.leaderboardBetweenContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903014,
+sizes: mySizes,
+targetId: item,
+}
+})
+}
+else if (window.innerWidth > Foundation.ApnAds.mobileWidth) {
+// Rectangle (12903016)                  - 300x250, 300x600
+var mySizes = [300,250]
+Foundation.ApnAds.rectangle = ['apn-rectangle-1','apn-rectangle-2','apn-rectangle-3','apn-rectangle-4','apn-rectangle-5','apn-rectangle-6','apn-rectangle-7','apn-rectangle-8','apn-rectangle-9','apn-rectangle-10','apn-rectangle-11','apn-rectangle-12','apn-rectangle-13','apn-rectangle-14','apn-rectangle-15','apn-rectangle-16','apn-rectangle-17','apn-rectangle-18','apn-rectangle-19','apn-rectangle-20','apn-rectangle-21','apn-rectangle-22','apn-rectangle-23','apn-rectangle-24','apn-rectangle-25','apn-rectangle-26','apn-rectangle-27','apn-rectangle-28','apn-rectangle-29','apn-rectangle-30','apn-rectangle-31','apn-rectangle-32','apn-rectangle-33','apn-rectangle-34','apn-rectangle-35','apn-rectangle-36','apn-rectangle-37','apn-rectangle-38','apn-rectangle-39','apn-rectangle-40','apn-rectangle-41','apn-rectangle-42','apn-rectangle-43','apn-rectangle-44','apn-rectangle-45','apn-rectangle-46','apn-rectangle-47','apn-rectangle-48','apn-rectangle-49','apn-rectangle-50']
+Foundation.ApnAds.rectangle.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903016,
+sizes: mySizes,
+targetId: item,
+}
+})
+// news news_Leaderboard-Top (12903012)
+var mySizes = [728,90]
+Foundation.ApnAds.billboardTop = ['apn-billboardTop-1','apn-billboardTop-2','apn-billboardTop-3']
+Foundation.ApnAds.billboardTop.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903012,
+sizes: mySizes,
+targetId: item,
+}
+})
+// Tablet Middle (12903028)              - 468x60
+var mySizes = [728,90]
+Foundation.ApnAds.billboard = ['apn-billboard-1','apn-billboard-2','apn-billboard-3','apn-billboard-4']
+Foundation.ApnAds.billboard.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903028,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [728,90]
+Foundation.ApnAds.billboardBetweenContent = ['apn-billboardBetweenContent-1','apn-billboardBetweenContent-2']
+Foundation.ApnAds.billboardBetweenContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903028,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [728,90]
+Foundation.ApnAds.leaderboardInlineContent = ['apn-leaderboardInlineContent-1','apn-leaderboardInlineContent-2','apn-leaderboardInlineContent-3','apn-leaderboardInlineContent-4','apn-leaderboardInlineContent-5','apn-leaderboardInlineContent-6','apn-leaderboardInlineContent-7','apn-leaderboardInlineContent-8','apn-leaderboardInlineContent-9','apn-leaderboardInlineContent-10','apn-leaderboardInlineContent-11','apn-leaderboardInlineContent-12','apn-leaderboardInlineContent-13','apn-leaderboardInlineContent-14','apn-leaderboardInlineContent-15','apn-leaderboardInlineContent-16','apn-leaderboardInlineContent-17','apn-leaderboardInlineContent-18','apn-leaderboardInlineContent-19','apn-leaderboardInlineContent-20','apn-leaderboardInlineContent-21','apn-leaderboardInlineContent-22','apn-leaderboardInlineContent-23','apn-leaderboardInlineContent-24','apn-leaderboardInlineContent-25']
+Foundation.ApnAds.leaderboardInlineContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903028,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [728,90]
+if (window.innerWidth < 728) {
+mySizes = [320, 50]
+}
+Foundation.ApnAds.leaderboardBetweenContent = ['apn-leaderboardBetweenContent-1','apn-leaderboardBetweenContent-2']
+Foundation.ApnAds.leaderboardBetweenContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903028,
+sizes: mySizes,
+targetId: item,
+}
+})
+}
+else {
+// Middle Banner (12903022)              - 320x50
+var mySizes = [300,250]
+Foundation.ApnAds.leaderboardMiddle = ['apn-leaderboardMiddle']
+Foundation.ApnAds.leaderboardMiddle.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903022,
+sizes: mySizes,
+targetId: item,
+}
+})
+// news news_Banner-Top (12903020)
+var mySizes = [320,100]
+Foundation.ApnAds.billboardTop = ['apn-billboardTop-1','apn-billboardTop-2','apn-billboardTop-3']
+Foundation.ApnAds.billboardTop.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903020,
+sizes: mySizes,
+targetId: item,
+}
+})
+// Mobile Rectangle (12903023)           - 300x250, 300x600
+var mySizes = [300,600]
+Foundation.ApnAds.tower = ['apn-tower-1','apn-tower-2','apn-tower-3','apn-tower-4','apn-tower-5','apn-tower-6','apn-tower-7','apn-tower-8','apn-tower-9','apn-tower-10','apn-tower-11','apn-tower-12','apn-tower-13','apn-tower-14','apn-tower-15','apn-tower-16','apn-tower-17','apn-tower-18','apn-tower-19','apn-tower-20','apn-tower-21','apn-tower-22','apn-tower-23','apn-tower-24','apn-tower-25']
+Foundation.ApnAds.tower.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903023,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [300,250]
+Foundation.ApnAds.rectangle = ['apn-rectangle-1','apn-rectangle-2','apn-rectangle-3','apn-rectangle-4','apn-rectangle-5','apn-rectangle-6','apn-rectangle-7','apn-rectangle-8','apn-rectangle-9','apn-rectangle-10','apn-rectangle-11','apn-rectangle-12','apn-rectangle-13','apn-rectangle-14','apn-rectangle-15','apn-rectangle-16','apn-rectangle-17','apn-rectangle-18','apn-rectangle-19','apn-rectangle-20','apn-rectangle-21','apn-rectangle-22','apn-rectangle-23','apn-rectangle-24','apn-rectangle-25']
+Foundation.ApnAds.rectangle.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903023,
+sizes: mySizes,
+targetId: item,
+}
+})
+// Middle Banner (12903022)              - 320x50
+var mySizes = [320,100]
+Foundation.ApnAds.billboard = ['apn-billboard-1','apn-billboard-2','apn-billboard-3']
+Foundation.ApnAds.billboard.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903022,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [320,100]
+Foundation.ApnAds.billboardBetweenContent = ['apn-billboardBetweenContent-1','apn-billboardBetweenContent-2']
+Foundation.ApnAds.billboardBetweenContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903022,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [300,250]
+Foundation.ApnAds.leaderboardInlineContent = ['apn-leaderboardInlineContent-1','apn-leaderboardInlineContent-2','apn-leaderboardInlineContent-3','apn-leaderboardInlineContent-4','apn-leaderboardInlineContent-5','apn-leaderboardInlineContent-6','apn-leaderboardInlineContent-7','apn-leaderboardInlineContent-8','apn-leaderboardInlineContent-9','apn-leaderboardInlineContent-10','apn-leaderboardInlineContent-11','apn-leaderboardInlineContent-12','apn-leaderboardInlineContent-13','apn-leaderboardInlineContent-14','apn-leaderboardInlineContent-15','apn-leaderboardInlineContent-16','apn-leaderboardInlineContent-17','apn-leaderboardInlineContent-18','apn-leaderboardInlineContent-19','apn-leaderboardInlineContent-20','apn-leaderboardInlineContent-21','apn-leaderboardInlineContent-22','apn-leaderboardInlineContent-23','apn-leaderboardInlineContent-24','apn-leaderboardInlineContent-25']
+Foundation.ApnAds.leaderboardInlineContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903022,
+sizes: mySizes,
+targetId: item,
+}
+})
+var mySizes = [300,250]
+if (window.innerWidth < 728) {
+mySizes = [320, 50]
+}
+Foundation.ApnAds.leaderboardBetweenContent = ['apn-leaderboardBetweenContent-1','apn-leaderboardBetweenContent-2']
+Foundation.ApnAds.leaderboardBetweenContent.forEach(function (item, index) {
+Foundation.ApnAds.tags = Foundation.ApnAds.tags || {}
+Foundation.ApnAds.tags[item] = {
+tagId: 12903022,
+sizes: mySizes,
+targetId: item,
+}
+})
+}
+// 
+}
+</script>
+<script src="https://www.westword.com/denver/xandr/apnads.js?adZone=cb=9053a96c8377dfe11a14323d63de65b2"></script>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-395255-2}]>', { 'siteSpeedSampleRate': 5 });
+ga('set', 'dimension2', `News`);
+ga('set', 'dimension3', `17524561`);
+ga('set', 'dimension4', `2023-08-08 17:38:00`);
+ga('set', 'dimension5', `Transportation`);
+ga('set', 'dimension6', `Chris Perez`);
+ga('set', 'dimension7', `Articles`);
+ga('send', 'pageview');
+</script>
+
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({ 'event': 'set_page_dimensions', 'page_type': "Article", 'section_vertical': "News", 'object_id': "17524561", 'publish_date': "2023-08-08 17:38:00", 'topics': "Transportation", 'author': "Chris Perez" });
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-38TV');</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648850737115177" crossorigin="anonymous"></script>
+<script type="text/javascript">
+piAId = '867912';
+piCId = '106204';
+piHostname = 'g.westword.com';
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + piHostname + '/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+<script>
+!function(e,i){if(!e.pixie){var n=e.pixie=function(e,i,a){n.actionQueue.push({action:e,actionValue:i,params:a})};n.actionQueue=[];var a=i.createElement("script");a.async=!0,a.src="//acdn.adnxs.com/dmp/up/pixie.js";var t=i.getElementsByTagName("head")[0];t.insertBefore(a,t.firstChild)}}(window,document);
+pixie('init', '6af5fedf-5ea3-4da4-8d57-75ed950279cf');
+</script>
+
+<script>
+pixie('event', 'PageView');
+</script>
+<noscript><img src="https://ib.adnxs.com/pixie?pi=6af5fedf-5ea3-4da4-8d57-75ed950279cf&e=PageView&script=0" width="1" height="1" style="display:none"/></noscript>
+
+<script src="https://ak.sail-horizon.com/spm/spm.v1.min.js"></script>
+<script>
+var Foundation = window.Foundation || (window.Foundation = {});
+Foundation.SailthruSPM = window.Foundation.SailthruSPM || (window.Foundation.SailthruSPM = {});
+Foundation.SailthruSPM.Personalize = function(options) {
+const selector = options.selector;
+const data = options.data;
+const template = (typeof(options.template) === "function") ? options.template : (article) => `<li><a href="${article.url}" data-objid="${article.vars.objid}" title="${article.title}">${article.title}</a></li>`;
+if (!selector) {
+return;
+}
+else if (data.length == 0) {
+return;
+}
+const elements = document.querySelectorAll(selector);
+if (elements.length == 0) {
+return;
+}
+const articles = JSON.parse(data.json);
+const count = options.count ? options.count : articles.length;
+const html = articles.slice(0, count).map(template);
+elements.forEach(
+element => {
+if (!element.classList.contains("sailthruSPMLoaded")) {
+element.innerHTML = html.join('');
+element.classList.add("sailthruSPMLoaded");
+}
+}
+);
+}
+Sailthru.init({
+"isCustom": true,
+"customerId": "367258e600367400b0436227f3387ccc"
+});
+</script>
+
+
+
+
+
+<meta name="robots" content="max-image-preview:large" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta name="title" content="Denver Driving Instructor Crashes Into Driving School, Issued Ticket | Westword" />
+<meta name="description" content="&quot;Of course, with it being the driving school...The memes have been endless,&quot; says a Lakewood business owner, who caught the crash on surveillance video." />
+<meta name="keywords" content="driving school, driving instructor, lakewood, denver driving school, careless driving" />
+<title>Denver Driving Instructor Crashes Into Driving School, Issued Ticket | Westword</title>
+<meta name="date" content="2023-08-08 17:38:00" />
+<meta name="author" content="Chris Perez">
+<meta name="news_keywords" content="driving school, driving instructor, lakewood, denver driving school, careless driving" />
+<link rel="image_src" href="https://media2.westword.com/den/imager/u/slideshow/17524563/screenshot-2023-08-08-2.42.43-pm.png" />
+<meta name="thumbnail" content="https://media2.westword.com/den/imager/u/slideshow/17524563/screenshot-2023-08-08-2.42.43-pm.png" />
+<link rel="canonical" href="https://www.westword.com/news/denver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561" />
+<meta property="og:url" content="https://www.westword.com/news/denver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561" />
+<meta property="fb:app_id" content="174299864696240" />
+<meta property="og:site_name" content="Westword" />
+<meta property="og:title" content="Driving Instructor Crashes Into Lakewood Driving School, Cited for Careless Driving" />
+<meta property="og:image" content="https://media2.westword.com/den/imager/u/slideshow/17524563/screenshot-2023-08-08-2.42.43-pm.png" />
+<meta property="og:image:width" content="1524" />
+<meta property="og:image:height" content="1179" />
+<meta property="og:description" content="&quot;Of course, with it being the driving school...The memes have been endless,&quot; says a Lakewood business owner, who caught the crash on surveillance video." />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://media2.westword.com/den/imager/u/slideshow/17524563/screenshot-2023-08-08-2.42.43-pm.png">
+<meta name="twitter:site" content="@denverwestword">
+<meta name="twitter:title" content="Driving Instructor Crashes Into Lakewood Driving School, Cited for Careless Driving">
+<meta name="twitter:description" content="&quot;Of course, with it being the driving school...The memes have been endless,&quot; says a Lakewood business owner, who caught the crash on surveillance video.">
+
+<script type="application/ld+json">
+{
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id":"https://www.westword.com/news/denver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561"
+},
+"headline": "Driving Instructor Crashes Into Lakewood Driving School, Cited for Careless Driving",
+"description": "\"Of course, with it being the driving school...The memes have been endless,\" says a Lakewood business owner, who caught the crash on surveillance video.",
+"image": {
+"url": "https://media2.westword.com/den/imager/u/original/17524563/screenshot-2023-08-08-2.42.43-pm.png",
+"width": 707,
+"height": 547,
+"@type": "ImageObject"
+},
+"datePublished": "2023-08-08T17:38:00",
+"dateModified": "2023-08-08T19:00:42",
+"author": {
+"name": "Chris Perez",
+"url": "https://www.westword.com/author/chris-perez",
+"@type": "Person"
+},
+"publisher": {
+"name": "Westword",
+"logo": {
+"url": "https://www.westword.com/imager/b/square2x/808579/49ca/DEN_1320x825-100.jpg",
+"width": 200,
+"height": 200,
+"@type": "ImageObject"
+},
+"@type": "Organization"
+},
+"@context": "https://schema.org",
+"@type": "NewsArticle"
+}
+</script>
+<script>window.twttr = (function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0],
+t = window.twttr || {};
+if (d.getElementById(id)) return t;
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+t._e = [];
+t.ready = function(f) {
+t._e.push(f);
+};
+return t;
+}(document, "script", "twitter-wjs"));</script>
+<script>jQuery(window).on('beforeprint',()=>{jQuery(`img[loading]`).each((index,item)=>{item.removeAttribute(`loading`);});});</script>
+</head>
+<script src="/fdn-system/assets/pub/scripts/ResizeSensor.js"></script>
+<script src="/fdn-system/assets/pub/scripts/ElementQueries.js" defer></script>
+<script>
+jQuery(function () {
+ElementQueries.listen();
+});
+</script>
+<body id="Content" class="ContentDefault den fdn-redesign latestword news RespOneCol">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-38TV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="fdn-navigation-dropdown-hook" style="width:100%;height:0;position:fixed;"></div>
+<script>
+jQuery(function () {
+ElementQueries.init();
+});
+</script>
+<div id="fb-root"></div>
+<script>
+(function () {
+var app = new Foundation.Facebook.Application();
+app.receiveAuthNotifications();
+app.receiveLikeNotifications();
+})();
+</script>
+<script>
+(function () {
+var googAuth = Foundation.Google.loadGoogleOauth().then(function(){
+//if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth initialized.")
+}.bind(this), function(){
+if(window.console) console.log("Foundation.Google.loadGoogleOauth OAuth didn't init.")
+})
+})()
+</script>
+<div id="ContentDefault" class="grid-resp-1 page layout-ContentDefault">
+<div class="ev-grid-layout ev-clamp@m ev-clamp@l">
+<div class="ev-grid-zone ev-leader-zone">
+<div class="ev-grid-col uk-width-1-1" data-ev-zone="Leader">
+<div class="Leader ContentDefault  uk-margin-remove comp-shell-siteglobalheader uk-root fdn-margin-vert SiteGlobalHeader comp-shell-siteglobalheader" data-component-id="SiteGlobalHeader">
+<style>
+.uk-root #Home,
+.uk-root #Content,
+.uk-root #Section,
+.uk-root body[class*="RestaurantGuide"] {
+--site-width: 1400px;
+}
+.uk-root body {
+--site-width: 1098px;
+}
+/*
+.uk-root .fdn-redesign .ev-grid-layout {
+max-width: 100%;
+box-shadow:none;
+}
+.uk-root .fdn-redesign .ev-grid-layout > div {
+max-width: var(--site-width);
+}
+.uk-root .fdn-redesign .ev-grid-layout > .ev-grid-zone.ev-closer-zone,
+.uk-root .fdn-redesign .ev-grid-layout > .ev-grid-zone.ev-leader-zone {
+max-width: 100%;
+}
+.uk-root .fdn-redesign .ev-grid-layout > .ev-grid-zone.ev-closer-zone .ev-grid-col,
+.uk-root .fdn-redesign .ev-grid-layout > .ev-grid-zone.ev-leader-zone .ev-grid-col {
+padding: 0;
+}
+*/
+.uk-root .fdn-redesign div#offcanvas-slide-navigation {
+top: 0;
+}
+.uk-root .fdn-redesign div#offcanvas-slide-navigation::before {
+background: #000000c9;
+}
+</style>
+<div class="uk-flex uk-flex-center uk-flex-middle fdn-site-header-ad-block">
+<style>
+[apn-fixed-size-hook="billboard"] {
+background-color:#EEEEEE;
+width: 320px;
+height: 100px;
+}
+@media (min-width: 760px) {
+[apn-fixed-size-hook="billboard"] {
+width: 728px;
+height: 90px;
+}
+}
+@media (min-width: 990px) {
+[apn-fixed-size-hook="billboard"] {
+width: 970px;
+height: 250px;
+}
+}
+</style>
+<div apn-ad-hook="billboard" display-targets="desktop|tablet|mobile" apn-fixed-size-hook="billboard">
+<script>
+if (typeof apntag === 'object') {
+apntag.anq.push(function() {
+if (typeof Foundation.ApnAds.fillAds === 'function') {
+Foundation.ApnAds.fillAds()
+}
+})
+}
+</script>
+</div>
+</div>
+<div uk-sticky>
+<div class="fdn-site-header-flex uk-flex uk-flex-wrap uk-child-width-1-3@sm">
+<div class="fdn-site-header-social-icons-block uk-visible@sm">
+<div class="fdn-site-header-social-icons" uk-grid>
+<div><a class="fdn-site-header-social-icon-facebook" href="https://www.facebook.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Facebook')" target="_blank" rel="nofollow"><span>facebook</span></a></div>
+<div><a class="fdn-site-header-social-icon-twitter" href="https://twitter.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Twitter')" target="_blank" rel="nofollow"><span>twitter</span></a></div>
+<div><a class="fdn-site-header-social-icon-instagram" href="https://instagram.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Instagram')" target="_blank" rel="nofollow"><span>instagram</span></a></div>
+<div><a class="fdn-site-header-social-icon-tiktok" href="https://www.tiktok.com/@denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'TikTok')" target="_blank" rel="nofollow"><span>tiktok</span></a></div>
+<div><a class="fdn-site-header-social-icon-linkedin" href="https://www.linkedin.com/company/denver-westword-llc/" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Linked In')" target="_blank" rel="nofollow"><span>linkedin</span></a></div>
+<div><a class="fdn-site-header-social-icon-threads" href="https://www.threads.net/@denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Threads')" target="_blank" rel="nofollow"><span>threads</span></a></div>
+</div>
+</div>
+<div class="fdn-site-header-nav-toggle-narrow uk-flex-first uk-hidden@sm">
+<a href="#offcanvas-slide-navigation" class="fdn-nav-toggle uk-button" uk-toggle>
+<span>Navigation</span><i class="fal fa-bars fa-2x"></i>
+</a>
+<div id="offcanvas-slide-navigation" uk-offcanvas="overlay: true">
+<div id="site-nav-target" class="fdn-site-global-header-offcanvas fdn-nav-panel-block uk-offcanvas-bar">
+<div class="fdn-off-canvas-close-block uk-position-relative">
+<a class="fdn-off-canvas-close-link uk-offcanvas-close" href="#"><img alt="close" width="22" height="22" src="/images/air/circle-xmark-sharp-solid.svg"></a>
+</div>
+<div class="fdn-offcanvas-search-block">
+<form action="https://www.westword.com/denver/Search" method="get">
+<div class="fdn-site-header-search-wrap">
+<input type="text" name="keywords" autocomplete="off" type="search" class="fdn-site-header-search-input" placeholder="search">
+<button class="fdn-site-header-search-submit" type="submit">
+<img height="28" width="28" src="/images/air/search-short.svg" alt="Search">
+</button>
+</div>
+</form>
+</div>
+<ul class="site-nav-source uk-width-1-1 uk-nav uk-nav-parent-icon" uk-nav="multiple: true; toggle: .fdn-nav-parent-flex-button">
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-news">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/news" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;News&quot;)" target="_self">News</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class="fdn-latest-link" href="https://www.westword.com/news" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest News&quot;)" target="_self" title>Latest News</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/business-6206399" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Business&quot;)" target="_self" title>Business</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/colorado-history-6206458" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Colorado History&quot;)" target="_self" title>Colorado History</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/crime-6206396" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Crime&quot;)" target="_self" title>Crime</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/education-6206402" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Education&quot;)" target="_self" title>Education</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/environment-6206453" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Environment&quot;)" target="_self" title>Environment</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/government-11852872" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Government&quot;)" target="_self" title>Government</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/politics-6206398" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Politics&quot;)" target="_self" title>Politics</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/social-justice-11852873" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Social Justice&quot;)" target="_self" title>Social Justice</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/sports-6206366" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Sports&quot;)" target="_self" title>Sports</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/transportation-11280191" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Transportation&quot;)" target="_self" title>Transportation</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-restaurants">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Food & Drink&quot;)" target="_self">Food & Drink</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class="fdn-latest-link" href="https://www.westword.com/restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Food & Drink&quot;)" target="_self" title>Latest Food & Drink</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/beer-14226593" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Beer&quot;)" target="_self" title>Beer</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/food-news-6303064" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Food News&quot;)" target="_self" title>Food News</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/openings-and-closings-6206394" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Openings & Closings&quot;)" target="_self" title>Openings & Closings</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/guide/denver-restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Restaurant Guide&quot;)" target="_self" title>Restaurant Guide</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/guide/best-denver-bars" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Top 100 Bars&quot;)" target="_self" title>Top 100 Bars</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/guide/best-denver-restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Top 100 Restaurants&quot;)" target="_self" title>Top 100 Restaurants</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/recipes" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Recipes: Presented by FamilystyleFood&quot;)" target="_self" title>Recipes: Presented by FamilystyleFood</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-arts">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/arts" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Arts & Culture&quot;)" target="_self">Arts & Culture</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class="fdn-latest-link" href="https://www.westword.com/arts" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Arts & Culture&quot;)" target="_self" title>Latest Arts & Culture</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/literature-6206418" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Literature&quot;)" target="_self" title>Literature</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/outdoors-6206421" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Outdoors&quot;)" target="_self" title>Outdoors</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/theater-6206420" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Theater&quot;)" target="_self" title>Theater</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/visual-arts-6206419" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Visual Arts&quot;)" target="_self" title>Visual Arts</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-music">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/music" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Music&quot;)" target="_self">Music</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class="fdn-latest-link" href="https://www.westword.com/music" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Music&quot;)" target="_self" title>Latest Music</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/concerts-6206427" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Concerts&quot;)" target="_self" title>Concerts</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/denver/EventSearch?eventSection=2202977&feature=Concert&sortType=date&v=g" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Concert Calendar&quot;)" target="_self" title>Concert Calendar</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-marijuana">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/marijuana" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Cannabis&quot;)" target="_self">Cannabis</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class="fdn-latest-link" href="https://www.westword.com/marijuana" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Cannabis&quot;)" target="_self" title>Latest Cannabis</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/ask-a-stoner-6292564" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Ask a Stoner&quot;)" target="_self" title>Ask a Stoner</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/guide/denver-marijuana-dispensaries/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Dispensary Guide&quot;)" target="_self" title>Dispensary Guide</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/marijuana/laws" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Colorado Cannabis Laws&quot;)" target="_self" title>Colorado Cannabis Laws</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/psychedelics-15654288" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Psychedelics&quot;)" target="_self" title>Psychedelics</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/strain-reviews-7027103" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Strain Reviews&quot;)" target="_self" title>Strain Reviews</a></li>
+<li class="fdn-nav-item"><a class="findweed" href="https://weedmaps.com/products?utm_medium=paidmedia&utm_source=westword&utm_campaign=2023&utm_content=products&utm_term=CO" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Find Weed - Presented by Weedmaps&quot;)" target="_blank" title="Find Weed">Find Weed - Presented by Weedmaps</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-thingstodo">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/things-to-do" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Things To Do&quot;)" target="_self">Things To Do</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class href="https://www.westword.com/denver/EventSearch?narrowByDate=today&sortType=date&v=g" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Calendar&quot;)" target="_self" title>Calendar</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/topic/lists-6206393" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Lists&quot;)" target="_self" title>Lists</a></li>
+<li class="fdn-nav-item"><a class href="https://www.burgerweekdenver.com/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Burger Week&quot;)" target="_blank" title>Westword Burger Week</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westwordfeast.com/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Feast&quot;)" target="_blank" title>Westword Feast</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westwordouttobrunch.com/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Out to Brunch&quot;)" target="_blank" title>Westword Out to Brunch</a></li>
+<li class="fdn-nav-item"><a class href="https://www.pizzaweekdenver.com" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Pizza Week&quot;)" target="_blank" title>Westword Pizza Week</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westwordtacolandia.com" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Tacolandia&quot;)" target="_blank" title>Westword Tacolandia</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-bestof">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/best-of" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Best of Denver&quot;)" target="_self">Best of Denver</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class href="https://www.westword.com/best-of/2023/arts-and-entertainment" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Arts & Entertainment&quot;)" target="_self" title>Arts & Entertainment</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/best-of/2023/cannabis-and-more" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Cannabis & More&quot;)" target="_self" title>Cannabis & More</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/best-of/2023/food-and-drink" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Food & Drink&quot;)" target="_self" title>Food & Drink</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/best-of/2023/music-and-venues" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Music & Venues&quot;)" target="_self" title>Music & Venues</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/best-of/2023/shopping-and-services" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Shopping & Services&quot;)" target="_self" title>Shopping & Services</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/best-of/2023/readers-choice" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Readers" Choice")' target="_self" title>Readers' Choice</a></li>
+</ul>
+</li>
+<li class="fdn-nav-parent " id="offcanvas-Newsletters">
+<a href="https://www.westword.com/profile" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Newsletters&quot;)" target="_self">Newsletters</a>
+</li>
+<li class="fdn-nav-parent-flex uk-parent " id="offcanvas-more">
+<div class="uk-flex fdn-nav-parent-flex-links">
+<a class="fdn-nav-parent-flex-name" href="https://www.westword.com/about" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;More&quot;)" target="_self">More</a>
+<a class="fdn-nav-parent-flex-button" href="#"><span class="uk-icon"><i class="far fa-chevron-left"></i></span></a>
+</div>
+<ul class="fdn-nav-list uk-nav-sub">
+<li class="fdn-nav-item"><a class href="https://www.westword.com/advertise" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Advertise with Us&quot;)" target="_self" title>Advertise with Us</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/about/careers" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Careers&quot;)" target="_self" title>Careers</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/about/contact" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Contact Us&quot;)" target="_self" title>Contact Us</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/about/flipbooks" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Flipbook Archive&quot;)" target="_self" title>Flipbook Archive</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/promotions" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Promotions & Free Stuff&quot;)" target="_self" title>Promotions & Free Stuff</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/about/staff" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Staff&quot;)" target="_self" title>Staff</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/support" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Support Westword&quot;)" target="_self" title>Support Westword</a></li>
+<li class="fdn-nav-item"><a class href="https://www.westword.com/about/circulation" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Where To Find Westword In Print&quot;)" target="_self" title>Where To Find Westword In Print</a></li>
+</ul>
+</li>
+</ul>
+<script>
+(() => {
+const navigationElement = jQuery(`#offcanvas-slide-navigation ul.site-nav-source`);
+const sectionSelector = `[id^="offcanvas-"]`;
+const sectionId = `offcanvas-news`;
+navigationElement.find(`${sectionSelector}`).each(function (index, item) {
+const currentElement = jQuery(item);
+const isSectionFocus = currentElement.attr('id') === sectionId;
+if (jQuery(item).hasClass('uk-open')) {
+if (!isSectionFocus) {
+UIkit.nav(navigationElement).toggle(item);
+}
+}
+else if (isSectionFocus) {
+UIkit.nav(navigationElement).toggle(item);
+}
+});
+})();
+</script>
+<div class="fdn-site-header-social-icons" uk-grid>
+<div><a class="fdn-site-header-social-icon-facebook" href="https://www.facebook.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Facebook')" target="_blank" rel="nofollow"><span>facebook</span></a></div>
+<div><a class="fdn-site-header-social-icon-twitter" href="https://twitter.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Twitter')" target="_blank" rel="nofollow"><span>twitter</span></a></div>
+<div><a class="fdn-site-header-social-icon-instagram" href="https://instagram.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Instagram')" target="_blank" rel="nofollow"><span>instagram</span></a></div>
+<div><a class="fdn-site-header-social-icon-tiktok" href="https://www.tiktok.com/@denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'TikTok')" target="_blank" rel="nofollow"><span>tiktok</span></a></div>
+<div><a class="fdn-site-header-social-icon-linkedin" href="https://www.linkedin.com/company/denver-westword-llc/" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Linked In')" target="_blank" rel="nofollow"><span>linkedin</span></a></div>
+<div><a class="fdn-site-header-social-icon-threads" href="https://www.threads.net/@denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Threads')" target="_blank" rel="nofollow"><span>threads</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fdn-site-header-logo">
+<div><a class="uk-logo" href="https://www.westword.com/" title="Westword"><img width="265" height="71" src="https://www.westword.com/images/den-main-logo.svg" alt="Westword"></a></div>
+</div>
+<div class="uk-flex uk-flex-middle uk-flex-right site-header-tools-block" uk-grid>
+<div class="fdn-site-header-text-block">
+<div class="uk-flex uk-flex-wrap uk-flex-middle">
+<a class="uk-width-auto fdn-site-header-support-button" href="https://www.westword.com/support?utm_source=website&utm_medium=support+button&utm_campaign=supportbutton" onclick="ga('send', 'event', 'VMG-Widget', 'Click', 'News-VMG-ISupport-Header',  {'NonInteraction': 1});">Support Us</a>
+</div>
+</div>
+<div class="uk-flex uk-flex-middle fdn-site-header-login-block">
+<style>
+.pelcro-login-button,
+.pelcro-logout-button,
+.pelcro-register-button,
+.pelcro-subscribe-button,
+.pelcro-update-newsletters-button {
+cursor: pointer; padding: 10px 0;
+}
+</style>
+<a class="uk-margin-remove uk-button"><i class="fas fa-lg fa-user"></i></a>
+<div class="uk-padding-small" uk-dropdown="mode:click">
+<ul class="uk-nav uk-nav-default uk-dropdown-nav">
+<li class="pelcro-logged-in uk-nav-header">Welcome,<br/><span class="pelcro-user-name">Insider</span></li>
+<li class="pelcro-logged-out"><span class="pelcro-login-button" data-vmgs-psource="Toolbar|News" data-vmgs-section="News">Login</span></li>
+<li class="pelcro-logged-in"><a href="/profile">My Account</a></li>
+<li class="pelcro-logged-in"><a href="/profile">My Newsletters</a></li>
+<li class><a href="/contribute">Contribute</a></li>
+<li class><a href="/about/contact">Contact Us</a></li>
+<li class="pelcro-logged-in pelcro-logout-button"><span>Sign out</span></li>
+</ul>
+</div>
+</div>
+<script>jQuery(document).on('PelcroUserLogout', function (e) { window.location.reload(); });</script>
+<a href="#" class="uk-visible@sm fdn-site-header-search-dropdown-button" uk-toggle="target:#fdn-site-header-search-dropdown">
+<span class="fdn-site-header-search-dropdown-text">Search</span>
+</a>
+</div>
+</div>
+<div class="uk-flex-none uk-width-1-1 uk-visible@sm site-header-navigation-horizontal">
+<nav class="uk-navbar-container" uk-navbar>
+<ul class="uk-width-1-1 uk-flex-center uk-navbar-nav">
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/news" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;News&quot;)" target="_self">News</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-latest-link"><a href="https://www.westword.com/news" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest News&quot;)" target="_self" title>Latest News</a></li>
+<li class><a href="https://www.westword.com/topic/business-6206399" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Business&quot;)" target="_self" title>Business</a></li>
+<li class><a href="https://www.westword.com/topic/colorado-history-6206458" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Colorado History&quot;)" target="_self" title>Colorado History</a></li>
+<li class><a href="https://www.westword.com/topic/crime-6206396" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Crime&quot;)" target="_self" title>Crime</a></li>
+<li class><a href="https://www.westword.com/topic/education-6206402" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Education&quot;)" target="_self" title>Education</a></li>
+<li class><a href="https://www.westword.com/topic/environment-6206453" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Environment&quot;)" target="_self" title>Environment</a></li>
+<li class><a href="https://www.westword.com/topic/government-11852872" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Government&quot;)" target="_self" title>Government</a></li>
+<li class><a href="https://www.westword.com/topic/politics-6206398" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Politics&quot;)" target="_self" title>Politics</a></li>
+<li class><a href="https://www.westword.com/topic/social-justice-11852873" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Social Justice&quot;)" target="_self" title>Social Justice</a></li>
+<li class><a href="https://www.westword.com/topic/sports-6206366" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Sports&quot;)" target="_self" title>Sports</a></li>
+<li class><a href="https://www.westword.com/topic/transportation-11280191" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Transportation&quot;)" target="_self" title>Transportation</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Food & Drink&quot;)" target="_self">Food & Drink</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-latest-link"><a href="https://www.westword.com/restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Food & Drink&quot;)" target="_self" title>Latest Food & Drink</a></li>
+<li class><a href="https://www.westword.com/topic/beer-14226593" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Beer&quot;)" target="_self" title>Beer</a></li>
+<li class><a href="https://www.westword.com/topic/food-news-6303064" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Food News&quot;)" target="_self" title>Food News</a></li>
+<li class><a href="https://www.westword.com/topic/openings-and-closings-6206394" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Openings & Closings&quot;)" target="_self" title>Openings & Closings</a></li>
+<li class><a href="https://www.westword.com/guide/denver-restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Restaurant Guide&quot;)" target="_self" title>Restaurant Guide</a></li>
+<li class><a href="https://www.westword.com/guide/best-denver-bars" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Top 100 Bars&quot;)" target="_self" title>Top 100 Bars</a></li>
+<li class><a href="https://www.westword.com/guide/best-denver-restaurants" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Top 100 Restaurants&quot;)" target="_self" title>Top 100 Restaurants</a></li>
+<li class><a href="https://www.westword.com/recipes" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Recipes: Presented by FamilystyleFood&quot;)" target="_self" title>Recipes: Presented by FamilystyleFood</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/arts" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Arts & Culture&quot;)" target="_self">Arts & Culture</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-latest-link"><a href="https://www.westword.com/arts" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Arts & Culture&quot;)" target="_self" title>Latest Arts & Culture</a></li>
+<li class><a href="https://www.westword.com/topic/literature-6206418" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Literature&quot;)" target="_self" title>Literature</a></li>
+<li class><a href="https://www.westword.com/topic/outdoors-6206421" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Outdoors&quot;)" target="_self" title>Outdoors</a></li>
+<li class><a href="https://www.westword.com/topic/theater-6206420" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Theater&quot;)" target="_self" title>Theater</a></li>
+<li class><a href="https://www.westword.com/topic/visual-arts-6206419" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Visual Arts&quot;)" target="_self" title>Visual Arts</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/music" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Music&quot;)" target="_self">Music</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-latest-link"><a href="https://www.westword.com/music" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Music&quot;)" target="_self" title>Latest Music</a></li>
+<li class><a href="https://www.westword.com/topic/concerts-6206427" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Concerts&quot;)" target="_self" title>Concerts</a></li>
+<li class><a href="https://www.westword.com/denver/EventSearch?eventSection=2202977&feature=Concert&sortType=date&v=g" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Concert Calendar&quot;)" target="_self" title>Concert Calendar</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/marijuana" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Cannabis&quot;)" target="_self">Cannabis</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class="fdn-latest-link"><a href="https://www.westword.com/marijuana" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Latest Cannabis&quot;)" target="_self" title>Latest Cannabis</a></li>
+<li class><a href="https://www.westword.com/topic/ask-a-stoner-6292564" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Ask a Stoner&quot;)" target="_self" title>Ask a Stoner</a></li>
+<li class><a href="https://www.westword.com/guide/denver-marijuana-dispensaries/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Dispensary Guide&quot;)" target="_self" title>Dispensary Guide</a></li>
+<li class><a href="https://www.westword.com/marijuana/laws" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Colorado Cannabis Laws&quot;)" target="_self" title>Colorado Cannabis Laws</a></li>
+<li class><a href="https://www.westword.com/topic/psychedelics-15654288" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Psychedelics&quot;)" target="_self" title>Psychedelics</a></li>
+<li class><a href="https://www.westword.com/topic/strain-reviews-7027103" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Strain Reviews&quot;)" target="_self" title>Strain Reviews</a></li>
+<li class="findweed"><a href="https://weedmaps.com/products?utm_medium=paidmedia&utm_source=westword&utm_campaign=2023&utm_content=products&utm_term=CO" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Find Weed - Presented by Weedmaps&quot;)" target="_blank" title="Find Weed">Find Weed - Presented by Weedmaps</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/things-to-do" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Things To Do&quot;)" target="_self">Things To Do</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class><a href="https://www.westword.com/denver/EventSearch?narrowByDate=today&sortType=date&v=g" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Calendar&quot;)" target="_self" title>Calendar</a></li>
+<li class><a href="https://www.westword.com/topic/lists-6206393" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Lists&quot;)" target="_self" title>Lists</a></li>
+<li class><a href="https://www.burgerweekdenver.com/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Burger Week&quot;)" target="_blank" title>Westword Burger Week</a></li>
+<li class><a href="https://www.westwordfeast.com/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Feast&quot;)" target="_blank" title>Westword Feast</a></li>
+<li class><a href="https://www.westwordouttobrunch.com/" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Out to Brunch&quot;)" target="_blank" title>Westword Out to Brunch</a></li>
+<li class><a href="https://www.pizzaweekdenver.com" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Pizza Week&quot;)" target="_blank" title>Westword Pizza Week</a></li>
+<li class><a href="https://www.westwordtacolandia.com" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Westword Tacolandia&quot;)" target="_blank" title>Westword Tacolandia</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/best-of" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Best of Denver&quot;)" target="_self">Best of Denver</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class><a href="https://www.westword.com/best-of/2023/arts-and-entertainment" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Arts & Entertainment&quot;)" target="_self" title>Arts & Entertainment</a></li>
+<li class><a href="https://www.westword.com/best-of/2023/cannabis-and-more" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Cannabis & More&quot;)" target="_self" title>Cannabis & More</a></li>
+<li class><a href="https://www.westword.com/best-of/2023/food-and-drink" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Food & Drink&quot;)" target="_self" title>Food & Drink</a></li>
+<li class><a href="https://www.westword.com/best-of/2023/music-and-venues" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Music & Venues&quot;)" target="_self" title>Music & Venues</a></li>
+<li class><a href="https://www.westword.com/best-of/2023/shopping-and-services" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Shopping & Services&quot;)" target="_self" title>Shopping & Services</a></li>
+<li class><a href="https://www.westword.com/best-of/2023/readers-choice" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Readers" Choice")' target="_self" title>Readers' Choice</a></li>
+</ul>
+</div>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/profile" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Newsletters&quot;)" target="_self">Newsletters</a>
+</li>
+<li class="fdn-site-header-nav-parent ">
+<a href="https://www.westword.com/about" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;More&quot;)" target="_self">More</a>
+<div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-center">
+<ul class="uk-nav uk-navbar-dropdown-nav">
+<li class><a href="https://www.westword.com/advertise" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Advertise with Us&quot;)" target="_self" title>Advertise with Us</a></li>
+<li class><a href="https://www.westword.com/about/careers" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Careers&quot;)" target="_self" title>Careers</a></li>
+<li class><a href="https://www.westword.com/about/contact" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Contact Us&quot;)" target="_self" title>Contact Us</a></li>
+<li class><a href="https://www.westword.com/about/flipbooks" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Flipbook Archive&quot;)" target="_self" title>Flipbook Archive</a></li>
+<li class><a href="https://www.westword.com/promotions" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Promotions & Free Stuff&quot;)" target="_self" title>Promotions & Free Stuff</a></li>
+<li class><a href="https://www.westword.com/about/staff" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Staff&quot;)" target="_self" title>Staff</a></li>
+<li class><a href="https://www.westword.com/support" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Support Westword&quot;)" target="_self" title>Support Westword</a></li>
+<li class><a href="https://www.westword.com/about/circulation" onclick="ga(&quot;send&quot;, &quot;event&quot;, &quot;Nav&quot;, &quot;Click&quot;, &quot;Where To Find Westword In Print&quot;)" target="_self" title>Where To Find Westword In Print</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+<div id="fdn-site-header-search-dropdown" aria-expanded hidden>
+<div class="uk-position-relative fdn-site-header-search-dropdown-block">
+<div class="uk-position-relative fdn-site-header-search-dropdown-wrap">
+<a href="#" class="fdn-site-header-search-dropdown-close" uk-toggle="#fdn-site-header-search-dropdown"><i class="fas fa-lg fa-times-circle"></i></a>
+<form action="https://www.westword.com/denver/Search" method="get">
+<div class="fdn-site-header-search-wrap">
+<input type="text" name="keywords" autocomplete="off" type="search" class="fdn-site-header-search-input" placeholder="search">
+<button class="fdn-site-header-search-submit" type="submit">
+<img height="28" width="28" src="/images/air/search-short.svg" alt="Search">
+</button>
+</div>
+</form>
+</div>
+</div>
+<div class="fdn-site-header-search-dropdown-overlay"></div>
+</div>
+<script>
+UIkit.util.on('#fdn-site-header-search-dropdown', 'show', () => {
+jQuery('.fdn-site-header-search-dropdown-button').addClass('uk-active');
+});
+UIkit.util.on('#fdn-site-header-search-dropdown', 'hide', () => {
+jQuery('.fdn-site-header-search-dropdown-button').removeClass('uk-active');
+});
+</script>
+</div>
+<script>
+jQuery(window).on('beforeprint', () => {
+jQuery(`img[loading]`).each((index, item) => { item.removeAttribute(`loading`); });
+});
+</script>
+</div>
+</div>
+</div>
+<div class="ev-grid-zone ev-header-zone">
+<div class="ev-grid-col uk-width-1-1" data-ev-zone="GlobalHeader">
+</div>
+</div>
+<div class="ev-grid-zone ev-primary-zone">
+<div class="ev-grid-col fdn-grid-main-single fdn-primary" data-ev-zone="MainTop">
+<div class="ZoneA ContentDefault  uk-margin-remove uk-root fdn-margin-vert ContentHeader comp-content-contentheader" data-component-id="ContentHeader">
+<div class="fdn-content-header">
+<h4 class="fdn-content-topic"><a href="https://www.westword.com/topic/transportation-11280191">Transportation</a></h4>
+<div class="uk-position-relative uk-visible-toggle">
+<div class="uk-hidden-hover uk-position-top-right uk-padding-xsmall uk-position-absolute">
+</div>
+<h1 class="fdn-content-headline">Driving Instructor Crashes Into Lakewood Driving School, Cited for Careless Driving</h1>
+</div>
+<div class="fdn-content-subheadline">"Of course, with it being the driving school...The memes have been endless," says a Lakewood business owner, who caught the crash on surveillance video.</div>
+<div class="fdn-content-infoline uk-grid-divider uk-grid-small" uk-grid>
+<div>By <a href="https://www.westword.com/author/chris-perez" rel="author">Chris Perez</a></div>
+<div>August 8, 2023</div>
+</div>
+</div>
+<div class="fdn-content-header-image-block">
+<img src="https://media2.westword.com/den/imager/driving-instructor-crashes-into-lakewood-driving-school-cited-for-careless-driving/u/magnum/17524563/screenshot-2023-08-08-2.42.43-pm.png?cb=1691537637" alt="The crash happened around 9 a.m. August 8 at the Community Driving School in Lakewood at 2099 Wadsworth Boulevard." width="1320" height="1021" />
+<div class="fdn-caption-block uk-flex uk-flex-middle uk-flex-row">
+<span class="fdn-image-caption">The crash happened around 9 a.m. August 8 at the Community Driving School in Lakewood at 2099 Wadsworth Boulevard.</span>
+<span class="fdn-image-credit">Anastasia Walfred</span>
+</div>
+</div>
+</div>
+<div class="ZoneA ContentDefault   uk-root fdn-margin-vert ContentShareTools comp-content-contentsharetools" data-component-id="ContentShareTools">
+<div class="uk-width-1-1 uk-flex uk-flex-row uk-flex-middle uk-flex-left uk-grid-small fdn-content-multi-row-share-tools-small " uk-grid>
+<div>
+Share this:
+</div>
+<div fdn-share-button-facebook>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&redirect_uri=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&app_id=174299864696240" onClick="window.open('https://www.facebook.com/sharer/sharer.php?u=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&redirect_uri=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&app_id=174299864696240','_blank','resizable,height=700,width=600'); return false;" target="_blank" uk-tooltip="title: Share on Facebook" aria-expanded="false">
+<span class="uk-icon-button fdn-icon-button-smaller uk-icon" uk-icon="icon:facebook; ratio: .77"><svg width="15.4" height="15.4" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="facebook"><path d="M11,10h2.6l0.4-3H11V5.3c0-0.9,0.2-1.5,1.5-1.5H14V1.1c-0.3,0-1-0.1-2.1-0.1C9.6,1,8,2.4,8,5v2H5.5v3H8v8h3V10z"></path></svg></span>
+</a>
+</div>
+<script> dnLoadScript("https://platform.twitter.com/widgets.js", true); </script>
+<div class fdn-share-button-twitter>
+<a href="https://twitter.com/intent/tweet?url=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&redirect_uri=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&text=Driving%20Instructor%20Crashes%20Into%20Lakewood%20Driving%20School%2C%20Cited%20for%20Careless%20Driving" onClick="window.open('https://twitter.com/intent/tweet?url=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&redirect_uri=https:%2F%2Fwww.westword.com%2Fnews%2Fdenver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561&text=Driving%20Instructor%20Crashes%20Into%20Lakewood%20Driving%20School%2C%20Cited%20for%20Careless%20Driving','_blank','resizable,height=700,width=600'); return false;" uk-tooltip="title: Share on Twitter" aria-expanded="false">
+<span class="uk-icon-button fdn-icon-button-smaller uk-icon" uk-icon="icon:twitter; ratio: .77"><svg width="15.4" height="15.4" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="twitter"><path d="M19,4.74 C18.339,5.029 17.626,5.229 16.881,5.32 C17.644,4.86 18.227,4.139 18.503,3.28 C17.79,3.7 17.001,4.009 16.159,4.17 C15.485,3.45 14.526,3 13.464,3 C11.423,3 9.771,4.66 9.771,6.7 C9.771,6.99 9.804,7.269 9.868,7.539 C6.795,7.38 4.076,5.919 2.254,3.679 C1.936,4.219 1.754,4.86 1.754,5.539 C1.754,6.82 2.405,7.95 3.397,8.61 C2.79,8.589 2.22,8.429 1.723,8.149 L1.723,8.189 C1.723,9.978 2.997,11.478 4.686,11.82 C4.376,11.899 4.049,11.939 3.713,11.939 C3.475,11.939 3.245,11.919 3.018,11.88 C3.49,13.349 4.852,14.419 6.469,14.449 C5.205,15.429 3.612,16.019 1.882,16.019 C1.583,16.019 1.29,16.009 1,15.969 C2.635,17.019 4.576,17.629 6.662,17.629 C13.454,17.629 17.17,12 17.17,7.129 C17.17,6.969 17.166,6.809 17.157,6.649 C17.879,6.129 18.504,5.478 19,4.74"></path></svg></span>
+</a>
+</div>
+<div class fdn-share-button-email>
+<a href="/cdn-cgi/l/email-protection#dfe0acaabdb5babcabe288baacaba8b0adbbfaec9efaedef9badb6a9b6b1b8faedef96b1acabadaabcabb0adfaedef9cadbeacb7baacfaedef96b1abb0faedef93beb4baa8b0b0bbfaedef9badb6a9b6b1b8faedef8cbcb7b0b0b3faed9cfaedef9cb6abbabbfaedefb9b0adfaedef9cbeadbab3baacacfaedef9badb6a9b6b1b8f9bdb0bba6e2faef9efaef9e9badb6a9b6b1b8faedef96b1acabadaabcabb0adfaedef9cadbeacb7baacfaedef96b1abb0faedef93beb4baa8b0b0bbfaedef9badb6a9b6b1b8faedef8cbcb7b0b0b3faed9cfaedef9cb6abbabbfaedefb9b0adfaedef9cbeadbab3baacacfaedef9badb6a9b6b1b8faef9efaef9eb7ababaface5f0f0a8a8a8f1a8baacaba8b0adbbf1bcb0b2f0b1baa8acf0bbbab1a9baadf2bbadb6a9b6b1b8f2b6b1acabadaabcabb0adf2bcadbeacb7baacf2b6b1abb0f2bbadb6a9b6b1b8f2acbcb7b0b0b3f2b6acacaababbf2abb6bcb4baabf2eee8eaedebeae9eefaef9efaef9efaef9e" onclick="mailto:?subject=Westword%3A%20Driving%20Instructor%20Crashes%20Into%20Lakewood%20Driving%20School%2C%20Cited%20for%20Careless%20Driving&body=%0A%0ADriving%20Instructor%20Crashes%20Into%20Lakewood%20Driving%20School%2C%20Cited%20for%20Careless%20Driving%0A%0Ahttps://www.westword.com/news/denver-driving-instructor-crashes-into-driving-school-issued-ticket-17524561%0A%0A%0A" uk-tooltip="title: Share via Email" aria-expanded="false" rel="nofollow">
+<i class="fal fa-envelope fa-lg"></i>
+</a>
+</div>
+</div>
+</div>
+<pre debug hidden>[
+        {
+          "name": "Editor Picks",
+          "component": "17242653",
+          "insertPoint": "4",
+          "requiredCountToDisplay": "1"
+        },{
+          "name": "Air - MediumRectangle - Combo - Inline Content",
+          "component": "17261320",
+          "insertPoint": "8th",
+          "startingPoint": 8,
+          "requiredCountToDisplay": "7",
+          "maxInsertions": 25
+        },{
+          "name": "Air - Leaderboard Tower - Combo - Inline Content",
+          "component": "17261321",
+          "insertPoint": "8th",
+          "startingPoint": 12,
+          "requiredCountToDisplay": "11",
+          "maxInsertions": 25
+        }
+      ]</pre>
+<div class="ZoneA ContentDefault   uk-root fdn-margin-vert StoryLayout comp-content-storylayout" data-component-id="StoryLayout">
+<div class="fdn-content-body">
+Oh, the irony. <br>
+<br>
+A man training to be a <a href="/news/dennis-sieving-driving-instructor-accused-of-passing-drivers-who-failed-or-didnt-take-test-5859002" target="_blank">driving instructor</a> — who was on his second day — was issued a careless driving ticket on Tuesday, August 8, after he crashed into the Lakewood school where he works, according to police.<br>
+<br>
+The man, who was not identified by cops, had been attempting to park his Hyundai Tucson SUV in front of the Community Driving School at 2099 Wadsworth Boulevard when he "accidentally drove into the office," says John Romero, public information officer for the Lakewood Police Department. <br>
+<br>
+"No injuries were reported and no arrests made," Romero tells <i>Westword</i>. "He was cited for careless driving." <br>
+<br>
+Surveillance footage captured by a camera at another business in the shopping center where the driving school is located, <a href="https://highrollersmoke.com/?utm_source=google-gmb-maps&amp;utm_medium=gmb-website-button&amp;utm_campaign=locl.io&amp;utm_content=f99cea54-6916-4ebd-a1c1-d6550c83af37" target="_blank">High Roller Smoke &amp; Vape</a>, shows the instructor slowly pulling into the parking lot and toward a spot in front of the driving school before attempting to pull in — and accidentally hitting the gas. <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Surveillance footage obtained by Westword shows the moment a driving instructor crashed into the Lakewood school where he works, leading to a careless driving ticket on Tuesday.<br><br>Story to come at <a href="https://t.co/XncuFC3Q7e">https://t.co/XncuFC3Q7e</a>.<br><br>🎥: Anastasia Walfred, co-owner, High Roller Smoke &amp; Vape <a href="https://t.co/pSz31Sx33r">pic.twitter.com/pSz31Sx33r</a></p>&mdash; Denver Westword (@denverwestword) <a href="https://twitter.com/denverwestword/status/1689053679108988929?ref_src=twsrc%5Etfw">August 8, 2023</a></blockquote> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> "When you look at our video, it looks like he had just accidentally hit the gas instead of the brakes," says Anastasia Walfred, co-owner of High Roller Smoke. "Of course, with it being the driving school, all of us in the shopping center are talking and joking about it. The memes have been endless."<br>
+<div uk-lightbox class="uk-position-relative fdn-content-image-right contentImageRight"> <a href="https://media1.westword.com/den/imager/u/original/17524572/img-2476.jpg" rel="contentImg_gal-17524561" title="An Instagram user named @theginger._ posted pictures from inside the Lakewood driving school, showing the aftermath. - @theginger" data-caption="<span>An Instagram user named @theginger._ posted pictures from inside the Lakewood driving school, showing the aftermath.</span>&nbsp;&nbsp;            <em>@theginger</em>" class="uk-display-block uk-position-relative uk-visible-toggle"> <span class="fdn-button-enlarge uk-position-absolute                    uk-position-top-right uk-hidden-hover"> click to enlarge </span> <img src="https://media1.westword.com/den/imager/u/blog/17524572/img-2476.jpg?cb=1691537886" alt="Photos posted by an Instagram user named @theginger._ from inside the Lakewood Driving School where a crash happened on August 8." width="300" height="517" loading="lazy" /> </a> <div class="fdn-caption-block uk-margin-auto" style="max-width: 300px"> <div class="fdn-image-caption"> An Instagram user named @theginger._ posted pictures from inside the Lakewood driving school, showing the aftermath. </div> <div class="fdn-image-credit"> @theginger </div> </div> </div> <br>
+According to Steve Rohman, owner of the Community Driving School — which is a third-party tester that administers <a href="/news/steer-clear-5085964" target="_blank">in-car driving exams</a>, as the state is no longer providing them, <a href="https://learntodrivecolorado.com/about-us/" target="_blank">per its website</a> — the man involved in the crash was a "brand-new employee" who was on his second day of work. He has not yet made it through in-car instructor training. <br>
+<br>
+"He hasn't gone through our in-house certification," Rohman says. "He was there today to shadow a classroom. He hadn't even started the training process for in-car instructor. He's brand-new. He was just starting the classroom portion of [being an instructor]."<br>
+<br>
+The employee was in his own personal vehicle and not a company car. His employment status is being evaluated by the driving school — and it doesn't look good. "We look for highly qualified people to teach our students, and this isn't in line with what we're looking for," Rohman tells <i>Westword</i>. "[His status] is being weighed."<br>
+<br>
+He adds, "At Community Driving School, the safety of our instructors and students is the most important thing to us, and we are always making decisions based on that."<br>
+<br>
+Described as "one of Denver's premier driving schools," Community Driving School currently has four locations: in Golden, Lakewood, Westminster and Littleton. The <a href="/restaurants/grabowskis-chicago-tavern-style-pizza-opening-lakewood-17423637" target="_blank">Lakewood</a> facility has been open since 2016 and has never experienced anything like this, according to Rohman. Nor has the company. <br>
+<br>
+"As a school, we've been in business a lot longer than that, and we've never had anything like [a crash] happen," he says. <br>
+<br>
+Others in the shopping center, however, say it was just another crazy day near Colfax Avenue. <br>
+<br>
+"There's always something," Walfred says of what she sees outside High Roller Smoke week in and week out. <br>
+<br>
+"Just a few months ago, maybe a year now, someone accidentally crashed into the liquor store in the same complex," she notes. "So yeah, this shopping center is pretty funny."
+</div>
+<script>
+  Foundation.ParagraphTool = Foundation.ParagraphTool || function (element) {
+    // Compile and store usable paragraph endings that are good for element insertion
+    // Avoides paragraph insertions immediately following a header or block element
+    // Includes paragraph endings before a <div>
+
+    this.bodyContainer = jQuery(element);
+    this.textNodeMatch = new RegExp('^(#text|A|I|B)$','i');
+
+    this.getPreviousNonEmptySibling = function (currentNode) {
+      let prevNode = currentNode ? currentNode.previousSibling : null;
+      let prevNodeFound = false;
+      while (prevNode && !prevNodeFound) {
+        let isText = prevNode.nodeType === Node.TEXT_NODE;
+
+        // Empty text node. Move on to the next node
+        if (isText && prevNode.nodeValue.trim() === '') {
+          prevNode = prevNode.previousSibling;
+        }
+        else {
+          prevNodeFound = true;
+        }
+      }
+      return prevNode;
+    }
+
+    this.getNextNonEmptySibling = function (currentNode) {
+      let nextNode = currentNode ? currentNode.nextSibling : null;
+      let nextNodeFound = false;
+      while (nextNode && !nextNodeFound) {
+        let isText = nextNode.nodeType === Node.TEXT_NODE;
+
+        // Empty text node. Move on to the next node
+        if (isText && nextNode.nodeValue.trim() === '') {
+          nextNode = nextNode.nextSibling;
+        }
+        else {
+          nextNodeFound = true;
+        }
+      }
+      return nextNode;
+    }
+
+    this.isDoubleBrParagraphBreak = function (currentNode) {
+      let prevNode = this.getPreviousNonEmptySibling(currentNode);
+      let prevPrevNode = this.getPreviousNonEmptySibling(prevNode);
+
+      if (currentNode && prevNode && prevPrevNode) {
+        let currentNodeIsBr = currentNode.nodeName === 'BR';
+        let prevNodeIsBr = prevNode.nodeName === 'BR';
+        let prevPrevNodeIsText = prevPrevNode.nodeName.match(this.textNodeMatch) !== null;
+
+        let isBrParagraphBreak = prevPrevNodeIsText && prevNodeIsBr && currentNodeIsBr;
+        if (isBrParagraphBreak) {
+          return true;
+        } 
+      }
+      return false;
+    }
+
+    this.isBrParagraphBreakBeforeBlockElement = function (currentNode) {
+      let prevNode = this.getPreviousNonEmptySibling(currentNode);
+      let nextNode = this.getNextNonEmptySibling(currentNode);
+
+      if (prevNode && currentNode && nextNode) {
+        let prevNodeIsText = prevNode.nodeName.match(this.textNodeMatch) !== null;
+        let currentNodeIsBr = currentNode.nodeName.match(/^BR$/i) !== null;
+        let nextNodeIsBlock = nextNode.nodeName.match(/^DIV$/i) !== null;
+
+        let isParagraphBreakBeforeBlock = prevNodeIsText && currentNodeIsBr && nextNodeIsBlock;
+        if (isParagraphBreakBeforeBlock) {
+          return true;
+        } 
+      }
+      return false;
+    }
+
+    this.isParagraphBreak = function (currentNode) {
+      let prevNode = this.getPreviousNonEmptySibling(currentNode);
+
+      if (currentNode && prevNode) {
+        let currentNodeIsP = currentNode.nodeName === 'P';
+        let currentNodeIsNotHeader = jQuery(currentNode).children().length
+        let prevNodeIsNotBlock = prevNode.nodeName.match(/^H\d|IMG|DIV|BLOCKQUOTE|UL|OL|hr$/i) === null;
+
+        // Check for only one <B> or <strong> tag and empty text nodes as children
+        let isPHeader = false;
+        if (currentNodeIsP && currentNode.childNodes.length >= 3) {
+          let textNodesHaveText = false;
+          let brStrongElementCount = 0;
+          let otherElementCount = 0;
+          currentNode.childNodes.forEach((item)=> {
+            if (item.nodeType === Node.TEXT_NODE) {
+              if (item.nodeValue.trim() !== '') {
+                textNodesHaveText = true;
+              }
+            }
+            else if (item.nodeType === Node.ELEMENT_NODE) {
+              if (item.nodeName.match(/^B|STRONG$/i) !== null) {
+                brStrongElementCount++;
+              }
+              else {
+                otherElementCount++;
+              }
+            }
+          })
+          if (brStrongElementCount === 1 && textNodesHaveText === false && otherElementCount === 0) {
+            isPHeader = true;
+          }
+        }
+
+        let isParagraphBreak = prevNodeIsNotBlock && currentNodeIsP && !isPHeader;
+        if (isParagraphBreak) {
+          return true;
+        } 
+      }
+      return false;
+    }
+
+    this.isBlockAfterParagraph = function (currentNode) {
+      if (!currentNode) { return false; }
+
+      const prevNode = this.getPreviousNonEmptySibling(currentNode);
+      if (!prevNode) { return false; }
+
+      const currentNodeIsValidBlock = currentNode.nodeName.match(/^H\d|IMG|DIV|BLOCKQUOTE|UL|OL|hr$/i) !== null;
+      if (!currentNodeIsValidBlock) { return false; }
+
+      const prevNodeIsParagraph = prevNode.nodeName === 'P';
+      if (prevNodeIsParagraph) { return true; }
+
+      const prevNodeIsDoubleBr = this.isDoubleBrParagraphBreak(prevNode);
+      if (prevNodeIsDoubleBr) { return true; }
+
+      return false;
+    }
+
+    // 
+    this.isBlockAfterBlock = function (currentNode) {
+      if (!currentNode) { return false; }
+
+      const prevNode = this.getPreviousNonEmptySibling(currentNode);
+      if (!prevNode) { return false; }
+
+      const currentNodeIsValidBlock = currentNode.nodeName.match(/^H\d|IMG|DIV|BLOCKQUOTE|UL|OL|hr$/i) !== null;
+      if (!currentNodeIsValidBlock) { return false; }
+
+      const prevNodeIsIsValidBlock = prevNode.nodeName.match(/^H\d|IMG|DIV|BLOCKQUOTE|UL|OL|hr$/i) !== null;
+      if (prevNodeIsIsValidBlock) { return true; }
+
+      return false;
+    }
+    // 
+
+    let myParagraphTool = this
+
+    this.paragraphEndNodes = myParagraphTool.bodyContainer.first().contents().filter(function(index, element) {
+      let isText = this.nodeType === Node.TEXT_NODE;
+      let isElement = this.nodeType === Node.ELEMENT_NODE;
+
+      // Empty text node. Move on
+      if (isText && this.nodeValue.trim() === '') {
+        return false; 
+      }
+
+      let currentNode = this;
+
+      if (myParagraphTool.isParagraphBreak(currentNode)) { return true; }
+      if (myParagraphTool.isDoubleBrParagraphBreak(currentNode)) { return true; }
+      if (myParagraphTool.isBrParagraphBreakBeforeBlockElement(currentNode)) { return true; }
+      if (myParagraphTool.isBlockAfterParagraph(currentNode)) { return true; }
+      // 
+      if (myParagraphTool.isBlockAfterBlock(currentNode)) { return true; }
+      // 
+
+      return false;
+    })
+
+    this.getParagraphEndNodeCount = function () {
+      return this.paragraphEndNodes.length;
+    }
+
+    this.insertElemenAtIndex = function (element, index) {
+      let isValidIndex = index < this.paragraphEndNodes.length;
+      if (isValidIndex) {
+        let currentNode = this.getNodeAtIndex(index);
+        if (this.isDoubleBrParagraphBreak(currentNode)
+            || this.isBrParagraphBreakBeforeBlockElement(currentNode)) {
+          if (jQuery(element).get(0).tagName.match(/SCRIPT/i) !== null) {
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+          }
+          else {
+            jQuery('div.fdn-content-body, div #storyBody').append('<div line-height-check>&nbsp;</div>')
+            let lineHeight = jQuery('[line-height-check]').get(0).clientHeight;
+            jQuery('[line-height-check]').remove()
+            if (jQuery(element).prop('tagName').match(/HIDDEN/i) !== null) {
+              jQuery(element).children('div').last().css({ marginBottom: `${lineHeight*2}px` });
+            }
+            else {
+              jQuery(element).css({ 
+                marginTop: `${lineHeight*2}px`,
+                marginBottom: `${lineHeight}px`
+              });
+            }
+          }
+        }
+        jQuery(element).insertBefore(this.paragraphEndNodes[index]);
+      }
+      else {
+        console.warn('Foundation.ParagraphTool.insertElemenAt: invalid insertion index', index);
+      }
+    }
+
+    this.insertElemenAtEnd = function (element) {
+      if (this.paragraphEndNodes.length) {
+        
+        let lastNode = this.getNodeAtIndex(this.paragraphEndNodes.length -1);
+        if (this.isDoubleBrParagraphBreak(lastNode)
+            || this.isBrParagraphBreakBeforeBlockElement(lastNode)) {
+          if (jQuery(element).get(0).tagName.match(/SCRIPT/i) !== null) {
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+            jQuery('<br>').insertAfter(this.paragraphEndNodes[index]);
+          }
+          else {
+            jQuery('div.fdn-content-body, div #storyBody').append('<div line-height-check>&nbsp;</div>')
+            let lineHeight = jQuery('[line-height-check]').get(0).clientHeight;
+            jQuery('[line-height-check]').remove()
+            if (jQuery(element).prop('tagName').match(/HIDDEN/i) !== null) {
+              jQuery(element).children('div').last().css({ marginBottom: `${lineHeight*2}px` });
+            }
+            else {
+              jQuery(element).css({ 
+                marginTop: `${lineHeight*2}px`,
+                marginBottom: `${lineHeight}px`
+              });
+            }
+          }
+        }
+      }
+      this.bodyContainer.append(element);
+    }
+
+    this.getNodeAtIndex = function (index) {
+      return this.paragraphEndNodes[index];
+    }
+  }
+  </script>
+<script>
+  window.Foundation = window.Foundation || {};
+  Foundation.Content = Foundation.Content || {};
+  Foundation.Content['17524561'] = Foundation.Content['17524561'] || {};
+  Foundation.Content['17524561'].inlineComponents = [{
+        componentOid: '17242653',
+        parentWrapperClass: '',
+        insertPoint: '4',
+        
+        startingPoint: '1',
+        requiredCountToDisplay: '1',
+        componentHtml: "\n<div class=\"ZoneA EditorsPicksInlineContentresponsive   uk-root fdn-margin-vert EditorsPicksInlineContent comp-content-editorspicks\" data-component-id=\"EditorsPicksInlineContent\">\n<div class=\"fdn-content-editors-picks-block\">\n<h3 class=\"uk-heading-line uk-text-uppercase\"><span>Editor's Picks<\/span><\/h3>\n<ul class=\"uk-list fdn-list-bullet\">\n<li><a href=\"https:\/\/www.westword.com\/news\/lauren-boebert-son-car-wreck-injured-friend-16586981\">Lauren Boebert's Eldest Son's Car Wreck Injured Friend, Led to Criminal Charges<\/a><\/li>\n<li><a href=\"https:\/\/www.westword.com\/news\/colorado-dmv-now-offering-standard-licenses-to-undocumented-residents-17000998\">All DMVs in Colorado to Now Offer \"Standard Licenses\" to Undocumented Residents<\/a><\/li>\n<li><a href=\"https:\/\/www.westword.com\/news\/denvers-82-traffic-deaths-in-2022-and-plan-to-make-2023-safer-15899085\">Traffic Deaths in 2022 Totaled 82: What's Denver's Plan to Make 2023 Safer?<\/a><\/li>\n<\/ul>\n<\/div>\n<div micro-component>\n<div class=\"MicroComponent EditorsPicksInlineContentresponsive  fdn-labeled uk-flex uk-flex-row uk-flex-around uk-width-1-1 uk-root fdn-margin-vert AirMediumRectangleComboInlineContent comp-\" data-component-id=\"AirMediumRectangleComboInlineContent\">\n<div class=\"uk-visible@s\">\n<style>\n[apn-fixed-size-hook=\"rectangle\"] {\nbackground-color:#EEEEEE;\nwidth: 300px;\nheight: 250px;\n}\n@media (min-width: 760px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n@media (min-width: 990px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n<\/style>\n<div apn-ad-hook=\"rectangle\" display-targets=\"desktop|tablet\" apn-fixed-size-hook=\"rectangle\">\n<script>\nif (typeof apntag === 'object') {\napntag.anq.push(function() {\nif (typeof Foundation.ApnAds.fillAds === 'function') {\nFoundation.ApnAds.fillAds()\n}\n})\n}\n<\/script>\n<\/div>\n<\/div>\n<style>\n[apn-fixed-size-hook=\"rectangle\"] {\nbackground-color:#EEEEEE;\nwidth: 300px;\nheight: 250px;\n}\n@media (min-width: 760px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n@media (min-width: 990px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n<\/style>\n<div apn-ad-hook=\"rectangle\" display-targets=\"desktop|tablet|mobile\" apn-fixed-size-hook=\"rectangle\">\n<script>\nif (typeof apntag === 'object') {\napntag.anq.push(function() {\nif (typeof Foundation.ApnAds.fillAds === 'function') {\nFoundation.ApnAds.fillAds()\n}\n})\n}\n<\/script>\n<\/div>\n<\/div>\n<\/div>\n<\/div>",
+       },{
+        componentOid: '17261320',
+        parentWrapperClass: '',
+        insertPoint: '8th',
+        maxInsertions: '25',
+        startingPoint: '8',
+        requiredCountToDisplay: '7',
+        componentHtml: "<div class=\"ZoneA AirMediumRectangleComboInlineContentresponsive  fdn-labeled uk-flex uk-flex-row uk-flex-around uk-width-1-1 uk-root fdn-margin-vert AirMediumRectangleComboInlineContent comp-\" data-component-id=\"AirMediumRectangleComboInlineContent\">\n<div class=\"uk-visible@s\">\n<style>\n[apn-fixed-size-hook=\"rectangle\"] {\nbackground-color:#EEEEEE;\nwidth: 300px;\nheight: 250px;\n}\n@media (min-width: 760px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n@media (min-width: 990px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n<\/style>\n<div apn-ad-hook=\"rectangle\" display-targets=\"desktop|tablet\" apn-fixed-size-hook=\"rectangle\">\n<script>\nif (typeof apntag === 'object') {\napntag.anq.push(function() {\nif (typeof Foundation.ApnAds.fillAds === 'function') {\nFoundation.ApnAds.fillAds()\n}\n})\n}\n<\/script>\n<\/div>\n<\/div>\n<style>\n[apn-fixed-size-hook=\"rectangle\"] {\nbackground-color:#EEEEEE;\nwidth: 300px;\nheight: 250px;\n}\n@media (min-width: 760px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n@media (min-width: 990px) {\n[apn-fixed-size-hook=\"rectangle\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n<\/style>\n<div apn-ad-hook=\"rectangle\" display-targets=\"desktop|tablet|mobile\" apn-fixed-size-hook=\"rectangle\">\n<script>\nif (typeof apntag === 'object') {\napntag.anq.push(function() {\nif (typeof Foundation.ApnAds.fillAds === 'function') {\nFoundation.ApnAds.fillAds()\n}\n})\n}\n<\/script>\n<\/div>\n<\/div>",
+       },{
+        componentOid: '17261321',
+        parentWrapperClass: '',
+        insertPoint: '8th',
+        maxInsertions: '25',
+        startingPoint: '12',
+        requiredCountToDisplay: '11',
+        componentHtml: "<div class=\"ZoneA AirLeaderboardTowerorMediumRectanglesComboInlineContentresponsive  fdn-labeled uk-flex uk-flex-row uk-flex-around uk-margin-large-top uk-width-1-1 uk-root fdn-margin-vert AirLeaderboardMediumRectanglesComboInlineContent comp-\" data-component-id=\"AirLeaderboardMediumRectanglesComboInlineContent\">\n<div class=\"uk-visible@s\">\n<style>\n[apn-fixed-size-hook=\"leaderboardInlineContent\"] {\nbackground-color:#EEEEEE;\nwidth: 300px;\nheight: 250px;\n}\n@media (min-width: 760px) {\n[apn-fixed-size-hook=\"leaderboardInlineContent\"] {\nwidth: 728px;\nheight: 90px;\n}\n}\n@media (min-width: 990px) {\n[apn-fixed-size-hook=\"leaderboardInlineContent\"] {\nwidth: 728px;\nheight: 90px;\n}\n}\n<\/style>\n<div apn-ad-hook=\"leaderboardInlineContent\" display-targets=\"desktop|tablet\" apn-fixed-size-hook=\"leaderboardInlineContent\">\n<script>\nif (typeof apntag === 'object') {\napntag.anq.push(function() {\nif (typeof Foundation.ApnAds.fillAds === 'function') {\nFoundation.ApnAds.fillAds()\n}\n})\n}\n<\/script>\n<\/div>\n<\/div>\n<div class=\"uk-hidden@s\">\n<style>\n[apn-fixed-size-hook=\"tower\"] {\nbackground-color:#EEEEEE;\nwidth: 300px;\nheight: 600px;\n}\n@media (min-width: 760px) {\n[apn-fixed-size-hook=\"tower\"] {\nwidth: 300px;\nheight: 600px;\n}\n}\n@media (min-width: 990px) {\n[apn-fixed-size-hook=\"tower\"] {\nwidth: 300px;\nheight: 250px;\n}\n}\n<\/style>\n<div apn-ad-hook=\"tower\" display-targets=\"mobile\" apn-fixed-size-hook=\"tower\">\n<script>\nif (typeof apntag === 'object') {\napntag.anq.push(function() {\nif (typeof Foundation.ApnAds.fillAds === 'function') {\nFoundation.ApnAds.fillAds()\n}\n})\n}\n<\/script>\n<\/div>\n<\/div>\n<\/div>",
+       }];
+  Foundation.Content['17524561'].setupInlineComponents = function (callback) {
+    setTimeout(() => {
+      let contentBody = jQuery('[fdn-content-multi-item="17524561"] .fdn-content-body, div#storyBody');
+      // For multiple content scenarios
+      if (contentBody.length) {
+        Foundation.Content['17524561'].paragraphTool = new window.Foundation.ParagraphTool(contentBody);
+      }
+      // Assume only a single content
+      else {
+        contentBody = jQuery('.fdn-content-body, #storyBody');
+        Foundation.Content['17524561'].paragraphTool = new window.Foundation.ParagraphTool(contentBody);
+      }
+      var myParagraphTool = Foundation.Content['17524561'].paragraphTool
+      Foundation.Content['17524561'].inlineComponents.forEach((item,index) => {
+        if (item.parentWrapperClass.trim() === '') {
+          var componentElement = jQuery(item.componentHtml);
+        }
+        else {
+          var componentElement = jQuery(`<div class="${item.parentWrapperClass.trim()}">${item.componentHtml}</div>`);
+        }
+        var paragraphCount = myParagraphTool.getParagraphEndNodeCount();
+        // No need to insert if there aren't enough paragaphs
+        if (paragraphCount >= parseInt(item.requiredCountToDisplay)) {
+          // Matches specific paragraph insertion indexes
+          if (item.insertPoint.match(/^\d+$/) !== null) {
+            var insertIndex = parseInt(item.insertPoint) - 1;
+            // Insert within content
+            if (insertIndex < paragraphCount) {
+              myParagraphTool.insertElemenAtIndex(componentElement, insertIndex);
+            }
+            // Append to the end if the insert point is beyond the paragraph count
+            else {
+              myParagraphTool.insertElemenAtEnd(componentElement)
+            }
+          }
+          // Matches for 1/2, 1/4, 2/3, 5/6, etc
+          else if (item.insertPoint.match(/^[1223456]\/[23456]$/) !== null) {
+            var fractionMatch = new RegExp(/^([123456])(?:\/)([23456]$)/);
+            var fractionPart = parseInt(item.insertPoint.match(fractionMatch)[1]);
+            var fractionWhole = parseInt(item.insertPoint.match(fractionMatch)[2]);
+            var fractionValue = fractionPart / fractionWhole;
+            var fractionIndex = Math.floor(myParagraphTool.paragraphEndNodes.length * fractionValue) - 1;
+            myParagraphTool.insertElemenAtIndex(componentElement, fractionIndex);
+          }
+          // Matches for every Nth insertion point
+          else if (item.insertPoint.match(/^\d*th$/i) !== null) {
+            var intervalIndex = parseInt(item.insertPoint.match(/^(\d*)th$/i)[1]);
+            var startingIndex = parseInt(item.startingPoint) - 1;
+            var insertionMax = parseInt(item.maxInsertions) || 100;
+            var insertionCount = 0;
+
+            for (var i = startingIndex; i < myParagraphTool.paragraphEndNodes.length && insertionCount < insertionMax; i++) {
+              if ((i - startingIndex) % intervalIndex === 0) {
+                let currentNode = myParagraphTool.getNodeAtIndex(i);
+                const clonedComponent = componentElement.clone();
+                myParagraphTool.insertElemenAtIndex(clonedComponent, i);
+                insertionCount++;
+              }
+            }
+          }
+        }
+      });
+      Foundation.Content['17524561'].setupInlineComponents = function () { return true; };
+      if (typeof callback === 'function') {
+        callback();
+      }
+    }, 200);
+  }
+
+  Foundation.Content['17524561'].previewInsertionPoints = function () {
+    var myParagraphTool = Foundation.Content['17524561'].paragraphTool
+    myParagraphTool.paragraphEndNodes.each((index, item) => {
+      const insertionPointPlaceholder = jQuery(`
+        <div style="width:100%;padding:10px;background-color:lightgreen;border:1px solid darkgreen;box-sizing:border-box;">
+          Insertion point ${index+1}
+        </div>`)
+      myParagraphTool.insertElemenAtIndex(insertionPointPlaceholder, index);
+    });
+    return 'Paragraph insertion placeholders applied.';
+  }
+  </script>
+<script>
+        jQuery(function () {
+          Foundation.Content['17524561'].setupInlineComponents();
+        });
+        </script>
+</div>
+<div class="ZoneA ContentDefault   uk-root fdn-margin-vert KeepFreeBannerContent comp-content-keepfreebannercontent" data-component-id="KeepFreeBannerContent">
+<div class="fdn-keep-free-block">
+<div class="uk-flex-inline fdn-keep-free-logo">
+<span>Keep</span>
+<span>
+<img class="fdn-keep-free-logo-image" src="https://www.westword.com/images/den-main-logo.svg" alt="Westword" width="110">
+</span>
+<span>Free</span>
+</div>
+<div class="fdn-keep-free-body">
+<strong>KEEP WESTWORD FREE...</strong>
+Since we started <i>Westword</i>, it has been defined as the free, independent voice of Denver, and we'd like to keep it that way. With local media under siege, it's more important than ever for us to rally support behind funding our local journalism. You can help by participating in our "I Support" program, allowing us to keep offering readers access to our incisive coverage of local news, food and culture with no paywalls.
+<a href="https://www.westword.com/i-support" onclick="ga('send', 'event', 'VMG-Widget', 'Click', '-VMG-ISupport-AfterArticle',  {'NonInteraction': 1});">
+Make a one-time donation today for as little as $1.
+</a>
+</div>
+</div>
+</div>
+<div class="ZoneA ContentDefault   uk-root fdn-margin-vert ContentFooterAbouttheAuthorNewsletter comp-content-contentfooter" data-component-id="ContentFooterAbouttheAuthorNewsletter">
+<div>
+<div class="ZoneA NewsletterSignupSmallresponsive   uk-root fdn-margin-vert NewsletterSignupSmall comp-newsletter-newslettersignupsmall" data-component-id="NewsletterSignupSmall">
+<div class="fdn-newsletter-signup-block">
+<div class="fdn-newsletter-signup-block-logo">
+<img src="/images/air/newsletter-insiders-den.png" alt="Westword Insiders" width="360">
+<div class="pelcro-logged-out">
+<a href="#newsletterSignUp" class="pelcro-subscribe-button fdn-newsletter-signup-button" data-product-id="494" data-vmgs-psource="In-Article Sign Up|News" data-vmgs-section="News">
+Join Today
+</a>
+</div>
+<div class="pelcro-logged-in">
+<a href="/profile" class="fdn-newsletter-signup-button">
+Sign Up
+</a>
+</div>
+</div>
+<div class="fdn-newsletter-signup-text">
+<h3>Sign up for our newsletters</h3>
+<div>Get the latest music, news, free stuff and more!</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ZoneA ContentDefault  trending-by-day TrendinginthisSection-17524561 uk-root fdn-margin-vert TrendinginthisSection comp-content-sailthrutrending" data-component-id="TrendinginthisSection">
+<div class="fdn-component-header-block uk-margin ">
+<h3 class="fdn-component-header-text uk-margin-remove ">
+Trending
+</h3>
+</div>
+<div class="uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-4@l fdn-landing-block-section-teasers" uk-grid>
+<div class="uk-flex uk-flex-wrap uk-flex-column fdn-landing-block-teaser-item">
+<a class="uk-display-block fdn-landing-block-teaser-item-image" href="https://www.westword.com/news/what-is-tabor-and-how-does-it-affect-colorado-property-taxes-18270381" onclick>
+<img src="https://media1.westword.com/den/imager/tabor-for-dummies-what-is-it-and-how-does-it-affect-colorado-property-taxes/u/golden-m/18270385/capitol_dome_american_flag_colorado_flag_edited.jpg?cb=1700103072" alt="TABOR for Dummies: What Is It? And How Does It Affect Colorado Property Taxes?" width="1320" height="816" loading="lazy" />
+<div class="fdn-landing-block-teaser-item-text">
+<h4 class="fdn-teaser-topic">Politics</h4>
+<h3 class="fdn-teaser-headline">TABOR for Dummies: What Is It? And How Does It Affect Colorado Property Taxes?</h3>
+<p class="fdn-teaser-infoline">By Hannah Metzger</p>
+</div>
+</a>
+</div>
+<div class="uk-flex uk-flex-wrap uk-flex-column fdn-landing-block-teaser-item">
+<a class="uk-display-block fdn-landing-block-teaser-item-image" href="https://www.westword.com/news/private-investigator-true-crime-cases-jonbenet-mcveigh-columbine-18217904" onclick>
+<img src="https://media1.westword.com/den/imager/for-print-ellis-armistead/u/golden-m/18253782/feature_opener.jpg?cb=1699968014" alt="From JonBen&eacute;t to Tim McVeigh and Columbine, P.I. Ellis Armistead Has Seen It All &mdash; and Paid the Price" width="1320" height="816" loading="lazy" />
+<div class="fdn-landing-block-teaser-item-text">
+<h4 class="fdn-teaser-topic">Crime</h4>
+<h3 class="fdn-teaser-headline">From JonBenét to Tim McVeigh and Columbine, P.I. Ellis Armistead Has Seen It All — and Paid the Price</h3>
+<p class="fdn-teaser-infoline">By Stephen Singular</p>
+</div>
+</a>
+</div>
+<div class="uk-flex uk-flex-wrap uk-flex-column fdn-landing-block-teaser-item">
+<a class="uk-display-block fdn-landing-block-teaser-item-image" href="https://www.westword.com/news/mile-high-club-denver-coors-rally-mayor-11933032" onclick>
+<img src="https://media1.westword.com/den/imager/five-places-to-join-the-mile-high-club-in-denver/u/golden-m/14034863/milehighmarker.jpg?cb=1700059858" alt="Five Places to Join the Mile High Club in Denver" width="1320" height="816" loading="lazy" />
+<div class="fdn-landing-block-teaser-item-text">
+<h4 class="fdn-teaser-topic">History</h4>
+<h3 class="fdn-teaser-headline">Five Places to Join the Mile High Club in Denver</h3>
+<p class="fdn-teaser-infoline">By Patricia Calhoun</p>
+</div>
+</a>
+</div>
+<div class="uk-flex uk-flex-wrap uk-flex-column fdn-landing-block-teaser-item">
+<a class="uk-display-block fdn-landing-block-teaser-item-image" href="https://www.westword.com/news/colorado-village-collaborative-to-run-denvers-biggest-micro-community-18239283" onclick>
+<img src="https://media1.westword.com/den/imager/controversial-colorado-village-collaborative-tapped-to-lead-mayor-johnstons-biggest-micro-community/u/golden-m/18247233/beloved_village_bennito_kelty.jpg?cb=1699917799" alt="Biggest Micro-Community in Denver Being Run by Nonprofit Behind &quot;Toxic&quot; Tiny Home Villages" width="1320" height="816" loading="lazy" />
+<div class="fdn-landing-block-teaser-item-text">
+<h4 class="fdn-teaser-topic">Homelessness</h4>
+<h3 class="fdn-teaser-headline">Biggest Micro-Community in Denver Being Run by Nonprofit Behind "Toxic" Tiny Home Villages</h3>
+<p class="fdn-teaser-infoline">By Bennito L. Kelty</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<script>
+      jQuery(document).ready(function($) {
+
+        Sailthru.personalize({
+          "sections": [
+        
+          {
+            "id":  "c2010d2e-9f9c-11e6-a324-002590d1a2f6",
+            "selector": ".TrendinginthisSection-17524561 > div.fdn-landing-block-section-teasers",
+            "onSuccess":  function(response) {
+              Foundation.SailthruSPM.Personalize({
+                "selector": ".TrendinginthisSection-17524561 > div.fdn-landing-block-section-teasers", 
+                "data": response,
+                
+                  "count": 4,
+                
+                "template": (article) => `<div class="uk-flex uk-flex-wrap uk-flex-column fdn-landing-block-teaser-item uk-first-column">
+      <a class="uk-display-block fdn-landing-block-teaser-item-image" href="${article.url}"><img src="${article.image.replace('/original/','/golden-m/')}" alt="${article.title}" width="1320" height="816" loading="lazy">
+      <div class="fdn-landing-block-teaser-item-text">
+        <h4 class="fdn-teaser-topic">
+          ${article.vars.topic_names[0]}
+        </h4>
+        <h3 class="fdn-teaser-headline">
+          ${article.title}
+        </h3>
+        <p class="fdn-teaser-infoline">
+          By ${article.author}
+        </p>
+      </div></a>
+    </div>`
+              });
+            }
+          }
+        
+      ],
+          "vars": {
+            "placed": "17524561"  
+          }
+        });
+      });
+    </script>
+<div class="componentGrid-TwoZones-Equal-Width uk-width-1-1 uk-flex uk-flex-row uk-flex-wrap fdn-component-grid-row@m" uk-height-match data-component-grid-id="MediumRectangleandSTNPlayer">
+<div class="uk-width-1-1 uk-width-1-2@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+<hidden hidden>
+<div class="ComponentZoneA MediumRectangleandSTNPlayerresponsive  fdn-custom-section-latest-teaser fdn-custom-section-latest-ad-block uk-margin-remove fdn-labeled uk-root fdn-margin-vert AirMediumRectangleLatestInline comp-" data-component-id="AirMediumRectangleLatestInline" fdn-ad-component>
+<style>
+        [apn-fixed-size-hook="rectangle"] {
+          background-color:#EEEEEE;
+          width: 300px;
+          height: 250px;
+        }
+        @media (min-width: 760px) {
+          [apn-fixed-size-hook="rectangle"] {
+            width: 300px;
+            height: 250px;
+          }
+        }
+        @media (min-width: 990px) {
+          [apn-fixed-size-hook="rectangle"] {
+            width: 300px;
+            height: 250px;
+          }
+        }
+      </style>
+<div apn-ad-hook="rectangle" display-targets="desktop|tablet|mobile" apn-fixed-size-hook="rectangle">
+<script>
+        if (typeof apntag === 'object') {
+          apntag.anq.push(function() {
+            if (typeof Foundation.ApnAds.fillAds === 'function') {
+              Foundation.ApnAds.fillAds()
+            }
+          })
+        }
+        </script>
+</div>
+</div>
+</hidden>
+</div>
+<div class="uk-width-1-1 uk-width-1-2@m uk-flex uk-flex-column uk-inline fdn-component-grid-zone">
+<div stn-embed class="ComponentZoneB MediumRectangleandSTNPlayerresponsive   uk-root fdn-margin-vert STNPlayerFloat comp-shell-stnplayer" data-component-id="STNPlayerFloat">
+<script>
+    jQuery(document).on('pelcro:check:complete', () => {
+      
+      const componentElement = jQuery(`[data-component-id="STNPlayerFloat"][stn-embed]`);
+      if (Foundation.Pelcro && Foundation.Pelcro.subscription && Foundation.Pelcro.subscription.match(/member/i) !== null) {
+        componentElement.remove();
+      }
+      else {
+        const embedElement = jQuery(`<div class='s2nPlayer k-BRcQp3H8' data-type='float'></div>`);
+        const embedScript = jQuery(`<script><`+`/script>`);
+        embedScript.attr('src', '//embed.sendtonews.com/player3/embedcode.js?fk=BRcQp3H8&cid=13266&offsetx=0&offsety=0&floatwidth=400&floatposition=bottom-right');
+        embedScript.attr('data-type', 's2nScript');
+        componentElement.append(embedElement);
+        componentElement.append(embedScript);
+      }
+    });
+    </script>
+</div>
+</div>
+</div>
+<hidden hidden>
+<div class="ZoneA ContentDefault  uk-margin-remove fdn-labeled uk-root fdn-margin-vert AirBillboard comp-" data-component-id="AirBillboard" inline-content-billboard fdn-ad-component>
+<div class="uk-flex uk-flex-row uk-width-1-1 uk-flex uk-flex-center" style="
+       border-top: thin solid #ccc;
+       margin-top: 30px !important;
+       padding-top: 30px;
+       border-bottom: thin solid #ccc; 
+       margin-bottom: 0px;
+       padding-bottom: 30px;">
+<style>
+        [apn-fixed-size-hook="billboard"] {
+          background-color:#EEEEEE;
+          width: 320px;
+          height: 100px;
+        }
+        @media (min-width: 760px) {
+          [apn-fixed-size-hook="billboard"] {
+            width: 728px;
+            height: 90px;
+          }
+        }
+        @media (min-width: 990px) {
+          [apn-fixed-size-hook="billboard"] {
+            width: 970px;
+            height: 250px;
+          }
+        }
+      </style>
+<div apn-ad-hook="billboard" display-targets="desktop|tablet|mobile" apn-fixed-size-hook="billboard">
+<script>
+        if (typeof apntag === 'object') {
+          apntag.anq.push(function() {
+            if (typeof Foundation.ApnAds.fillAds === 'function') {
+              Foundation.ApnAds.fillAds()
+            }
+          })
+        }
+        </script>
+</div>
+</div>
+</div>
+</hidden>
+</div>
+</div>
+<div class="ev-grid-zone ev-column-zone uk-flex uk-flex-wrap uk-child-width-1-2@m">
+<div class="ev-grid-col" data-ev-zone="ZoneB">
+</div>
+<div class="ev-grid-col" data-ev-zone="ZoneC">
+</div>
+</div>
+<div class="ev-grid-zone ev-secondary-zone" data-ev-zone="ZoneD">
+<div class="ev-grid-col uk-width-1-1">
+</div>
+</div>
+<div class="ev-grid-zone ev-footer-zone" data-ev-zone="GlobalFooter">
+<div class="ev-grid-col uk-width-1-1">
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '588388814616401'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=588388814616401&ev=PageView&noscript=1"/></noscript>
+<script type="text/javascript">
+    (function() {
+      window._sf_async_config = window._sf_async_config || {};
+      _sf_async_config.uid = 10424;
+      _sf_async_config.domain = 'westword.com';
+      _sf_async_config.useCanonical = true;
+      _sf_async_config.sections = '/news';
+      _sf_async_config.authors = "Chris Perez";
+
+      function loadChartbeat() {
+        window._sf_endpt = (new Date()).getTime();
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';
+        n.parentNode.insertBefore(e, n);
+      }
+      loadChartbeat();
+    })();
+    </script>
+
+<script>
+   var ezt = ezt ||[];
+   (function(){
+     var elem = document.createElement('script');
+     elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-a4LDpi_DEopn-";
+     elem.async = true;
+     elem.type = "text/javascript";
+     var scpt = document.getElementsByTagName('script')[0];
+     scpt.parentNode.insertBefore(elem,scpt);
+   }());
+   ezt.push({qacct: 'p-a4LDpi_DEopn-',
+         uid: ''
+             });
+  </script>
+<noscript>
+    <img src="//pixel.quantserve.com/pixel/p-a4LDpi_DEopn-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+
+
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+    ttd_dom_ready( function() {
+      if (typeof TTDUniversalPixelApi === 'function') {
+        var universalPixelApi = new TTDUniversalPixelApi();
+        universalPixelApi.init("eac6kka", ["07ypglr"], "https://insight.adsrvr.org/track/up");
+      }
+    });
+    </script>
+
+</div>
+</div>
+<div class="ev-grid-zone ev-closer-zone" data-ev-zone="Closer">
+<div class="ev-grid-col uk-width-1-1">
+<style>
+  .uk-root .isAdmin .ev-footer-zone {
+    padding:0;
+    background:none;
+    margin:30px 0 0;
+    display: block;
+  }
+  .uk-root .isAdmin .ev-footer-zone .ev-grid-col {
+    padding:0;
+    width: 100%;
+  }
+</style>
+<div class="Closer ContentDefault  uk-margin-remove comp-shell-siteglobalfooter uk-root fdn-margin-vert SiteGlobalFooter comp-shell-siteglobalfooter" data-component-id="SiteGlobalFooter">
+<div class="fdn-site-footer-logo">
+<a href="https://www.westword.com/"><img src="/images/air/NT-den.png" alt="Westword"></a>
+</div>
+<div class="fdn-site-footer-block">
+<div class="fdn-custom-footer-navigation-link-block fdn-custom-footer-navigation-link-block-wide uk-visible@s">
+<div class="uk-flex uk-child-width-1-5 fdn-custom-footer-navigation-link-block-wide-columns">
+<div class="fdn-custom-footer-navigation-link-block-column fdn-custom-footer-navigation-link-block-issue-block">
+<ul class="uk-list">
+<li>
+<a href="https://bit.ly/46kiRLg" class="uk-display-block" target="_blank" title><img src="/imager//b/r-cover/18270378/002c/WG_2023.jpg" alt width="600" height="692" class="no-foundation-imgeditor " loading="lazy" /></a>
+</li>
+<li class="uk-margin-remove">
+<a href="https://bit.ly/46kiRLg" target="_blank">View This Week's Print Issue</a>
+</li>
+<li>
+<a href="https://www.westword.com/about/circulation">Where To Find Westword In Print</a>
+</li>
+</ul>
+</div>
+<div class="fdn-custom-footer-navigation-link-block-column">
+<ul class="uk-list">
+<li class="fdn-custom-footer-navigation-link-block-column-header"><a href="https://www.westword.com/" title onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Editorial')">Editorial</a></li>
+<li><a href="https://www.westword.com/news" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'News')" title>News</a></li>
+<li><a href="https://www.westword.com/restaurants" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Food & Drink')" title>Food & Drink</a></li>
+<li><a href="https://www.westword.com/arts" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Arts & Culture')" title>Arts & Culture</a></li>
+<li><a href="https://www.westword.com/music" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Music')" title>Music</a></li>
+<li><a href="https://www.westword.com/marijuana" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Cannabis')" title>Cannabis</a></li>
+<li><a href="https://www.westword.com/things-to-do" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Things To Do')" title>Things To Do</a></li>
+<li><a href="https://www.westword.com/profile" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Newsletters')" title>Newsletters</a></li>
+</ul>
+</div>
+<div class="fdn-custom-footer-navigation-link-block-column">
+<ul class="uk-list">
+<li class="fdn-custom-footer-navigation-link-block-column-header"><a href="https://www.westword.com/promotions" title onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Marketing')">Marketing</a></li>
+<li><a href="https://www.westword.com/promotions" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Promotions & Free Stuff')" title>Promotions & Free Stuff</a></li>
+<li><a href="https://www.westword.com/advertise" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Advertise With Us')" title>Advertise With Us</a></li>
+<li><a href="https://www.westword.com/about/terms-of-use" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Terms of Use')" title>Terms of Use</a></li>
+<li><a href="https://www.westword.com/about/privacy-policy" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Privacy Policy')" title>Privacy Policy</a></li>
+</ul>
+</div>
+<div class="fdn-custom-footer-navigation-link-block-column">
+<ul class="uk-list">
+<li class="fdn-custom-footer-navigation-link-block-column-header"><a href="https://www.westword.com/about" title onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'More')">More</a></li>
+<li><a href="https://www.westword.com/about" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'About Us')" title>About Us</a></li>
+<li><a href="https://www.westword.com/denver/EmailUs/Page" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Contact Us')" title>Contact Us</a></li>
+<li><a href="https://www.westword.com/about/staff" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Staff')" title>Staff</a></li>
+<li><a href="https://www.westword.com/about/careers" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Westword Careers')" title>Westword Careers</a></li>
+<li><a href="https://www.westword.com/about/flipbooks" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Flipbook Archive')" title>Flipbook Archive</a></li>
+<li><a href="https://westword.pixels.com" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Shop Cover Art')" title>Shop Cover Art</a></li>
+</ul>
+</div>
+<div class="fdn-custom-footer-navigation-link-block-column">
+<ul class="uk-list">
+<li class="fdn-custom-footer-navigation-link-block-column-header"><a href="https://www.voicemediagroup.com/" title onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Voice Media Group')">Voice Media Group</a></li>
+<li><a href="https://www.dallasobserver.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Dallas Observer')" title>Dallas Observer</a></li>
+<li><a href="https://www.browardpalmbeach.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'New Times Broward-Palm Beach')" title>New Times Broward-Palm Beach</a></li>
+<li><a href="https://www.miaminewtimes.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Miami New Times')" title>Miami New Times</a></li>
+<li><a href="https://www.phoenixnewtimes.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Phoenix New Times')" title>Phoenix New Times</a></li>
+<li><a href="https://www.vdigitalservices.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'V Digital Services')" title>V Digital Services</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fdn-custom-footer-navigation-link-block fdn-custom-footer-navigation-link-block-narrow uk-hidden@s">
+<div class="fdn-custom-footer-navigation-link-block-narrow-rows">
+<div class="fdn-custom-footer-navigation-link-block-row">
+<ul class="uk-nav-default uk-nav-parent-icon" uk-nav="multiple: false">
+<li class="uk-parent">
+<a href="https://www.westword.com/" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Editorial')" class="fdn-custom-footer-navigation-link-block-row-header" title>Editorial</a>
+<ul class="uk-nav-sub uk-child-width-1-2 uk-grid-small" uk-grid>
+<li><a href="https://www.westword.com/news" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'News')" title>News</a></li>
+<li><a href="https://www.westword.com/restaurants" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Food & Drink')" title>Food & Drink</a></li>
+<li><a href="https://www.westword.com/arts" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Arts & Culture')" title>Arts & Culture</a></li>
+<li><a href="https://www.westword.com/music" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Music')" title>Music</a></li>
+<li><a href="https://www.westword.com/marijuana" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Cannabis')" title>Cannabis</a></li>
+<li><a href="https://www.westword.com/things-to-do" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Things To Do')" title>Things To Do</a></li>
+<li><a href="https://www.westword.com/profile" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Newsletters')" title>Newsletters</a></li>
+</ul>
+</li>
+<li class="uk-parent">
+<a href="https://www.westword.com/promotions" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Marketing')" class="fdn-custom-footer-navigation-link-block-row-header" title>Marketing</a>
+<ul class="uk-nav-sub uk-child-width-1-2 uk-grid-small" uk-grid>
+<li><a href="https://www.westword.com/promotions" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Promotions & Free Stuff')" title>Promotions & Free Stuff</a></li>
+<li><a href="https://www.westword.com/advertise" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Advertise With Us')" title>Advertise With Us</a></li>
+<li><a href="https://www.westword.com/about/terms-of-use" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Terms of Use')" title>Terms of Use</a></li>
+<li><a href="https://www.westword.com/about/privacy-policy" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Privacy Policy')" title>Privacy Policy</a></li>
+</ul>
+</li>
+<li class="uk-parent">
+<a href="https://www.westword.com/about" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'More')" class="fdn-custom-footer-navigation-link-block-row-header" title>More</a>
+<ul class="uk-nav-sub uk-child-width-1-2 uk-grid-small" uk-grid>
+<li><a href="https://www.westword.com/about" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'About Us')" title>About Us</a></li>
+<li><a href="https://www.westword.com/denver/EmailUs/Page" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Contact Us')" title>Contact Us</a></li>
+<li><a href="https://www.westword.com/about/staff" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Staff')" title>Staff</a></li>
+<li><a href="https://www.westword.com/about/careers" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Westword Careers')" title>Westword Careers</a></li>
+<li><a href="https://www.westword.com/about/flipbooks" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Flipbook Archive')" title>Flipbook Archive</a></li>
+<li><a href="https://westword.pixels.com" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Shop Cover Art')" title>Shop Cover Art</a></li>
+</ul>
+</li>
+<li class="uk-parent">
+<a href="https://www.voicemediagroup.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Voice Media Group')" class="fdn-custom-footer-navigation-link-block-row-header" title>Voice Media Group</a>
+<ul class="uk-nav-sub uk-child-width-1-2 uk-grid-small" uk-grid>
+<li><a href="https://www.dallasobserver.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Dallas Observer')" title>Dallas Observer</a></li>
+<li><a href="https://www.browardpalmbeach.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'New Times Broward-Palm Beach')" title>New Times Broward-Palm Beach</a></li>
+<li><a href="https://www.miaminewtimes.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Miami New Times')" title>Miami New Times</a></li>
+<li><a href="https://www.phoenixnewtimes.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Phoenix New Times')" title>Phoenix New Times</a></li>
+<li><a href="https://www.vdigitalservices.com/" target="_blank" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'V Digital Services')" title>V Digital Services</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="uk-flex uk-flex-center uk-flex-column uk-flex-middle custom-footer-row-bottom custom-footer-row">
+<div class="fdn-custom-footer-navigation-link-social-block">
+<div>
+<a class="fdn-site-header-social-icon-facebook" href="https://www.facebook.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Facebook')" target="_blank" rel="nofollow"><span>facebook</span></a>
+</div>
+<div>
+<a class="fdn-site-header-social-icon-twitter" href="https://twitter.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Twitter')" target="_blank" rel="nofollow"><span>twitter</span></a>
+</div>
+<div>
+<a class="fdn-site-header-social-icon-instagram" href="https://instagram.com/denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Instagram')" target="_blank" rel="nofollow"><span>instagram</span></a>
+</div>
+<div>
+<a class="fdn-site-header-social-icon-tiktok" href="https://www.tiktok.com/@denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'TikTok')" target="_blank" rel="nofollow"><span>tiktok</span></a>
+</div>
+<div>
+<a class="fdn-site-header-social-icon-linkedin" href="https://www.linkedin.com/company/denver-westword-llc/" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Linked In')" target="_blank" rel="nofollow"><span>linkedin</span></a>
+</div>
+<div>
+<a class="fdn-site-header-social-icon-threads" href="https://www.threads.net/@denverwestword" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Threads')" target="_blank" rel="nofollow"><span>threads</span></a>
+</div>
+</div>
+<div class="uk-width-1-1 fdn-custom-footer-navigation-link-block-narrow-legal-links">
+<div class="uk-grid-small uk-grid-divider" uk-grid>
+<div>
+<a href="https://www.westword.com/about/californiaPrivacyPolicy" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'California Privacy Policy')" title>California Privacy Policy</a>
+</div>
+<div>
+<a href="https://www.westword.com/about/californiaPrivacyPolicy#CollectionNotice" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'California Collection Notice')" title>California Collection Notice</a>
+</div>
+<div>
+<a href="https://www.westword.com/about/californiaPrivacyPolicy#DoNotSell" target="_self" onclick="ga('send', 'event', 'Nav-Bottom', 'Click', 'Do Not Sell My Info')" title>Do Not Sell My Info</a>
+</div>
+</div>
+</div>
+<div class="uk-text-center">
+<div class="fdn-copyright-text">
+Use of this website constitutes acceptance of our
+<a href="/about/terms-of-use">terms of use</a>,
+<a href="/about/cookies">our cookies policy</a>, and our
+<a href="/about/privacy-policy">privacy policy</a>
+Westword may earn a portion of sales from products & services purchased through links on our site from our
+affiliate partners.
+&copy;2023
+Denver Westword, LLC. All rights reserved.
+</div>
+<div class="fdn-copyright-text uk-margin-small-top">
+<a class="fdn-copyright-link" href="https://publishwithfoundation.com/" target="_blank"><img loading="lazy" width="110" alt="Powered By Foundation" src="/images/PoweredByFoundation.svg"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "NewsMediaOrganization",
+"name": "Denver Westword",
+"url": "https://www.westword.com",
+"logo": "https://www.westword.com/images/den-main-logo.svg",
+"telephone": "(303) 296-7744",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "1278 Lincoln St",
+"addressLocality": "Denver",
+"addressRegion": "CO",
+"postalCode": "80203",
+"addressCountry": "US"
+},
+"sameAs": [
+"https://www.facebook.com/denverwestword",
+"https://twitter.com/denverwestword",
+"https://www.instagram.com/denverwestword/",
+"https://www.linkedin.com/company/denver-westword-llc/"
+]
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

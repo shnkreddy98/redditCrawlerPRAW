@@ -1,0 +1,1434 @@
+
+
+
+<!doctype html>
+<html lang="en-GB">
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<link rel="dns-prefetch" href="//catholic-herald.b-cdn.net" /> 
+<script type="text/template" id="pvc-stats-view-template">
+    <i class="pvc-stats-icon small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 502 315" preserveAspectRatio="xMidYMid meet"><g transform="translate(0,332) scale(0.1,-0.1)" fill="" stroke="none"><path d="M2394 3279 l-29 -30 -3 -207 c-2 -182 0 -211 15 -242 39 -76 157 -76 196 0 15 31 17 60 15 243 l-3 209 -33 29 c-26 23 -41 29 -80 29 -41 0 -53 -5 -78 -31z"/><path d="M3085 3251 c-45 -19 -58 -50 -96 -229 -47 -217 -49 -260 -13 -295 52 -53 146 -42 177 20 16 31 87 366 87 410 0 70 -86 122 -155 94z"/><path d="M1751 3234 c-13 -9 -29 -31 -37 -50 -12 -29 -10 -49 21 -204 19 -94 39 -189 45 -210 14 -50 54 -80 110 -80 34 0 48 6 76 34 21 21 34 44 34 59 0 14 -18 113 -40 219 -37 178 -43 195 -70 221 -36 32 -101 37 -139 11z"/><path d="M1163 3073 c-36 -7 -73 -59 -73 -102 0 -56 133 -378 171 -413 34 -32 83 -37 129 -13 70 36 67 87 -16 290 -86 209 -89 214 -129 231 -35 14 -42 15 -82 7z"/><path d="M3689 3066 c-15 -9 -33 -30 -42 -48 -48 -103 -147 -355 -147 -375 0 -98 131 -148 192 -74 13 15 57 108 97 206 80 196 84 226 37 273 -30 30 -99 39 -137 18z"/><path d="M583 2784 c-38 -19 -67 -74 -58 -113 9 -42 211 -354 242 -373 16 -10 45 -18 66 -18 51 0 107 52 107 100 0 39 -1 41 -124 234 -80 126 -108 162 -133 173 -41 17 -61 16 -100 -3z"/><path d="M4250 2784 c-14 -9 -74 -91 -133 -183 -95 -150 -107 -173 -107 -213 0 -55 33 -94 87 -104 67 -13 90 8 211 198 130 202 137 225 78 284 -27 27 -42 34 -72 34 -22 0 -50 -8 -64 -16z"/><path d="M2275 2693 c-553 -48 -1095 -270 -1585 -649 -135 -104 -459 -423 -483 -476 -23 -49 -22 -139 2 -186 73 -142 361 -457 571 -626 285 -228 642 -407 990 -497 242 -63 336 -73 660 -74 310 0 370 5 595 52 535 111 1045 392 1455 803 122 121 250 273 275 326 19 41 19 137 0 174 -41 79 -309 363 -465 492 -447 370 -946 591 -1479 653 -113 14 -422 18 -536 8z m395 -428 c171 -34 330 -124 456 -258 112 -119 167 -219 211 -378 27 -96 24 -300 -5 -401 -72 -255 -236 -447 -474 -557 -132 -62 -201 -76 -368 -76 -167 0 -236 14 -368 76 -213 98 -373 271 -451 485 -162 444 86 934 547 1084 153 49 292 57 452 25z m909 -232 c222 -123 408 -262 593 -441 76 -74 138 -139 138 -144 0 -16 -233 -242 -330 -319 -155 -123 -309 -223 -461 -299 l-81 -41 32 46 c18 26 49 83 70 128 143 306 141 649 -6 957 -25 52 -61 116 -79 142 l-34 47 45 -20 c26 -10 76 -36 113 -56z m-2057 25 c-40 -58 -105 -190 -130 -263 -110 -324 -59 -707 132 -981 25 -35 42 -64 37 -64 -19 0 -241 119 -326 174 -188 122 -406 314 -532 468 l-58 71 108 103 c185 178 428 349 672 473 66 33 121 60 123 61 2 0 -10 -19 -26 -42z"/><path d="M2375 1950 c-198 -44 -350 -190 -395 -379 -18 -76 -8 -221 19 -290 114 -284 457 -406 731 -260 98 52 188 154 231 260 27 69 37 214 19 290 -38 163 -166 304 -326 360 -67 23 -215 33 -279 19z"/></g></svg></i> 
+	 <%= total_view %> total views	<% if ( today_view > 0 ) { %>
+		<span class="views_today">,  <%= today_view %> views today</span>
+	<% } %>
+	</span>
+	</script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<title>Pope speaks with Iran president, confirms call for ceasefire - Catholic Herald</title>
+<meta name="description" content="ROME –Pope Francis spoke by phone with Iranian President Ebrahim Raisi on Sunday about the situation in Gaza, marking the latest such call" />
+<link rel="canonical" href="https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pope speaks with Iran president, confirms call for ceasefire - Catholic Herald" />
+<meta property="og:description" content="ROME –Pope Francis spoke by phone with Iranian President Ebrahim Raisi on Sunday about the situation in Gaza, marking the latest such call" />
+<meta property="og:url" content="https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/" />
+<meta property="og:site_name" content="Catholic Herald" />
+<meta property="article:publisher" content="https://www.facebook.com/CatholicHeraldMagazine/" />
+<meta property="article:published_time" content="2023-11-06T10:09:05+00:00" />
+<meta property="article:modified_time" content="2023-11-06T10:09:06+00:00" />
+<meta property="og:image" content="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1691196816.jpg" />
+<meta property="og:image:width" content="594" />
+<meta property="og:image:height" content="396" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="Elise Ann Allen/ Crux" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@catholicherald" />
+<meta name="twitter:site" content="@catholicherald" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Elise Ann Allen/ Crux" />
+<meta name="twitter:label2" content="Estimated reading time" />
+<meta name="twitter:data2" content="4 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#article","isPartOf":{"@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/"},"author":{"name":"Elise Ann Allen/ Crux","@id":"https://catholicherald.co.uk/#/schema/person/c9a4cbd2c589dee3fd2a1a5b00df0840"},"headline":"Pope speaks with Iran president, confirms call for ceasefire","datePublished":"2023-11-06T10:09:05+00:00","dateModified":"2023-11-06T10:09:06+00:00","mainEntityOfPage":{"@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/"},"wordCount":898,"commentCount":0,"publisher":{"@id":"https://catholicherald.co.uk/#organization"},"image":{"@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#primaryimage"},"thumbnailUrl":"https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1691196816.jpg","keywords":["Iran","Pope Francis"],"articleSection":["Middle East","News","Vatican","World News"],"inLanguage":"en-GB","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#respond"]}]},{"@type":"WebPage","@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/","url":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/","name":"Pope speaks with Iran president, confirms call for ceasefire - Catholic Herald","isPartOf":{"@id":"https://catholicherald.co.uk/#website"},"primaryImageOfPage":{"@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#primaryimage"},"image":{"@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#primaryimage"},"thumbnailUrl":"https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1691196816.jpg","datePublished":"2023-11-06T10:09:05+00:00","dateModified":"2023-11-06T10:09:06+00:00","description":"ROME –Pope Francis spoke by phone with Iranian President Ebrahim Raisi on Sunday about the situation in Gaza, marking the latest such call","breadcrumb":{"@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#primaryimage","url":"https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1691196816.jpg","contentUrl":"https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1691196816.jpg","width":594,"height":396,"caption":"NEW YORK, NEW YORK - SEPTEMBER 19: Iran's President Ebrahim Raisi holds the Koran as he address world leaders during the United Nations (UN) General Assembly on September 19, 2023 in New York City. Israel’s Ambassador to the U.N. Gilad Erdan held up a sign stating 'Iranian Women Deserve Freedom Now' and walked along the floor seconds after Raisi entered. Dignitaries and their delegations from across the globe have descended on New York for the annual event. This year marks the 78th session of the General Debate at the UN Headquarters and will focus on the crisis of global warming. (Photo by Spencer Platt/Getty Images)"},{"@type":"BreadcrumbList","@id":"https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://catholicherald.co.uk/"},{"@type":"ListItem","position":2,"name":"News","item":"https://catholicherald.co.uk/section/news/"},{"@type":"ListItem","position":3,"name":"Pope speaks with Iran president, confirms call for ceasefire"}]},{"@type":"WebSite","@id":"https://catholicherald.co.uk/#website","url":"https://catholicherald.co.uk/","name":"The Catholic Herald","description":"Breaking news and opinion from the online edition of Britain&#039;s leading Catholic newspaper","publisher":{"@id":"https://catholicherald.co.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://catholicherald.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://catholicherald.co.uk/#organization","name":"Catholic Herald","url":"https://catholicherald.co.uk/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://catholicherald.co.uk/#/schema/logo/image/","url":"https://catholic-herald.b-cdn.net/wp-content/uploads/2019/09/Catholic-Herald-Logo-Red.svg","contentUrl":"https://catholic-herald.b-cdn.net/wp-content/uploads/2019/09/Catholic-Herald-Logo-Red.svg","width":986,"height":72,"caption":"Catholic Herald"},"image":{"@id":"https://catholicherald.co.uk/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/CatholicHeraldMagazine/","https://twitter.com/catholicherald","https://www.youtube.com/user/TheCatholicHerald","https://www.linkedin.com/company/the-catholic-herald/about/","https://www.pinterest.com/catholicheraldmag/","https://en.wikipedia.org/wiki/Catholic_Herald"]},{"@type":"Person","@id":"https://catholicherald.co.uk/#/schema/person/c9a4cbd2c589dee3fd2a1a5b00df0840","name":"Elise Ann Allen/ Crux","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://catholicherald.co.uk/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/426390176be8be43d0a94ca0e72ee80f?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/426390176be8be43d0a94ca0e72ee80f?s=96&d=mm&r=g","caption":"Elise Ann Allen/ Crux"},"url":"https://catholicherald.co.uk/author/elise-allen/"}]}</script>
+
+<link rel="dns-prefetch" href="//static.addtoany.com" />
+<link rel="alternate" type="application/rss+xml" title="Catholic Herald &raquo; Pope speaks with Iran president, confirms call for ceasefire Comments Feed" href="https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/catholicherald.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://catholic-herald.b-cdn.net/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1" type="text/css" media="all" />
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="better-recent-comments-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/better-recent-comments/assets/css/better-recent-comments.min.css?ver=6.4.1" type="text/css" media="all" />
+<link rel="stylesheet" id="contact-form-7-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8" type="text/css" media="all" />
+<link rel="stylesheet" id="a3-pvc-style-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/page-views-count/assets/css/style.min.css?ver=2.8.1" type="text/css" media="all" />
+<link rel="stylesheet" id="shop-page-wp-grid-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/shop-page-wp/includes/../assets/css/shop-page-wp-grid.css?ver=1.3.0" type="text/css" media="all" />
+<link rel="stylesheet" id="shop-page-wp-base-styles-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/shop-page-wp/includes/../assets/css/shop-page-wp-base-styles.css?ver=1.3.0" type="text/css" media="all" />
+<link rel="stylesheet" id="mc4wp-form-themes-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.css?ver=4.9.6" type="text/css" media="all" />
+<link rel="stylesheet" id="a3pvc-css" href="//catholicherald.co.uk/wp-content/uploads/sass/pvc.min.css?ver=1631013080" type="text/css" media="all" />
+<link rel="stylesheet" id="addtoany-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16" type="text/css" media="all" />
+<link rel="stylesheet" id="wpjb-glyphs-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/wpjobboard/public/css/wpjb-glyphs.css?ver=5.5.3" type="text/css" media="all" />
+<link rel="stylesheet" id="wpjb-css-css" href="https://catholic-herald.b-cdn.net/wp-content/plugins/wpjobboard/public/css/frontend.css?ver=5.5.3" type="text/css" media="all" />
+<link rel="stylesheet" id="curious/css-css" href="https://catholic-herald.b-cdn.net/wp-content/themes/catholic-herald-update/assets/styles/main.css?ver=9.5" type="text/css" media="all" />
+<link rel="stylesheet" id="ravensmith/css-css" href="https://catholic-herald.b-cdn.net/wp-content/themes/catholic-herald-update/assets/styles/over-ride.css?ver=1.3" type="text/css" media="all" />
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show All",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favourites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" async src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" async src="https://catholic-herald.b-cdn.net/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" id="a3-pvc-backbone-js-extra">
+/* <![CDATA[ */
+var pvc_vars = {"rest_api_url":"https:\/\/catholicherald.co.uk\/wp-json\/pvc\/v1","ajax_url":"https:\/\/catholicherald.co.uk\/wp-admin\/admin-ajax.php","security":"eb16ad0a2b","ajax_load_type":"rest_api"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/plugins/page-views-count/assets/js/pvc.backbone.min.js?ver=2.8.1" id="a3-pvc-backbone-js"></script>
+<script type="text/javascript" id="wp-statistics-tracker-js-extra">
+/* <![CDATA[ */
+var WP_Statistics_Tracker_Object = {"hitRequestUrl":"https:\/\/catholicherald.co.uk\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=779855&search_query&page_uri=L3BvcGUtc3BlYWtzLXdpdGgtaXJhbi1wcmVzaWRlbnQtY29uZmlybXMtY2FsbC1mb3ItY2Vhc2VmaXJlLw=","keepOnlineRequestUrl":"https:\/\/catholicherald.co.uk\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=779855&search_query&page_uri=L3BvcGUtc3BlYWtzLXdpdGgtaXJhbi1wcmVzaWRlbnQtY29uZmlybXMtY2FsbC1mb3ItY2Vhc2VmaXJlLw=","option":{"dntEnabled":"1","cacheCompatibility":"1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=6.4.1" id="wp-statistics-tracker-js"></script>
+<script type="text/javascript" id="wpjb-js-js-extra">
+/* <![CDATA[ */
+var WpjbData = {"no_jobs_found":"No job listings found","no_resumes_found":"No resumes found","load_x_more":"Load %d more","date_format":"Y\/m\/d","max_date":"9999\/12\/31"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/plugins/wpjobboard/public/js/frontend.js?ver=5.5.3" id="wpjb-js-js"></script>
+<link rel="https://api.w.org/" href="https://catholicherald.co.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://catholicherald.co.uk/wp-json/wp/v2/posts/779855" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://catholicherald.co.uk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<link rel="shortlink" href="https://catholicherald.co.uk/?p=779855" />
+<link rel="alternate" type="application/json+oembed" href="https://catholicherald.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcatholicherald.co.uk%2Fpope-speaks-with-iran-president-confirms-call-for-ceasefire%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://catholicherald.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcatholicherald.co.uk%2Fpope-speaks-with-iran-president-confirms-call-for-ceasefire%2F&#038;format=xml" />
+<script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="catholicherald"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7325458/CH_SB_370x308_2', [370, 308], 'div-gpt-ad-1588333906849-0').addService(googletag.pubads());
+    googletag.defineSlot('/7325458/CH_SB_370x308', [370, 308], 'div-gpt-ad-1588333934156-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c9f22213bc06963a5e8df3944/bddf7f06d5d53437445a75f32.js");</script>
+<script>
+	var currentPUEmail = '';
+	jQuery(document).ready(function() {
+		Pigeon.paywallPromise.done(function(response){
+			if( response.user_status ){
+				//console.log(response.profile.email);
+				currentPUEmail = response.profile.email;
+				//setCookie('CHSubscriber',response.profile.email,'365');
+				document.cookie = "CHSubscriber=" + response.profile.email + ";31536000;path=/;SameSite=Lax";
+			} else {
+				currentPUEmail = '';
+			}
+		});				
+	});
+	
+jQuery(document).on("click",".footer--main a, .header--menu a", function() {
+
+	if(jQuery(this).text() == "Historical Archives") {
+
+		jQuery("input[name='currentPUEmail']").val(currentPUEmail);
+		jQuery("#archive-submission").submit();
+
+	}
+	
+});
+
+</script>
+<script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="catholicherald"></script>
+<style>.mc4wp-checkbox-contact-form-7{clear:both;width:auto;display:block;position:static}.mc4wp-checkbox-contact-form-7 input{float:none;vertical-align:middle;-webkit-appearance:checkbox;width:auto;max-width:21px;margin:0 6px 0 0;padding:0;position:static;display:inline-block!important}.mc4wp-checkbox-contact-form-7 label{float:none;cursor:pointer;width:auto;margin:0 0 16px;display:block;position:static}</style><meta name="generator" content="Elementor 3.15.3; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+<script type="text/javascript" src="//my.catholicherald.co.uk/c/assets/pigeon.js?2"></script><script type="text/javascript">
+		var localeCookie = Cookies.get('pi_geo_code'),
+			pidb = '';
+			
+		pidb = (localeCookie == 'US' ? 'my.catholicherald.co.uk' : 'account.catholicherald.co.uk');
+		
+		var Pigeon = new PigeonClass({
+			subdomain: (pidb ? pidb : 'my.catholicherald.co.uk'),
+			fingerprint:true,
+			cid: null,
+			cha: null
+		});
+		
+				Pigeon.paywall({
+					redirect:'modal',
+					free:0,
+					contentId:779855,
+					contentTitle:'Pope+speaks+with+Iran+president%2C+confirms+call+for+ceasefire',
+					contentDate:'2023-11-06+10%3A09%3A05',
+					contentPrice:0,
+					contentValue:0,
+					contentPrompt:0
+				});
+
+				Pigeon.widget.status();
+			
+		</script>
+<style type="text/css">
+		.pigeon-widget-status { width:100%; position: relative; z-index: 1; font-weight:700; }
+		.pigeon-widget-status ul { margin: 0; padding: 0; float:right; }
+		.pigeon-widget-status ul li { list-style: none; float:left; }
+		.pigeon-widget-status ul li a { padding-left: 6px; margin-left: 6px; color: #303030; border-left: 1px solid #303030; text-transform:uppercase; }
+		.pigeon-widget-status ul li.meter { display:none !important; }
+		.pigeon-widget-status ul li.meter a { text-transform:none; }
+
+		.pigeon-context-promotion { padding:20px; }
+
+		@media only screen and (max-width: 720px) {
+		   .pigeon-widget-status {
+			  float: none; width: 100%; margin: 0; padding: 10px; overflow: hidden; box-sizing: border-box;
+		   }
+		}
+    .pigeon-remove, body{
+     display:block !important;
+    }
+	</style><script type="text/javascript">
+			;(function ($, window, document, undefined ){
+				$(document).ready(function(){
+
+					//$('.elementor-element-6528424').after('<nav class="pigeon-widget-status"></nav>');
+					//$('.elementor-element-6528424').remove();
+                    //$('.elementor-element-2ca3841 .elementor-widget-container').after('<nav class="pigeon-widget-status"></nav>');
+          $('.ribbon').html('<nav class="pigeon-widget-status"></nav>');
+					//$('.elementor-element-2ca3841').remove();
+					Pigeon.widget.status();
+					Pigeon.widget.prompt();
+				});
+			})(jQuery, window, document);
+		</script><link rel="icon" href="https://catholic-herald.b-cdn.net/wp-content/uploads/2019/12/cropped-CH_logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://catholic-herald.b-cdn.net/wp-content/uploads/2019/12/cropped-CH_logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://catholic-herald.b-cdn.net/wp-content/uploads/2019/12/cropped-CH_logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://catholic-herald.b-cdn.net/wp-content/uploads/2019/12/cropped-CH_logo-270x270.png" />
+<script type="text/javascript">
+    var ajaxurl = "https://catholicherald.co.uk/wp-admin/admin-ajax.php";
+  </script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+
+<script>
+    ! function(f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function() {
+        n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '418631848847603');
+    fbq('track', 'PageView');
+  </script>
+<noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=418631848847603&ev=PageView&noscript=1" />
+  </noscript>
+
+<script></script>
+
+<script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WBKQBSQ');
+  </script>
+
+
+<script>
+    ! function(e, t, n, s, u, a) {
+      e.twq || (s = e.twq = function() {
+          s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+        }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+        a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'o7119');
+    twq('track', 'PageView');
+  </script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CK7F829VY4"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-CK7F829VY4');
+  </script>
+<meta name="facebook-domain-verification" content="foakbntyogayvrwzpm1crlzbgfdguj" />
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script src="https://cdn2.vmrcommunications.com/catholicherald/dist/js/vmr-ch-gpt.min.js"></script>
+
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBKQBSQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<style>
+    .adblock iframe {
+      max-width: 100%;
+    }
+  </style> <body class="post-template-default single single-post postid-779855 single-format-standard pope-speaks-with-iran-president-confirms-call-for-ceasefire sidebar-primary elementor-default elementor-kit-207892">
+<!--[if lt IE 9]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+<header class="new-header">
+<div class="header--top d-md-block d-none">
+<div class="wide--wrap">
+<div class="container-fluid">
+<div class="row justify-content-between">
+<ul class="header--list social">
+<li><a target="_blank" href="https://www.facebook.com/CatholicHeraldMagazine/"> <i class="fab fa-facebook-f"></i> </a></li>
+<li><a target="_blank" href="https://twitter.com/CatholicHerald"> <i class="fab fa-twitter"></i> </a> </li>
+<li><a target="_blank" href="https://www.youtube.com/user/TheCatholicHerald"> <i class="fab fa-youtube"></i> </a> </li>
+<li><a target="_blank" href="https://www.instagram.com/catholicheraldmag/"> <i class="fab fa-instagram"></i> </a> </li>
+</ul>
+<ul class="header--list additional">
+<li><a href="https://catholicherald.co.uk/jobs/">Jobs</a></li>
+<li><a href="https://catholicherald.co.uk/the-catholic-herald-institute/">Herald Institute</a></li>
+<li class="position-relative">
+<a class="trigger--archiveDropdown" href="#">Archive</a>
+<div class="archive--dropdown standard--dropdown">
+<div class="wide--wrap">
+<div class="container-fluid">
+<div class="row position-relative">
+<div class="patrons--dropdown__content bg--white p-4">
+<div class="menu-archive-menu-container"><ul id="menu-archive-menu" class="patron--list"><li id="menu-item-774077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774077"><a href="https://archive.catholicherald.co.uk/">Historic Archive From 1934</a></li>
+<li id="menu-item-774078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774078"><a href="https://reader.exacteditions.com/magazines/440/issues/">Exact Editions</a></li>
+</ul></div> </div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="position-relative d-none">
+<a class="trigger--patronsDropdown" href="/the-herald-patrons-fund/">Patrons</a>
+<div class="patrons--dropdown">
+<div class="wide--wrap">
+<div class="container-fluid">
+<div class="row position-relative">
+<div class="patrons--dropdown__content bg--white p-4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li><a href="/subscribe/">Subscribe</a></li>
+<li class="d-none"><a href="/the-herald-patrons-fund/">Donate</a></li>
+<li class="login" style>
+<a href="//account.catholicherald.co.uk">Sign In</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="header--bottom">
+<div class="wide--wrap">
+<div class="container-fluid">
+<div class="row align-items-center justify-content-between">
+<div class="header--block logo">
+<a href="/">
+<img src="https://catholic-herald.b-cdn.net/wp-content/themes/catholic-herald-update/assets/images/CH_Logo.png" alt>
+</a>
+</div>
+<div class="burger d-inline-block d-md-none">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+<div class="header--block navigation d-none d-md-block position-relative desktop--dropdown">
+<ul class="d-inline-block header--list navigation">
+<li data-index="0" href="/section/vatican">
+<a href="/section/vatican">Vatican</a>
+</li>
+<li class="has-submenu" data-index="1" href>
+<a href>World News</a>
+<span>+</span> </li>
+<li class="has-submenu" data-index="2" href>
+<a href="https://catholicherald.co.uk/live-masses-from-around-the-world/">Media</a>
+<span>+</span> </li>
+<li class="has-submenu" data-index="3" href>
+<a href="/section/magazine/">Magazine</a>
+<span>+</span> </li>
+<li data-index="4" href="/section/magazine/education/">
+<a href="/section/magazine/education/">Education</a>
+</li>
+<li data-index="5" href="/section/magazine/arts/">
+<a href="/section/magazine/arts/">Arts</a>
+</li>
+<li data-index="6" href="/section/comment/">
+<a href="/section/comment/">Chapter House</a>
+</li>
+<li data-index="7" href="/special-reports">
+<a href="/special-reports">Special Reports</a>
+</li>
+</ul>
+<div class="search--bar__header">
+<form method="GET" action="https://catholicherald.co.uk/">
+<a href="#!">
+<span class="search--trigger__close">&times;</span>
+</a>
+<div class="d-none d-md-inline-block">
+<div class="search-selector--wrap">
+<div>
+Search for:
+</div>
+<select>
+<option data-filter="all">All</option>
+<option data-filter="article">Article Title</option>
+<option data-filter="author">Author</option>
+<option data-filter="podcast">Podcast</option>
+</select>
+</div>
+</div>
+<input type="text" name="s" class="d-inline-block" placeholder="Search...">
+<input type="hidden" class="search-type-result" name="filter" value="all">
+<button type="submit" class="d-inline-block search--icon search--icon__trigger">
+<svg xmlns="http://www.w3.org/2000/svg" width="25.259" height="25.186" viewBox="0 0 25.259 25.186">
+<path id="Path_12536" data-name="Path 12536" d="M421.353,343.277l-5.728-5.728a10.632,10.632,0,0,0,2.611-7.075,10.928,10.928,0,0,0-10.95-10.95,10.8,10.8,0,0,0-10.95,10.866,10.934,10.934,0,0,0,18.025,8.339l5.727,5.728a.814.814,0,0,0,1.179,0A.757.757,0,0,0,421.353,343.277Zm-14.066-3.622a9.265,9.265,0,1,1,9.265-9.265A9.238,9.238,0,0,1,407.287,339.656Z" transform="translate(-396.337 -319.524)" />
+</svg>
+</button>
+</form>
+</div>
+<div class="d-inline-block search--icon search--icon__triggerOpen">
+<svg xmlns="http://www.w3.org/2000/svg" width="25.259" height="25.186" viewBox="0 0 25.259 25.186">
+<path id="Path_12536" data-name="Path 12536" d="M421.353,343.277l-5.728-5.728a10.632,10.632,0,0,0,2.611-7.075,10.928,10.928,0,0,0-10.95-10.95,10.8,10.8,0,0,0-10.95,10.866,10.934,10.934,0,0,0,18.025,8.339l5.727,5.728a.814.814,0,0,0,1.179,0A.757.757,0,0,0,421.353,343.277Zm-14.066-3.622a9.265,9.265,0,1,1,9.265-9.265A9.238,9.238,0,0,1,407.287,339.656Z" transform="translate(-396.337 -319.524)" />
+</svg>
+</div>
+</div>
+</div>
+<div class="row d-block d-md-none">
+<div class="mobile-search-selector">
+<div class="search-selector--wrap search-selector--wrap-mobile">
+<div>
+Search for:
+</div>
+<select>
+<option data-filter="all">All</option>
+<option data-filter="article">Article Title</option>
+<option data-filter="author">Author</option>
+<option data-filter="podcast">Podcast</option>
+</select>
+</div>
+</div>
+<div class="header--bottom__mobile--search search-selector--wrap-mobile">
+<form method="GET" action="https://catholicherald.co.uk">
+<input class="default--input" name="s" placeholder="Enter search term here...">
+<input type="hidden" class="search-type-result" name="filter" value="all">
+<button type="submit" class="d-inline-block search--icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="25.259" height="25.186" viewBox="0 0 25.259 25.186">
+<path id="Path_12536" data-name="Path 12536" d="M421.353,343.277l-5.728-5.728a10.632,10.632,0,0,0,2.611-7.075,10.928,10.928,0,0,0-10.95-10.95,10.8,10.8,0,0,0-10.95,10.866,10.934,10.934,0,0,0,18.025,8.339l5.727,5.728a.814.814,0,0,0,1.179,0A.757.757,0,0,0,421.353,343.277Zm-14.066-3.622a9.265,9.265,0,1,1,9.265-9.265A9.238,9.238,0,0,1,407.287,339.656Z" transform="translate(-396.337 -319.524)" />
+</svg>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="mobile--dropdown d-block d-md-none">
+<div class="wide--wrap px-4">
+<ul class="header--list navigation">
+<li data-index="0" href="/section/vatican">
+<a href="/section/vatican">Vatican</a>
+</li>
+<li class="has-submenu" data-index="1" href>
+<a href>World News</a>
+<ul class="mobile--dropdown__submenu">
+<li>
+<a href="/section/us/ ">
+United States </a>
+</li>
+<li>
+<a href="/section/uk/">
+United Kingdom </a>
+</li>
+<li>
+<a href="/section/vatican/">
+Vatican </a>
+</li>
+<li>
+<a href="/section/europe/">
+Europe </a>
+</li>
+<li>
+<a href="/section/news/africa/">
+Africa </a>
+</li>
+<li>
+<a href="/section/news/asia/">
+Asia & China </a>
+</li>
+<li>
+<a href="/section/rest-of-world/">
+Rest Of The World </a>
+</li>
+</ul>
+</li>
+<li class="has-submenu" data-index="2" href>
+<a href="https://catholicherald.co.uk/live-masses-from-around-the-world/">Media</a>
+<ul class="mobile--dropdown__submenu">
+<li>
+<a href="/live-masses-from-around-the-world/">
+Live Mass </a>
+</li>
+<li>
+<a href="/podcasts">
+Podcasts </a>
+</li>
+</ul>
+</li>
+<li class="has-submenu" data-index="3" href>
+<a href="/section/magazine/">Magazine</a>
+<ul class="mobile--dropdown__submenu">
+<li>
+<a href="/section/arts/">
+Arts </a>
+</li>
+<li>
+<a href="/section/books/">
+Books </a>
+</li>
+<li>
+<a href="https://catholicherald.co.uk/section/magazine/column/">
+Columns </a>
+</li>
+<li>
+<a href="/section/devotional/">
+Devotional </a>
+</li>
+<li>
+<a href="/section/education/">
+Education </a>
+</li>
+<li>
+<a href="/section/features/">
+Features </a>
+</li>
+<li>
+<a href="/section/history/">
+History </a>
+</li>
+<li>
+<a href="/section/spirituallife-magazine-2/">
+Life & Soul </a>
+</li>
+<li>
+<a href="/section/magazine/special-reports/">
+Special Reports </a>
+</li>
+<li>
+<a href="/section/travel-pilgrimage/">
+Travel & Pilgrimage </a>
+</li>
+<li>
+<a href="/section/magazine/">
+Magazine All </a>
+</li>
+<li>
+<a href="/subscribe">
+Subscribe </a>
+</li>
+</ul>
+</li>
+<li data-index="4" href="/section/magazine/education/">
+<a href="/section/magazine/education/">Education</a>
+</li>
+<li data-index="5" href="/section/magazine/arts/">
+<a href="/section/magazine/arts/">Arts</a>
+</li>
+<li data-index="6" href="/section/comment/">
+<a href="/section/comment/">Chapter House</a>
+</li>
+<li data-index="7" href="/special-reports">
+<a href="/special-reports">Special Reports</a>
+</li>
+</ul>
+<div class="hr--default"></div>
+<div class="menu-secondary-mobile-menu-container"><ul id="menu-secondary-mobile-menu" class="header--list mobile--links"><li id="menu-item-774068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774068"><a href="https://catholicherald.co.uk/events/">Events</a></li>
+<li id="menu-item-774069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774069"><a href="https://catholicherald.co.uk/jobs/">Jobs</a></li>
+<li id="menu-item-774070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774070"><a href="https://catholicherald.co.uk/purchase-a-subscription/">Subscribe</a></li>
+<li id="menu-item-774071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-774071"><a href="https://catholicherald.co.uk/#,%20return%20false;">Archives</a></li>
+<li id="menu-item-774073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774073"><a href="https://account.catholicherald.co.uk/">Sign In</a></li>
+</ul></div> <ul class="header--list social">
+<li><a target="_blank" href="https://www.facebook.com/CatholicHeraldMagazine/"> <i class="fab fa-facebook-f"></i> </a></li>
+<li><a target="_blank" href="https://twitter.com/CatholicHerald"> <i class="fab fa-twitter"></i> </a> </li>
+<li><a target="_blank" href="https://www.youtube.com/user/TheCatholicHerald"> <i class="fab fa-youtube"></i> </a> </li>
+<li><a target="_blank" href="https://www.instagram.com/catholicheraldmag/"> <i class="fab fa-instagram"></i> </a> </li>
+</ul>
+</div>
+</div>
+<div class="news--dropdown__background dropdown--menu__desktop--background"></div>
+<div class="news--dropdown dropdown--menu__desktop" id="dropdown--menu__desktop--1">
+<div class="container news--dropdown__container bg--white">
+<div class="row">
+<div class="col-4 bg--white p-5">
+<a href="https://catholicherald.co.uk/bishops-elevate-st-winefrides-well-to-status-of-national-shrine/">
+<div class="bodyXS half--opacity">Latest</div>
+<div class="padding-top--10px"></div>
+<div class="img--wrap">
+<img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Well-smaller-1024x683.jpg">
+</div>
+<div class="padding-top--10px"></div>
+<div class="bodyXS" style="line-height: initial;">
+Bishops elevate St Winefride&#8217;s Well to status of national shrine </div>
+</a>
+</div>
+<div class="col-8 bg--offwhite p-5">
+<div class="bodyXS half--opacity">World News</div>
+<div class="padding-top--10px"></div>
+<ul class="list--noStyles region--list">
+<li>
+<a href="/section/us/ ">
+United States </a>
+</li>
+<li>
+<a href="/section/uk/">
+United Kingdom </a>
+</li>
+<li>
+<a href="/section/vatican/">
+Vatican </a>
+</li>
+<li>
+<a href="/section/europe/">
+Europe </a>
+</li>
+<li>
+<a href="/section/news/africa/">
+Africa </a>
+</li>
+<li>
+<a href="/section/news/asia/">
+Asia & China </a>
+</li>
+<li>
+<a href="/section/rest-of-world/">
+Rest Of The World </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="news--dropdown dropdown--menu__desktop" id="dropdown--menu__desktop--2">
+<div class="container news--dropdown__container bg--white">
+<div class="row">
+<div class="col-4 bg--white p-5">
+<a href="https://catholicherald.co.uk/bishops-elevate-st-winefrides-well-to-status-of-national-shrine/">
+<div class="bodyXS half--opacity">Latest</div>
+<div class="padding-top--10px"></div>
+<div class="img--wrap">
+<img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Well-smaller-1024x683.jpg">
+</div>
+<div class="padding-top--10px"></div>
+<div class="bodyXS" style="line-height: initial;">
+Bishops elevate St Winefride&#8217;s Well to status of national shrine </div>
+</a>
+</div>
+<div class="col-8 bg--offwhite p-5">
+<div class="bodyXS half--opacity">Media</div>
+<div class="padding-top--10px"></div>
+<ul class="list--noStyles region--list">
+<li>
+<a href="/live-masses-from-around-the-world/">
+Live Mass </a>
+</li>
+<li>
+<a href="/podcasts">
+Podcasts </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="news--dropdown dropdown--menu__desktop" id="dropdown--menu__desktop--3">
+<div class="container news--dropdown__container bg--white">
+<div class="row">
+<div class="col-4 bg--white p-5">
+<a href="https://catholicherald.co.uk/bishops-elevate-st-winefrides-well-to-status-of-national-shrine/">
+<div class="bodyXS half--opacity">Latest</div>
+<div class="padding-top--10px"></div>
+<div class="img--wrap">
+<img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Well-smaller-1024x683.jpg">
+</div>
+<div class="padding-top--10px"></div>
+<div class="bodyXS" style="line-height: initial;">
+Bishops elevate St Winefride&#8217;s Well to status of national shrine </div>
+</a>
+</div>
+<div class="col-8 bg--offwhite p-5">
+<div class="bodyXS half--opacity">Magazine</div>
+<div class="padding-top--10px"></div>
+<ul class="list--noStyles region--list">
+<li>
+<a href="/section/arts/">
+Arts </a>
+</li>
+<li>
+<a href="/section/books/">
+Books </a>
+</li>
+<li>
+<a href="https://catholicherald.co.uk/section/magazine/column/">
+Columns </a>
+</li>
+<li>
+<a href="/section/devotional/">
+Devotional </a>
+</li>
+<li>
+<a href="/section/education/">
+Education </a>
+</li>
+<li>
+<a href="/section/features/">
+Features </a>
+</li>
+<li>
+<a href="/section/history/">
+History </a>
+</li>
+<li>
+<a href="/section/spirituallife-magazine-2/">
+Life & Soul </a>
+</li>
+<li>
+<a href="/section/magazine/special-reports/">
+Special Reports </a>
+</li>
+<li>
+<a href="/section/travel-pilgrimage/">
+Travel & Pilgrimage </a>
+</li>
+<li>
+<a href="/section/magazine/">
+Magazine All </a>
+</li>
+<li>
+<a href="/subscribe">
+Subscribe </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="spacing--header"></div>
+
+<div id="div-gpt-ad-4206571-4" class="test1 adblock mt-5 pt-3 mb-3 text-center">
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-4206571-4'); });
+  </script>
+</div>
+
+<style>
+    .adblock { max-width: 100%; margin: 0 auto;}
+</style>
+<div class="padding-top--20px d-lg-block d-none" "></div>
+<div class="padding-top--20px d-lg-none d-block"></div>
+<div class="wide--wrap">
+<div class="container-fluid px-4 px-md-3">
+<div class="row">
+
+<div class="col-md-9">
+<div class>
+<div class="categories--line d-flex align-items-center mb-3 mt-4">
+<div class="post--cats__wrap">
+<a href="https://catholicherald.co.uk/section/news/middle-east/" class="category--tag">Middle East</a>
+<a href="https://catholicherald.co.uk/section/news/" class="category--tag">News</a>
+<a href="https://catholicherald.co.uk/section/news/vatican-news-2/" class="category--tag">Vatican</a>
+<a href="https://catholicherald.co.uk/section/world-news/" class="category--tag">World News</a>
+<div class="estimated--read__time mt-3 mt-lg-0 d-inline-block bodyM">The estimated reading time is 5 minutes</div>
+</div>
+</div>
+<h1 class="post--title headingL col-lg-10 px-0 ">
+Pope speaks with Iran president, confirms call for ceasefire </h1>
+<div class="d-lg-flex align-items-center color--red post--publish__info">
+<div class="tagline pr-3">
+<span>
+</span>
+<a href="https://catholicherald.co.uk/author/elise-allen/" class="tagline">Elise Ann Allen/ Crux</a>
+</div>
+<div class="color--red mt-2 mt-lg-0">
+<a href="/posts-by-date/?date=2023/11/06"><i class="far fa-calendar-alt color--red mr-2"></i><em class="tagline">November 6, 2023 at 11:09 am</em></a>
+</div>
+</div>
+<div class="post--thumbnail__image">
+<img class="width-100" src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1691196816.jpg" alt>
+</div>
+<div>
+<div>
+<div class="bodyLM mt-3 post--main">
+<div class="pigeon-remove" data-pn="2" style="display:none;">
+<p>ROME –Pope Francis spoke by phone with Iranian President Ebrahim Raisi on Sunday about the situation in Gaza, marking the latest such call with international leaders focused on ensuring access to humanitarian aid and pursuing ceasefire efforts.</p>
+<p>The call, confirmed by Vatican spokesman Matteo Bruni on Vatican News, the Vatican’s formal state-run media platform, took place at Raisi’s request. Bruni did not provide any details about the conversation.</p>
+<p>According to the website of the Iranian presidency, Raisi condemned Israel’s retaliation over an Oct. 7 Hamas surprise attack that left 1,400 Israelis dead and several others taken hostage, saying the strikes on Gaza have been disproportionate, leaving around 10,000 people dead, including 4,000 children and 2,500 women, according to Palestinian estimates.</p>
+<p>Referring to the Israeli strikes as “terrible and unprecedented crimes of the Zionist usurper regime” amounting to “the biggest genocide of the century”, Raisi asked for condemnation.</p>
+<p>He cited strikes on civilian targets such the al-Aqsa Hospital in Deir el-Balah, the 12th century Saint Porphyrius Greek Orthodox Church and the Jabalia refugee camp, saying these strikes amount to “crimes against humanity” and are “examples of apartheid practices not only against Palestinian Muslims but also against other divine religions, which is carried out with the support of American and several European countries”.</p>
+<p>Raisi, according to the statement from the president’s office, said it is the duty of Abrahamic religions, including Christians, to support “the oppressed people of Palestine”, and he voiced appreciation for Pope Francis’s repeated calls for a ceasefire in Gaza.</p>
+<p>He also asked the pope to evaluate the position of western countries supportive of Israel’s military activities and to “play a role in explaining the position of the oppressor and the oppressed in this story”.</p>
+<p>During the call, Raisi reiterated Iran’s position in support of Gaza and also voiced appreciation for the 70th anniversary of diplomatic ties between Iran and the Holy See, describing relations as currently “very good&#8221;.</p>
+<p>Raisi made a point of stating that Christians enjoy religious freedom in Iran and are treated as full citizens, the statement said, asserting that Christians from neighbouring countries also see Iran as a refuge and that “we defend not only the rights of Muslim nations but also the rights of Christians&#8221;.</p>
+<p>According to the statement, Pope Francis for his part voiced appreciation for Raisi’s support of those suffering in Gaza and stressed the need for a ceasefire, pledging that, “As the leader of the world’s Catholics I will do everything in my power to stop these attacks and prevent more women and children from becoming victims in Gaza”.</p>
+<p>Earlier on Sunday, Pope Francis reiterated his appeal for peace in Gaza during his weekly Angelus address, noting that countless lives continue to be lost.</p>
+<p>“In God’s name, I beg you to stop: stop using weapons! I hope that avenues will be pursued so that an escalation of the conflict might be absolutely avoided, the wounded can be rescued, and help might get to the population of Gaza where the humanitarian situation is extremely serious,” he said.</p>
+<p>Francis also asked that hostages taken by Hamas militants be “freed immediately”, noting that among them are many children.</p>
+<p>He asked that the children be returned to their families, saying, “let’s think of the children, of all the children affected by this war, as well as in Ukraine and by other conflicts: this is how their future is being killed. Let us pray that there might be the strength to say, ‘enough’.”</p>
+<p>Facing increased international pressure, including from the United Nations, over the rising number of civilian deaths in Gaza, Israel’s Ambassador to the Holy See Raphael Schutz in a series of Nov. 2 posts on social media platform X, previously called Twitter, responded to a video of Catholics sheltering in Gaza’s Holy Family parish as bombs fell nearby.</p>
+<p>“My sincere and heartfelt hope these and other innocent people won’t be hurt. War is a terrible thing. It was imposed on us by Hamas and we must fight and win it to secure our existence,” he said, saying that Israel, unlike Hamas, respects international law and is making “every effort to aim at military targets only”.</p>
+<p>“Please understand that for Hamas, killed Palestinian civilians, destroyed churches, burnt hospitals etc. are an asset. They operate from the vicinity of those not only in order to use them as shields but also because they know the public opinion will criticize Israel,” he said.</p>
+<p>Sunday’s call was the latest in a series of calls Pope Francis has held with international leaders in an attempt to mediate the situation in Gaza and push for a ceasefire, following an Oct. 22 phone call with United States President Joe Biden; and Oct. 26 phone conversation with Turkish President Recep Tayyip Erdoğan; and a Nov. 2 call with Palestinian President Mahmoud Abbas.</p>
+<p>On Oct. 30, Vatican Secretary for Relations with States British Archbishop Paul Gallagher spoke with Iran’s Foreign Minister Hossein Amir-Abdollahian, also at Iran’s request.</p>
+<p>According to Bruni, Gallagher during that call expressed “the serious concern of the Holy See for what is happening in Israel and Palestine” and stressed “the absolute need to avoid broadening the conflict and to reach a two-state solution for a peace stable and lasting in the Middle East”.</p>
+<p><em>Follow Elise Ann Allen on X:&nbsp;<a href="https://twitter.com/eliseannallen">@eliseannallen</a></em></p>
+<div class="pvc_clear"></div><p id="pvc_stats_779855" class="pvc_stats all  pvc_load_by_ajax_update" data-element-id="779855" style><i class="pvc-stats-icon small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 502 315" preserveAspectRatio="xMidYMid meet"><g transform="translate(0,332) scale(0.1,-0.1)" fill stroke="none"><path d="M2394 3279 l-29 -30 -3 -207 c-2 -182 0 -211 15 -242 39 -76 157 -76 196 0 15 31 17 60 15 243 l-3 209 -33 29 c-26 23 -41 29 -80 29 -41 0 -53 -5 -78 -31z" /><path d="M3085 3251 c-45 -19 -58 -50 -96 -229 -47 -217 -49 -260 -13 -295 52 -53 146 -42 177 20 16 31 87 366 87 410 0 70 -86 122 -155 94z" /><path d="M1751 3234 c-13 -9 -29 -31 -37 -50 -12 -29 -10 -49 21 -204 19 -94 39 -189 45 -210 14 -50 54 -80 110 -80 34 0 48 6 76 34 21 21 34 44 34 59 0 14 -18 113 -40 219 -37 178 -43 195 -70 221 -36 32 -101 37 -139 11z" /><path d="M1163 3073 c-36 -7 -73 -59 -73 -102 0 -56 133 -378 171 -413 34 -32 83 -37 129 -13 70 36 67 87 -16 290 -86 209 -89 214 -129 231 -35 14 -42 15 -82 7z" /><path d="M3689 3066 c-15 -9 -33 -30 -42 -48 -48 -103 -147 -355 -147 -375 0 -98 131 -148 192 -74 13 15 57 108 97 206 80 196 84 226 37 273 -30 30 -99 39 -137 18z" /><path d="M583 2784 c-38 -19 -67 -74 -58 -113 9 -42 211 -354 242 -373 16 -10 45 -18 66 -18 51 0 107 52 107 100 0 39 -1 41 -124 234 -80 126 -108 162 -133 173 -41 17 -61 16 -100 -3z" /><path d="M4250 2784 c-14 -9 -74 -91 -133 -183 -95 -150 -107 -173 -107 -213 0 -55 33 -94 87 -104 67 -13 90 8 211 198 130 202 137 225 78 284 -27 27 -42 34 -72 34 -22 0 -50 -8 -64 -16z" /><path d="M2275 2693 c-553 -48 -1095 -270 -1585 -649 -135 -104 -459 -423 -483 -476 -23 -49 -22 -139 2 -186 73 -142 361 -457 571 -626 285 -228 642 -407 990 -497 242 -63 336 -73 660 -74 310 0 370 5 595 52 535 111 1045 392 1455 803 122 121 250 273 275 326 19 41 19 137 0 174 -41 79 -309 363 -465 492 -447 370 -946 591 -1479 653 -113 14 -422 18 -536 8z m395 -428 c171 -34 330 -124 456 -258 112 -119 167 -219 211 -378 27 -96 24 -300 -5 -401 -72 -255 -236 -447 -474 -557 -132 -62 -201 -76 -368 -76 -167 0 -236 14 -368 76 -213 98 -373 271 -451 485 -162 444 86 934 547 1084 153 49 292 57 452 25z m909 -232 c222 -123 408 -262 593 -441 76 -74 138 -139 138 -144 0 -16 -233 -242 -330 -319 -155 -123 -309 -223 -461 -299 l-81 -41 32 46 c18 26 49 83 70 128 143 306 141 649 -6 957 -25 52 -61 116 -79 142 l-34 47 45 -20 c26 -10 76 -36 113 -56z m-2057 25 c-40 -58 -105 -190 -130 -263 -110 -324 -59 -707 132 -981 25 -35 42 -64 37 -64 -19 0 -241 119 -326 174 -188 122 -406 314 -532 468 l-58 71 108 103 c185 178 428 349 672 473 66 33 121 60 123 61 2 0 -10 -19 -26 -42z" /><path d="M2375 1950 c-198 -44 -350 -190 -395 -379 -18 -76 -8 -221 19 -290 114 -284 457 -406 731 -260 98 52 188 154 231 260 27 69 37 214 19 290 -38 163 -166 304 -326 360 -67 23 -215 33 -279 19z" /></g></svg></i> <img decoding="async" width="16" height="16" alt="Loading" src="https://catholic-herald.b-cdn.net/wp-content/plugins/page-views-count/ajax-loader-2x.gif" border="0" /></p><div class="pvc_clear"></div></div><div class="pigeon-context-promotion" style="display:none;"><div class="pigeon-fade" style="height: 200px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: linear-gradient(
+0deg
+, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 1%, rgba(0,212,255,0) 100%);
+    margin-top: -230px;"></div><p class="pigeon-cta">This page is available to subscribers. <a href="#" class="pigeon-open">Click here to sign in or get access</a>.</p></div> </div>
+</div>
+</div>
+<div class="post--social__and--tags__wrap">
+<div class="post--tags__wrap">
+<div class="row">
+<div class="col-md-12">
+<span class="post--tag tag--heading">Tags</span>
+<a href="https://catholicherald.co.uk/tag/iran/">
+<span class="post--tag">
+Iran </span>
+</a>
+<a href="https://catholicherald.co.uk/tag/pope-francis/">
+<span class="post--tag">
+Pope Francis </span>
+</a>
+</div>
+</div>
+</div>
+<div class="padding-top--35px"></div>
+<div class="post--social__share">
+<div class="row">
+<div class="col-md-12">
+<div class="d-lg-flex align-items-center post--social__share--inner">
+<div class="headingM mb-lg-0 mb-1">
+<span><i class="fas fa-share-alt"></i></span> Share
+</div>
+<div class="addtoany_shortcode"><div class="a2a_kit a2a_kit_size_24 addtoany_list" data-a2a-url="https://catholicherald.co.uk/pope-speaks-with-iran-president-confirms-call-for-ceasefire/" data-a2a-title="Pope speaks with Iran president, confirms call for ceasefire"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fcatholicherald.co.uk%2Fpope-speaks-with-iran-president-confirms-call-for-ceasefire%2F&amp;linkname=Pope%20speaks%20with%20Iran%20president%2C%20confirms%20call%20for%20ceasefire" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fcatholicherald.co.uk%2Fpope-speaks-with-iran-president-confirms-call-for-ceasefire%2F&amp;linkname=Pope%20speaks%20with%20Iran%20president%2C%20confirms%20call%20for%20ceasefire" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fcatholicherald.co.uk%2Fpope-speaks-with-iran-president-confirms-call-for-ceasefire%2F&amp;linkname=Pope%20speaks%20with%20Iran%20president%2C%20confirms%20call%20for%20ceasefire" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=https%3A%2F%2Fcatholicherald.co.uk%2Fpope-speaks-with-iran-president-confirms-call-for-ceasefire%2F&amp;linkname=Pope%20speaks%20with%20Iran%20president%2C%20confirms%20call%20for%20ceasefire" title="Pinterest" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class>
+<div class="other--posts__header pt-5">
+<div class="row">
+<div class="col-md-3">
+<div class="headingM">Other Posts </div>
+</div>
+<div class="col-md-9 text-md-right align-items-center">
+<ul class="default--list default--list__links default--list__inline other--posts__nav">
+<li>
+<a href="#!" class="active" data-slide-index="0">Related Articles</a>
+</li>
+<li>
+<a href="#!" data-slide-index="1">More From Author</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="other--posts__slider">
+<div class="slide">
+<div class="row">
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/bishops-elevate-st-winefrides-well-to-status-of-national-shrine/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Well-smaller-1024x683.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/bishops-elevate-st-winefrides-well-to-status-of-national-shrine/">Bishops elevate St Winefride&#8217;s Well to status of national shrine</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>17 hours ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/ushaw-declared-second-winner-of-prestigious-conservation-award/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/ushaw-chapel-1140-641-c-alexramsay-1024x576.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/ushaw-declared-second-winner-of-prestigious-conservation-award/">Ushaw declared second winner of prestigious conservation award</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>20 hours ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/vatican-upholds-ban-on-catholics-becoming-freemasons/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/53232217706_592eafafaf_o-991x1024.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/vatican-upholds-ban-on-catholics-becoming-freemasons/">Vatican upholds ban on Catholics becoming Freemasons</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>2 days ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/ireland-votes-for-abortion-clinic-buffer-zones/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2020/07/P10-abortion-1024x577.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/ireland-votes-for-abortion-clinic-buffer-zones/">Ireland votes for abortion clinic buffer zones</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>2 days ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/abortion-named-top-concern-at-us-bishops-conference/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Screenshot-2023-11-16-at-10.14.03-1024x591.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/abortion-named-top-concern-at-us-bishops-conference/">Abortion named top concern by US bishops&#8217; conference</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>3 days ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/christian-homes-and-a-catholic-school-among-buildings-destroyed-in-gaza/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Screenshot-2023-11-16-at-09.45.25-1024x736.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/christian-homes-and-a-catholic-school-among-buildings-destroyed-in-gaza/">Christian homes and a Catholic school among buildings destroyed in Gaza</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>3 days ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/do-not-kowtow-to-this-evil-a-chinese-catholic-speaks-out-as-hong-kong-welcomes-senior-communist-endorsed-bishop/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/image0-1.jpeg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/do-not-kowtow-to-this-evil-a-chinese-catholic-speaks-out-as-hong-kong-welcomes-senior-communist-endorsed-bishop/">&#8216;Do not kowtow to this evil&#8217;: a Chinese Catholic speaks out as senior Communist-endorsed bishop visits Hong Kong</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>3 days ago </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/head-of-chinas-government-backed-bishops-body-visits-hong-kong/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-11.10.34-3.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/head-of-chinas-government-backed-bishops-body-visits-hong-kong/">Head of China’s government-backed bishops’ body visits Hong Kong</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>4 days ago </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="row">
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/head-of-chinas-government-backed-bishops-body-visits-hong-kong/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-11.10.34-3.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/head-of-chinas-government-backed-bishops-body-visits-hong-kong/">Head of China’s government-backed bishops’ body visits Hong Kong</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>4 days ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/pope-francis-sacks-bishop-strickland/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2020/01/P8-Strickland-copy-1024x683.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/pope-francis-sacks-bishop-strickland/">Pope Francis sacks Bishop Strickland</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>1 week ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/pope-francis-prays-for-peace-at-the-graves-of-allied-soldiers-from-the-second-world-war/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/cq5dam.thumbnail.cropped.500.281.jpeg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/pope-francis-prays-for-peace-at-the-graves-of-allied-soldiers-from-the-second-world-war/">Pope Francis prays for peace at the graves of Allied soldiers from the Second World War</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>2 weeks ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/synod-on-synodality-ends-with-no-clear-or-concrete-proposals-after-a-month-of-silence/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/10/GettyImages-1751960975-1024x683.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/synod-on-synodality-ends-with-no-clear-or-concrete-proposals-after-a-month-of-silence/">Synod on Synodality ends with no clear or concrete proposals after a month of silence</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>3 weeks ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/differences-at-synod-on-synodality-are-in-fact-a-source-of-richness-says-cardinal-nzapalainga/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/10/GettyImages-624339144-1024x683.jpg" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/differences-at-synod-on-synodality-are-in-fact-a-source-of-richness-says-cardinal-nzapalainga/">Differences at Synod on Synodality are a &#8216;source of richness&#8217;, says Cardinal Nzapalainga</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>3 weeks ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/in-letter-to-people-of-god-participants-say-synod-isnt-about-ideology/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/10/Screenshot-2023-10-26-at-12.55.16-1024x515.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/in-letter-to-people-of-god-participants-say-synod-isnt-about-ideology/">In letter to People of God, participants say synod isn’t about ‘ideology’</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>3 weeks ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/jerusalem-patriarch-condemns-hamas-attack-israeli-bombing-in-gaza/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/10/Screenshot-2023-10-25-at-12.06.53-1024x543.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/jerusalem-patriarch-condemns-hamas-attack-israeli-bombing-in-gaza/">Jerusalem Patriarch condemns Hamas attack, Israeli bombing in Gaza</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>4 weeks ago </div>
+</div>
+</div>
+</div>
+<div class="col-6 related--post">
+<div class="post--thumbnail related--post__inner">
+<div class="post--image">
+<a href="https://catholicherald.co.uk/catechism-author-says-pope-could-change-language-on-lgbtq-issues/"> <img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/10/Screenshot-2023-10-24-at-11.32.41.png" alt></a>
+</div>
+<div class="post--content">
+<div class="title">
+<a class="bodyLM" href="https://catholicherald.co.uk/catechism-author-says-pope-could-change-language-on-lgbtq-issues/">Catechism author says Pope could change language on LGBTQ+ issues</a>
+</div>
+<div class="padding-top--5px"></div>
+<div class="date color--red ">
+<i class="far fa-calendar-alt color--red mr-2"></i>4 weeks ago </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 d-none d-md-block d-lg-block">
+<div class="row sticky--single__post">
+<div class="col-md-12 right--column">
+<div class="section--wrap">
+
+<div class="row ">
+<div class="col-md-12 px-4 px-md-3">
+<div class="headingM">
+Related Posts
+</div>
+</div>
+</div>
+<div class="padding-top--25px"></div>
+<div class="row">
+<div class="col-md-12 px-4 px-md-3">
+<ul class="default--list default--list__links recent--posts__list">
+<li>
+<a href="https://catholicherald.co.uk/church-leaders-ask-christians-in-holy-land-to-refrain-from-advent-and-christmas-celebrations/">
+<div class="container-fluid">
+<div class="row">
+<div class="col-5 pl-0">
+<div class="img--wrap">
+<img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1791613510.jpg" alt>
+</div>
+</div>
+<div class="col-7 px-0">
+<div class="padding-top--5px"></div>
+<div class="bodyL">Church leaders ask Christians in Holy Land to refrain from Advent and Christmas celebrations</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://catholicherald.co.uk/bishops-offer-prayers-after-young-girl-dies-in-hospice/">
+<div class="container-fluid">
+<div class="row">
+<div class="col-5 pl-0">
+<div class="img--wrap">
+<img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/Screenshot-2023-11-14-at-08.41.44-1024x677.png" alt>
+</div>
+</div>
+<div class="col-7 px-0">
+<div class="padding-top--5px"></div>
+<div class="bodyL">English bishops demand changes to law after young girl dies in hospice</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://catholicherald.co.uk/covid-lockdown-of-churches-was-outrageous-admits-former-government-minister/">
+<div class="container-fluid">
+<div class="row">
+<div class="col-5 pl-0">
+<div class="img--wrap">
+<img src="https://catholic-herald.b-cdn.net/wp-content/uploads/2023/11/GettyImages-1218357918-1.jpeg" alt>
+</div>
+</div>
+<div class="col-7 px-0">
+<div class="padding-top--5px"></div>
+<div class="bodyL">Covid lockdown of churches was &#8216;outrageous&#8217;, admits former government minister</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="padding-top--20px"></div>
+<div class="row">
+<div class="col-12 px-4 px-md-3">
+<div class="stay--connected__section">
+<div class="headingM color--red heading--underline">
+Stay Connected
+</div>
+<ul class="default--list default--list__links default--list__inline stay--connected__list">
+<li>
+<a href="https://twitter.com/CatholicHerald" target="_blank"><i class="fab fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://www.facebook.com/CatholicHeraldMagazine/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/TheCatholicHerald" target="_blank"><i class="fab fa-youtube"></i></a>
+</li>
+<li>
+<a href="https://www.instagram.com/catholicheraldmag/" target="_blank"><i class="fab fa-instagram"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="padding-top--25px"></div>
+<div class="row justify-content-center">
+</div>
+
+<div id="CH002" class="text-center adblock mt-3">
+<script>
+                                googletag.cmd.push(function() { googletag.display('CH002'); });
+                            </script>
+</div>
+
+<div class="padding-top--40px"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="padding-top--40px"></div>
+<style>
+   .post--main {
+       font-size: 20px !important;
+       line-height: 1.3;
+   }
++</style><footer class="new--footer position-relative">
+<div class="footer--top d-none">
+<div class="wide--wrap">
+<div class="container-fluid">
+<div class="row align-items-center">
+<div class="col-md-2 position-relative">
+<img class="footer--image" src="https://catholic-herald.b-cdn.net/wp-content/themes/catholic-herald-update/assets/images/magazine.png">
+</div>
+<div class="col-md-8 text-center px-lg-5">
+<div class="headingML">
+Make A Donation </div>
+<div class="padding-top--10px"></div>
+<div class="bodyM">
+<p>Areas of Catholic Herald business are still recovering post-pandemic. The magazine is now reaching many UK parishes and its globals subscription base continues to rise.</p>
+<p>However, are reaching out to the Catholic community and readership, that has been so loyal to the Catholic Herald. Please join us on our 135 year mission by supporting us.</p>
+<p>We are raising £250,000 to safeguard the Herald as a world-leading voice in Catholic journalism and teaching.</p>
+<p>We have been a bold and influential voice in the church since 1888, standing up for traditional Catholic culture and values. Please consider donating</p>
+</div>
+</div>
+<div class="col-md-2">
+<a class="default--button red donation--trigger mt-4 mt-md-0">Learn more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer--bottom position-relative text-left">
+<div class="padding-top--70px"></div>
+<div class="wide--wrap">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-5 col-12">
+<div class="headingL">Don't miss a single story.</div>
+<div class="headingML half--opacity">Sign up to our newsletter</div>
+<div class="padding-top--40px"></div>
+<form action="https://catholicherald.us2.list-manage.com/subscribe/post?u=c9f22213bc06963a5e8df3944&amp;id=5caf98b897" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div class="footer--input__wrap">
+<input type="email" value name="EMAIL" class="footer--input" placeholder="Please enter email address...">
+<button type="submit" value="Subscribe" name="subscribe" class="default--button red">
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="auto" viewBox="0 0 11.751 21.072">
+<path id="Path_12203" data-name="Path 12203" d="M20.721.374A1.128,1.128,0,0,0,19.88.031a1.2,1.2,0,0,0-.841.343l-8.5,8.472L2.064.374A1.23,1.23,0,0,0,1.191,0,1.2,1.2,0,0,0,.35.343a1.222,1.222,0,0,0,0,1.713L9.664,11.4a1.222,1.222,0,0,0,1.713,0l9.344-9.313a1.222,1.222,0,0,0,0-1.713Z" transform="translate(0 21.072) rotate(-90)" fill="#fff" />
+</svg>
+</button>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c9f22213bc06963a5e8df3944_5caf98b897" tabindex="-1" value></div>
+<div class="clear"></div>
+</div>
+</form>
+</div>
+<div class="col-md-6 col-12">
+<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer--list mt-3 mt-md-0"><li id="menu-item-774054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774054"><a href="https://catholicherald.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-774056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774056"><a href="https://catholicherald.co.uk/advertising/">Advertise</a></li>
+<li id="menu-item-774055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774055"><a href="https://catholicherald.co.uk/classified_resources/">Classifieds</a></li>
+<li id="menu-item-774057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774057"><a href="https://catholicherald.co.uk/about/">About Us</a></li>
+<li id="menu-item-774058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774058"><a href="https://catholicherald.co.uk/jobs/">Jobs</a></li>
+<li id="menu-item-774076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774076"><a target="_blank" rel="noopener" href="https://reader.exacteditions.com/magazines/440/issues/">Exact Editions Archives</a></li>
+<li id="menu-item-774075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774075"><a target="_blank" rel="noopener" href="https://archive.catholicherald.co.uk/">Historical Archives</a></li>
+<li id="menu-item-774074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774074"><a href="https://catholicherald.co.uk/events/">Events</a></li>
+<li id="menu-item-777503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777503"><a href="https://catholicherald.co.uk/magnificat/">Magnificat</a></li>
+</ul></div> </div>
+</div>
+<div class="padding-top--30px"></div>
+<div class="row justify-content-between px-md-3">
+<div class="col-12 col-lg-6 text-lg-left text-left order-2 order-lg-1 pl-0">
+<div class="bodyS half--opacity font--helvetica">&copy; Catholic Herald 2023</div>
+</div>
+<div class="col-12 col-lg-6 order-lg-2 order-1 text-lg-right ">
+<div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="footer--list__privacy mb-0"><li id="menu-item-774065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774065"><a href="https://catholicherald.co.uk/terms-conditions-2/">Terms &amp; Conditions</a></li>
+<li id="menu-item-774066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774066"><a href="https://catholicherald.co.uk/privacy-policy/">Privacy Policy</a></li>
+</ul></div>
+<a href="https://thecurious.agency/" target="_blank" class="curious-logo">
+<svg xmlns="http://www.w3.org/2000/svg" width="123.183" height="9.592" viewBox="0 0 123.183 9.592">
+<path id="Union_15" data-name="Union 15" d="M8509.9,23604.746h1.007a2,2,0,0,0,2.181,1.92c1.167,0,2-.445,2-1.465,0-2.156-4.905-.971-4.905-3.969,0-1.334,1.161-2.234,2.844-2.234a2.71,2.71,0,0,1,2.963,2.482h-1.008a1.76,1.76,0,0,0-1.955-1.557c-1.144,0-1.812.5-1.812,1.309,0,2.145,4.941.813,4.941,3.969,0,1.523-1.321,2.389-3.069,2.389A2.927,2.927,0,0,1,8509.9,23604.746Zm-7.731-.137v-5.516h1.007v5.568a2.172,2.172,0,0,0,4.331,0v-5.568h1v5.516a3.172,3.172,0,0,1-6.333,0Zm-9.717-1.314a4.121,4.121,0,1,1,4.111,4.295A4.091,4.091,0,0,1,8492.448,23603.295Zm1.055,0a3.077,3.077,0,1,0,3.057-3.371A3.135,3.135,0,0,0,8493.5,23603.295Zm-19.907,1.314v-5.516h1.007v5.568a2.172,2.172,0,0,0,4.331,0v-5.568h1v5.516a3.172,3.172,0,0,1-6.333,0Zm-8.977-1.314a3.947,3.947,0,0,1,4.041-4.3,3.408,3.408,0,0,1,3.549,2.715h-1.078a2.332,2.332,0,0,0-2.471-1.789c-1.754,0-2.986,1.184-2.986,3.371s1.232,3.371,2.986,3.371a2.313,2.313,0,0,0,2.482-1.789h1.055a3.336,3.336,0,0,1-3.537,2.713A3.946,3.946,0,0,1,8464.619,23603.295Zm-70.616,1.451h1a2.009,2.009,0,0,0,2.187,1.92c1.161,0,2-.445,2-1.465,0-2.156-4.905-.971-4.905-3.969,0-1.334,1.161-2.234,2.844-2.234a2.71,2.71,0,0,1,2.963,2.482h-1.008a1.76,1.76,0,0,0-1.955-1.557c-1.138,0-1.812.5-1.812,1.309,0,2.145,4.941.813,4.941,3.969,0,1.523-1.315,2.389-3.069,2.389A2.927,2.927,0,0,1,8394,23604.746Zm95.791,2.748v-8.4h1.019v8.4Zm-34.921,0v-8.4h5.256v.924h-4.236v2.678h3.442v.924h-3.442v2.951h4.366v.924Zm-3.039,0v-3.875h-4.449v3.875h-1.02v-8.4h1.02v3.6h4.449v-3.6h1.02v8.4Zm-10.41,0v-7.477h-2.689v-.924h6.393v.924h-2.672v7.477Zm-10.226,0v-3.52l-2.975-4.881h1.161l2.329,3.9,2.316-3.9h1.161l-2.975,4.881v3.52Zm-19.439,0v-8.4h5.256v.924h-4.236v2.678h3.442v.924h-3.442v2.951h4.366v.924Zm-4.946,0v-7.477h-2.685v-.924h6.393v.924h-2.678v7.477Zm-4.978,0v-8.4h1.02v8.4Zm84.777-.006-.148-2.025a1.354,1.354,0,0,0-1.362-1.393h-2.281v3.418H8481.8v-8.395h3.181a2.41,2.41,0,0,1,2.673,2.459,2.1,2.1,0,0,1-1.321,1.955,2.251,2.251,0,0,1,1.119,1.9l.143,2.084Zm-3.792-4.342h2.162a1.476,1.476,0,0,0,1.618-1.594,1.445,1.445,0,0,0-1.618-1.547h-2.162Zm-60.936,4.342v-8.395h3c1.6,0,2.571.793,2.571,2.162a1.843,1.843,0,0,1-1.12,1.641,2.1,2.1,0,0,1,1.493,2.152c0,1.5-1.025,2.439-2.749,2.439Zm1.019-.924h2.009c1.232,0,1.866-.539,1.866-1.535s-.634-1.545-1.866-1.545H8422.9Zm0-3.992h1.955c1.008,0,1.57-.428,1.57-1.293s-.562-1.285-1.57-1.285H8422.9Z" transform="translate(-8393.471 -23598.498)" fill="#141414" stroke="rgba(0,0,0,0)" stroke-width="1" />
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="submit--container newsletter--popup">
+<div class="submit--block">
+<div class="submit--outer">
+<a class="default--icon modal--close">
+<svg xmlns="http://www.w3.org/2000/svg" width="15.528" height="15.528" viewBox="0 0 15.528 15.528">
+<g id="Union_12" data-name="Union 12" transform="translate(-8335.999 -12243.999)" fill="#212121">
+<path d="M 8337.1962890625 12258.8203125 L 8336.70703125 12258.3330078125 L 8342.9228515625 12252.1162109375 L 8343.2763671875 12251.7626953125 L 8342.9228515625 12251.4091796875 L 8336.708984375 12245.1953125 L 8337.1962890625 12244.7060546875 L 8343.41015625 12250.921875 L 8343.763671875 12251.275390625 L 8344.1171875 12250.921875 L 8350.3330078125 12244.7060546875 L 8350.8203125 12245.1953125 L 8344.60546875 12251.41015625 L 8344.251953125 12251.763671875 L 8344.60546875 12252.1171875 L 8350.8203125 12258.3330078125 L 8350.3330078125 12258.8203125 L 8344.1181640625 12252.6044921875 L 8343.7646484375 12252.2509765625 L 8343.4111328125 12252.6044921875 L 8337.1962890625 12258.8203125 Z" stroke="none" />
+<path d="M 8350.3330078125 12259.52734375 L 8343.7646484375 12252.9580078125 L 8337.1962890625 12259.52734375 L 8335.9990234375 12258.3330078125 L 8342.5693359375 12251.7626953125 L 8336.001953125 12245.1953125 L 8337.1962890625 12243.9990234375 L 8343.763671875 12250.568359375 L 8350.3330078125 12243.9990234375 L 8351.52734375 12245.1953125 L 8344.958984375 12251.763671875 L 8351.52734375 12258.3330078125 L 8350.3330078125 12259.52734375 Z" stroke="none" fill="#212122" />
+</g>
+</svg>
+</a>
+<div class="submit--contents">
+<div class="container-fluid">
+<div class="row justify-content-center">
+<div class="col-md-4 px-0">
+</div>
+<div class="col-md-8 d-flex justify-content-center align-items-center color--white px-md-5">
+<div>
+<div class="headingL">Don’t miss a single story. Sign up to our newsletter</div>
+<div class="padding-top--10px"></div>
+<div class="bodyL">Mauris accumsan mi nec orci volutpat, eu imperdiet tellus tempus. Fusce id lacus rhoncus, volutpat mi </div>
+<div class="padding-top--10px"></div>
+<input class="default--input" placeholder="Email Address…">
+<div class="padding-top--10px"></div>
+<button class="default--button">Submit</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+jQuery(".pvc_stats").css({
+    "visibility": "hidden"
+});
+</script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/catholicherald.co.uk\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8" id="contact-form-7-js"></script>
+<script type="text/javascript" id="disqus_count-js-extra">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"catholicherald-1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.23" id="disqus_count-js"></script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-includes/js/comment-reply.min.js?ver=6.4.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://catholic-herald.b-cdn.net/wp-content/themes/catholic-herald-update/assets/scripts/main.js?ver=9.5" id="curious/js-js"></script>
+</body>
+</html>

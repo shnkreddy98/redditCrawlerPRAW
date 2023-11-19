@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Antarctic sets a record low maximum by wide margin | Arctic Sea Ice News and Analysis</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="https://nsidc.org/arcticseaicenews/xmlrpc.php" />
+
+<!--[if lt IE 9]>
+<script src="https://nsidc.org/arcticseaicenews/wp-content/themes/asina-2012/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<!-- STYLES INCLUDE -->
+<!-- begin meta_robots.ssi -->
+
+
+
+<!-- meta robots tag only included on testsnowtest.org test server -->
+
+
+
+<!-- end meta_robots.ssi -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/css/nsidc.css" type="text/css" media="all" />
+<link rel="stylesheet" href="/css/nsidc-header-2014.css" type="text/css" media="all" />
+<link href="/css/nsidc-jquery-ui.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/css/nsidc_print.css" type="text/css" media="print" />
+	<link rel="stylesheet" href="https://nsidc.org/arcticseaicenews/wp-content/themes/asina-2012/js/jquery.fancybox.css" type="text/css" />
+    <link rel="stylesheet" href="/css/nsidc_secondary.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="https://nsidc.org/arcticseaicenews/wp-content/themes/asina-2012/style.css?version=2" />
+	<!-- END PAGE/SECTION SPECIFIC STYLES -->
+<!-- END STYLES INCLUDE -->
+<link rel="alternate" type="application/rss+xml" title="NSIDC Arctic News and Analysis RSS Feed" href="http://nsidc.org/news/RSS/nsidc_seaice_min.xml" />
+<!-- BEGIN SCRIPTS -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0013/2090.js" async="async"></script>
+	<!-- BEGIN SCRIPTS INCLUDE -->
+	<!--makes windo.onload non-destructive -->
+<script type="text/javascript" src="/scripts/global/functionOnload.js"></script>
+
+<!--build Service Interruption Notice window -->
+<script type="text/javascript" src="/scripts/global/buildModalDiv.js"></script>
+
+<!-- google api code required to load jquery in the fuction below -->
+
+<!-- load jQuery core and UI from Google ONLY IF page is not a set-aside nsidc app -->
+<!--
+<script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAADUHkVio4sWeNGpsbEqKKehQtRVw6tjCZahU1bPh5inofNBpAVBT_GknmqHhvhO4DcC5cfBhQIHNlbA"></script> 
+-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript"></script> 
+
+
+<!-- script for drop-down menus - REPLACED WITH MEGA MENU SCRIPT  -->
+<script type="text/javascript" src="/scripts/nsidc-nav.js"></script>
+
+<!-- script to rotate the background image onload -->
+<script type="text/javascript" src="/scripts/global/jquery-background.js"></script>
+
+
+<!-- start analytics.ssi -->
+
+
+
+<!-- start NSIDC web analytics scripts -->
+
+<!-- BEGIN: NetInsight Page Tag -->   
+<!-- Copyright 2004 Sane Solutions, LLC.  All rights reserved. -->
+<!-- <script type="text/javascript" src="/scripts/ntpagetag.js"></script> -->
+
+<!-- END: NetInsight Page Tag -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNP7MLF');</script>
+<!-- End Google Tag Manager -->
+
+<!-- begin scripts for google analytics -->
+<!-- Google analytics script removed on 03/09/2022 per JIRA ticket NDW-1808 -->
+<!-- end scripts for google analytics -->
+<!-- end NSIDC web analytics scripts -->
+
+
+
+<!-- end analytics.ssi -->
+
+<!-- google search script -->
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cref"></script>
+
+<!-- jquery autocomplete script for site-wide search -->
+<script type="text/javascript">
+        jQuery(function ($) {
+            $('input.search')
+          .focus(function () { this.select(); })
+          .mouseup(function (e) { e.preventDefault(); })
+          .autocomplete({
+              position: { my: "left top", at: "left bottom", offset: "0, 0", collision: "none" },
+              source: function (request, response) {
+                  $.ajax({
+                      url: "//clients1.google.com/complete/search?q=" + request.term + "&hl=en&client=partner&source=gcsc&partnerid=003583054367551111343:oocmuftmnau&ds=cse&nocache=" + Math.random().toString(),
+                      dataType: "jsonp",
+                      success: function (data) {
+                          response($.map(data[1], function (item) {
+                              return {
+                                  label: item[0],
+                                  value: item[0]
+                              };
+                          }));
+                      }
+                  });
+              },
+              autoFill: true,
+              minChars: 0,
+              select: function (event, ui) {
+                  $(this).closest('input').val(ui.item.value);
+                  $(this).closest('form').trigger('submit');
+              }
+          });
+        })
+</script>
+<!-- file needed for jquery fancybox plugin that delivers popup modal functionality on glossary terms throughout the site -->
+
+<script src="/scripts/jquery/plugins/jquery.fancybox.js" type="text/javascript"></script>
+<script src="/scripts/jquery/plugins/glossary-fancybox-options.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.selectboxit/3.8.0/jquery.selectBoxIt.min.js"></script>
+
+<!-- end NSIDC global scripts -->
+
+<!-- end scripts include -->
+
+	<!-- END SCRIPTS INCLUDE -->
+<script src="https://nsidc.org/arcticseaicenews/wp-content/themes/asina-2012/js/jquery.mousewheel-3.0.6.pack.js" type="text/javascript"></script>
+
+	<!-- BEGIN PAGE SPECIFIC SCRIPTS -->
+    	<!-- END PAGE SPECIFIC SCRIPTS -->
+<!-- END SCRIPTS -->
+<link rel="alternate" type="application/rss+xml" title="Arctic Sea Ice News and Analysis &raquo; Feed" href="https://nsidc.org/arcticseaicenews/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Arctic Sea Ice News and Analysis &raquo; Comments Feed" href="https://nsidc.org/arcticseaicenews/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/nsidc.org\/arcticseaicenews\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery.lightbox.min.css-css'  href='https://nsidc.org/arcticseaicenews/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.4.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://nsidc.org/arcticseaicenews/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='https://nsidc.org/arcticseaicenews/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<link rel='https://api.w.org/' href='https://nsidc.org/arcticseaicenews/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nsidc.org/arcticseaicenews/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nsidc.org/arcticseaicenews/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Arctic sea ice minimum at sixth lowest extent on record' href='https://nsidc.org/arcticseaicenews/2023/09/arctic-sea-ice-minimum-at-sixth/' />
+<link rel='next' title='The Sun sets on the Arctic melt season' href='https://nsidc.org/arcticseaicenews/2023/10/the-sun-sets-on-the-arctic-melt-season/' />
+<meta name="generator" content="WordPress 4.5.2" />
+<link rel="canonical" href="https://nsidc.org/arcticseaicenews/2023/09/antarctic-sets-a-record-low-maximum-by-wide-margin/" />
+<link rel='shortlink' href='https://nsidc.org/arcticseaicenews/?p=13905' />
+<link rel="alternate" type="application/json+oembed" href="https://nsidc.org/arcticseaicenews/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnsidc.org%2Farcticseaicenews%2F2023%2F09%2Fantarctic-sets-a-record-low-maximum-by-wide-margin%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://nsidc.org/arcticseaicenews/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnsidc.org%2Farcticseaicenews%2F2023%2F09%2Fantarctic-sets-a-record-low-maximum-by-wide-margin%2F&#038;format=xml" />
+</head>
+
+<body class="single single-post postid-13905 single-format-standard singular two-column right-sidebar">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNP7MLF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page" class="hfeed">
+<!-- BEGIN MAIN WRAPPER 
+<div id="mainWrapper">-->
+	<!-- BEGIN WRAPPER -->
+	<div id="wrapper">
+    	<!-- BEGIN HEADER -->
+        	<!-- NSIDC HEADER/NAV SSI -->
+            <!-- BEGIN nsidc.ssi -->
+<div id="header">
+<div id="header-inside-left"><div id="logo"><h1><a href="/">National Snow and Ice Data Center</a></h1></div></div>
+<div id="nsidc-menu">
+<ul class="nsidc-nav">
+	<li class="main"><a href="https://nsidc.org/news-analyses">News & Analyses</a>
+	<li class="main"><a href="https://nsidc.org/data">Data</a>
+	<li class="main"><a href="https://nsidc.org/our-research">Our Research</a>
+	<li class="main"><a href="https://nsidc.org/learn">Learn</a>
+	<li class="main"><a href="https://nsidc.org/about">About</a>
+</ul>
+</div><!-- end menu -->
+
+<div id="nsidc-search">
+<div id="search-box">
+	   <a href="https://nsidc.org/search/node" target="_blank"
+       <form>
+        <input class="submit-btn" type="submit" name="submit" src="/images/search-submit-btn.png" alt="Submit" /></form></a></div>
+  </div><!-- nsidc-search -->
+</div>
+<!-- END nsidc.ssi --
+            <!-- end NSIDC HEADER/NAV SSI -->
+        <!-- END HEADER -->
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><a href="https://nsidc.org/arcticseaicenews/" title="Arctic Sea Ice News and Analysis" rel="home">Arctic Sea Ice News and Analysis</a></h1>
+<div style="text-align: right;padding-right:24px;width: 5%;float: right;"><a href="https://www.nasa.gov" target="_blank"><img alt="NASA logo" src="https://nsidc.org/arcticseaicenews/wp-content/themes/asina-2012/images/nasa-logo.png" width="42" height="35"></a></div>
+			</hgroup>
+<!--
+						<a href="https://nsidc.org/arcticseaicenews/">
+				                    <div id="home-feature">
+					<img src="https://nsidc.org/arcticseaicenews/wp-content/themes/asina-2012/images/headers/lanterns.jpg" width="1100" height="456" alt="" />
+                    </div>
+							</a>
+			
+								<form method="get" id="searchform" action="https://nsidc.org/arcticseaicenews/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="https://nsidc.org/arcticseaicenews/">Home</a></li><li class="page_item page-item-6722"><a href="https://nsidc.org/arcticseaicenews/about-charctic-data/">About Charctic data</a></li><li class="page_item page-item-1067"><a href="https://nsidc.org/arcticseaicenews/about-the-data/">About the data</a></li><li class="page_item page-item-5105"><a href="https://nsidc.org/arcticseaicenews/antarctic-daily-image-update/">Antarctic Daily Image Update</a></li><li class="page_item page-item-3175"><a href="https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/">Ch<em>arctic</em> Interactive Sea Ice Graph</a></li><li class="page_item page-item-2"><a href="https://nsidc.org/arcticseaicenews/faq/">Frequently Asked Questions on Arctic sea ice</a></li><li class="page_item page-item-1069"><a href="https://nsidc.org/arcticseaicenews/graphics-information/">Graphics information</a></li><li class="page_item page-item-5176"><a href="https://nsidc.org/arcticseaicenews/map-of-antarctica/">Map of Antarctica</a></li><li class="page_item page-item-1248"><a href="https://nsidc.org/arcticseaicenews/map-of-the-arctic-ocean/">Map of the Arctic Ocean</a></li><li class="page_item page-item-1240"><a href="https://nsidc.org/arcticseaicenews/press-information/">Press Information</a></li><li class="page_item page-item-11066"><a href="https://nsidc.org/arcticseaicenews/sea-ice-analysis-tool/">Sea Ice Analysis Tool</a></li><li class="page_item page-item-8091"><a href="https://nsidc.org/arcticseaicenews/sea-ice-tools/">Sea Ice Data and Analysis Tools</a></li><li class="page_item page-item-8109"><a href="https://nsidc.org/arcticseaicenews/sea-ice-comparison-tool/">Sea Ice Spatial Comparison Tool</a></li></ul></div>
+			</nav>  -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="https://nsidc.org/arcticseaicenews/2023/09/arctic-sea-ice-minimum-at-sixth/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="https://nsidc.org/arcticseaicenews/2023/10/the-sun-sets-on-the-arctic-melt-season/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-13905" class="post-13905 post type-post status-publish format-standard hentry category-analysis">
+	<header class="entry-header">
+		<h1 class="entry-title">Antarctic sets a record low maximum by wide margin</h1>
+
+				<div class="entry-meta">
+			<a href="https://nsidc.org/arcticseaicenews/2023/09/antarctic-sets-a-record-low-maximum-by-wide-margin/" title="1:00 pm" rel="bookmark"><time class="entry-date" datetime="2023-09-25T13:00:45+00:00" pubdate>September 25, 2023</time></a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>On September 10, Antarctic sea ice likely reached its annual maximum extent of 16.96 million square kilometers (6.55 million square miles). This is the lowest sea ice maximum in the 1979 to 2023 sea ice record by a wide margin.</p>
+<p><em>Please note that this is a preliminary announcement. Changing winds or late-season growth could still increase the Antarctic ice extent. NSIDC scientists will release a full analysis of the Antarctic and Arctic September conditions in early October.</em></p>
+<h2>Overview of conditions</h2>
+<div id="attachment_13908" class="wp-caption alignleft" style="width: 360px"><a href="http://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0.png" rel="lightbox[13905]"><img class="size-medium wp-image-13908" src="http://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0-350x417.png" alt="Antarctic sea ice extent on September 10, 2023" width="350" height="417" srcset="https://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0-350x417.png 350w, https://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0-860x1024.png 860w, https://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0-252x300.png 252w, https://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0.png 1461w" sizes="(max-width: 350px) 100vw, 350px" /></a><p class="wp-caption-text">Figure 1. Antarctic sea ice extent for September 10 2023, was 16.96 million square kilometers (6.55 million square miles). The orange line shows the 1981 to 2010 average extent for that day. <a href="http://nsidc.org/data/seaice_index"> Sea Ice Index</a> data. <a href="http://nsidc.org/arcticseaicenews/about-the-data/">About the data</a><br /><br />Credit: National Snow and Ice Data Center<br /><a href="http://nsidc.org/arcticseaicenews/files/2023/09/S_20230910_extn_hires_v3.0.png" rel="lightbox[13905]">High-resolution image</a></p></div>
+<p>On September 10, 2023, sea ice in the Antarctic reached an annual maximum extent of 16.96 million square kilometers (6.55 million square miles), setting a record low maximum in the satellite record that began in 1979 (Figure 1). This year’s maximum is 1.03 million square kilometers (398,000 square miles) below the previous record low set in 1986. It is also 1.75 million square kilometers below (676,000 square miles) below the 1981 to 2010 average Antarctic maximum extent. Sea ice extent is markedly below average north of Queen Maud Land and west of the Antarctic Peninsula. Other low areas include the Indian Ocean and Ross Sea. Extent is above average stretching out of the Amundsen Sea.</p>
+<p>The Antarctic maximum extent is one of the earliest on record, having reached it 13 days earlier than the 1981 to 2010 median date of September 23. The interquartile range for the date of the Antarctic maximum is September 18 to September 30.</p>
+<h2>Conditions in context</h2>
+<div id="attachment_13909" class="wp-caption alignleft" style="width: 360px"><a href="http://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries.png" rel="lightbox[13905]"><img class="size-medium wp-image-13909" src="http://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries-350x280.png" alt="Antarctic sea ice extent compared to other years" width="350" height="280" srcset="https://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries-350x280.png 350w, https://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries-1024x819.png 1024w, https://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries-375x300.png 375w, https://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries.png 1050w" sizes="(max-width: 350px) 100vw, 350px" /></a><p class="wp-caption-text">Figure 2. The graph above shows Antarctic sea ice extent as of September 10, 2023, along with daily ice extent data for four previous years and the record maximum year. 2023 is shown in blue, 2022 in green, 2021 in orange, 2020 in brown, 2019 in magenta, and 2014 in dashed brown. The 1981 to 2010 median is in dark gray. The gray areas around the median line show the interquartile and interdecile ranges of the data. <a href="http://nsidc.org/data/seaice_index">Sea Ice Index</a> data.<br /><br />Credit: National Snow and Ice Data Center<br /><a href="http://nsidc.org/arcticseaicenews/files/2023/09/2023-09-10_asina_S_iqr_timeseries.png" rel="lightbox[13905]">High-resolution image</a></p></div>
+<p>This year marks a significant record low maximum in Antarctic sea ice extent (Figure 2). Since early April 2023, sea ice maintained record low ice growth. From early to mid-August, growth slowed considerably, maintaining a difference of nearly 1.5 million square kilometers (579,000 square miles) between 2023 and 1986, the second lowest year on satellite record. After that period, ice growth quickened and narrowed the gap to about 1 million square kilometers (386,000 square miles). This is the first time that sea ice extent has not surpassed 17 million square kilometers (6.56 million square miles),<span class=""><span style="color: #373737;font-family: Arial, Helvetica, sans-serif"><span class=""> falling more than one million square kilometers below the previous record low maximum extent set in 1986. </span></span></span></p>
+<div class=""><span class=""><span style="color: #373737;font-family: Arial, Helvetica, sans-serif"><span class="">While weather conditions like winds and temperature control much of the day-to-day variations in ice extent, the long-term downward trend is a topic of much debate. The overall, trend in the maximum extent from 1979 to 2023 is 0.1 percent per decade relative to the 1981 to 2010 average, which is not a significant trend.</span></span></span></div>
+<div class=""></div>
+<div class=""><span class=""><span style="color: #373737;font-family: Arial, Helvetica, sans-serif"><span class="">However, since August 2016, the <a href="https://nsidc.org/arcticseaicenews/2023/07/arctic-low-antarctic-whoa/">Antarctic sea ice extent trend</a> took a sharp downturn across nearly all months (Figure 4c in <a href="https://nsidc.org/arcticseaicenews/2023/07/arctic-low-antarctic-whoa/">previous post</a>). Most research has suggested that changes in the near-surface ocean heat content is responsible for the sluggish growth in the past several months. A downturn in 2016 was attributed to a series of storms in the Weddell and Ross Sea regions that pushed the ice edge southward (Turner et al., 2017). Similar extremes in long-lived weather patterns like the record Amundsen Sea Low strength are implicated in the generally low ice extents of 2022 (Turner et al., 2022). However, this more recent excursion, beginning in May of 2023, and the general persistence of low sea ice extent near </span></span></span><span style="color: #373737;font-family: Arial, Helvetica, sans-serif"><span class="">Antarctica since 2016, is now thought to be linked to warming in the uppermost ocean layer caused by lateral and upward mixing of warmer water (Zhang et al., 2022; Haumann et al., in press)</span></span></div>
+<div class=""><span class=""><span style="color: #373737;font-family: Arial, Helvetica, sans-serif"><span class=""> </span></span></span></div>
+<div class=""><span class=""><span style="color: #373737;font-family: Arial, Helvetica, sans-serif"><span class="">There is some concern that this may be the beginning of a long-term trend of decline for Antarctic sea ice, since oceans are warming globally, and warm water mixing in the Southern Ocean polar layer could continue. The Southern Ocean and its sea ice is an important component of Earth’s energy balance, reflecting sunlight back into space, and supporting a rich ice-edge ecosystem. Moreover, if dramatically lower sea ice extent continues to the 2024 summer minimum and beyond, much more of the Antarctic coastline will be exposed to ocean waves and marine climate. This may lead to two opposing impacts: erosion of more perennial coastal ice and ice shelves, destabilizing the ice sheet; or increased accumulation near the coast, offsetting in part the threat of rising sea level.</span></span></span></div>
+<div class=""></div>
+<h2>Ten lowest maximum Antarctic sea ice extents (satellite record, 1979 to present)</h2>
+<table>
+<caption><strong>Table 1. </strong>Ten lowest maximum Antarctic sea ice extents (satellite record, 1979 to present)</caption>
+<tbody>
+<tr>
+<th rowspan="2" width="120">RANK</th>
+<th rowspan="2" width="120">YEAR</th>
+<th colspan="2">Maximum ICE EXTENT</th>
+<th rowspan="2" width="110">DATE</th>
+</tr>
+<tr>
+<th width="120">IN MILLIONS OF SQUARE KILOMETERS</th>
+<th width="120">IN MILLIONS OF SQUARE MILES</th>
+</tr>
+<tr>
+<td>1</td>
+<td>2023</td>
+<td>16.96</td>
+<td>6.55</td>
+<td>Sept. 10</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1986</td>
+<td>17.99</td>
+<td>6.95</td>
+<td>Oct. 10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2002</td>
+<td>18.05</td>
+<td>6.97</td>
+<td>Oct. 12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2017</td>
+<td>18.10</td>
+<td>6.99</td>
+<td>Oct. 10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>1989<br />
+2022<br />
+2018<br />
+2008</td>
+<td>18.22<br />
+18.25<br />
+18.25<br />
+18.26</td>
+<td>7.03<br />
+7.05<br />
+7.05<br />
+7.05</td>
+<td>Sept. 25<br />
+Sept. 16<br />
+Oct. 03<br />
+Sept. 06</td>
+</tr>
+</tbody>
+</table>
+<p><i>Values within 40,000 square kilometers (15,000 square miles) are considered tied.</i></p>
+<h2>References</h2>
+<p>Purich, A. and E. W. Doddridge. 2023. <a href="https://doi.org/10.1038/s43247-023-00961-9">Record low Antarctic sea ice coverage indicates a new sea ice state.</a> <i class="">Communications Earth and Environment</i> <span class="">4</span>, 314, doi:10.1038/s43247-023-00961-9.</p>
+<p>Turner, J., T. Phillips, G. J. Marshall, J. S. Hosking, J. O. Pope, T. J. Bracegirdle, and P. Deb. 2017. <a href="https://doi.org/10.1002/2017GL073656">Unprecedented springtime retreat of Antarctic sea ice in 2016</a>. <em>Geophysical Research Letters</em>, 44(13), 6868-6875, doi:10.1002/2017GL073656.</p>
+<p>Turner, J., C. Holmes, T. Caton Harrison, T. Phillips, B. Jena, T. Reeves‐Francois, R. Fogt, E. R. Thomas, C. C. and Bajish. 2022. <a href="https://doi.org/10.1029/2022GL098904">Record low Antarctic sea ice cover in February 2022.</a> <em>Geophysical Research Letters</em>, 49(12), e2022GL098904, doi:10.1029/2022GL098904.</p>
+<p>Zhang, L., T. L. Delworth, X. Yang, F. Zeng, F. Lu, Y. Morioka, and M. Bushuk. 2022. <a href="https://doi.org/10.1038/s43247-022-00624-1">The relative role of the subsurface Southern Ocean in driving negative Antarctic Sea ice extent anomalies in 2016–2021</a>, 3, 302, <i class="">Communications Earth and Environment</i> doi:10.1038/s43247-022-00624-1.</p>
+<h2>For more information</h2>
+<p><a href="https://svs.gsfc.nasa.gov/5163">NASA visualization</a> of 2023 Arctic sea ice minimum extent</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="https://nsidc.org/arcticseaicenews/category/analysis/" rel="category tag">Analysis</a> by <a href="https://nsidc.org/arcticseaicenews/author/agautier/">Agnieszka Gautier</a>. Bookmark the <a href="https://nsidc.org/arcticseaicenews/2023/09/antarctic-sets-a-record-low-maximum-by-wide-margin/" title="Permalink to Antarctic sets a record low maximum by wide margin" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-13905 -->
+
+						<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+
+								
+			</div><!-- #content -->
+		</div><!-- #primary -->
+		<div id="secondary" class="widget-area" role="complementary">
+        <aside class="widget_text">
+        <div class="social-widget">
+<a href="https://www.facebook.com/NSIDC"><img src="/arcticseaicenews/wp-content/themes/asina-2012/images/facebook.png" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/NSIDC"><img src="/arcticseaicenews/wp-content/themes/asina-2012/images/twitter.png" /></a>&nbsp;&nbsp;&nbsp;<a href="https://nsidc.org/arcticseaicenews/feed/"><img src="/arcticseaicenews/wp-content/themes/asina-2012/images/rss.png" /></a>
+		</div>
+        </aside>
+			<aside id="search-3" class="widget widget_search">	<form method="get" id="searchform" action="https://nsidc.org/arcticseaicenews/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</aside><aside id="black-studio-tinymce-5" class="widget widget_black_studio_tinymce"><h3 class="widget-title">Ice Sheets Today</h3><div class="textwidget"><a href="https://nsidc.org/ice-sheets-today"><img class="alignleft wp-image-6129" src="http://nsidc.org/arcticseaicenews/files/2023/10/ist-image.png" alt="gtod" width="150" height="113" /></a>
+Follow the melt year-round with daily images &amp; scientific analysis. <a href="https://nsidc.org/ice-sheets-today">Visit the site now »</a></div></aside><aside id="black-studio-tinymce-3" class="widget widget_black_studio_tinymce"><h3 class="widget-title">Sea Ice Data and Analysis Tools</h3><div class="textwidget"><a href="https://nsidc.org/arcticseaicenews/sea-ice-tools/"> <img class="wp-image-3180" title="interactive-tool-300x239" src="https://nsidc.org/arcticseaicenews/files/2012/11/interactive-tool-300x239.png" alt="Sea Ice Chart" width="190" height="151" /></a>
+
+<a href="https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/">Charctic Interactive Sea Ice Graph</a>, sea ice data spreadsheets, animations, and <a href="https://nsidc.org/arcticseaicenews/sea-ice-tools/">more tools for sea ice analysis</a></div></aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">More Information</h3>			<div class="textwidget"><ul>
+<li><a href="/about/media">For the Media</a></li>
+<li><a href="/learn/parts-cryosphere/sea-ice/quick-facts-about-sea-ice">Quick Facts on Sea Ice</a></li>
+<li><a href="/arcticseaicenews/press-information">Press Information</a></li>
+<li><a href="/arcticseaicenews/graphics-information">Graphics Information</a></li>
+<li><a href="/arcticseaicenews/faq">Frequently Asked Questions</a></li>
+<li><a href="/arcticseaicenews/map-of-the-arctic-ocean/">Map of the Arctic Ocean</a></li>
+<li><a href="/arcticseaicenews/map-of-antarctica/">Map of Antarctica</a></li>
+</ul></div>
+		</aside><aside id="archives-3" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://nsidc.org/arcticseaicenews/2023/11/'> November 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/10/'> October 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/09/'> September 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/08/'> August 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/07/'> July 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/06/'> June 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/05/'> May 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/04/'> April 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/03/'> March 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/02/'> February 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2023/01/'> January 2023 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/12/'> December 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/11/'> November 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/10/'> October 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/09/'> September 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/08/'> August 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/07/'> July 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/06/'> June 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/05/'> May 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/04/'> April 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/03/'> March 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/02/'> February 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2022/01/'> January 2022 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/12/'> December 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/11/'> November 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/10/'> October 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/09/'> September 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/08/'> August 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/07/'> July 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/06/'> June 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/05/'> May 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/04/'> April 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/03/'> March 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/02/'> February 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2021/01/'> January 2021 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/12/'> December 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/11/'> November 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/10/'> October 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/09/'> September 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/08/'> August 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/07/'> July 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/06/'> June 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/05/'> May 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/04/'> April 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/03/'> March 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/02/'> February 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2020/01/'> January 2020 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/12/'> December 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/11/'> November 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/10/'> October 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/09/'> September 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/08/'> August 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/07/'> July 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/06/'> June 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/05/'> May 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/04/'> April 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/03/'> March 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/02/'> February 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2019/01/'> January 2019 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/12/'> December 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/11/'> November 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/10/'> October 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/09/'> September 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/08/'> August 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/07/'> July 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/06/'> June 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/05/'> May 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/04/'> April 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/03/'> March 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/02/'> February 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2018/01/'> January 2018 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/12/'> December 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/11/'> November 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/10/'> October 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/09/'> September 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/08/'> August 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/07/'> July 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/06/'> June 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/05/'> May 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/04/'> April 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/03/'> March 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/02/'> February 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2017/01/'> January 2017 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/12/'> December 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/11/'> November 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/10/'> October 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/09/'> September 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/08/'> August 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/07/'> July 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/06/'> June 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/05/'> May 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/04/'> April 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/03/'> March 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/02/'> February 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2016/01/'> January 2016 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/12/'> December 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/11/'> November 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/10/'> October 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/09/'> September 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/08/'> August 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/07/'> July 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/06/'> June 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/05/'> May 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/04/'> April 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/03/'> March 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/02/'> February 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2015/01/'> January 2015 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/12/'> December 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/11/'> November 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/10/'> October 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/09/'> September 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/08/'> August 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/07/'> July 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/06/'> June 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/05/'> May 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/04/'> April 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/03/'> March 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/02/'> February 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2014/01/'> January 2014 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/12/'> December 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/11/'> November 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/10/'> October 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/09/'> September 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/08/'> August 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/07/'> July 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/06/'> June 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/05/'> May 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/04/'> April 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/03/'> March 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/02/'> February 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2013/01/'> January 2013 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/12/'> December 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/11/'> November 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/10/'> October 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/09/'> September 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/08/'> August 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/07/'> July 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/06/'> June 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/05/'> May 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/04/'> April 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/03/'> March 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/02/'> February 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2012/01/'> January 2012 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/12/'> December 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/11/'> November 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/10/'> October 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/09/'> September 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/08/'> August 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/07/'> July 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/06/'> June 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/05/'> May 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/04/'> April 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/03/'> March 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/02/'> February 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2011/01/'> January 2011 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/12/'> December 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/11/'> November 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/10/'> October 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/09/'> September 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/08/'> August 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/07/'> July 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/06/'> June 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/05/'> May 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/04/'> April 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/03/'> March 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/02/'> February 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2010/01/'> January 2010 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/12/'> December 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/11/'> November 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/10/'> October 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/09/'> September 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/08/'> August 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/07/'> July 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/06/'> June 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/05/'> May 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/04/'> April 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/03/'> March 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/02/'> February 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2009/01/'> January 2009 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/12/'> December 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/11/'> November 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/10/'> October 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/09/'> September 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/08/'> August 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/07/'> July 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/06/'> June 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/05/'> May 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2008/04/'> April 2008 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2007/10/'> October 2007 </option>
+	<option value='https://nsidc.org/arcticseaicenews/2006/10/'> October 2006 </option>
+
+		</select>
+		</aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Topics</h3><label class="screen-reader-text" for="cat">Topics</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="4">Analysis</option>
+	<option class="level-0" value="3">Daily Image</option>
+	<option class="level-0" value="45">Notice</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "https://nsidc.org/arcticseaicenews/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside><aside id="text-4" class="widget widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget">          <p>General public and data users: <br>
+            <a href="mailto:nsidc@nsidc.org">Contact NSIDC User Services</a> or call +1 303.492.6199<br>
+              Press direct line: +1 303.492.1497</p>     </div>
+		</aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">See Also</h3>			<div class="textwidget"><h4><a href="/data/seaice_index/">Sea Ice Index</a></h4>
+            <p>Explore current and archived sea ice data on the NSIDC Sea Ice Index Web site.</p>
+<h4><a href="/learn/ask-scientist">Ask a Scientist</a></h4><p>Your burning questions about snow and ice.</p>
+<h4><a href="/data/soac/">Satellite Observations of Arctic Change</a></h4>
+<p>Explore NASA satellite data using interactive maps that show how the Arctic is changing over time.</p>
+              <h4><a href="/learn/parts-cryosphere/sea-ice">Learn about Sea Ice</a></h4>
+          <h4><a href="/learn/cryosphere-glossary">Cryosphere Glossary</a></h4>
+            <h4><a href="/our-research/scientists">Scientists at NSIDC</a></h4></div>
+		</aside><aside id="text-6" class="widget widget_text"><h3 class="widget-title">Related Resources</h3>			<div class="textwidget"> <h4><a href="https://www.arcus.org/search/seaiceoutlook/index.php">Sea Ice Outlook Report</a></h4>
+          <p>A synthesis of scientific sea ice extent projections during Arctic summer, updated monthly during melt season.   </p>
+
+  <h4><a href="https://www.arcus.org/sipn">Sea Ice Prediction Network</a></h4>
+            <p>A collaborative network of scientists and stakeholders to advance research on sea ice prediction and communicate sea ice knowledge and tools.</p></div>
+		</aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">Acknowledgments</h3>			<div class="textwidget"><p>Arctic Sea Ice News & Analysis (ASINA) is produced by the National Snow and Ice Data Center (NSIDC), which is part of the Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder. Researchers Walt Meier, Ted Scambos, Mark Serreze, and Julienne Stroeve regularly contribute to ASINA, sometimes featuring guest authors, and with support from Kevin Beam, Andy Barrett, Lisa Booker, Michael Brandt, Florence Fetterer, Matt Fisher, Agnieszka Gautier, Marin Klinger, Jonathan Kovarik, Jed Lenetsky, Luis Espinosa Lopez, Audrey Payne, Bruce Raup, Matt Savoie, Trey Stafford, Bruce Wallin, and Ann Windnagel. </p>
+
+<p><img src="http://nsidc.org/arcticseaicenews/files/2012/08/nasa_color.jpg"></p>
+<p>The NASA award NNX16AJ92G funds the ASINA project. The sea ice data for the Sea Ice Index are from the NASA Snow and Ice Distributed Active Archive Center (DAAC), which is funded by NASA award 80GSFC18C0102, and from the CIRES cooperative agreement with NOAA, which is funded by NOAA NA15OAR4320137.</p></div>
+		</aside>		</div><!-- #secondary .widget-area -->
+	
+<div id="nasa-credit"><div class="textwidget"></div></div>	</div><!-- #main -->
+    <!-- BEGIN NSIDC FOOTER -->
+    <!-- vvvvvvvvvv SSI BELOW vvvvvvvvvv -->
+<!-- nsidc_footer.ssi -->
+<div id="footerNSIDC" class="clearGroup">
+<div class="footer-column grid_4">
+<h2>For the Public</h2>
+<ul>
+<li><a href="/news-analyses/news-stories">News & Stories</a></li>
+<li><a href="/learn">Learn About Snow & Ice</a></li>
+<li><a href="/news-analyses/scientific-analyses/about-our-analyses">Current Conditions & Analyses</a></li>
+<li><a href="/our-research/featured-projects">Featured Research</a></li>
+<li><a href="/about/about-nsidc/what-we-do/careers">Careers</a></li>
+<li><a href="/about/media">For the Media</a></li>
+</ul>
+</div>
+<div class="footer-column grid_4">
+<h2>Educators/Students</h2>
+<ul>
+  <li><a href="/news-analyses/scientific-analyses/about-our-analyses">Current Conditions & Analyses</a></li>
+  <li><a href="/data/explore-data">Explore Data</a></li>
+  <li><a href="/data/user-resources/help-center">Help Center</a></li>
+  <li><a href="/our-research">Our Research</a></li>    
+</ul>
+</div>
+<div class="footer-column grid_4">
+<h2>Most Popular</h2>
+<ul>
+  <li><a href="/learn">Snow, Ice & the Cryosphere </a></li>
+  <li><a href="/data/seaice_index">Sea Ice Index</a></li>
+  <li><a href="/arcticseaicenews">Arctic Sea Ice News & Analysis</a></li>
+  <li><a href="/ice-sheets-today">Ice Sheets Today</a></li>
+  <li><a href="/snow-today">Snow Today Analyses & Data</a></li>
+  <li><a href="/data/explore-data">Explore Data</a></li>
+</ul>
+</div>
+<div class="footer-column grid_4" id="footer-column-last">
+
+<h2>For Researchers</h2>
+<ul>
+  <li><a href="/data/explore-data">Explore Data</a></li>
+  <li><a href="/about/data-use-and-copyright">Citation Policies</a></li>
+  <li><a href="/our-research">NSIDC Research</li></a>
+  <li><a href="/our-research/scientists">Our Scientists</a></li>
+  <li><a href="/data/submit-data">Submit Data</a></li>
+</ul>
+  <div class="social-icon-container">
+<a href="http://www.facebook.com/NSIDC">
+<img src="/images/social-media/facebook16x16.png" alt="Facebook" />
+</a>
+<a href="https://twitter.com/NSIDC">
+<img src="/images/social-media/twitter16x16.png" alt="Twitter" />
+</a>
+</div>
+</div>
+
+<div id="footer-bottom">
+<div class="grid_9">
+<p><img src="/images/logo_nsidc_46x36.gif" alt="NSIDC logo" width="44" height="34" class="floatLeft" style="margin: 3px 8px 0 0;" /><a href="/">Home</a> | <a href="/about/contact-us">Contact Us</a><br />
+&copy; 2023, <strong>National Snow and Ice Data Center</strong> :: <em>Advancing knowledge of Earth's frozen regions</em>
+</p>
+</div>
+<div class="affiliate-logos grid_7">
+    <a href="http://www.icsu-wds.org/" title="ICSU World Data System"><img src="/images/wds_reverse-79.png" alt="ICSU World Data System" width="79" height="42"></a>&nbsp;&nbsp;&nbsp;
+          <a href="http://cires.colorado.edu/" title="Cooperative Institute for Research in Environmental Sciences (CIRES)"><img src="/images/cires_reverse-78.png" alt="Cooperative Institute for Research in Environmental Sciences (CIRES)" width="68" height="34" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="http://www.colorado.edu/" title="University of Colorado Boulder" id="cu-logo"><img src="/images/cu-navyBkg.png" alt="University of Colorado Boulder" width="173" height="37" /></a>
+  </div>
+    <div style="clear: both"></div>
+</div>
+</div>
+
+<!-- Start of nsidc Zendesk Widget script -->
+
+<style>
+.Icon--zendesk {
+display:none;
+}
+</style>
+
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","nsidc.zendesk.com");
+/*]]>*/</script>
+
+<script>
+zE(function() {
+zE.setHelpCenterSuggestions({ url: true });
+});
+</script>
+
+<script type="text/javascript">
+window.zESettings = {
+webWidget: {
+  contactForm: {
+    attachments: false
+  }
+}
+};
+</script>
+
+
+<!-- End of nsidc Zendesk Widget script -->
+
+
+<!-- ^^^^^^^^^^ SSI ABOVE ^^^^^^^^^^ -->
+    <!-- END FOOTER -->
+	</div><!-- #wrapper -->
+    <script type='text/javascript' src='https://nsidc.org/arcticseaicenews/wp-content/plugins/wp-jquery-lightbox/jquery.touchwipe.min.js?ver=1.4.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"showTitle":"1","showCaption":"1","showNumbers":"1","fitToScreen":"1","resizeSpeed":"400","showDownload":"1","navbarOnTop":"1","marginSize":"0","slideshowSpeed":"4000","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nsidc.org/arcticseaicenews/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.4.6'></script>
+<script type='text/javascript' src='https://nsidc.org/arcticseaicenews/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+</body>
+</html>

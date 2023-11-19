@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="date" content="2023-09-29" />
+<meta http-equiv="last-modified" content="2023-09-29" />
+<link rel="author" href="https://plus.google.com/101416803710397935669" />
+<link rel="shortcut icon" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed.png" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy",
+            "description": "Interior this week led an interagency meeting focused on using science and data to combat the impacts of the climate crisis around the globe.",
+            "author": {
+                "@type": "Organization",
+                "@id": "https://www.doi.gov/",
+                "name": "U.S. Department of the Interior",
+                "url": "https://www.doi.gov/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/logo.png"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.doi.gov/",
+                "name": "U.S. Department of the Interior",
+                "url": "https://www.doi.gov/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/logo.png"
+                }
+            },
+            "datePublished": "2023-09-29",
+            "dateModified": "2023-09-29T16:39:29-04:00",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/Wetland%20with%20Mountain%20Range%20in%20Distance%20%5Bjpg%5D"
+            },
+            "mainEntityOfPage": "https://www.doi.gov/node/54106"
+        },
+        {
+            "@id": "https://www.doi.gov/node/54106",
+            "@type": "WebPage",
+            "name": "Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy",
+            "description": "Interior this week led an interagency meeting focused on using science and data to combat the impacts of the climate crisis around the globe."
+        },
+        {
+            "@type": "WebSite",
+            "name": "U.S. Department of the Interior",
+            "url": "https://www.doi.gov/",
+            "publisher": {
+                "@type": "Organization",
+                "name": "U.S. Department of the Interior"
+            }
+        }
+    ]
+}</script>
+<meta name="description" content="Interior this week led an interagency meeting focused on using science and data to combat the impacts of the climate crisis around the globe." />
+<meta name="robots" content="follow, index" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="http://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate" />
+<link rel="shortlink" href="https://www.doi.gov/node/54106" />
+<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOI"></script>
+<meta property="og:url" content="https://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate" />
+<meta property="og:title" content="Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy" />
+<meta property="og:description" content="Interior this week led an interagency meeting focused on using science and data to combat the impacts of the climate crisis around the globe." />
+<meta property="og:updated_time" content="2023-09-29T16:39:29-04:00" />
+<meta property="og:image" content="https://www.doi.gov/sites/doi.gov/files/styles/social_media_1200x627/public/press-release/thumbnail-images/pxl-20230919-215049174-use-this-one_0.jpg?itok=AgblGj0r" />
+<meta property="og:image:url" content="https://www.doi.gov/sites/all/themes/custom/doi.gov/images/background/DOI_Seal_on_bkgnd900x519.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Interior" />
+<meta name="twitter:creator" content="@Interior" />
+<meta name="twitter:title" content="Interior Department Hosts Interagency Meeting on Utilizing Science to" />
+<meta name="twitter:description" content="Interior this week led an interagency meeting focused on using science and data to combat the impacts of the climate crisis around the globe." />
+<meta name="twitter:image" content="https://www.doi.gov/sites/doi.gov/files/styles/social_media_1200x627/public/press-release/thumbnail-images/pxl-20230919-215049174-use-this-one_0.jpg?itok=AgblGj0r" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:published_time" content="2023-09-29T16:38:02-04:00" />
+<meta property="article:modified_time" content="2023-09-29T16:39:29-04:00" />
+  <title>Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy | U.S. Department of the Interior</title>
+  <link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_BXIWhYOBSnF4nYFo92-uiAiVUkfimED06A89H3ApbSw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_aqwqc4fsbq4kLvX9T7rjcmz6t5jDsTdTmVCkiQhFyic.css" media="all" />
+<style type="text/css">.panels-flexible-new .panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-new .panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-new .panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-new .panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-new .panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-new .panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-new .panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-new .panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-new .panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-new .panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-new-main {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-new-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-new {
+  width: auto;
+}
+
+.panels-flexible-region-new-center {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-new-main-row-inside {
+  padding-right: 0px;
+}
+
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_zdrAAQ2p4jYw8HD_Ej8-BGwo-0Lh1feWySjeyLI3GKI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_LTOfmZmw2b43_n0yaxk6jfEL90Uqf9N1j6WWDJFpxJo.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_RfnJ2xmeGbvtAKlDRwKcWXWtASprbkJPeVqAv-52gGM.css" media="all" />
+<![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.12/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_9sGTPBGcOGZjLiSLGrYEnuUf8VdvLmL_DEZNNNbnHXk.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_-E7HiI44qSMVs4QAIMRwv7ZKITRBSSt5Um6Jq_6LO5o.js"></script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_QezGuXNhbjBjQg7-2NLaZqEYdWyScvyNhhvV0Lkd2sA.js"></script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_ayeC6goGQZHMNPUAvo_-eRlvOXFAtLITw0SgdG2a9Rw.js"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-44JE7ECGDQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);ga('set', 'forceSSL', true);gtag("config", "G-44JE7ECGDQ", {"groups":"default","anonymize_ip":true,"link_attribution":true});</script>
+<script>var usasearch_config = { siteHandle:'doi.gov' };
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//search.usa.gov/javascripts/remote.loader.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_3dgRKpxi_FSPQ0YcJci1K1kxvd_4PvXrsV2_NuskXJE.js"></script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_tZWG6EiGqLGyYdsOOvfTr3EVUJOoCiT7pI5tj-yEDi8.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/doi.gov\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"photo_gallery":{"displays":{"attachment_1":{"filters":[]},"standard_block":{"filters":[]}}},"related_content":{"displays":{"related_content_pane":{"filters":{"type":{"required":false}}}}}}},"states":{"#edit-helpfulness-no-options":{"visible":{":input[name=\u0022helpfulness_rating\u0022]":{"value":"0"}},"required":{":input[name=\u0022helpfulness_rating\u0022]":{"value":"0"}}}},"urlIsAjaxTrusted":{"\/pressreleases\/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate":true,"\/\/search.usa.gov\/search":true},"ckeditor_accordion":{"collapseAll":1},"googleanalytics":{"account":["G-44JE7ECGDQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":1,"extExclude":"(.*\\.gov)|(.*\\.mil)|(.*\\.docksal)","extInclude":"","extCssExclude":".pane-doi-gov-twitter-toggle-browser","extCssExplicit":"","extAlert":"_blank","extAlertText":"This link will direct you to a non-government website that may have different privacy policies from those of the Department of the Interior.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-54106 node-type-press-release site-subsection section-pressreleases page-manager-node-view">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page">
+  <header class="l-header" role="banner">
+          <div class="l-region l-region--header">
+    <div id="block-panels-mini-doi-header" class="block block--panels-mini block--panels-mini-doi-header">
+        <div class="block__content">
+    <div class="one-column panels-container" id="mini-panel-doi_header">
+  
+      <div class="main one-column--main">
+      <div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img typeof="foaf:Image" src="https://www.doi.gov/sites/all/themes/custom/doi_gov/logo.png" alt="Home" /></a>    </div>
+<div class="panel-pane pane-custom pane-2 pane-page-site-name">
+            <p><a href="/">U.S. Department of the Interior</a></p>
+    </div>
+<div class="panel-pane pane-block pane-menu-menu-social">
+            <ul class="menu"><li class="first leaf"><a href="https://www.instagram.com/usinterior/" title="DOI on Instagram">Instagram</a></li>
+<li class="leaf"><a href="https://www.facebook.com/USInterior" title="DOI on Facebook">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/interior" title="DOI on Twitter">Twitter</a></li>
+<li class="leaf"><a href="https://americasgreatoutdoors.tumblr.com/" title="DOI on Tumblr">Tumblr</a></li>
+<li class="leaf"><a href="https://www.flickr.com/photos/usinterior" title="DOI on Flickr">Flickr</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/USInterior" title="DOI on YouTube">YouTube</a></li>
+</ul>    </div>
+<div class="panel-pane pane-block pane-search-form">
+            <form class="search-block-form" action="//search.usa.gov/search" method="get" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <span class="element-invisible">Search form</span>
+    <div class="form-item form-type-textfield form-item-query">
+  <label class="element-invisible" for="edit-search-block-form--2">Search using USASearch </label>
+ <input class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all form-text" autocomplete="off" placeholder="Search" type="text" id="edit-search-block-form--2" name="query" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="affiliate" value="doi.gov" />
+</div>
+</div></form>    </div>
+<div class="panel-pane pane-accessibility">
+            <a class="button pane-accessibility--toggle" href="#" title="Accessibility Menu"><span class="element-hidden">Accessibility Menu Toggle</span></a>
+<ul class="button pane-accessibility--menu"><li><a href="#" class="font-size-toggle" title="Toggle Font Size">Toggle Font Size</a></li>
+<li><a href="#" class="opendyslexic-toggle" title="Toggle OpenDyslexic">Toggle OpenDyslexic</a></li>
+<li><a href="#" class="dyslexia-color-scheme-toggle" title="Toggle black-on-creme color scheme">Toggle Dyslexia-friendly black-on-creme color scheme</a></li>
+<li><a href="/contact-us" class="contact-us-header-link" title="Contact Us">Contact Us</a></li>
+</ul>    </div>
+    </div>
+  
+  </div>
+  </div>
+</div>
+  </div>
+      <div class="l-region l-region--navigation">
+    <div id="block-doi-gov-menu-doi-megamenu" class="block block--doi-gov-menu block--doi-gov-menu-doi-megamenu">
+        <div class="block__content">
+    <div id="mini-panel-doi_navigation" data-menu-name="menu-section-82">
+    <div class="pane-section-label"><span>Press Releases</span></div>
+      <div class="pane-mega-menu">
+    <div class="bean-mega-menu clearfix">
+      <ul class="menu main-menu">
+                        <li  class="first odd">
+                    <a class="menu-link-parent" href="/news/newsroom">Newsroom</a>
+                            </li>
+                        <li  class="even">
+                    <a class="menu-link-parent" href="/news">Press Releases</a>
+                            </li>
+                        <li  class="odd">
+                    <a class="menu-link-parent" href="/video">Video</a>
+                              <div class="menu-link-dropdown">
+                          <div class="menu-columns--wrapper clearfix">
+                <div  class="menu-column menu-column--0"><ul class="links"><li class="0 first last"><a href="/video">All DOI News Video</a></li>
+</ul></div>              </div>
+                      </div>
+                  </li>
+                        <li  class="even">
+                    <a class="menu-link-parent" href="/photos">Photos</a>
+                            </li>
+                        <li  class="odd">
+                    <a class="menu-link-parent" href="/blog">Blog</a>
+                            </li>
+                        <li  class="last even">
+                    <a class="menu-link-parent" href="/news/archive">Archive</a>
+                              <div class="menu-link-dropdown">
+                          <div class="menu-columns--wrapper clearfix">
+                <div  class="menu-column menu-column--0"><ul class="links"><li class="0 first last"><a href="/news/archive">2009-2017 News Archive (searchable)</a></li>
+</ul></div><div  class="menu-column menu-column--1"><ul class="links"><li class="0 first last"><a href="/secretarys-schedule-archive">Secretarial Schedules (July 2018-July 2019)</a></li>
+</ul></div>              </div>
+                      </div>
+                  </li>
+              </ul>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+  </div>
+  </header>
+
+  
+  <div class="l-main">
+    <div class="l-information">
+                </div>
+
+    <div class="l-content" role="main">
+      <a id="main-content"></a>
+      <div class="content-wrapper">
+<div class="two-column panels-container no-sidebar" >
+
+      <div class="top two-column--top">
+      <div class="panel-pane pane-panels-mini pane-doi-content-topbar">
+            <div class="content-wrapper">
+<div class="two-column panels-container no-sidebar" id="mini-panel-doi_content_topbar">
+
+  
+    
+      <div class="main two-column--main">
+      <div class="panel-pane pane-widget">
+            <div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate&amp;text=Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate&amp;title=Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate&amp;title=Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate&amp;title=Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+    </div>
+    </div>
+  
+  </div>
+</div>
+    </div>
+    </div>
+  
+    
+      <div class="main two-column--main">
+      <div class="panel-pane pane-page-title">
+            <h1 class="section-page-title">Interior Department Hosts Interagency Meeting on Utilizing Science to Inform Climate Security Policy</h1>    </div>
+<div class="panel-pane pane-panels-mini pane-doi-press-publication-info">
+            <div class="panel-display panel-2col clearfix" id="mini-panel-doi_press_publication_info">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-node-publication-info">
+            <div class="publication-date">9/29/2023</div>    </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"></div>
+  </div>
+</div>
+    </div>
+<div class="panel-pane pane-entity-field pane-node-body">
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p style="text-align: right;">Date: Friday, September 29, 2023<br />
+Contact: <a href="mailto:Interior_Press@ios.doi.gov" target="_blank">Interior_Press@ios.doi.gov</a></p>
+<p style="margin-top:10px; margin-bottom:10px"><strong>WASHINGTON</strong>—The Department of the Interior this week led an interagency meeting focused on using science and data to combat the impacts of the climate crisis around the globe.</p>
+<p>On Thursday, 52 representatives from 19 federal agencies attended the security policy meeting, co-led by the Interior Department, the Office of the Special Presidential Envoy for Climate, and the National Security Council. The meeting identified ways to leverage scientific capabilities housed within agencies to inform climate security policymaking as part of the Biden-Harris administration’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/" target="_blank">historic steps</a> to advance the use of science and data to inform policymaking.</p>
+<p>“Our domestic science agencies are leading the world in providing the insights needed to tackle the climate crisis both at home and abroad,” said <strong>Deputy Assistant Secretary for Water and Science Dr. Annalise Blum</strong>. “Demonstrating the Biden-Harris administration’s commitment to promoting evidence-based policy, this meeting provided a critical forum for our science and national security agencies to identify ways to further leverage our scientific capabilities to address the security implications of climate change.”</p>
+<p>The meeting served to highlight not only the critical role the Interior Department plays in providing science to address the climate crisis domestically, but also the ways in which our science supports interagency partners focused on the security impacts of the climate crisis around the world.</p>
+<p>This meeting came as Secretary Deb Haaland delivered remarks at the White House Climate Resilience Summit, accompanying the release of the National Climate Resilience Framework. The Interior Department this week released four <a href="/pressreleases/secretary-haaland-announces-new-policies-strengthen-climate-adaptation-and-resilience" target="_blank">updated Departmental Manual policies</a> to strengthen the agency’s ability to meet its mission in the face of a changing climate. In service to this effort, science agencies within the Department, including the U.S. Geological Survey (USGS), are using the best-available science to offer in-depth and long-term perspectives on landscape, environmental and ecological change. USGS’s long-term datasets help decision-makers understand how to factor Earth’s changing climate into mission-critical decisions and activities.</p>
+<p style="text-align: center;">###</p>
+</div></div></div>    </div>
+<div class="panel-pane pane-block pane-helpfulness-helpfulness">
+          <h2 class="pane-title">Was this page helpful?</h2>
+        <form class="helpfulness-form" action="/pressreleases/interior-department-hosts-interagency-meeting-utilizing-science-inform-climate" method="post" id="helpfulness-form" accept-charset="UTF-8"><div><div id="edit-helpfulness-rating" class="form-radios"><div class="form-item form-type-radio form-item-helpfulness-rating">
+ <input type="radio" id="edit-helpfulness-rating-1" name="helpfulness_rating" value="1" class="form-radio" />  <label class="option" for="edit-helpfulness-rating-1">Yes </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-rating">
+ <input type="radio" id="edit-helpfulness-rating-0" name="helpfulness_rating" value="0" class="form-radio" />  <label class="option" for="edit-helpfulness-rating-0">No </label>
+
+</div>
+</div><div class="form-item form-type-radios form-item-helpfulness-no-options">
+  <label for="edit-helpfulness-no-options">This page was not helpful because the content: </label>
+ <div id="edit-helpfulness-no-options" class="form-radios"><div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-0" name="helpfulness_no_options" value="0" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-0">Has too little information </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-1" name="helpfulness_no_options" value="1" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-1">Has too much information </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-2" name="helpfulness_no_options" value="2" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-2">Is confusing </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-3" name="helpfulness_no_options" value="3" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-3">Is out-of-date </label>
+
+</div>
+</div>
+</div>
+<input class="helpfulness_submit_button form-submit" id="feedbacksubmit" type="submit" name="op" value="Submit" /><input type="hidden" name="form_build_id" value="form-DXx2Dvde8eZ8ltSGycN8E3tDgL1Fg8F2H1Dt2KrchsE" />
+<input type="hidden" name="form_id" value="helpfulness_form" />
+<div class="webforms-textfield"><div class="form-item form-type-textfield form-item-webforms">
+  <label for="edit-webforms">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-webforms" name="webforms" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>    </div>
+<div class="panel-pane pane-views-panes pane-related-content-related-content-pane">
+            <div class="view view-related-content view-id-related_content view-display-id-related_content_pane view-dom-id-77c667f672f47dfd6f143d7de37a8429">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div about="/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water" typeof="sioc:Item foaf:Document" role="article" class="node node--press-release node-teaser node--teaser node--press-release--teaser">
+  <div class="node__content">
+    <span property="dc:title" content="Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="rdf-meta element-hidden"></span><div class="content-type-label">Press Release</div><div class="field field--name-field-thumbnail-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water"><img typeof="foaf:Image" src="https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/bor-water-resources.jpg?itok=vHftoW2v" width="540" height="324" alt="Body of water reflecting green evergreen trees and mountains" title="President Biden’s Bipartisan Infrastructure Law investing in environmental projects to increase water availability" /></a></div></div></div><div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;text=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;title=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;title=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;title=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+<div class="node-title"><a href="/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water">Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health</a></div>  </div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div about="/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly" typeof="sioc:Item foaf:Document" role="article" class="node node--press-release node-teaser node--teaser node--press-release--teaser">
+  <div class="node__content">
+    <span property="dc:title" content="Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="rdf-meta element-hidden"></span><div class="content-type-label">Press Release</div><div class="field field--name-field-thumbnail-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly"><img typeof="foaf:Image" src="https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/bil-secretary-haaland.jpeg?itok=d4u_7cQa" width="540" height="324" alt="Secretary Haaland speaking at DOI podium in front of a construction site. " title="Bipartisan Infrastructure Law" /></a></div></div></div><div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;text=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;title=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;title=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;title=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+<div class="node-title"><a href="/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly">Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually</a></div>  </div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div about="/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate" typeof="sioc:Item foaf:Document" role="article" class="node node--press-release node-teaser node--teaser node--press-release--teaser">
+  <div class="node__content">
+    <span property="dc:title" content="President Biden’s Investing in America Agenda Announces $20 Million to Bolster Climate Resilience for Native Hawaiian Community" class="rdf-meta element-hidden"></span><div class="content-type-label">Press Release</div><div class="field field--name-field-thumbnail-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate"><img typeof="foaf:Image" src="https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/hawaii-waters.jpg?itok=lKSHyuTL" width="540" height="324" alt="Clear-blue waters reflecting cloudy sky and mountains in the background. " title="Hawaiʻi" /></a></div></div></div><div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate&amp;text=President Biden’s Investing in America Agenda Announces $20 Million to Bolster Climate Resilience for Native Hawaiian Community" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate&amp;title=President Biden’s Investing in America Agenda Announces $20 Million to Bolster Climate Resilience for Native Hawaiian Community" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate&amp;title=President Biden’s Investing in America Agenda Announces $20 Million to Bolster Climate Resilience for Native Hawaiian Community" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate&amp;title=President Biden’s Investing in America Agenda Announces $20 Million to Bolster Climate Resilience for Native Hawaiian Community" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+<div class="node-title"><a href="/pressreleases/president-bidens-investing-america-agenda-announces-20-million-bolster-climate">President Biden’s Investing in America Agenda Announces $20 Million to Bolster Climate Resilience for Native Hawaiian Community</a></div>  </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+    </div>
+  
+      <div class="bottom two-column--bottom">
+      <div class="panel-pane pane-panels-mini pane-doi-back-to-top">
+            <div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-doi_back_to_top">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1">
+            <p><a class="back-to-top" href="#main-content">Back to top</a></p>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+
+    <footer class="l-footer" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-panels-mini-doi-footer-branding" class="block block--panels-mini block--panels-mini-doi-footer-branding">
+        <div class="block__content">
+    <div class="content-wrapper">
+<div class="two-column-flipped panels-container " id="mini-panel-doi_footer_branding">
+
+  
+      <div class="main two-column-flipped--main">
+      <div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img typeof="foaf:Image" src="https://www.doi.gov/sites/all/themes/custom/doi_gov/logo.png" alt="Home" /></a>    </div>
+<div class="panel-pane pane-page-site-name">
+            U.S. Department of the Interior    </div>
+<div class="panel-pane pane-page-slogan">
+            Stewarding Conservation and Powering Our Future    </div>
+    </div>
+  
+      <div class="sidebar two-column-flipped--sidebar">
+      <div class="panel-pane pane-block pane-menu-menu-social">
+            <ul class="menu"><li class="first leaf"><a href="https://www.instagram.com/usinterior/" title="DOI on Instagram">Instagram</a></li>
+<li class="leaf"><a href="https://www.facebook.com/USInterior" title="DOI on Facebook">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/interior" title="DOI on Twitter">Twitter</a></li>
+<li class="leaf"><a href="https://americasgreatoutdoors.tumblr.com/" title="DOI on Tumblr">Tumblr</a></li>
+<li class="leaf"><a href="https://www.flickr.com/photos/usinterior" title="DOI on Flickr">Flickr</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/USInterior" title="DOI on YouTube">YouTube</a></li>
+</ul>    </div>
+    </div>
+  
+  </div>
+</div>
+  </div>
+</div>
+<div id="block-panels-mini-doi-footer-supporting-links" class="block block--panels-mini block--panels-mini-doi-footer-supporting-links">
+        <div class="block__content">
+    <div class="one-column panels-container" id="mini-panel-doi_footer_supporting_links">
+      <div class="top one-column--top">
+      <div class="panel-pane pane-block pane-menu-menu-secondary">
+            <ul class="menu"><li class="first leaf"><a href="/bpp" title="">Budget &amp; Performance</a></li>
+<li class="leaf"><a href="/coronavirus" title="Coronavirus Updates">Coronavirus Updates</a></li>
+<li class="leaf"><a href="/cummings-act-notices" title="">Cummings Act Notices</a></li>
+<li class="leaf"><a href="/pmb/eeo" title="">Diversity, Inclusion &amp; Civil Rights</a></li>
+<li class="leaf"><a href="/foia" title="">FOIA</a></li>
+<li class="leaf"><a href="https://www.doioig.gov" title="">Inspector General</a></li>
+<li class="last leaf"><a href="/pmb/eeo/reports-repository" title="No Fear Act reports">No Fear Act</a></li>
+</ul>    </div>
+    </div>
+  
+      <div class="main one-column--main">
+      <div class="panel-pane pane-block pane-menu-menu-tertiary">
+            <ul class="menu"><li class="first leaf"><a href="/about" title="">About DOI</a></li>
+<li class="leaf"><a href="/accessibility" title="">Accessibility</a></li>
+<li class="leaf"><a href="/contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="/copyright" title="">Copyright</a></li>
+<li class="leaf"><a href="/disclaimer" title="">Disclaimer</a></li>
+<li class="leaf"><a href="/ocio/policy-mgmt-support/information-and-records-management/iq" title="">Information Quality</a></li>
+<li class="leaf"><a href="/privacy" title="">Privacy Policy</a></li>
+<li class="leaf"><a href="/sitemap" title="">Site Map</a></li>
+<li class="last leaf"><a href="/vulnerability-disclosure-policy" title="Report DOI system vulnerabilities">Vulnerability Disclosure Policy</a></li>
+</ul>    </div>
+    </div>
+  
+  </div>
+  </div>
+</div>
+<div id="block-panels-mini-doi-footer-information" class="block block--panels-mini block--panels-mini-doi-footer-information">
+        <div class="block__content">
+    <div class="content-wrapper">
+<div class="two-column-flipped panels-container no-sidebar" id="mini-panel-doi_footer_information">
+
+  
+      <div class="main two-column-flipped--main">
+      <div class="panel-pane pane-custom pane-3">
+            <p>U.S. Department of the Interior, 1849 C Street NW, Washington, DC 20240.</p>
+    </div>
+    </div>
+  
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+  </footer>
+  </div>
+  <a href="#skip-link" class="element-invisible element-focusable">Back to Top</a><script>/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_76378.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/</script>
+</body>
+</html>

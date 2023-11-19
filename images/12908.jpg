@@ -1,0 +1,1104 @@
+<!DOCTYPE html><html lang="en-US" class="" data-skin="light"><head><meta charset="UTF-8"/>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=true;__ez.queue=function(){var e=0,i=0,t=[],n=!1,o=[],r=[],s=!0,a=function(e,i,n,o,r,s,a){var l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,d=this;this.name=e,this.funcName=i,this.parameters=null===n?null:p(n)?n:[n],this.isBlock=o,this.blockedBy=r,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.fWindow=l,this.isTimeDelay=!1,this.process=function(){f("... func = "+e),d.isInitialized=!0,d.isComplete=!0,f("... func.apply: "+e);var i=d.funcName.split("."),n=null,o=this.fWindow||window;i.length>3||(n=3===i.length?o[i[0]][i[1]][i[2]]:2===i.length?o[i[0]][i[1]]:o[d.funcName]),null!=n&&n.apply(null,this.parameters),!0===d.deleteWhenComplete&&delete t[e],!0===d.isBlock&&(f("----- F'D: "+d.name),u())}},l=function(e,i,t,n,o,r,s){var a=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,l=this;this.name=e,this.path=i,this.async=o,this.defer=r,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.fWindow=a,this.isTimeDelay=!1,this.isPath=function(e){return"/"===e[0]&&"/"!==e[1]},this.getSrc=function(e){return void 0!==window.__ezScriptHost&&this.isPath(e)&&"banger.js"!==this.name?window.__ezScriptHost+e:e},this.process=function(){l.isInitialized=!0,f("... file = "+e);var i=this.fWindow?this.fWindow.document:document,t=i.createElement("script");t.src=this.getSrc(this.path),!0===o?t.async=!0:!0===r&&(t.defer=!0),t.onerror=function(){var e={url:window.location.href,name:l.name,path:l.path,user_agent:window.navigator.userAgent};"undefined"!=typeof _ezaq&&(e.pageview_id=_ezaq.page_view_id);var i=encodeURIComponent(JSON.stringify(e)),t=new XMLHttpRequest;t.open("GET","//g.ezoic.net/ezqlog?d="+i,!0),t.send(),f("----- ERR'D: "+l.name),l.isError=!0,!0===l.isBlock&&u()},t.onreadystatechange=t.onload=function(){var e=t.readyState;f("----- F'D: "+l.name),e&&!/loaded|complete/.test(e)||(l.isComplete=!0,!0===l.isBlock&&u())},i.getElementsByTagName("head")[0].appendChild(t)}},d=function(e,i){this.name=e,this.path="",this.async=!1,this.defer=!1,this.isBlock=!1,this.blockedBy=[],this.isInitialized=!0,this.isError=!1,this.isComplete=i,this.proceedIfError=!1,this.isTimeDelay=!1,this.process=function(){}};function c(e){!0!==h(e)&&0!=s&&e.process()}function h(e){if(!0===e.isTimeDelay&&!1===n)return f(e.name+" blocked = TIME DELAY!"),!0;if(p(e.blockedBy))for(var i=0;i<e.blockedBy.length;i++){var o=e.blockedBy[i];if(!1===t.hasOwnProperty(o))return f(e.name+" blocked = "+o),!0;if(!0===e.proceedIfError&&!0===t[o].isError)return!1;if(!1===t[o].isComplete)return f(e.name+" blocked = "+o),!0}return!1}function f(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function u(){++e>200||(f("let's go"),m(o),m(r))}function m(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||h(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?f(t.name+": error"):!0===t.isComplete?f(t.name+": complete already"):!0===t.isInitialized&&f(t.name+": initialized already"):t.process()}}function p(e){return"[object Array]"==Object.prototype.toString.call(e)}return window.addEventListener("load",(function(){setTimeout((function(){n=!0,f("TDELAY -----"),u()}),5e3)}),!1),{addFile:function(e,i,n,s,a,d,h,f,u){var m=new l(e,i,n,s,a,d,h,u);!0===f?o[e]=m:r[e]=m,t[e]=m,c(m)},addDelayFile:function(e,i){var n=new l(e,i,!1,[],!1,!1,!0);n.isTimeDelay=!0,f(e+" ...  FILE! TDELAY"),r[e]=n,t[e]=n,c(n)},addFunc:function(e,n,s,l,d,h,f,u,m,p){!0===h&&(e=e+"_"+i++);var w=new a(e,n,s,l,d,f,u,p);!0===m?o[e]=w:r[e]=w,t[e]=w,c(w)},addDelayFunc:function(e,i,n){var o=new a(e,i,n,!1,[],!0,!0);o.isTimeDelay=!0,f(e+" ...  FUNCTION! TDELAY"),r[e]=o,t[e]=o,c(o)},items:t,processAll:u,setallowLoad:function(e){s=e},markLoaded:function(e){if(e&&0!==e.length){if(e in t){var i=t[e];!0===i.isComplete?f(i.name+" "+e+": error loaded duplicate"):(i.isComplete=!0,i.isInitialized=!0)}else t[e]=new d(e,!0);f("markLoaded dummyfile: "+t[e].name)}},logWhatsBlocked:function(){for(var e in t)!1!==t.hasOwnProperty(e)&&h(t[e])}}}();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};__ez.queue.addFile('/detroitchicago/boise.js', '/detroitchicago/boise.js?gcb=195-0&cb=2', true, [], true, false, true, false);__ez.queue.addFile('/parsonsmaize/abilene.js', '/parsonsmaize/abilene.js?gcb=195-0&cb=30', true, [], true, false, true, false);</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">window._ezaq = Object.assign({}, typeof window._ezaq !== "undefined" ? window._ezaq : {}, {"ad_cache_level":0,"domain_id":469678,"ezcache_level":2,"ezcache_skip_code":0,"has_bad_image":0,"has_bad_words":0,"is_sitespeed":0,"lt_cache_level":0,"page_view_id":"79937d6b-8c4c-4d30-5673-376989f71f26","response_size_orig":153784,"response_time_orig":12,"template_id":5,"url":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/","word_count":0,"worst_bad_word_level":0});__ez.queue.markLoaded('ezaqBaseReady');</script>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>__ez.queue.addFile('/parsonsmaize/mulvane.js', '/parsonsmaize/mulvane.js?gcb=195-0&cb=5', true, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/parsonsmaize/olathe.js', '/parsonsmaize/olathe.js?gcb=195-0&cb=23', false, ['/parsonsmaize/abilene.js','/parsonsmaize/mulvane.js'], true, false, true, false);__ez.queue.addFile('/porpoiseant/et.js', '/porpoiseant/et.js?gcb=195-0&cb=2', false, [], true, false, true, false);!function(){var e;__ez.vep=(e=[],{Add:function(i,t){__ez.dot.isDefined(i)&&__ez.dot.isValid(t)&&e.push({type:"video",video_impression_id:i,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(t)})},Fire:function(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(e)&&e.length>0)for(;e.length>0;){var i=5;i>e.length&&(i=e.length);var t=e.splice(0,i),o=__ez.dot.getURL("/detroitchicago/grapefruit.gif")+"?orig="+(!0===__ez.template.isOrig?1:0)+"&v="+btoa(JSON.stringify(t));__ez.dot.Fire(o)}e=[]}}})}();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>!function(){function e(i){return e="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e(i)}__ez.pel=function(){var i=[];function t(t,o,d,n,_,r,a,p){if(__ez.dot.isDefined(t)&&0!=__ez.dot.isAnyDefined(t.getSlotElementId,t.ElementId)){void 0===p&&(p=!1),parseInt(__ez.dot.getTargeting(t,"ap"));var s=__ez.dot.getSlotIID(t),f=__ez.dot.getAdUnit(t,p),u=parseInt(__ez.dot.getTargeting(t,"compid")),g=0,z=0,l=function(i){if("undefined"==typeof _ezim_d)return!1;var t=__ez.dot.getAdUnitPath(i).split("/").pop();if("object"===("undefined"==typeof _ezim_d?"undefined":e(_ezim_d))&&_ezim_d.hasOwnProperty(t))return _ezim_d[t];for(var o in _ezim_d)if(o.split("/").pop()===t)return _ezim_d[o];return!1}(t);"object"==e(l)&&(void 0!==l.creative_id&&(z=l.creative_id),void 0!==l.line_item_id&&(g=l.line_item_id)),__ez.dot.isDefined(s,f)&&__ez.dot.isValid(o)&&("0"===s&&!0!==p||""===f||i.push({type:"impression",impression_id:s,domain_id:__ez.dot.getDID(),unit:f,t_epoch:__ez.dot.getEpoch(0),revenue:d,bid_floor_filled:_,stat_source_id:a,pageview_id:__ez.dot.getPageviewId(),comp_id:u,line_item_id:g,creative_id:z,data:__ez.dot.dataToStr(o),is_orig:p||__ez.template.isOrig}))}}function o(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(i)&&i.length>0&&[i.filter((function(e){return e.is_orig})),i.filter((function(e){return!e.is_orig}))].forEach((function(e){for(;e.length>0;){var i=e[0].is_orig||!1,t=5;t>e.length&&(t=e.length);var o=e.splice(0,t),d=__ez.dot.getURL("/porpoiseant/army.gif")+"?orig="+(!0===i?1:0)+"&sts="+btoa(JSON.stringify(o));(void 0!==window.isAmp&&isAmp||void 0!==window.ezWp&&ezWp)&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(d+="&visit_uuid="+_ezaq.visit_uuid),__ez.dot.Fire(d)}})),i=[])}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),o()},AddAndFireOrig:function(e,i){t(e,i,0,0,0,0,0,!0),o()},AddById:function(e,t,o,d){var n=e.split("/");if(__ez.dot.isDefined(e)&&3===n.length&&__ez.dot.isValid(t)){var _=n[0],r={type:"impression",impression_id:n[2],domain_id:__ez.dot.getDID(),unit:_,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(t),is_orig:o||__ez.template.isOrig};void 0!==d&&(r.revenue=d),i.push(r)}},Fire:o,GetPixels:function(){return i}}}()}();__ez.queue.addFile('/detroitchicago/raleigh.js', '/detroitchicago/raleigh.js?gcb=195-0&cb=6', false, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/detroitchicago/vista.js', '/detroitchicago/vista.js?gcb=195-0&cb=5', false, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '/detroitchicago/tampa.js?gcb=195-0&cb=5', false, ['/parsonsmaize/abilene.js'], true, false, true, false);</script><base href="https://www.thedefensepost.com/2023/09/28/us-space-force-japan/"/>
+	
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"/>
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v16.7 (Yoast SEO v20.11) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>US Considering New Space Force Unit in Japan</title>
+	<meta name="description" content="The US Space Force is considering establishing a command post in Japan, pushing for collaboration with allies."/>
+	<link rel="canonical" href="https://www.thedefensepost.com/2023/09/28/us-space-force-japan/"/>
+	<meta property="og:locale" content="en_US"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:title" content="US Considering New Space Force Unit in Japan"/>
+	<meta property="og:description" content="The US Space Force is considering establishing a command post in Japan, pushing for collaboration with allies."/>
+	<meta property="og:url" content="https://www.thedefensepost.com/2023/09/28/us-space-force-japan/"/>
+	<meta property="og:site_name" content="The Defense Post"/>
+	<meta property="article:publisher" content="https://www.facebook.com/defensepost/"/>
+	<meta property="article:published_time" content="2023-09-28T13:30:19+00:00"/>
+	<meta property="og:image" content="https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png"/>
+	<meta property="og:image:width" content="1063"/>
+	<meta property="og:image:height" content="930"/>
+	<meta property="og:image:type" content="image/png"/>
+	<meta name="author" content="Juster Domingo"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:creator" content="@defensepost"/>
+	<meta name="twitter:site" content="@defensepost"/>
+	<meta name="twitter:label1" content="Written by"/>
+	<meta name="twitter:data1" content="Juster Domingo"/>
+	<meta name="twitter:label2" content="Est. reading time"/>
+	<meta name="twitter:data2" content="1 minute"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["Article","NewsArticle"],"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#article","isPartOf":{"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/"},"author":{"name":"Juster Domingo","@id":"https://www.thedefensepost.com/#/schema/person/d0d0ab2ae89686f28e9c12c867199bd2"},"headline":"US Considering New Space Force Unit in Japan","datePublished":"2023-09-28T13:30:19+00:00","dateModified":"2023-09-28T13:30:19+00:00","mainEntityOfPage":{"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/"},"wordCount":227,"publisher":{"@id":"https://www.thedefensepost.com/#organization"},"image":{"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#primaryimage"},"thumbnailUrl":"https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png","keywords":["Japan","Space","US Army","US Space Force"],"articleSection":["Americas","Asia Pacific","Space"],"inLanguage":"en-US","copyrightYear":"2023","copyrightHolder":{"@id":"https://www.thedefensepost.com/#organization"}},{"@type":"WebPage","@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/","url":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/","name":"US Considering New Space Force Unit in Japan","isPartOf":{"@id":"https://www.thedefensepost.com/#website"},"primaryImageOfPage":{"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#primaryimage"},"image":{"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#primaryimage"},"thumbnailUrl":"https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png","datePublished":"2023-09-28T13:30:19+00:00","dateModified":"2023-09-28T13:30:19+00:00","description":"The US Space Force is considering establishing a command post in Japan, pushing for collaboration with allies.","breadcrumb":{"@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.thedefensepost.com/2023/09/28/us-space-force-japan/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#primaryimage","url":"https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png","contentUrl":"https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png","width":1063,"height":930,"caption":"US Chief of Space Operations Gen. B. Chance Saltzman shared that the idea is still in its earliest stages. Photo: US Space Force"},{"@type":"BreadcrumbList","@id":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.thedefensepost.com/"},{"@type":"ListItem","position":2,"name":"Latest posts","item":"https://www.thedefensepost.com/latest/"},{"@type":"ListItem","position":3,"name":"US Considering New Space Force Unit in Japan"}]},{"@type":"WebSite","@id":"https://www.thedefensepost.com/#website","url":"https://www.thedefensepost.com/","name":"The Defense Post","description":"Your Gateway to Defense News","publisher":{"@id":"https://www.thedefensepost.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.thedefensepost.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.thedefensepost.com/#organization","name":"The Defense Post","url":"https://www.thedefensepost.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.thedefensepost.com/#/schema/logo/image/","url":"https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-roundel-temp.png","contentUrl":"https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-roundel-temp.png","width":600,"height":600,"caption":"The Defense Post"},"image":{"@id":"https://www.thedefensepost.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/defensepost/","https://twitter.com/defensepost","https://www.linkedin.com/company/the-defense-post/"]},{"@type":"Person","@id":"https://www.thedefensepost.com/#/schema/person/d0d0ab2ae89686f28e9c12c867199bd2","name":"Juster Domingo","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.thedefensepost.com/#/schema/person/image/e42ea4f6eb26a3403df6d3fce7bd0096","url":"https://www.thedefensepost.com/wp-content/uploads/2023/09/Juster-Domingo-Gallego-150x150.png","contentUrl":"https://www.thedefensepost.com/wp-content/uploads/2023/09/Juster-Domingo-Gallego-150x150.png","caption":"Juster Domingo"},"url":"https://www.thedefensepost.com/author/juster-gallego/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com"/>
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.17 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+		<!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thedefensepost.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.thedefensepost.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2" type="text/css" media="all"/>
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="ppress-frontend-css" href="https://www.thedefensepost.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.12.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="ppress-flatpickr-css" href="https://www.thedefensepost.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.12.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="ppress-select2-css" href="https://www.thedefensepost.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.3.2" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-base-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/base.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-styles-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/style.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-widgets-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/widgets.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-helpers-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/helpers.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-fontawesome5-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/fontawesome.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-ilightbox-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-shortcodes-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/plugins/shortcodes.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-single-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/single.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="tie-css-print-css" href="https://www.thedefensepost.com/wp-content/themes/jannah/assets/css/print.css?ver=5.4.10" type="text/css" media="print"/>
+<style id="tie-css-print-inline-css" type="text/css">
+body{font-family: Georgia,serif;}.logo-text,h1,h2,h3,h4,h5,h6,.the-subtitle{font-family: Georgia,serif;}.wf-active #main-nav .main-menu > ul > li > a{font-family: 'Source Sans Pro';}blockquote p{font-family: Georgia,serif;}#main-nav .main-menu > ul > li > a{font-size: 17px;font-weight: 400;text-transform: uppercase;}.entry h2{font-size: 24px;}.brand-title,a:hover,.tie-popup-search-submit,#logo.text-logo a,.theme-header nav .components #search-submit:hover,.theme-header .header-nav .components > li:hover > a,.theme-header .header-nav .components li a:hover,.main-menu ul.cats-vertical li a.is-active,.main-menu ul.cats-vertical li a:hover,.main-nav li.mega-menu .post-meta a:hover,.main-nav li.mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .menu ul:not(.cats-horizontal) li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,.top-nav .menu li:hover > a,.top-nav .menu > .tie-current-menu > a,.search-in-top-nav.autocomplete-suggestions .post-title a:hover,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-slider-nav-wrapper .slide,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,.review-final-score h3,#mobile-menu-icon:hover .menu-text,body .entry a,.dark-skin body .entry a,.entry .post-bottom-meta a:hover,.comment-list .comment-content a,q a,blockquote a,.widget.tie-weather-widget .icon-basecloud-bg:after,.site-footer a:hover,.site-footer .stars-rating-active,.site-footer .twitter-icon-wrap span,.site-info a:hover{color: #0f88ae;}#instagram-link a:hover{color: #0f88ae !important;border-color: #0f88ae !important;}#theme-header #main-nav .spinner-circle:after{color: #0f88ae;}[type='submit'],.button,.generic-button a,.generic-button button,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button,nav.main-nav .menu > li.tie-current-menu > a,nav.main-nav .menu > li:hover > a,.main-menu .mega-links-head:after,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.search-in-main-nav.autocomplete-suggestions a.button,.search-in-top-nav.autocomplete-suggestions a.button,.spinner > div,.post-cat,.pages-numbers li.current span,.multiple-post-pages > span,#tie-wrapper .mejs-container .mejs-controls,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,#story-index-icon,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,.digital-rating-static,.timeline-widget li a:hover .date:before,#wp-calendar #today,.posts-list-counter li.widget-post-list:before,.cat-counter a + span,.tie-slider-nav li span:hover,.fullwidth-area .widget_tag_cloud .tagcloud a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs .active a,.magazine1 .dark-widgetized-area ul.tabs a:hover,.magazine1 .dark-widgetized-area ul.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:before,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:after,.demo_store,.demo #logo:after,.demo #sticky-logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top,.latest-tweets-widget .slider-links .button:not(:hover){background-color: #0f88ae;color: #FFFFFF;}.tie-weather-widget .widget-title .the-subtitle,.block-head-4.magazine2 #footer .tabs .active a:hover{color: #FFFFFF;}pre,code,.pages-numbers li.current span,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,#tie-body .tie-slider-nav li > span:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,.main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,.main-menu .menu > li > .menu-sub-content{border-color: #0f88ae;}.main-menu .menu > li.tie-current-menu{border-bottom-color: #0f88ae;}.top-nav .menu li.tie-current-menu > a:before,.top-nav .menu li.menu-item-has-children:hover > a:before{border-top-color: #0f88ae;}.main-nav .main-menu .menu > li.tie-current-menu > a:before,.main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-left-color: #0f88ae;}.rtl header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,.rtl header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-right-color: #0f88ae;border-left-color: transparent;}.top-nav ul.menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #0f88ae;}.rtl .top-nav ul.menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #0f88ae;}::-moz-selection{background-color: #0f88ae;color: #FFFFFF;}::selection{background-color: #0f88ae;color: #FFFFFF;}circle.circle_bar{stroke: #0f88ae;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 15,136,174,0.7);}#logo.text-logo a:hover,body .entry a:hover,.dark-skin body .entry a:hover,.comment-list .comment-content a:hover,.block-head-4.magazine2 .site-footer .tabs li a:hover,q a:hover,blockquote a:hover{color: #00567c;}.button:hover,input[type='submit']:hover,.generic-button a:hover,.generic-button button:hover,a.post-cat:hover,.site-footer .button:hover,.site-footer [type='submit']:hover,.search-in-main-nav.autocomplete-suggestions a.button:hover,.search-in-top-nav.autocomplete-suggestions a.button:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button:hover{background-color: #00567c;color: #FFFFFF;}.theme-header .header-nav .comp-sub-menu a.checkout-button:not(:hover),body .entry a.button{color: #FFFFFF;}#story-index.is-compact .story-index-content{background-color: #0f88ae;}#story-index.is-compact .story-index-content a,#story-index.is-compact .story-index-content .is-current{color: #FFFFFF;}#tie-body .mag-box-title h3 a,#tie-body .block-more-button{color: #0f88ae;}#tie-body .mag-box-title h3 a:hover,#tie-body .block-more-button:hover{color: #00567c;}#tie-body .mag-box-title{color: #0f88ae;}#tie-body .mag-box-title:before{border-top-color: #0f88ae;}#tie-body .mag-box-title:after,#tie-body #footer .widget-title:after{background-color: #0f88ae;}.brand-title,a:hover,.tie-popup-search-submit,#logo.text-logo a,.theme-header nav .components #search-submit:hover,.theme-header .header-nav .components > li:hover > a,.theme-header .header-nav .components li a:hover,.main-menu ul.cats-vertical li a.is-active,.main-menu ul.cats-vertical li a:hover,.main-nav li.mega-menu .post-meta a:hover,.main-nav li.mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .menu ul:not(.cats-horizontal) li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,.top-nav .menu li:hover > a,.top-nav .menu > .tie-current-menu > a,.search-in-top-nav.autocomplete-suggestions .post-title a:hover,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-slider-nav-wrapper .slide,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,.review-final-score h3,#mobile-menu-icon:hover .menu-text,body .entry a,.dark-skin body .entry a,.entry .post-bottom-meta a:hover,.comment-list .comment-content a,q a,blockquote a,.widget.tie-weather-widget .icon-basecloud-bg:after,.site-footer a:hover,.site-footer .stars-rating-active,.site-footer .twitter-icon-wrap span,.site-info a:hover{color: #0f88ae;}#instagram-link a:hover{color: #0f88ae !important;border-color: #0f88ae !important;}#theme-header #main-nav .spinner-circle:after{color: #0f88ae;}[type='submit'],.button,.generic-button a,.generic-button button,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button,nav.main-nav .menu > li.tie-current-menu > a,nav.main-nav .menu > li:hover > a,.main-menu .mega-links-head:after,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.search-in-main-nav.autocomplete-suggestions a.button,.search-in-top-nav.autocomplete-suggestions a.button,.spinner > div,.post-cat,.pages-numbers li.current span,.multiple-post-pages > span,#tie-wrapper .mejs-container .mejs-controls,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,#story-index-icon,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,.digital-rating-static,.timeline-widget li a:hover .date:before,#wp-calendar #today,.posts-list-counter li.widget-post-list:before,.cat-counter a + span,.tie-slider-nav li span:hover,.fullwidth-area .widget_tag_cloud .tagcloud a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs a:hover,.magazine2:not(.block-head-4) .dark-widgetized-area ul.tabs .active a,.magazine1 .dark-widgetized-area ul.tabs a:hover,.magazine1 .dark-widgetized-area ul.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs.tabs .active a,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:before,.block-head-4.magazine2 .dark-widgetized-area .tabs > .active a:after,.demo_store,.demo #logo:after,.demo #sticky-logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top,.latest-tweets-widget .slider-links .button:not(:hover){background-color: #0f88ae;color: #FFFFFF;}.tie-weather-widget .widget-title .the-subtitle,.block-head-4.magazine2 #footer .tabs .active a:hover{color: #FFFFFF;}pre,code,.pages-numbers li.current span,.theme-header .header-nav .comp-sub-menu a.button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,#tie-body .tie-slider-nav li > span:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,.main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,.main-menu .menu > li > .menu-sub-content{border-color: #0f88ae;}.main-menu .menu > li.tie-current-menu{border-bottom-color: #0f88ae;}.top-nav .menu li.tie-current-menu > a:before,.top-nav .menu li.menu-item-has-children:hover > a:before{border-top-color: #0f88ae;}.main-nav .main-menu .menu > li.tie-current-menu > a:before,.main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-left-color: #0f88ae;}.rtl header.main-nav-light .main-nav .menu-item-has-children li:hover > a:before,.rtl header.main-nav-light .main-nav .mega-menu li:hover > a:before{border-right-color: #0f88ae;border-left-color: transparent;}.top-nav ul.menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #0f88ae;}.rtl .top-nav ul.menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #0f88ae;}::-moz-selection{background-color: #0f88ae;color: #FFFFFF;}::selection{background-color: #0f88ae;color: #FFFFFF;}circle.circle_bar{stroke: #0f88ae;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 15,136,174,0.7);}#logo.text-logo a:hover,body .entry a:hover,.dark-skin body .entry a:hover,.comment-list .comment-content a:hover,.block-head-4.magazine2 .site-footer .tabs li a:hover,q a:hover,blockquote a:hover{color: #00567c;}.button:hover,input[type='submit']:hover,.generic-button a:hover,.generic-button button:hover,a.post-cat:hover,.site-footer .button:hover,.site-footer [type='submit']:hover,.search-in-main-nav.autocomplete-suggestions a.button:hover,.search-in-top-nav.autocomplete-suggestions a.button:hover,.theme-header .header-nav .comp-sub-menu a.checkout-button:hover{background-color: #00567c;color: #FFFFFF;}.theme-header .header-nav .comp-sub-menu a.checkout-button:not(:hover),body .entry a.button{color: #FFFFFF;}#story-index.is-compact .story-index-content{background-color: #0f88ae;}#story-index.is-compact .story-index-content a,#story-index.is-compact .story-index-content .is-current{color: #FFFFFF;}#tie-body .mag-box-title h3 a,#tie-body .block-more-button{color: #0f88ae;}#tie-body .mag-box-title h3 a:hover,#tie-body .block-more-button:hover{color: #00567c;}#tie-body .mag-box-title{color: #0f88ae;}#tie-body .mag-box-title:before{border-top-color: #0f88ae;}#tie-body .mag-box-title:after,#tie-body #footer .widget-title:after{background-color: #0f88ae;}a,body .entry a,.dark-skin body .entry a,.comment-list .comment-content a{color: #0f88ae;}a:hover,body .entry a:hover,.dark-skin body .entry a:hover,.comment-list .comment-content a:hover{color: #0d7494;}#top-nav .comp-sub-menu .button:hover,#top-nav .checkout-button,.search-in-top-nav.autocomplete-suggestions .button{background-color: #ffffff;}#top-nav a:hover,#top-nav .menu li:hover > a,#top-nav .menu > .tie-current-menu > a,#top-nav .components > li:hover > a,#top-nav .components #search-submit:hover,.search-in-top-nav.autocomplete-suggestions .post-title a:hover{color: #ffffff;}#top-nav .comp-sub-menu .button:hover{border-color: #ffffff;}#top-nav .tie-current-menu > a:before,#top-nav .menu .menu-item-has-children:hover > a:before{border-top-color: #ffffff;}#top-nav .menu li .menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #ffffff;}.rtl #top-nav .menu li .menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #ffffff;}#top-nav .comp-sub-menu .button:hover,#top-nav .comp-sub-menu .checkout-button,.search-in-top-nav.autocomplete-suggestions .button{color: #000000;}#top-nav .comp-sub-menu .checkout-button:hover,.search-in-top-nav.autocomplete-suggestions .button:hover{background-color: #e1e1e1;}#main-nav .menu li.menu-item-has-children > a:before,#main-nav .main-menu .mega-menu > a:before{border-top-color: #0f88ae;}#main-nav .menu li .menu-item-has-children > a:before,#main-nav .mega-menu .menu-item-has-children > a:before{border-top-color: transparent;border-left-color: #0f88ae;}.rtl #main-nav .menu li .menu-item-has-children > a:before,.rtl #main-nav .mega-menu .menu-item-has-children > a:before{border-left-color: transparent;border-right-color: #0f88ae;}#main-nav a:not(:hover),#main-nav a.social-link:not(:hover) span,#main-nav .dropdown-social-icons li a span,.search-in-main-nav.autocomplete-suggestions a{color: #0f88ae;}#theme-header:not(.main-nav-boxed) #main-nav,.main-nav-boxed .main-menu-wrapper{border-top-color:#000000 !important;border-top-width:2px !important;border-bottom-color:#d5d5d5 !important;border-bottom-width:1px !important;border-right: 0 none;border-left : 0 none;}.main-nav-boxed #main-nav.fixed-nav{box-shadow: none;}#main-nav .comp-sub-menu .button:hover,#main-nav .menu > li.tie-current-menu,#main-nav .menu > li > .menu-sub-content,#main-nav .cats-horizontal a.is-active,#main-nav .cats-horizontal a:hover{border-color: #0f88ae;}#main-nav .menu > li.tie-current-menu > a,#main-nav .menu > li:hover > a,#main-nav .mega-links-head:after,#main-nav .comp-sub-menu .button:hover,#main-nav .comp-sub-menu .checkout-button,#main-nav .cats-horizontal a.is-active,#main-nav .cats-horizontal a:hover,.search-in-main-nav.autocomplete-suggestions .button,#main-nav .spinner > div{background-color: #0f88ae;}#main-nav .menu ul li:hover > a,#main-nav .menu ul li.current-menu-item:not(.mega-link-column) > a,#main-nav .components a:hover,#main-nav .components > li:hover > a,#main-nav #search-submit:hover,#main-nav .cats-vertical a.is-active,#main-nav .cats-vertical a:hover,#main-nav .mega-menu .post-meta a:hover,#main-nav .mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:hover,#main-nav .spinner-circle:after{color: #0f88ae;}#main-nav .menu > li.tie-current-menu > a,#main-nav .menu > li:hover > a,#main-nav .components .button:hover,#main-nav .comp-sub-menu .checkout-button,.theme-header #main-nav .mega-menu .cats-horizontal a.is-active,.theme-header #main-nav .mega-menu .cats-horizontal a:hover,.search-in-main-nav.autocomplete-suggestions a.button{color: #FFFFFF;}#main-nav .menu > li.tie-current-menu > a:before,#main-nav .menu > li:hover > a:before{border-top-color: #FFFFFF;}.main-nav-light #main-nav .menu-item-has-children li:hover > a:before,.main-nav-light #main-nav .mega-menu li:hover > a:before{border-left-color: #0f88ae;}.rtl .main-nav-light #main-nav .menu-item-has-children li:hover > a:before,.rtl .main-nav-light #main-nav .mega-menu li:hover > a:before{border-right-color: #0f88ae;border-left-color: transparent;}.search-in-main-nav.autocomplete-suggestions .button:hover,#main-nav .comp-sub-menu .checkout-button:hover{background-color: #006a90;}#footer{background-color: #ffffff;}#footer .posts-list-counter .posts-list-items li.widget-post-list:before{border-color: #ffffff;}#footer .timeline-widget a .date:before{border-color: rgba(255,255,255,0.8);}#footer .footer-boxed-widget-area,#footer textarea,#footer input:not([type=submit]),#footer select,#footer code,#footer kbd,#footer pre,#footer samp,#footer .show-more-button,#footer .slider-links .tie-slider-nav span,#footer #wp-calendar,#footer #wp-calendar tbody td,#footer #wp-calendar thead th,#footer .widget.buddypress .item-options a{border-color: rgba(0,0,0,0.1);}#footer .social-statistics-widget .white-bg li.social-icons-item a,#footer .widget_tag_cloud .tagcloud a,#footer .latest-tweets-widget .slider-links .tie-slider-nav span,#footer .widget_layered_nav_filters a{border-color: rgba(0,0,0,0.1);}#footer .social-statistics-widget .white-bg li:before{background: rgba(0,0,0,0.1);}.site-footer #wp-calendar tbody td{background: rgba(0,0,0,0.02);}#footer .white-bg .social-icons-item a span.followers span,#footer .circle-three-cols .social-icons-item a .followers-num,#footer .circle-three-cols .social-icons-item a .followers-name{color: rgba(0,0,0,0.8);}#footer .timeline-widget ul:before,#footer .timeline-widget a:not(:hover) .date:before{background-color: #e1e1e1;}#footer .widget-title,#footer .widget-title a:not(:hover){color: #000000;}#footer,#footer textarea,#footer input:not([type='submit']),#footer select,#footer #wp-calendar tbody,#footer .tie-slider-nav li span:not(:hover),#footer .widget_categories li a:before,#footer .widget_product_categories li a:before,#footer .widget_layered_nav li a:before,#footer .widget_archive li a:before,#footer .widget_nav_menu li a:before,#footer .widget_meta li a:before,#footer .widget_pages li a:before,#footer .widget_recent_entries li a:before,#footer .widget_display_forums li a:before,#footer .widget_display_views li a:before,#footer .widget_rss li a:before,#footer .widget_display_stats dt:before,#footer .subscribe-widget-content h3,#footer .about-author .social-icons a:not(:hover) span{color: #333333;}#footer post-widget-body .meta-item,#footer .post-meta,#footer .stream-title,#footer.dark-skin .timeline-widget .date,#footer .wp-caption .wp-caption-text,#footer .rss-date{color: rgba(51,51,51,0.7);}#footer input::-moz-placeholder{color: #333333;}#footer input:-moz-placeholder{color: #333333;}#footer input:-ms-input-placeholder{color: #333333;}#footer input::-webkit-input-placeholder{color: #333333;}.site-footer.dark-skin a:not(:hover){color: #111111;}#footer .site-info a:not(:hover){color: #dddddd;}#footer .site-info a:hover{color: #ffffff;}.tie-cat-8,.tie-cat-item-8 > span{background-color:#5b92e5 !important;color:#FFFFFF !important;}.tie-cat-8:after{border-top-color:#5b92e5 !important;}.tie-cat-8:hover{background-color:#3d74c7 !important;}.tie-cat-8:hover:after{border-top-color:#3d74c7 !important;}.tie-cat-15,.tie-cat-item-15 > span{background-color:#2ecc71 !important;color:#FFFFFF !important;}.tie-cat-15:after{border-top-color:#2ecc71 !important;}.tie-cat-15:hover{background-color:#10ae53 !important;}.tie-cat-15:hover:after{border-top-color:#10ae53 !important;}.tie-cat-19,.tie-cat-item-19 > span{background-color:#e74c3c !important;color:#FFFFFF !important;}.tie-cat-19:after{border-top-color:#e74c3c !important;}.tie-cat-19:hover{background-color:#c92e1e !important;}.tie-cat-19:hover:after{border-top-color:#c92e1e !important;}.tie-cat-23,.tie-cat-item-23 > span{background-color:#795548 !important;color:#FFFFFF !important;}.tie-cat-23:after{border-top-color:#795548 !important;}.tie-cat-23:hover{background-color:#5b372a !important;}.tie-cat-23:hover:after{border-top-color:#5b372a !important;}.tie-cat-42,.tie-cat-item-42 > span{background-color:#36256e !important;color:#FFFFFF !important;}.tie-cat-42:after{border-top-color:#36256e !important;}.tie-cat-42:hover{background-color:#180750 !important;}.tie-cat-42:hover:after{border-top-color:#180750 !important;}.tie-cat-343,.tie-cat-item-343 > span{background-color:#bb234d !important;color:#FFFFFF !important;}.tie-cat-343:after{border-top-color:#bb234d !important;}.tie-cat-343:hover{background-color:#9d052f !important;}.tie-cat-343:hover:after{border-top-color:#9d052f !important;}.tie-cat-590,.tie-cat-item-590 > span{background-color:#bb234d !important;color:#FFFFFF !important;}.tie-cat-590:after{border-top-color:#bb234d !important;}.tie-cat-590:hover{background-color:#9d052f !important;}.tie-cat-590:hover:after{border-top-color:#9d052f !important;}.post-content.container-wrapper { border: none;}.post-layout-6 .entry-header-outer { padding: 0px 30px 20px 30px;}.top-nav-dark #top-nav .top-menu li a { color: #dedede;}.top-nav-dark #top-nav ul.components > li > a,.top-nav-dark #top-nav ul.components > li.social-icons-item .social-link:not(:hover) span { color: #dedede;}.entry p { font-size: 17px; line-height: 1.8em; margin-bottom: 1em;}.entry h1 { font-size: 2.8em; line-height: 1.55em; margin-bottom: 10px; }.entry h2 { font-size: 2.5em; line-height: 1.55em; margin-bottom: 10px;}.entry h3 { font-size: 2.2em; line-height: 1.55em; margin-bottom: 10px; -webkit-font-smoothing: antialiased; }.entry h4 { font-size: 1.55em; line-height: 1.55em; margin-bottom: 10px; font-weight: normal !important;}.entry h5 { font-size: 1.3em; line-height: 1.55em; margin-bottom: 10px; }.entry h6 { font-size: 1em; line-height: 1.55em; margin-bottom: 10px; }.entry-content h3 { font-size: 1.55em; line-height: 1.55em;}.entry ul li { list-style:none; font-size:17px; line-height:1.7em; margin-left:.5em; margin-bottom: 1em;}.entry ul li:before { content:""; background: url(https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-roundel-temp.png); background-size: 15px; width:15px; height:15px; display: inline-block; position:relative; margin:0 .5em 0 -1.4em; top:2px;}.featured-area .single-caption-text { position: absolute; bottom: 0; left: 0; padding: .4em 1em .5em; background: rgba(0,0,0,0.7); font-family: 'Source Sans Pro' !important; color: #eee; line-height: 1.3; font-size: 100%;}.entry-header .entry-sub-title { line-height: 1.4em; margin-top: 30px;}#story-highlights { float: right; margin-right: 0; margin-left: 4%; margin-bottom: 5px; padding: 10px 20px 10px; background-color: #f6f6f6; font-family: 'Source Sans Pro' !important; font-weight:500;}#story-highlights .widget-title h4 { font-family: 'Source Sans Pro' !important; text-transform: uppercase; letter-spacing:.02em; font-size: 21px;}#story-highlights ul { margin-left: .7em; }#story-highlights li { list-style: none; border-bottom: none; line-height: 1.3em !important;}#story-highlights ul li:before { content:""; background: url(https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-roundel-temp.png); background-size: 10px; width:10px; height:10px; display: inline-block; position:relative; margin:0 .5em 0 -1.2em; top:1px;}.stream-item-above-post { margin: 0 auto 0px;}.entry a { position: relative; padding: .13em .13em; text-decoration: none !important; border-bottom: 1px dotted #0d7494;}.entry a { transition: all .7s cubic-bezier(0.32,0.28,0.38,0.84);}.entry a:not(:hover) { color: #2c2f34;}.entry a:hover { text-decoration: none !important; border-bottom: 1px solid #044b61; background-color: #c8f2ff;}.wp-caption a { padding: 0;}.entry .wp-caption-text { margin: 0 0 1.5em 0;}.entry figure { margin: 1.5em 0;}.entry .wp-caption img[class*="size-medium"] { margin: -1em 0 0;}.entry figure[class="wp-caption alignright"] { margin-left:1em;}.wp-caption img[class*="size-large"] { margin: 0 -30px 0 -30px; max-width: 108.5%; width:770px;}@media (max-width: 767px) { .wp-caption img[class*="size-large"] { margin: 0 -30px 0 -30px; max-width: 117.5%;}}a[href$=".pdf"]:after { content: "\f1c1"; font-family: FontAwesome; font-size:.9em; color: #666; display: inline-block; text-decoration: inherit; margin:0 0 0 .3em;}a[href*="https://www.google.com/maps/"]:after,a[href*="http://wikimapia.org/"]:after { content: "\f041"; font-family: FontAwesome; color: #999; display: inline-block; text-decoration: inherit; margin:0 0 0 .17em;}.entry-content a[href*="thedefensepost.com"] { color: #0d7494; font-weight: normal;}.meta-comment.meta-item { display: none;}.entry-header-outer #breadcrumb { font-family: 'Source Sans Pro' !important;}.entry-header .post-cat { font-family: 'Source Sans Pro' !important; text-transform: uppercase; letter-spacing:.02em; font-size: 11px; padding: .1em 1em .15em;}.entry-header .post-meta { font-family: 'Source Sans Pro' !important; text-transform: uppercase; letter-spacing:.02em; font-size: 16px; margin: 2em 0 0 0; color: #ababab !important;}.entry-header .meta-author-avatar img { width: 50px; height: 50px;}.post-layout-8 .meta-author-avatar img { width: 100px; height: 100px;}.post-meta .tie-alignright .meta-item:last-child { margin: 10px 0 0 0 !important;}.post-meta .fa-twitter:before { color: #1da1f2; margin: 0 .3em;}.entry-header .post-meta .date.meta-item:before { display: none;}.entry-header .post-meta .date.meta-item .fa { display: inline-block; margin: 0 0 0 1em; color: #c3c3c3;}.meta-views { display: none !important;}.post-layout-8 .single-big-img .post-meta { color: #ffffff !important;}.entry .post-bottom-meta { margin: 2em 0 1em; font-size: 13px; clear: both; line-height: 20px; font-family: 'Source Sans Pro';}.entry .post-bottom-meta .post-bottom-meta-title,.entry .post-bottom-meta a { float: left; padding: 2px 7px; margin: 5px 5px 0 0; background: #044b61; border: 1px dotted #044b61; border-radius: 2px; font-weight: 600 !important;}.entry .post-bottom-meta a { background: rgba(0,0,0,0.07);}.entry .post-bottom-meta a:hover { color: #044b61; background: #c8f2ff; border: 1px solid rgba(0,0,0,0.5);}blockquote { margin: 2em 0 2em; font-size: inherit; font-weight: 400; color: #232323; font-style:normal; position: relative; background-color: #efefef; padding: 20px; border-top: 1px solid #bbb; border-bottom: 1px solid #bbb; }blockquote > * { padding: 0 0 0 2.3em;}blockquote > *:last-child { font-weight:500; margin-bottom: 0px !important; padding-right: 80px;}blockquote:before,q:before { font-family: FontAwesome; font-size: 34px; position: absolute; top: 9px; left: 14px; line-height: 41px; z-index: 0; color: #cdcdcd;}blockquote:after { content: url(/wp-content/uploads/2017/04/cropped-logo-square-ongrey-32x32.png); position: relative; top: -40px; left: -8px; z-index: 0; float: right;}hr { border-top: 1px solid rgba(0,0,0,0.2); margin: 1em 0;}#related-posts .related-item .post-title a { font-family: 'Source Sans Pro' !important; font-weight:500; color: #044b61;}#related-posts .related-item .post-title a:hover { color: #0d7494;}#related-posts .related-item .post-meta { font-family: 'Source Sans Pro' !important; text-transform: uppercase; letter-spacing:.02em; color:#ababab; margin:.25em 0 0;}#related-posts .mag-box-title h3 { font-family: 'Source Sans Pro' !important; font-weight:600; text-transform: uppercase; letter-spacing:.02em;}#main-nav { line-height: 3.85em;}#theme-header #main-nav .main-menu > ul > li:not(.is-icon-only) > a { padding-left: 13px; padding-right: 13px;}#menu-components-wrap { background-color: #f9f9f9;}#tie-wrapper #main-nav .menu > li.tie-current-menu > a:before,#tie-wrapper #theme-header #main-nav .menu > li > a:hover:before,#tie-wrapper #theme-header #main-nav .menu > li:hover > a:before {display:none}#tie-wrapper #main-nav .menu li.menu-item-has-children > a:before,#tie-wrapper #main-nav .main-menu .mega-menu > a:before {display:none}.mag-box .posts-items .post-excerpt { font-size: 16px; line-height:1.6em; color: #999;}.wide-post-box.timeline-box .day-month { font-size: 1.6em; margin: 0 0 1em;}.wide-post-box.timeline-box .posts-items > li { padding: 1.6em 0 ; border-bottom: 1px dotted #e3e3e3 !important;}.block-pagination.prev-posts,.block-pagination.next-posts { background-color: #efefef;}.twitter-tweet-rendered { padding: 0 1em !important; margin-bottom: 2em !important;}.twitter-tweet { margin: 2em auto !important;}.widget_text p,.text-html p { line-height: 24px; font-family: 'Source Sans Pro' !important; font-weight: 500; font-size: 1.2em;}.widget-title h4 { font-size: 24px; font-weight: normal;}.tie-widget-categories li { font-size: 15px; line-height:1.6em;}.cat-counter a + span { min-width: 0px; max-width: 60px; height: 22px; border-radius: 2px; font-size: 85%; line-height: 22px; padding: 0px 7px 1px; width: fit-content;}li.widget-post-list,.recent-comments-widget li { padding: 0em 0 1em; position: relative;}.widget h3,.widget a,.widget .post-meta { font-family: 'Source Sans Pro' !important; font-weight:500; color: #044b61;}.widget .post-meta { text-transform: uppercase; letter-spacing:.02em; color:#ababab; display:none;}.widget a:hover { color: #0d7494; border: 0 0 1px 0 solid rgba(0,0,0,0.5);}.widget h4 { font-family: 'Source Sans Pro' !important; font-weight:600; text-transform: uppercase; letter-spacing:.02em;}.subscribe-widget .subscribe-input { text-transform: uppercase; letter-spacing: 1px; font-family: 'Source Sans Pro' !important; font-weight: 600 !important; font-size: 1.1em !important;}#footer-widgets-container { background-color: #cdcdcd;}.footer-widget-area.footer-boxed-widget-area { background-color: #fff;}#footer .footer-boxed-widget-area .container-wrapper { padding: 0 1em;}.fullwidth-area .widget_tag_cloud .widget-title h4 { font-size: 21px; padding:.7em;}.fullwidth-area .widget_tag_cloud .tagcloud a { font-size: 12px !important; background-color: #efefef; padding: .7em;}#footer .footer-widget-area.footer-boxed-widget-area:last-child { background-color: #dedede; padding: .4em;}#site-info,.footer-menu { font-family: 'Source Sans Pro' !important;}.sidebar .container-wrapper { border: none; border-left: 1px solid rgba(0,0,0,0.1);}.sidebar .widget { margin:0 !important; padding-bottom:2em; padding-top:0;}.button { text-transform: uppercase; letter-spacing: 1px; font-family: 'Source Sans Pro' !important; font-weight: 600 !important; font-size: 1.3em !important;}.shortc-button.big { text-transform: uppercase; letter-spacing: 1px; font-family: 'Source Sans Pro' !important; font-weight: 600 !important; font-size: .9em !important; padding: 1em 1.5em 1.2em !important;}.shortc-button.big .fa-plus-circle:before { font-size:1.5em; margin-right:5px; position:relative; top:.1em;}.rss-date { color:#999}@media (max-width: 767px) { .entry-title { font-size: 1em; line-height: 1.2em; padding-right: 0; }}@media (max-width: 767px) {.featured-area .single-caption-text { position: relative; bottom: 0; left: 0; padding: .5em 1; background: rgba(0,0,0,0.0); font-family: 'Source Sans Pro' !important; color: #696969; line-height: 1.3; font-size: 100%;}}.block-more-button { font-family: 'Source Sans Pro' !important; font-weight:600; text-transform: uppercase; letter-spacing:.02em; font-size: 13px; color:#62102a !important; margin-top:1px;}a.block-more-button:before { content: "\f055"; font-family: FontAwesome; font-size:12px; margin-right: 3px; color:#bb234d !important;}.toggle h3 { background: rgba(0,0,0,0.03); font-family: 'Source Sans Pro' !important; font-weight: normal; font-size: 17px; padding: 7px; margin: 0;}.toggle h3:before { content: "\f055"; font-family: FontAwesome; font-size:15px; margin-right: 7px; color:#bb234d !important;}.toggle h3 span.fa { float: right; font-size: 26px; width: 16px; height: 16px; text-align: center;}#tie-wrapper #the-post .mejs-container { margin: 0 0 13px 0;}#tie-wrapper .mejs-container .mejs-controls { background-color: #044b61;}#tie-wrapper #the-post .mejs-container .mejs-controls { padding: 0 10px;}#tie-wrapper #the-post .mejs-container .mejs-controls .mejs-button button { margin-top: 27px;}#tie-wrapper #the-post .mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total { top: 36px; height: 3px;}#tie-wrapper #the-post .mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current { top: 0px; height: 3px;}.mejs-controls a.mejs-horizontal-volume-slider { background-color: none !important; border-bottom: 0px;}.mejs-controls a.mejs-horizontal-volume-slider:hover { background-color: #044b61 !important;}
+</style>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.12.0" id="ppress-flatpickr-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.12.0" id="ppress-select2-js"></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-78169263-5" id="google_gtagjs-js" async=""></script>
+<script id="google_gtagjs-js-after" type="text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.thedefensepost.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-78169263-5", {"anonymize_ip":true});
+gtag("config", "G-W7TS6SK2MX");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.thedefensepost.com/wp-json/"/><link rel="alternate" type="application/json" href="https://www.thedefensepost.com/wp-json/wp/v2/posts/63699"/><link rel="alternate" type="application/json+oembed" href="https://www.thedefensepost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thedefensepost.com%2F2023%2F09%2F28%2Fus-space-force-japan%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.thedefensepost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thedefensepost.com%2F2023%2F09%2F28%2Fus-space-force-japan%2F&amp;format=xml"/>
+<meta name="generator" content="Site Kit by Google 1.105.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="theme-color" content="#0f88ae"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236"/>
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com"/>
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google AdSense snippet added by Site Kit -->
+<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4768863620920144&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous" type="text/javascript"></script>
+
+<!-- End Google AdSense snippet added by Site Kit -->
+<link rel="icon" href="https://www.thedefensepost.com/wp-content/uploads/2017/10/cropped-defense-post-roundel-temp-32x32.png" sizes="32x32"/>
+<link rel="icon" href="https://www.thedefensepost.com/wp-content/uploads/2017/10/cropped-defense-post-roundel-temp-192x192.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://www.thedefensepost.com/wp-content/uploads/2017/10/cropped-defense-post-roundel-temp-180x180.png"/>
+<meta name="msapplication-TileImage" content="https://www.thedefensepost.com/wp-content/uploads/2017/10/cropped-defense-post-roundel-temp-270x270.png"/>
+<script type='text/javascript'>
+var ezoTemplate = 'orig_site';
+var ezouid = '1';
+var ezoFormfactor = '1';
+</script><script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 469678;
+var ezdomain = 'thedefensepost.com';
+var ezoicSearchable = 1;
+</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = window._ezaq = Object.assign({}, typeof window._ezaq !== "undefined" ? window._ezaq : {}, {"ab_test_id":"mod253-c","ad_cache_level":0,"ad_lazyload_version":0,"ad_load_version":0,"city":"San Jose","country":"US","days_since_last_visit":-1,"domain_id":469678,"engaged_time_visit":0,"ezcache_level":2,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"is_embed":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":807,"page_ad_positions":"","page_view_count":0,"page_view_id":"79937d6b-8c4c-4d30-5673-376989f71f26","position_selection_id":0,"postal_code":"95126","pv_event_count":0,"response_size_orig":153784,"response_time_orig":12,"serverid":"i-0a237eb574ec5a541","state":"CA","t_epoch":1700355577,"template_id":5,"time_on_site_visit":0,"url":"https://www.thedefensepost.com/2023/09/28/us-space-force-japan/","word_count":919,"worst_bad_word_level":0});var _ezExtraQueries = "&ez_orig=1";</script>
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+	var d = new Date();
+	d.setTime(d.getTime() + (365*24*60*60*1000));
+	var expires = "expires="+d.toUTCString();
+	__ez.ck.setByCat("ezux_lpl_469678=" + new Date().getTime() + "|" + _ezaq.page_view_id + "|" + _ezaq.is_return_visitor + "; " + expires, 3);
+}
+function attach_ezolpl() {
+	if (document.readyState === "complete") {
+		create_ezolpl();
+		return;
+	}
+	window.addEventListener("load", create_ezolpl);
+}
+
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", null, false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script></head>
+
+<body id="tie-body" class="post-template-default single single-post postid-63699 single-format-standard wp-custom-logo block-head-1 magazine1 is-thumb-overlay-disabled is-desktop is-header-layout-2 sidebar-right has-sidebar post-layout-6 wide-media-narrow-title is-standard-format has-mobile-share hide_share_post_top hide_share_post_bottom">
+
+
+
+<div class="background-overlay">
+
+	<div id="tie-container" class="site tie-container">
+
+		
+		<div id="tie-wrapper">
+
+			
+<header id="theme-header" class="theme-header header-layout-2 main-nav-light main-nav-default-light main-nav-below main-nav-boxed no-stream-item top-nav-active top-nav-dark top-nav-default-dark top-nav-above has-normal-width-logo has-custom-sticky-logo mobile-header-default">
+	
+<nav id="top-nav" class="has-menu-components top-nav header-nav" aria-label="Secondary Navigation">
+	<div class="container">
+		<div class="topbar-wrapper">
+
+			
+			<div class="tie-alignleft">
+				<div class="top-menu header-menu"><ul id="menu-secondary-menu" class="menu"><li id="menu-item-1009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1009"><a href="https://www.thedefensepost.com/">Home</a></li>
+<li id="menu-item-30712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30712"><a href="https://www.thedefensepost.com/advertise/">Partnerships and Sponsorships</a></li>
+<li id="menu-item-3844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3844"><a href="https://www.thedefensepost.com/about/">About</a></li>
+<li id="menu-item-4236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4236"><a href="https://www.thedefensepost.com/contact/submit-op-ed/">Submit an Op-Ed</a></li>
+<li id="menu-item-8898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8898"><a href="https://www.thedefensepost.com/about/work-with-us/">Work With Us</a></li>
+<li id="menu-item-3845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3845"><a href="https://www.thedefensepost.com/contact/">Contact Us</a></li>
+<li id="menu-item-13552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13552"><a href="https://www.thedefensepost.com/contact/newsletter/">Newsletter</a></li>
+</ul></div>			</div><!-- .tie-alignleft /-->
+
+			<div class="tie-alignright">
+				<ul class="components">	<li class="side-aside-nav-icon menu-item custom-menu-link">
+		<a href="#">
+			<span class="tie-icon-navicon" aria-hidden="true"></span>
+			<span class="screen-reader-text">Sidebar</span>
+		</a>
+	</li>
+	 <li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.thedefensepost.com/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/defensepost"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/defensepost/"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li> </ul><!-- Components -->			</div><!-- .tie-alignright /-->
+
+		</div><!-- .topbar-wrapper /-->
+	</div><!-- .container /-->
+</nav><!-- #top-nav /-->
+
+<div class="container header-container">
+	<div class="tie-row logo-row">
+
+		
+		<div class="logo-wrapper">
+			<div class="tie-col-md-4 logo-container clearfix">
+				
+		<div id="logo" class="image-logo" style="margin-top: 42px; margin-bottom: 42px;">
+
+			
+			<a title="Global defense news, analysis and opinion" href="https://www.thedefensepost.com/">
+				
+				<picture class="tie-logo-default tie-logo-picture">
+					<source class="tie-logo-source-default tie-logo-source" srcset="https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-logo-temp.png"/>
+					<img class="tie-logo-img-default tie-logo-img" src="https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-logo-temp.png" alt="Global defense news, analysis and opinion" width="600" height="100" style="max-height:100px; width: auto;"/>
+				</picture>
+						</a>
+
+			
+		</div><!-- #logo /-->
+
+		<div id="mobile-header-components-area_2" class="mobile-header-components"><ul class="components"><li class="mobile-component_menu custom-menu-link"><a href="#" id="mobile-menu-icon" class="menu-text-wrapper"><span class="tie-mobile-menu-icon nav-icon is-layout-1"></span><span class="menu-text">Menu</span></a></li></ul></div>			</div><!-- .tie-col /-->
+		</div><!-- .logo-wrapper /-->
+
+		
+	</div><!-- .tie-row /-->
+</div><!-- .container /-->
+
+<div class="main-nav-wrapper">
+	<nav id="main-nav" data-skin="search-in-main-nav" class="main-nav header-nav live-search-parent" aria-label="Primary Navigation">
+		<div class="container">
+
+			<div class="main-menu-wrapper">
+
+				
+				<div id="menu-components-wrap">
+
+					
+		<div id="sticky-logo" class="image-logo">
+
+			
+			<a title="Global defense news, analysis and opinion" href="https://www.thedefensepost.com/">
+				
+				<picture class="tie-logo-default tie-logo-picture">
+					<source class="tie-logo-source-default tie-logo-source" srcset="https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-roundel-temp.png"/>
+					<img class="tie-logo-img-default tie-logo-img" src="https://www.thedefensepost.com/wp-content/uploads/2017/10/defense-post-roundel-temp.png" alt="Global defense news, analysis and opinion" style="max-height:49px; width: auto;"/>
+				</picture>
+						</a>
+
+			
+		</div><!-- #Sticky-logo /-->
+
+		<div class="flex-placeholder"></div>
+		
+					<div class="main-menu main-menu-wrap tie-alignleft">
+						<div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-main" class="menu" role="menubar"><li id="menu-item-2333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2333"><a href="https://www.thedefensepost.com/latest/">News</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-2605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2605"><a href="https://www.thedefensepost.com/latest/">Latest</a></li>
+	<li id="menu-item-2604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2604"><a href="https://www.thedefensepost.com/tag/editors-picks/">Editor’s picks</a></li>
+	<li id="menu-item-2603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2603"><a href="https://www.thedefensepost.com/tag/featured/">Featured stories</a></li>
+	<li id="menu-item-1125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1125"><a href="https://www.thedefensepost.com/category/politics/">Politics</a></li>
+	<li id="menu-item-5278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5278"><a href="https://www.thedefensepost.com/business-technology/">Business &amp; Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-1127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1127"><a href="https://www.thedefensepost.com/category/war/">War &amp; Conflict</a></li>
+<li id="menu-item-1117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1117"><a href="#">Regions</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-1118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1118"><a href="https://www.thedefensepost.com/category/africa/">Africa</a></li>
+	<li id="menu-item-1119" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1119"><a href="https://www.thedefensepost.com/category/americas/">Americas</a></li>
+	<li id="menu-item-1120" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1120"><a href="https://www.thedefensepost.com/category/asia-pacific/">Asia Pacific</a></li>
+	<li id="menu-item-1122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1122"><a href="https://www.thedefensepost.com/category/europe/">Europe</a></li>
+	<li id="menu-item-1123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1123"><a href="https://www.thedefensepost.com/category/middle-east/">Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-5279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5279"><a href="https://www.thedefensepost.com/business-technology/">Business &amp; Technology</a></li>
+<li id="menu-item-5269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5269"><a href="https://www.thedefensepost.com/commentary/">Commentary</a></li>
+</ul></div>					</div><!-- .main-menu.tie-alignleft /-->
+
+					<ul class="components">		<li class="search-bar menu-item custom-menu-link" aria-label="Search">
+			<form method="get" id="search" action="https://www.thedefensepost.com/">
+				<input id="search-input" class="is-ajax-search" inputmode="search" type="text" name="s" title="Search for" placeholder="Search for"/>
+				<button id="search-submit" type="submit">
+					<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">Search for</span>
+				</button>
+			</form>
+		</li>
+		</ul><!-- Components -->
+				</div><!-- #menu-components-wrap /-->
+			</div><!-- .main-menu-wrapper /-->
+		</div><!-- .container /-->
+	</nav><!-- #main-nav /-->
+</div><!-- .main-nav-wrapper /-->
+
+</header>
+
+<div class="container fullwidth-featured-area-wrapper"><div class="featured-area"><div class="featured-area-inner"><figure class="single-featured-image"><img width="1063" height="930" src="https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png" class="attachment-full size-full wp-post-image" alt="US Chief of Space Operations Gen. B. Chance Saltzman is seen standing on a podium, seemingly mid-speech. Four military flags are seen behind him." decoding="async" is_main_img="1" fetchpriority="high" srcset="https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png 1063w, https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325-300x262.png 300w, https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325-1024x896.png 1024w, https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325-768x672.png 768w" sizes="(max-width: 1063px) 100vw, 1063px"/>
+						<figcaption class="single-caption-text">
+							<span class="tie-icon-camera" aria-hidden="true"></span> US Chief of Space Operations Gen. B. Chance Saltzman shared that the idea is still in its earliest stages. Photo: US Space Force
+						</figcaption>
+					</figure></div></div></div><!-- .container /--><div id="content" class="site-content container"><div id="main-content-row" class="tie-row main-content-row">
+
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+
+	
+	<article id="the-post" class="container-wrapper post-content tie-standard">
+
+		
+<header class="entry-header-outer">
+
+	<nav id="breadcrumb"><a href="https://www.thedefensepost.com/"><span class="tie-icon-home" aria-hidden="true"></span> Home</a><em class="delimiter">/</em><a href="https://www.thedefensepost.com/category/asia-pacific/">Asia Pacific</a><em class="delimiter">/</em><span class="current">US Considering New Space Force Unit in Japan</span></nav><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","@id":"#Breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/www.thedefensepost.com\/"}},{"@type":"ListItem","position":2,"item":{"name":"Asia Pacific","@id":"https:\/\/www.thedefensepost.com\/category\/asia-pacific\/"}}]}</script>
+	<div class="entry-header">
+
+		<span class="post-cat-wrap"><a class="post-cat tie-cat-49" href="https://www.thedefensepost.com/category/americas/">Americas</a><a class="post-cat tie-cat-50" href="https://www.thedefensepost.com/category/asia-pacific/">Asia Pacific</a><a class="post-cat tie-cat-46" href="https://www.thedefensepost.com/category/space/">Space</a></span>
+		<h1 class="post-title entry-title">US Considering New Space Force Unit in Japan</h1>
+
+		<div id="single-post-meta" class="post-meta clearfix"><span class="author-meta single-author with-avatars"><span class="meta-item meta-author-wrapper meta-author-212">
+						<span class="meta-author-avatar">
+							<a href="https://www.thedefensepost.com/author/juster-gallego/"><img data-del="avatar" alt="Photo of Juster Domingo" src="https://www.thedefensepost.com/wp-content/uploads/2023/09/Juster-Domingo-Gallego-150x150.png" class="avatar pp-user-avatar avatar-140 photo " height="140" width="140"/></a>
+						</span>
+					<span class="meta-author"><a href="https://www.thedefensepost.com/author/juster-gallego/" class="author-name tie-icon" title="Juster Domingo">Juster Domingo</a></span></span></span><span class="date meta-item tie-icon">September 28, 2023</span><div class="tie-alignright"><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 1 minute read</span> </div></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+
+	
+	
+</header><!-- .entry-header-outer /-->
+
+
+		<div id="share-buttons-top" class="share-buttons share-buttons-top">
+			<div class="share-links ">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn  large-share-button" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="social-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;via=defensepost" rel="external noopener nofollow" title="Twitter" target="_blank" class="twitter-share-btn  large-share-button" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=defensepost">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="social-text">Twitter</span>
+				</a>
+				<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="LinkedIn" target="_blank" class="linkedin-share-btn " data-raw="https://www.linkedin.com/shareArticle?mini=true&amp;url={post_full_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-linkedin"></span> <span class="screen-reader-text">LinkedIn</span>
+				</a>
+				<a href="https://reddit.com/submit?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Reddit" target="_blank" class="reddit-share-btn " data-raw="https://reddit.com/submit?url={post_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-reddit"></span> <span class="screen-reader-text">Reddit</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan%20https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+				</a>
+				<a href="https://telegram.me/share/url?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&amp;text={post_title}">
+					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+				</a>
+				<a href="/cdn-cgi/l/email-protection#49763a3c2b232c2a3d741c1a6c7b790a26273a202d2c3b20272e6c7b79072c3e6c7b791a39282a2c6c7b790f263b2a2c6c7b791c27203d6c7b7920276c7b7903283928276f282439722b262d3074213d3d393a7366663e3e3e673d212c2d2c2f2c273a2c39263a3d672a2624667b797b7a667970667b71663c3a643a39282a2c642f263b2a2c64232839282766" rel="external noopener nofollow" title="Share via Email" target="_blank" class="email-share-btn " data-raw="mailto:?subject={post_title}&amp;body={post_link}">
+					<span class="share-btn-icon tie-icon-envelope"></span> <span class="screen-reader-text">Share via Email</span>
+				</a>
+				<a href="#" rel="external noopener nofollow" title="Print" target="_blank" class="print-share-btn " data-raw="#">
+					<span class="share-btn-icon tie-icon-print"></span> <span class="screen-reader-text">Print</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+		
+		<div class="entry-content entry clearfix">
+
+			
+			<p><span style="font-weight: 400;">The US Space Force is </span><a href="https://www.japantimes.co.jp/news/2023/09/26/japan/us-space-unit-japan/" target="_blank" rel="noopener"><span style="font-weight: 400;">considering</span></a><span style="font-weight: 400;"> establishing a Space Force command post in Japan, according to a press statement by US Chief of Space Operations Gen. </span><b>B. Chance Saltzman</b><span style="font-weight: 400;">.</span></p><span class="ezoic-autoinsert-video ezoic-under_first_paragraph"></span><!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-640x360-999998-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-426x240-999998-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-clearholder --><!-- ezoic_video_placeholder-under_first_paragraph-384x216-999998-nonexxxclearxxxblock --><!-- Ezoic - wp_under_page_title - under_page_title --><div id="ezoic-pub-ad-placeholder-104" data-inserter-version="2"></div><!-- End Ezoic - wp_under_page_title - under_page_title -->
+<p><span style="font-weight: 400;">The initiative marks the newly-formed US Space Force Indo-Pacific’s next step in extending its space operations in the region, pushing for collaboration with allied nations and competing with other growing forces in the space domain.</span></p>
+<h2>Small Steps</h2>
+<p><span style="font-weight: 400;">Saltzman </span><a href="https://www.airandspaceforces.com/space-force-new-component-japan-saltzman/" target="_blank" rel="noopener"><span style="font-weight: 400;">told</span></a><span style="font-weight: 400;"> reporters in Tokyo that the plan is still in its earliest stages and that they are still trying to determine how big the eventual unit will be.</span></p><!-- Ezoic - wp_under_first_paragraph - under_first_paragraph --><div id="ezoic-pub-ad-placeholder-112" data-inserter-version="2"></div><!-- End Ezoic - wp_under_first_paragraph - under_first_paragraph -->
+<p><span style="font-weight: 400;">“We’re just in the planning phases to figure out exactly what that headquarters would do,” he said.</span></p>
+<p><span style="font-weight: 400;">Despite not having a concrete timeline at the moment, Saltzman added that the Space Force is eyeing Yokota Air Base in western Tokyo as a candidate site.</span></p>
+<h2>Growing Competition</h2>
+<p><span style="font-weight: 400;">The US government continues to roll out plans for the Space Force’s expansion as countries such as China and Russia continue to bolster their space domain efforts.</span></p><!-- Ezoic - wp_under_second_paragraph - under_second_paragraph --><div id="ezoic-pub-ad-placeholder-113" data-inserter-version="2"></div><!-- End Ezoic - wp_under_second_paragraph - under_second_paragraph -->
+<p><span style="font-weight: 400;">In February, Saltzman cited the two countries’ anti-satellite missiles, ground-based directed energy, and orbit interception </span><a href="https://www.thedefensepost.com/2023/02/20/us-china-threat-space/" target="_blank" rel="noopener"><span style="font-weight: 400;">capacities as threats to space security.</span></a></p>
+<p><span style="font-weight: 400;">In response to these developments, the Space Force has </span><span style="font-weight: 400;">announced</span><span style="font-weight: 400;"> that <a href="https://www.thedefensepost.com/2023/08/09/us-intel-china-russia/" target="_blank" rel="noopener">75 percent of its intelligence-gathering missions</a> will focus on the two nations to keep tabs on their growing weapons development.</span></p>
+
+			<div class="post-bottom-meta post-bottom-tags post-tags-modern"><div class="post-bottom-meta-title"><span class="tie-icon-tags" aria-hidden="true"></span> Tags</div><span class="tagcloud"><a href="https://www.thedefensepost.com/tag/japan/" rel="tag">Japan</a> <a href="https://www.thedefensepost.com/tag/space/" rel="tag">Space</a> <a href="https://www.thedefensepost.com/tag/us-army/" rel="tag">US Army</a> <a href="https://www.thedefensepost.com/tag/us-space-force/" rel="tag">US Space Force</a></span></div>
+		</div><!-- .entry-content /-->
+
+				<div id="post-extra-info">
+			<div class="theiaStickySidebar">
+				<div id="single-post-meta" class="post-meta clearfix"><span class="author-meta single-author with-avatars"><span class="meta-item meta-author-wrapper meta-author-212">
+						<span class="meta-author-avatar">
+							<a href="https://www.thedefensepost.com/author/juster-gallego/"><img data-del="avatar" alt="Photo of Juster Domingo" src="https://www.thedefensepost.com/wp-content/uploads/2023/09/Juster-Domingo-Gallego-150x150.png" class="avatar pp-user-avatar avatar-140 photo " height="140" width="140"/></a>
+						</span>
+					<span class="meta-author"><a href="https://www.thedefensepost.com/author/juster-gallego/" class="author-name tie-icon" title="Juster Domingo">Juster Domingo</a></span></span></span><span class="date meta-item tie-icon">September 28, 2023</span><div class="tie-alignright"><span class="meta-reading-time meta-item"><span class="tie-icon-bookmark" aria-hidden="true"></span> 1 minute read</span> </div></div><!-- .post-meta -->
+		<div id="share-buttons-top" class="share-buttons share-buttons-top">
+			<div class="share-links ">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn  large-share-button" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="social-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;via=defensepost" rel="external noopener nofollow" title="Twitter" target="_blank" class="twitter-share-btn  large-share-button" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=defensepost">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="social-text">Twitter</span>
+				</a>
+				<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="LinkedIn" target="_blank" class="linkedin-share-btn " data-raw="https://www.linkedin.com/shareArticle?mini=true&amp;url={post_full_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-linkedin"></span> <span class="screen-reader-text">LinkedIn</span>
+				</a>
+				<a href="https://reddit.com/submit?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Reddit" target="_blank" class="reddit-share-btn " data-raw="https://reddit.com/submit?url={post_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-reddit"></span> <span class="screen-reader-text">Reddit</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan%20https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+				</a>
+				<a href="https://telegram.me/share/url?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&amp;text={post_title}">
+					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+				</a>
+				<a href="/cdn-cgi/l/email-protection#c3fcb0b6a1a9a6a0b7fe9690e6f1f380acadb0aaa7a6b1aaada4e6f1f38da6b4e6f1f390b3a2a0a6e6f1f385acb1a0a6e6f1f396adaab7e6f1f3aaade6f1f389a2b3a2ade5a2aeb3f8a1aca7bafeabb7b7b3b0f9ececb4b4b4edb7aba6a7a6a5a6adb0a6b3acb0b7eda0acaeecf1f3f1f0ecf3faecf1fbecb6b0eeb0b3a2a0a6eea5acb1a0a6eea9a2b3a2adec" rel="external noopener nofollow" title="Share via Email" target="_blank" class="email-share-btn " data-raw="mailto:?subject={post_title}&amp;body={post_link}">
+					<span class="share-btn-icon tie-icon-envelope"></span> <span class="screen-reader-text">Share via Email</span>
+				</a>
+				<a href="#" rel="external noopener nofollow" title="Print" target="_blank" class="print-share-btn " data-raw="#">
+					<span class="share-btn-icon tie-icon-print"></span> <span class="screen-reader-text">Print</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+					</div>
+		</div>
+
+		<div class="clearfix"></div>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="tie-schema-json" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","dateCreated":"2023-09-28T09:30:19-04:00","datePublished":"2023-09-28T09:30:19-04:00","dateModified":"2023-09-28T09:30:19-04:00","headline":"US Considering New Space Force Unit in Japan","name":"US Considering New Space Force Unit in Japan","keywords":"Japan,Space,US Army,US Space Force","url":"https:\/\/www.thedefensepost.com\/2023\/09\/28\/us-space-force-japan\/","description":"The US Space Force is considering establishing a Space Force command post in Japan, according to a press statement by US Chief of Space Operations Gen. B. Chance Saltzman. The initiative marks the new","copyrightYear":"2023","articleSection":"Americas,Asia Pacific,Space","articleBody":"The US Space Force is considering establishing a Space Force command post in Japan, according to a press statement by US Chief of Space Operations Gen. B. Chance Saltzman.\r\n\r\nThe initiative marks the newly-formed US Space Force Indo-Pacific's next step in extending its space operations in the region, pushing for collaboration with allied nations and competing with other growing forces in the space domain.\r\nSmall Steps\r\nSaltzman told reporters in Tokyo that the plan is still in its earliest stages and that they are still trying to determine how big the eventual unit will be.\r\n\r\n\"We're just in the planning phases to figure out exactly what that headquarters would do,\" he said.\r\n\r\nDespite not having a concrete timeline at the moment, Saltzman added that the Space Force is eyeing Yokota Air Base in western Tokyo as a candidate site.\r\nGrowing Competition\r\nThe US government continues to roll out plans for the Space Force's expansion as countries such as China and Russia continue to bolster their space domain efforts.\r\n\r\nIn February, Saltzman cited the two countries' anti-satellite missiles, ground-based directed energy, and orbit interception capacities as threats to space security.\r\n\r\nIn response to these developments, the Space Force has announced that 75 percent of its intelligence-gathering missions will focus on the two nations to keep tabs on their growing weapons development.","publisher":{"@id":"#Publisher","@type":"Organization","name":"The Defense Post","logo":{"@type":"ImageObject","url":"https:\/\/www.thedefensepost.com\/wp-content\/uploads\/2017\/10\/defense-post-logo-temp.png"},"sameAs":["https:\/\/www.facebook.com\/defensepost\/","http:\/\/twitter.com\/defensepost"]},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.thedefensepost.com\/2023\/09\/28\/us-space-force-japan\/","breadcrumb":{"@id":"#Breadcrumb"}},"author":{"@type":"Person","name":"Juster Domingo","url":"https:\/\/www.thedefensepost.com\/author\/juster-gallego\/"},"image":{"@type":"ImageObject","url":"https:\/\/www.thedefensepost.com\/wp-content\/uploads\/2023\/09\/Screenshot-2023-09-28-204325.png","width":1200,"height":930}}</script>
+		<div id="share-buttons-bottom" class="share-buttons share-buttons-bottom">
+			<div class="share-links  icons-only">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;via=defensepost" rel="external noopener nofollow" title="Twitter" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=defensepost">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">Twitter</span>
+				</a>
+				<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="LinkedIn" target="_blank" class="linkedin-share-btn " data-raw="https://www.linkedin.com/shareArticle?mini=true&amp;url={post_full_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-linkedin"></span> <span class="screen-reader-text">LinkedIn</span>
+				</a>
+				<a href="https://pinterest.com/pin/create/button/?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;description=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan&amp;media=https://www.thedefensepost.com/wp-content/uploads/2023/09/Screenshot-2023-09-28-204325.png" rel="external noopener nofollow" title="Pinterest" target="_blank" class="pinterest-share-btn " data-raw="https://pinterest.com/pin/create/button/?url={post_link}&amp;description={post_title}&amp;media={post_img}">
+					<span class="share-btn-icon tie-icon-pinterest"></span> <span class="screen-reader-text">Pinterest</span>
+				</a>
+				<a href="https://reddit.com/submit?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Reddit" target="_blank" class="reddit-share-btn " data-raw="https://reddit.com/submit?url={post_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-reddit"></span> <span class="screen-reader-text">Reddit</span>
+				</a>
+				<a href="https://getpocket.com/save?title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="Pocket" target="_blank" class="pocket-share-btn " data-raw="https://getpocket.com/save?title={post_title}&amp;url={post_link}">
+					<span class="share-btn-icon tie-icon-get-pocket"></span> <span class="screen-reader-text">Pocket</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan%20https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+				</a>
+				<a href="https://telegram.me/share/url?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&amp;text={post_title}">
+					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+				</a>
+				<a href="viber://forward?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan%20https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="Viber" target="_blank" class="viber-share-btn " data-raw="viber://forward?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-phone"></span> <span class="screen-reader-text">Viber</span>
+				</a>
+				<a href="/cdn-cgi/l/email-protection#9ba4e8eef9f1fef8efa6cec8bea9abd8f4f5e8f2fffee9f2f5fcbea9abd5feecbea9abc8ebfaf8febea9abddf4e9f8febea9abcef5f2efbea9abf2f5bea9abd1faebfaf5bdfaf6eba0f9f4ffe2a6f3efefebe8a1b4b4ecececb5eff3fefffefdfef5e8feebf4e8efb5f8f4f6b4a9aba9a8b4aba2b4a9a3b4eee8b6e8ebfaf8feb6fdf4e9f8feb6f1faebfaf5b4" rel="external noopener nofollow" title="Share via Email" target="_blank" class="email-share-btn " data-raw="mailto:?subject={post_title}&amp;body={post_link}">
+					<span class="share-btn-icon tie-icon-envelope"></span> <span class="screen-reader-text">Share via Email</span>
+				</a>
+				<a href="#" rel="external noopener nofollow" title="Print" target="_blank" class="print-share-btn " data-raw="#">
+					<span class="share-btn-icon tie-icon-print"></span> <span class="screen-reader-text">Print</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+		
+	</article><!-- #the-post /-->
+
+	
+	<div class="post-components">
+
+		
+<div class="container-wrapper" id="post-newsletter">
+	<div class="subscribe-widget">
+		<div class="widget-inner-wrap">
+
+			<span class="tie-icon-envelope newsletter-icon" aria-hidden="true"></span>
+
+			
+					<div class="subscribe-widget-content">
+						<h3>Subscribe to our mailing list</h3>					</div>
+
+										<div id="mc_embed_signup">
+						<form action="https://theglobepost.us15.list-manage.com/subscribe/post?u=c3fd0587884e99407ef2966a4&amp;id=cacde84b81" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate="">
+							<div id="mc_embed_signup_scroll">
+								<div class="mc-field-group">
+									<label class="screen-reader-text" for="mce-EMAIL">Enter your Email address</label>
+									<input type="email" value="" id="mce-EMAIL" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email" id="mce-EMAIL"/>
+								</div>
+								<div id="mce-responses" class="clear">
+									<div class="response" id="mce-error-response" style="display:none"></div>
+									<div class="response" id="mce-success-response" style="display:none"></div>
+								</div>
+								<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button subscribe-submit"/>
+							</div>
+						</form>
+					</div>
+					
+		</div><!-- .widget-inner-wrap /-->
+	</div><!-- .subscribe-widget /-->
+</div><!-- #post-newsletter /-->
+
+
+	
+
+				<div id="related-posts" class="container-wrapper has-extra-post">
+
+					<div class="mag-box-title the-global-title">
+						<h3>Related Articles</h3>
+					</div><span class="ezoic-autoinsert-video ezoic-long_content"></span><!-- ezoic_video_placeholder-long_content-640x360-999995-clearholder --><!-- ezoic_video_placeholder-long_content-640x360-999995-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-long_content-426x240-999995-clearholder --><!-- ezoic_video_placeholder-long_content-426x240-999995-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-long_content-384x216-999995-clearholder --><!-- ezoic_video_placeholder-long_content-384x216-999995-nonexxxclearxxxblock -->
+
+					<div class="related-posts-list">
+
+					
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Raytheon Demos Radar, Effector With US Army Counter-Drone Solution" href="https://www.thedefensepost.com/2023/10/27/us-radar-effector-lids/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/KuRFS-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Raytheon’s Ku-band Radio Frequency Sensor, known as KuRFS, and the Coyote® family of effectors provide the essential detect and defeat capabilities of LIDS, the Army’s go-to counter-drone solution." decoding="async"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/27/us-radar-effector-lids/">Raytheon Demos Radar, Effector With US Army Counter-Drone Solution</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 27, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="US Army’s Anti-Tank Guided Missile Solutions Have Critical Gaps: Paper" href="https://www.thedefensepost.com/2023/10/27/us-army-anti-tank/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/AUSAPaper1025-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="anti-tank guided missile weapon" decoding="async" srcset="https://www.thedefensepost.com/wp-content/uploads/2023/10/AUSAPaper1025-390x220.jpg 390w, https://www.thedefensepost.com/wp-content/uploads/2023/10/AUSAPaper1025-300x169.jpg 300w, https://www.thedefensepost.com/wp-content/uploads/2023/10/AUSAPaper1025-1024x576.jpg 1024w, https://www.thedefensepost.com/wp-content/uploads/2023/10/AUSAPaper1025-768x432.jpg 768w, https://www.thedefensepost.com/wp-content/uploads/2023/10/AUSAPaper1025.jpg 1180w" sizes="(max-width: 390px) 100vw, 390px"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/27/us-army-anti-tank/">US Army’s Anti-Tank Guided Missile Solutions Have Critical Gaps: Paper</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 27, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="US Strikes Two Sites Used by Iranian Forces in Syria: Pentagon" href="https://www.thedefensepost.com/2023/10/27/us-strikes-sites-syria/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/000_QM70P-e1500289277799-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Syria air strike" decoding="async" loading="lazy" srcset="https://www.thedefensepost.com/wp-content/uploads/2023/10/000_QM70P-e1500289277799-390x220.jpg 390w, https://www.thedefensepost.com/wp-content/uploads/2023/10/000_QM70P-e1500289277799-300x169.jpg 300w, https://www.thedefensepost.com/wp-content/uploads/2023/10/000_QM70P-e1500289277799.jpg 764w" sizes="(max-width: 390px) 100vw, 390px"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/27/us-strikes-sites-syria/">US Strikes Two Sites Used by Iranian Forces in Syria: Pentagon</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 27, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="US Army to Send Iron Dome Batteries Back to Israel: Defense Official" href="https://www.thedefensepost.com/2023/10/26/us-army-iron-dome-israel/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2021/02/123-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" decoding="async" loading="lazy"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/26/us-army-iron-dome-israel/">US Army to Send Iron Dome Batteries Back to Israel: Defense Official</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 26, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="US Army to Demo Potential Solutions Against Swarm of 50 Drones" href="https://www.thedefensepost.com/2023/10/25/us-army-solutions-swarm/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/original-2-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="drone swarm" decoding="async" loading="lazy"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/25/us-army-solutions-swarm/">US Army to Demo Potential Solutions Against Swarm of 50 Drones</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 25, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Drones Shot Down in Attack on US Troops in Syria: Pentagon" href="https://www.thedefensepost.com/2023/10/24/drones-us-troops-syria/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/201126-A-CY959-1023Z-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="US soldiers in Syria" decoding="async" loading="lazy"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/24/drones-us-troops-syria/">Drones Shot Down in Attack on US Troops in Syria: Pentagon</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 24, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Trashing Energy Needs: A Case for Expanded Plasma Gasification Use by the US Military" href="https://www.thedefensepost.com/2023/10/23/us-military-plasma-gasification/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2022/03/US-Army-burn-pits-390x220.png" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Burn pits were often used in Iraq and Afghanistan" decoding="async" loading="lazy" srcset="https://www.thedefensepost.com/wp-content/uploads/2022/03/US-Army-burn-pits-390x220.png 390w, https://www.thedefensepost.com/wp-content/uploads/2022/03/US-Army-burn-pits-300x168.png 300w, https://www.thedefensepost.com/wp-content/uploads/2022/03/US-Army-burn-pits-1024x574.png 1024w, https://www.thedefensepost.com/wp-content/uploads/2022/03/US-Army-burn-pits-1536x861.png 1536w" sizes="(max-width: 390px) 100vw, 390px"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/23/us-military-plasma-gasification/">Trashing Energy Needs: A Case for Expanded Plasma Gasification Use by the US Military</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 23, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="US Army Trials New CBRN Sensor on M1135 Stryker Recon Vehicle" href="https://www.thedefensepost.com/2023/10/23/us-stryker-m1135-stryker-sensor/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/original-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Test participants from the Reconnaissance (RECCE) Platoon, Headquarters and Headquarters Company, 23rd Brigade Engineer Battalion, launch a Small Unmanned Aerial System (sUAS) to conduct remote detection of biological warfare agents, while conducting stand-off scanning with the Sensor Suite Upgrade (SSU) on an M1135 variant Stryker — the Army’s high-speed, high-mobility, armored carrier. (U.S. Army photo by Tad Browning)" decoding="async" loading="lazy"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/23/us-stryker-m1135-stryker-sensor/">US Army Trials New CBRN Sensor on M1135 Stryker Recon Vehicle</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 23, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Japan Buys 300 Carl-Gustaf Rifles From Saab" href="https://www.thedefensepost.com/2023/10/20/japan-carl-gustaf-rifles-saab/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/saab-390x220.png" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="A soldier is seen in the center of the image carrying a Saab Carl-Gustaf Rifle on his shoulder. The background is tinted with green light, making the soldier cast a shadow on most of the image&#39;s right." decoding="async" loading="lazy"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/20/japan-carl-gustaf-rifles-saab/">Japan Buys 300 Carl-Gustaf Rifles From Saab</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 20, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Amentum, Aptim to Decommission US Army Nuclear Facility in Alaska" href="https://www.thedefensepost.com/2023/10/20/us-decommission-nuclear-facility-alaska/" class="post-thumb"><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/3809817-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="Aerial view of SM-1 nuclear reactor and plant circa the 1960s. SM-1 was the first nuclear power plant to successfully provide power to the commercial grid when it came online in April 1957. While SM-1’s reactor was initially deactivated in 1973, the U.S. Army Corps of Engineers is in the process of planning for the reactor’s decommissioning and dismantlement of the facility." decoding="async" loading="lazy"/></a>
+								<h3 class="post-title"><a href="https://www.thedefensepost.com/2023/10/20/us-decommission-nuclear-facility-alaska/">Amentum, Aptim to Decommission US Army Nuclear Facility in Alaska</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">October 20, 2023</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+					</div><!-- .related-posts-list /-->
+				</div><!-- #related-posts /-->
+
+			
+	</div><!-- .post-components /-->
+
+	
+</div><!-- .main-content -->
+
+
+	<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+		<div class="theiaStickySidebar">
+			<div id="tie-newsletter-6" class="container-wrapper widget subscribe-widget">
+			<div class="widget-inner-wrap">
+
+										<span class="tie-icon-envelope newsletter-icon" aria-hidden="true"></span>
+												<div class="subscribe-widget-content">
+								<h4>Trends Shaping the Defense World</h4>
+	<h3>JOIN 100,000+ FOR DEFENSE NEWS, TRENDS &amp; INSIGHTS</h3>						</div>
+												<div id="mc_embed_signup-tie-newsletter-6">
+							<form action="https://theglobepost.us15.list-manage.com/subscribe/post?u=c3fd0587884e99407ef2966a4&amp;id=cacde84b81" method="post" id="mc-embedded-subscribe-form-tie-newsletter-6" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate="">
+									<div class="mc-field-group">
+										<label class="screen-reader-text" for="mce-EMAIL-tie-newsletter-6">Enter your Email address</label>
+										<input type="email" value="" id="mce-EMAIL-tie-newsletter-6" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email"/>
+									</div>
+																		<input type="submit" value="Subscribe" name="subscribe" class="button subscribe-submit"/>
+							</form>
+						</div>
+						
+			</div><!-- .widget-inner-wrap /-->
+
+			<div class="clearfix"></div></div><!-- .widget /--><div id="posts-list-widget-7" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><div class="the-subtitle">Latest posts</div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container posts-list-big-first has-first-big-post"><ul class="posts-list-items widget-posts-wrapper">
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Falling Drone Injures Six in Egypt Resort Near Israel: Army" href="https://www.thedefensepost.com/2023/10/28/drone-egypt-resort-israel/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-48">Middle East</span></span><img width="390" height="220" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/Egypt-Israel-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="An Egyptian soldier stands guard at the Taba crossing between Egypt and Israel" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/28/drone-egypt-resort-israel/">Falling Drone Injures Six in Egypt Resort Near Israel: Army</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 28, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Islamic State Group Claims Deadly Blast in Kabul" href="https://www.thedefensepost.com/2023/10/28/islamic-state-kabul-blast/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2022/09/GettyImages-1165804595-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Smoke over Kabul after an explosion." decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/28/islamic-state-kabul-blast/">Islamic State Group Claims Deadly Blast in Kabul</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 28, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Israeli Warplanes Hit 150 ‘Underground Targets’ in Gaza: Army" href="https://www.thedefensepost.com/2023/10/28/israeli-warplanes-underground-targets-gaza/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/F-16-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="An Israeli Air Force pilot walks to his F-16 fighter jet during the &#34;Blue Flag&#34; multinational air defense exercise at the Ovda air force base" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/28/israeli-warplanes-underground-targets-gaza/">Israeli Warplanes Hit 150 ‘Underground Targets’ in Gaza: Army</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 28, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Russia Launches Anti-Spy Operation in Ukraine’s South, One Killed" href="https://www.thedefensepost.com/2023/10/27/russia-anti-spy-operation-ukraine/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/zaporizhzhia-nuclear-power-plant-1-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="A view of the Russian-controlled Zaporizhzhia nuclear power plant in southern Ukraine" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/russia-anti-spy-operation-ukraine/">Russia Launches Anti-Spy Operation in Ukraine’s South, One Killed</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Slovakia Receives Two MANTIS Air Defense Systems From Germany" href="https://www.thedefensepost.com/2023/10/27/slovakia-germany-mantis-air-defense/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/02/20151102-mantis-eurad15-oesterreich-bild-lars-koch-022-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Surface-to-Air Missile Group’s MANTIS (Modular, Automatic and Network capable Targeting and Interception System) air defense system" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/slovakia-germany-mantis-air-defense/">Slovakia Receives Two MANTIS Air Defense Systems From Germany</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+</ul></div></div><div class="clearfix"></div></div><!-- .widget /--><div id="custom_html-10" class="widget_text container-wrapper widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://twitter.com/defensepost?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @defensepost</a><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div><div class="clearfix"></div></div><!-- .widget /-->		</div><!-- .theiaStickySidebar /-->
+	</aside><!-- .sidebar /-->
+	</div><!-- .main-content-row /--></div><!-- #content /-->
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+
+	
+			<div id="footer-widgets-container">
+				<div class="container">
+					
+		<div class="footer-widget-area footer-boxed-widget-area">
+			<div class="tie-row">
+
+									<div class="tie-col-sm-4 normal-side">
+						<div id="tie-newsletter-5" class="container-wrapper widget subscribe-widget"><div class="widget-title the-global-title"><div class="the-subtitle">Newsletter</div></div>
+			<div class="widget-inner-wrap">
+
+										<span class="tie-icon-envelope newsletter-icon" aria-hidden="true"></span>
+												<div class="subscribe-widget-content">
+							<h3>JOIN 100,000+ <br/> FOR DEFENSE NEWS, TRENDS &amp; INSIGHTS</h3>						</div>
+												<div id="mc_embed_signup-tie-newsletter-5">
+							<form action="https://theglobepost.us15.list-manage.com/subscribe/post?u=c3fd0587884e99407ef2966a4&amp;id=cacde84b81" method="post" id="mc-embedded-subscribe-form-tie-newsletter-5" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate="">
+									<div class="mc-field-group">
+										<label class="screen-reader-text" for="mce-EMAIL-tie-newsletter-5">Enter your Email address</label>
+										<input type="email" value="" id="mce-EMAIL-tie-newsletter-5" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email"/>
+									</div>
+																		<input type="submit" value="Subscribe" name="subscribe" class="button subscribe-submit"/>
+							</form>
+						</div>
+						
+			</div><!-- .widget-inner-wrap /-->
+
+			<div class="clearfix"></div></div><!-- .widget /-->
+		<div id="recent-posts-3" class="container-wrapper widget widget_recent_entries">
+		<div class="widget-title the-global-title"><div class="the-subtitle">Latest posts</div></div>
+		<ul>
+											<li>
+					<a href="https://www.thedefensepost.com/2023/10/28/drone-egypt-resort-israel/">Falling Drone Injures Six in Egypt Resort Near Israel: Army</a>
+									</li>
+											<li>
+					<a href="https://www.thedefensepost.com/2023/10/28/islamic-state-kabul-blast/">Islamic State Group Claims Deadly Blast in Kabul</a>
+									</li>
+											<li>
+					<a href="https://www.thedefensepost.com/2023/10/28/israeli-warplanes-underground-targets-gaza/">Israeli Warplanes Hit 150 ‘Underground Targets’ in Gaza: Army</a>
+									</li>
+											<li>
+					<a href="https://www.thedefensepost.com/2023/10/27/russia-anti-spy-operation-ukraine/">Russia Launches Anti-Spy Operation in Ukraine’s South, One Killed</a>
+									</li>
+											<li>
+					<a href="https://www.thedefensepost.com/2023/10/27/slovakia-germany-mantis-air-defense/">Slovakia Receives Two MANTIS Air Defense Systems From Germany</a>
+									</li>
+					</ul>
+
+		<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+									<div class="tie-col-sm-4 normal-side">
+						<div id="custom_html-7" class="widget_text container-wrapper widget widget_custom_html"><div class="widget-title the-global-title"><div class="the-subtitle">Submit an Op-Ed</div></div><div class="textwidget custom-html-widget"><p><a href="https://www.thedefensepost.com/contact/submit-op-ed/"><img class="alignnone wp-image-4238 size-medium" src="https://www.thedefensepost.com/wp-content/uploads/2018/01/writing-letters-6238553350_42268ef66d_o-300x200.jpg" alt="Writing letters home" width="300" height="200" srcset="https://www.thedefensepost.com/wp-content/uploads/2018/01/writing-letters-6238553350_42268ef66d_o-300x200.jpg 300w, https://www.thedefensepost.com/wp-content/uploads/2018/01/writing-letters-6238553350_42268ef66d_o-768x512.jpg 768w, https://www.thedefensepost.com/wp-content/uploads/2018/01/writing-letters-6238553350_42268ef66d_o-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px"/></a><br/>
+The Defense Post aims to publish a wide range of high-quality opinion and analysis from a diverse array of people – do you want to send us yours?<br/>
+<a href="https://www.thedefensepost.com/contact/submit-op-ed/">Click here to submit an Op-Ed</a></p></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+									<div class="tie-col-sm-4 normal-side">
+						<div id="custom_html-6" class="widget_text container-wrapper widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-height="300" data-dnt="true" href="https://twitter.com/DefensePost?ref_src=twsrc%5Etfw">Tweets by DefensePost</a> <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
+<a href="https://twitter.com/defensepost?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @defensepost</a><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div><div class="clearfix"></div></div><!-- .widget /--><div id="social-2" class="container-wrapper widget social-icons-widget"><ul class="solid-social-icons"><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/defensepost/"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/defensepost"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.thedefensepost.com/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+<div class="clearfix"></div><div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+				
+			</div><!-- .tie-row /-->
+		</div><!-- .footer-widget-area /-->
+
+		
+		<div class="footer-widget-area footer-boxed-widget-area">
+			<div class="tie-row">
+
+									<div class="fullwidth-area tie-col-sm-12">
+						<div id="block-2" class="container-wrapper widget widget_block widget_media_image">
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.thedefensepost.com/advertise/"><img decoding="async" loading="lazy" width="1024" height="256" src="https://www.thedefensepost.com/wp-content/uploads/2022/01/TDP-advertising1-1024x256.png" alt="" class="wp-image-30724" srcset="https://www.thedefensepost.com/wp-content/uploads/2022/01/TDP-advertising1-1024x256.png 1024w, https://www.thedefensepost.com/wp-content/uploads/2022/01/TDP-advertising1-300x75.png 300w, https://www.thedefensepost.com/wp-content/uploads/2022/01/TDP-advertising1-768x192.png 768w, https://www.thedefensepost.com/wp-content/uploads/2022/01/TDP-advertising1-1536x384.png 1536w, https://www.thedefensepost.com/wp-content/uploads/2022/01/TDP-advertising1.png 1584w" sizes="(max-width: 1024px) 100vw, 1024px"/></a></figure></div>
+<div class="clearfix"></div></div><!-- .widget /--><div id="tag_cloud-1" class="container-wrapper widget widget_tag_cloud"><div class="widget-title the-global-title"><div class="the-subtitle">Looking for more?</div></div><div class="tagcloud"><a href="https://www.thedefensepost.com/tag/afghanistan/" class="tag-cloud-link tag-link-69 tag-link-position-1" style="font-size: 8pt;" aria-label="Afghanistan (531 items)">Afghanistan<span class="tag-link-count"> (531)</span></a>
+<a href="https://www.thedefensepost.com/tag/china/" class="tag-cloud-link tag-link-436 tag-link-position-2" style="font-size: 11.266666666667pt;" aria-label="China (745 items)">China<span class="tag-link-count"> (745)</span></a>
+<a href="https://www.thedefensepost.com/tag/drones/" class="tag-cloud-link tag-link-96 tag-link-position-3" style="font-size: 16.866666666667pt;" aria-label="drones (1,293 items)">drones<span class="tag-link-count"> (1293)</span></a>
+<a href="https://www.thedefensepost.com/tag/featured/" class="tag-cloud-link tag-link-40 tag-link-position-4" style="font-size: 19.433333333333pt;" aria-label="featured (1,642 items)">featured<span class="tag-link-count"> (1642)</span></a>
+<a href="https://www.thedefensepost.com/tag/france/" class="tag-cloud-link tag-link-65 tag-link-position-5" style="font-size: 8pt;" aria-label="France (538 items)">France<span class="tag-link-count"> (538)</span></a>
+<a href="https://www.thedefensepost.com/tag/islamic-state/" class="tag-cloud-link tag-link-74 tag-link-position-6" style="font-size: 12.9pt;" aria-label="Islamic State (868 items)">Islamic State<span class="tag-link-count"> (868)</span></a>
+<a href="https://www.thedefensepost.com/tag/israel/" class="tag-cloud-link tag-link-293 tag-link-position-7" style="font-size: 8.4666666666667pt;" aria-label="Israel (559 items)">Israel<span class="tag-link-count"> (559)</span></a>
+<a href="https://www.thedefensepost.com/tag/nato/" class="tag-cloud-link tag-link-55 tag-link-position-8" style="font-size: 8.9333333333333pt;" aria-label="NATO (582 items)">NATO<span class="tag-link-count"> (582)</span></a>
+<a href="https://www.thedefensepost.com/tag/russia/" class="tag-cloud-link tag-link-37 tag-link-position-9" style="font-size: 22pt;" aria-label="Russia (2,121 items)">Russia<span class="tag-link-count"> (2121)</span></a>
+<a href="https://www.thedefensepost.com/tag/syria/" class="tag-cloud-link tag-link-7 tag-link-position-10" style="font-size: 12.433333333333pt;" aria-label="Syria (822 items)">Syria<span class="tag-link-count"> (822)</span></a>
+<a href="https://www.thedefensepost.com/tag/technology/" class="tag-cloud-link tag-link-60483 tag-link-position-11" style="font-size: 11.033333333333pt;" aria-label="technology (722 items)">technology<span class="tag-link-count"> (722)</span></a>
+<a href="https://www.thedefensepost.com/tag/turkey/" class="tag-cloud-link tag-link-75 tag-link-position-12" style="font-size: 9.4pt;" aria-label="Turkey (618 items)">Turkey<span class="tag-link-count"> (618)</span></a>
+<a href="https://www.thedefensepost.com/tag/ukraine/" class="tag-cloud-link tag-link-258 tag-link-position-13" style="font-size: 19.2pt;" aria-label="Ukraine (1,638 items)">Ukraine<span class="tag-link-count"> (1638)</span></a>
+<a href="https://www.thedefensepost.com/tag/united-states/" class="tag-cloud-link tag-link-55689 tag-link-position-14" style="font-size: 19.9pt;" aria-label="United States (1,735 items)">United States<span class="tag-link-count"> (1735)</span></a>
+<a href="https://www.thedefensepost.com/tag/us/" class="tag-cloud-link tag-link-60 tag-link-position-15" style="font-size: 9.6333333333333pt;" aria-label="US (625 items)">US<span class="tag-link-count"> (625)</span></a>
+<a href="https://www.thedefensepost.com/tag/us-air-force/" class="tag-cloud-link tag-link-77 tag-link-position-16" style="font-size: 8pt;" aria-label="US Air Force (534 items)">US Air Force<span class="tag-link-count"> (534)</span></a>
+<a href="https://www.thedefensepost.com/tag/us-army/" class="tag-cloud-link tag-link-98 tag-link-position-17" style="font-size: 11.033333333333pt;" aria-label="US Army (717 items)">US Army<span class="tag-link-count"> (717)</span></a>
+<a href="https://www.thedefensepost.com/tag/us-navy/" class="tag-cloud-link tag-link-170 tag-link-position-18" style="font-size: 8.4666666666667pt;" aria-label="US Navy (566 items)">US Navy<span class="tag-link-count"> (566)</span></a></div>
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+				
+				
+				
+				
+			</div><!-- .tie-row /-->
+		</div><!-- .footer-widget-area /-->
+
+						</div><!-- .container /-->
+			</div><!-- #Footer-widgets-container /-->
+			
+			<div id="site-info" class="site-info">
+				<div class="container">
+					<div class="tie-row">
+						<div class="tie-col-md-12">
+
+							<div class="copyright-text copyright-text-first">© Copyright 2017-2023 The Defense Post</div><div class="footer-menu"><ul id="menu-footer-menu" class="menu"><li id="menu-item-4917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4917"><a href="https://www.thedefensepost.com/drones/">Home</a></li>
+<li id="menu-item-4913" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-4913 tie-current-menu"><a href="https://www.thedefensepost.com/latest/">Latest posts</a></li>
+<li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="https://www.thedefensepost.com/commentary/">Commentary</a></li>
+<li id="menu-item-4918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4918"><a href="https://www.thedefensepost.com/category/war/">War &amp; Conflict</a></li>
+<li id="menu-item-4920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4920"><a href="https://www.thedefensepost.com/category/africa/">Africa</a></li>
+<li id="menu-item-4921" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-4921"><a href="https://www.thedefensepost.com/category/americas/">Americas</a></li>
+<li id="menu-item-4922" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-4922 tie-current-menu"><a href="https://www.thedefensepost.com/category/asia-pacific/">Asia Pacific</a></li>
+<li id="menu-item-4923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4923"><a href="https://www.thedefensepost.com/category/europe/">Europe</a></li>
+<li id="menu-item-4924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4924"><a href="https://www.thedefensepost.com/category/middle-east/">Middle East</a></li>
+<li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="https://www.thedefensepost.com/business-technology/">Business &amp; Technology</a></li>
+<li id="menu-item-4915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4915"><a href="https://www.thedefensepost.com/contact/">Contact Us</a></li>
+<li id="menu-item-4916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4916"><a href="https://www.thedefensepost.com/contact/submit-op-ed/">Submit an Op-Ed</a></li>
+<li id="menu-item-59056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59056"><a href="https://www.thedefensepost.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div><ul class="social-icons"><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/defensepost/"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/defensepost"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.thedefensepost.com/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+
+						</div><!-- .tie-col /-->
+					</div><!-- .tie-row /-->
+				</div><!-- .container /-->
+			</div><!-- #site-info /-->
+			
+</footer><!-- #footer /-->
+
+
+		<div id="share-buttons-mobile" class="share-buttons share-buttons-mobile">
+			<div class="share-links  icons-only">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;via=defensepost" rel="external noopener nofollow" title="Twitter" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=defensepost">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">Twitter</span>
+				</a>
+				<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="LinkedIn" target="_blank" class="linkedin-share-btn " data-raw="https://www.linkedin.com/shareArticle?mini=true&amp;url={post_full_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-linkedin"></span> <span class="screen-reader-text">LinkedIn</span>
+				</a>
+				<a href="https://reddit.com/submit?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;title=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Reddit" target="_blank" class="reddit-share-btn " data-raw="https://reddit.com/submit?url={post_link}&amp;title={post_title}">
+					<span class="share-btn-icon tie-icon-reddit"></span> <span class="screen-reader-text">Reddit</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan%20https://www.thedefensepost.com/2023/09/28/us-space-force-japan/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+				</a>
+				<a href="https://telegram.me/share/url?url=https://www.thedefensepost.com/2023/09/28/us-space-force-japan/&amp;text=US%20Considering%20New%20Space%20Force%20Unit%20in%20Japan" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&amp;text={post_title}">
+					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+		<div class="mobile-share-buttons-spacer"></div>
+		<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body">
+			<span class="tie-icon-angle-up"></span>
+			<span class="screen-reader-text">Back to top button</span>
+		</a>
+	
+		</div><!-- #tie-wrapper /-->
+
+		
+	<aside class=" side-aside normal-side dark-skin dark-widgetized-area slide-sidebar-desktop is-fullwidth appear-from-right" aria-label="Secondary Sidebar" style="visibility: hidden;">
+		<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+
+			<a href="#" class="close-side-aside remove big-btn light-btn">
+				<span class="screen-reader-text">Close</span>
+			</a><!-- .close-side-aside /-->
+
+
+			
+				<div id="mobile-container">
+
+					
+					<div id="mobile-menu" class="hide-menu-icons">
+											</div><!-- #mobile-menu /-->
+
+											<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+							<ul><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.facebook.com/defensepost/"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/defensepost"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.thedefensepost.com/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+						</div><!-- #mobile-social-icons /-->
+												<div id="mobile-search">
+							<form role="search" method="get" class="search-form" action="https://www.thedefensepost.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s"/>
+				</label>
+				<input type="submit" class="search-submit" value="Search"/>
+			</form>						</div><!-- #mobile-search /-->
+						
+				</div><!-- #mobile-container /-->
+			
+
+							<div id="slide-sidebar-widgets">
+					<div id="posts-list-widget-6" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><div class="the-subtitle">Recent Posts</div></div><div class="widget-posts-list-wrapper"><div class="widget-posts-list-container"><ul class="posts-list-items widget-posts-wrapper">
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Falling Drone Injures Six in Egypt Resort Near Israel: Army" href="https://www.thedefensepost.com/2023/10/28/drone-egypt-resort-israel/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/Egypt-Israel-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="An Egyptian soldier stands guard at the Taba crossing between Egypt and Israel" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/28/drone-egypt-resort-israel/">Falling Drone Injures Six in Egypt Resort Near Israel: Army</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 28, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Islamic State Group Claims Deadly Blast in Kabul" href="https://www.thedefensepost.com/2023/10/28/islamic-state-kabul-blast/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2022/09/GettyImages-1165804595-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Smoke over Kabul after an explosion." decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/28/islamic-state-kabul-blast/">Islamic State Group Claims Deadly Blast in Kabul</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 28, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Israeli Warplanes Hit 150 ‘Underground Targets’ in Gaza: Army" href="https://www.thedefensepost.com/2023/10/28/israeli-warplanes-underground-targets-gaza/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/F-16-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="An Israeli Air Force pilot walks to his F-16 fighter jet during the &#34;Blue Flag&#34; multinational air defense exercise at the Ovda air force base" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/28/israeli-warplanes-underground-targets-gaza/">Israeli Warplanes Hit 150 ‘Underground Targets’ in Gaza: Army</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 28, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Russia Launches Anti-Spy Operation in Ukraine’s South, One Killed" href="https://www.thedefensepost.com/2023/10/27/russia-anti-spy-operation-ukraine/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/zaporizhzhia-nuclear-power-plant-1-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="A view of the Russian-controlled Zaporizhzhia nuclear power plant in southern Ukraine" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/russia-anti-spy-operation-ukraine/">Russia Launches Anti-Spy Operation in Ukraine’s South, One Killed</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Slovakia Receives Two MANTIS Air Defense Systems From Germany" href="https://www.thedefensepost.com/2023/10/27/slovakia-germany-mantis-air-defense/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/02/20151102-mantis-eurad15-oesterreich-bild-lars-koch-022-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Surface-to-Air Missile Group’s MANTIS (Modular, Automatic and Network capable Targeting and Interception System) air defense system" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/slovakia-germany-mantis-air-defense/">Slovakia Receives Two MANTIS Air Defense Systems From Germany</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Indonesian Navy Receives New Special Mission Combat Boat" href="https://www.thedefensepost.com/2023/10/27/indonesia-special-mission-combat-boat/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/smcb-220x150.png" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Five Indonesian officers stand inside the new Special Mission Combat Boat." decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/indonesia-special-mission-combat-boat/">Indonesian Navy Receives New Special Mission Combat Boat</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Iran Unveils Long-Range Drone Armed with Air-to-Air Missile" href="https://www.thedefensepost.com/2023/10/27/iran-air-air-missile/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/HESA_Karrar_2010-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Iranian Karrar drone" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/iran-air-air-missile/">Iran Unveils Long-Range Drone Armed with Air-to-Air Missile</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Ukraine Launches Serial Production of ‘Stealthy’ Kamikaze Drone" href="https://www.thedefensepost.com/2023/10/27/ukraine-kamikaze-drone-production/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/Screenshot_5-3-1-220x150.png" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Vidsich attack drone" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/ukraine-kamikaze-drone-production/">Ukraine Launches Serial Production of ‘Stealthy’ Kamikaze Drone</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="French Jets Join NATO Drills in Romania to Bolster Defense" href="https://www.thedefensepost.com/2023/10/27/french-jets-nato-drills-romania/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2021/07/57e3a6954e0fd-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Rafale fighter jet" decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/french-jets-nato-drills-romania/">French Jets Join NATO Drills in Romania to Bolster Defense</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Spain Hosts First EU Crisis Management Exercise" href="https://www.thedefensepost.com/2023/10/27/spain-hosts-eu-crisis-management/" class="post-thumb"><img width="220" height="150" src="https://www.thedefensepost.com/wp-content/uploads/2023/10/spain-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Two infantry soldiers in camouflage gear talk in a field with trees." decoding="async" loading="lazy"/></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body ">
+		<a class="post-title the-subtitle" href="https://www.thedefensepost.com/2023/10/27/spain-hosts-eu-crisis-management/">Spain Hosts First EU Crisis Management Exercise</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">October 27, 2023</span>		</div>
+	</div>
+</li>
+</ul></div></div><div class="clearfix"></div></div><!-- .widget /-->				</div>
+			
+		</div><!-- .side-aside-wrapper /-->
+	</aside><!-- .side-aside /-->
+
+	
+	</div><!-- #tie-container /-->
+</div><!-- .background-overlay /-->
+
+<!-- Ezoic - wp_native_bottom - native_bottom --><div id="ezoic-pub-ad-placeholder-164" data-inserter-version="-1"></div><!-- End Ezoic - wp_native_bottom - native_bottom --><div id="reading-position-indicator"></div><div id="autocomplete-suggestions" class="autocomplete-suggestions"></div><div id="is-scroller-outer"><div id="is-scroller"></div></div><div id="fb-root"></div><script type="text/javascript" id="ppress-frontend-script-js-extra">
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.thedefensepost.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"a48fec0951","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.12.0" id="ppress-frontend-script-js"></script>
+<script type="text/javascript" id="tie-scripts-js-extra">
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/www.thedefensepost.com\/wp-admin\/admin-ajax.php","is_taqyeem_active":"","is_sticky_video":"1","mobile_menu_top":"","mobile_menu_active":"area_2","mobile_menu_parent":"true","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"","reading_indicator":"true","lazyload":"","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"defensepost","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"","lang_no_results":"Nothing Found","sticky_share_mobile":"true","sticky_share_post":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/js/scripts.min.js?ver=5.4.10" id="tie-scripts-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/ilightbox/lightbox.js?ver=5.4.10" id="tie-js-ilightbox-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/js/sliders.min.js?ver=5.4.10" id="tie-js-sliders-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/js/shortcodes.js?ver=5.4.10" id="tie-js-shortcodes-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=5.4.10" id="tie-js-desktop-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/js/live-search.js?ver=5.4.10" id="tie-js-livesearch-js"></script>
+<script type="text/javascript" src="https://www.thedefensepost.com/wp-content/themes/jannah/assets/js/single.min.js?ver=5.4.10" id="tie-js-single-js"></script>
+<script>
+				WebFontConfig ={
+					google:{
+						families: [ 'Source+Sans+Pro:regular,600,700:latin&display=swap' ]
+					}
+				};
+
+				(function(){
+					var wf   = document.createElement('script');
+					wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+					wf.type  = 'text/javascript';
+					wf.defer = 'true';
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(wf, s);
+				})();
+			</script>
+
+
+<script>__ez.queue.addFile('/tardisrocinante/vitals.js', '/tardisrocinante/vitals.js?gcb=0&cb=3', false, ['/parsonsmaize/mulvane.js'], true, false, true, false);</script>
+<script>var _audins_dom="thedefensepost_com",_audins_did=469678;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezodn.com/detroitchicago/audins.js?cb=195-0");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.thedefensepost_com,DomainId.469678" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+<script>__ez.queue.addFile('/beardeddragon/drake.js', '/beardeddragon/drake.js?gcb=0&cb=6', false, [], true, false, true, false);</script>
+<script type="text/javascript" style='display:none;'>var __ez_dims = (function() {
+		var setCookie = function( name, content, expiry ) {
+			return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+		};
+		var ffid = 1;
+		var oh = window.screen.height;
+		var ow = window.screen.width;
+		var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+		var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+		var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+		var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+		setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+		setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+	})();</script>
+<script type='text/javascript' style='display:none;' async>__ez.queue.addFile('/parsonsmaize/chanute.js', '/parsonsmaize/chanute.js?a=a&cb=7&dcb=195-0&shcb=34', true, ['/parsonsmaize/mulvane.js'], true, false, false, false);</script>
+<script type='text/javascript' style='display:none;' async>__ez.queue.addFile('/porpoiseant/jellyfish.js', '/porpoiseant/jellyfish.js?a=a&cb=11&dcb=195-0&shcb=34', false, [], true, false, false, false);</script></body></html>

@@ -1,0 +1,645 @@
+<!DOCTYPE html><html lang="en-US" class="no-js" itemtype="https://schema.org/Blog" itemscope=""><head><meta charset="UTF-8"/>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=true;__ez.queue=function(){var e=0,i=0,t=[],n=!1,o=[],r=[],s=!0,a=function(e,i,n,o,r,s,a){var l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,d=this;this.name=e,this.funcName=i,this.parameters=null===n?null:p(n)?n:[n],this.isBlock=o,this.blockedBy=r,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.fWindow=l,this.isTimeDelay=!1,this.process=function(){f("... func = "+e),d.isInitialized=!0,d.isComplete=!0,f("... func.apply: "+e);var i=d.funcName.split("."),n=null,o=this.fWindow||window;i.length>3||(n=3===i.length?o[i[0]][i[1]][i[2]]:2===i.length?o[i[0]][i[1]]:o[d.funcName]),null!=n&&n.apply(null,this.parameters),!0===d.deleteWhenComplete&&delete t[e],!0===d.isBlock&&(f("----- F'D: "+d.name),u())}},l=function(e,i,t,n,o,r,s){var a=arguments.length>7&&void 0!==arguments[7]?arguments[7]:window,l=this;this.name=e,this.path=i,this.async=o,this.defer=r,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.fWindow=a,this.isTimeDelay=!1,this.isPath=function(e){return"/"===e[0]&&"/"!==e[1]},this.getSrc=function(e){return void 0!==window.__ezScriptHost&&this.isPath(e)&&"banger.js"!==this.name?window.__ezScriptHost+e:e},this.process=function(){l.isInitialized=!0,f("... file = "+e);var i=this.fWindow?this.fWindow.document:document,t=i.createElement("script");t.src=this.getSrc(this.path),!0===o?t.async=!0:!0===r&&(t.defer=!0),t.onerror=function(){var e={url:window.location.href,name:l.name,path:l.path,user_agent:window.navigator.userAgent};"undefined"!=typeof _ezaq&&(e.pageview_id=_ezaq.page_view_id);var i=encodeURIComponent(JSON.stringify(e)),t=new XMLHttpRequest;t.open("GET","//g.ezoic.net/ezqlog?d="+i,!0),t.send(),f("----- ERR'D: "+l.name),l.isError=!0,!0===l.isBlock&&u()},t.onreadystatechange=t.onload=function(){var e=t.readyState;f("----- F'D: "+l.name),e&&!/loaded|complete/.test(e)||(l.isComplete=!0,!0===l.isBlock&&u())},i.getElementsByTagName("head")[0].appendChild(t)}},d=function(e,i){this.name=e,this.path="",this.async=!1,this.defer=!1,this.isBlock=!1,this.blockedBy=[],this.isInitialized=!0,this.isError=!1,this.isComplete=i,this.proceedIfError=!1,this.isTimeDelay=!1,this.process=function(){}};function c(e){!0!==h(e)&&0!=s&&e.process()}function h(e){if(!0===e.isTimeDelay&&!1===n)return f(e.name+" blocked = TIME DELAY!"),!0;if(p(e.blockedBy))for(var i=0;i<e.blockedBy.length;i++){var o=e.blockedBy[i];if(!1===t.hasOwnProperty(o))return f(e.name+" blocked = "+o),!0;if(!0===e.proceedIfError&&!0===t[o].isError)return!1;if(!1===t[o].isComplete)return f(e.name+" blocked = "+o),!0}return!1}function f(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function u(){++e>200||(f("let's go"),m(o),m(r))}function m(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||h(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?f(t.name+": error"):!0===t.isComplete?f(t.name+": complete already"):!0===t.isInitialized&&f(t.name+": initialized already"):t.process()}}function p(e){return"[object Array]"==Object.prototype.toString.call(e)}return window.addEventListener("load",(function(){setTimeout((function(){n=!0,f("TDELAY -----"),u()}),5e3)}),!1),{addFile:function(e,i,n,s,a,d,h,f,u){var m=new l(e,i,n,s,a,d,h,u);!0===f?o[e]=m:r[e]=m,t[e]=m,c(m)},addDelayFile:function(e,i){var n=new l(e,i,!1,[],!1,!1,!0);n.isTimeDelay=!0,f(e+" ...  FILE! TDELAY"),r[e]=n,t[e]=n,c(n)},addFunc:function(e,n,s,l,d,h,f,u,m,p){!0===h&&(e=e+"_"+i++);var w=new a(e,n,s,l,d,f,u,p);!0===m?o[e]=w:r[e]=w,t[e]=w,c(w)},addDelayFunc:function(e,i,n){var o=new a(e,i,n,!1,[],!0,!0);o.isTimeDelay=!0,f(e+" ...  FUNCTION! TDELAY"),r[e]=o,t[e]=o,c(o)},items:t,processAll:u,setallowLoad:function(e){s=e},markLoaded:function(e){if(e&&0!==e.length){if(e in t){var i=t[e];!0===i.isComplete?f(i.name+" "+e+": error loaded duplicate"):(i.isComplete=!0,i.isInitialized=!0)}else t[e]=new d(e,!0);f("markLoaded dummyfile: "+t[e].name)}},logWhatsBlocked:function(){for(var e in t)!1!==t.hasOwnProperty(e)&&h(t[e])}}}();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};__ez.queue.addFile('/detroitchicago/boise.js', '/detroitchicago/boise.js?gcb=195-0&cb=2', true, [], true, false, true, false);__ez.queue.addFile('/parsonsmaize/abilene.js', '/parsonsmaize/abilene.js?gcb=195-0&cb=30', true, [], true, false, true, false);</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">window._ezaq = Object.assign({}, typeof window._ezaq !== "undefined" ? window._ezaq : {}, {"ad_cache_level":0,"domain_id":316356,"ezcache_level":2,"ezcache_skip_code":0,"has_bad_image":0,"has_bad_words":0,"is_sitespeed":0,"lt_cache_level":0,"page_view_id":"1023bb0d-bfc0-4580-5c17-3a81388a5597","response_size_orig":93865,"response_time_orig":50,"template_id":5,"url":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/","word_count":0,"worst_bad_word_level":0});__ez.queue.markLoaded('ezaqBaseReady');</script>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>__ez.queue.addFile('/parsonsmaize/mulvane.js', '/parsonsmaize/mulvane.js?gcb=195-0&cb=5', true, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/parsonsmaize/olathe.js', '/parsonsmaize/olathe.js?gcb=195-0&cb=23', false, ['/parsonsmaize/abilene.js','/parsonsmaize/mulvane.js'], true, false, true, false);__ez.queue.addFile('/porpoiseant/et.js', '/porpoiseant/et.js?gcb=195-0&cb=2', false, [], true, false, true, false);!function(){var e;__ez.vep=(e=[],{Add:function(i,t){__ez.dot.isDefined(i)&&__ez.dot.isValid(t)&&e.push({type:"video",video_impression_id:i,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(t)})},Fire:function(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(e)&&e.length>0)for(;e.length>0;){var i=5;i>e.length&&(i=e.length);var t=e.splice(0,i),o=__ez.dot.getURL("/detroitchicago/grapefruit.gif")+"?orig="+(!0===__ez.template.isOrig?1:0)+"&v="+btoa(JSON.stringify(t));__ez.dot.Fire(o)}e=[]}}})}();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>!function(){function e(i){return e="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e(i)}__ez.pel=function(){var i=[];function t(t,o,d,n,_,r,a,p){if(__ez.dot.isDefined(t)&&0!=__ez.dot.isAnyDefined(t.getSlotElementId,t.ElementId)){void 0===p&&(p=!1),parseInt(__ez.dot.getTargeting(t,"ap"));var s=__ez.dot.getSlotIID(t),f=__ez.dot.getAdUnit(t,p),u=parseInt(__ez.dot.getTargeting(t,"compid")),g=0,z=0,l=function(i){if("undefined"==typeof _ezim_d)return!1;var t=__ez.dot.getAdUnitPath(i).split("/").pop();if("object"===("undefined"==typeof _ezim_d?"undefined":e(_ezim_d))&&_ezim_d.hasOwnProperty(t))return _ezim_d[t];for(var o in _ezim_d)if(o.split("/").pop()===t)return _ezim_d[o];return!1}(t);"object"==e(l)&&(void 0!==l.creative_id&&(z=l.creative_id),void 0!==l.line_item_id&&(g=l.line_item_id)),__ez.dot.isDefined(s,f)&&__ez.dot.isValid(o)&&("0"===s&&!0!==p||""===f||i.push({type:"impression",impression_id:s,domain_id:__ez.dot.getDID(),unit:f,t_epoch:__ez.dot.getEpoch(0),revenue:d,bid_floor_filled:_,stat_source_id:a,pageview_id:__ez.dot.getPageviewId(),comp_id:u,line_item_id:g,creative_id:z,data:__ez.dot.dataToStr(o),is_orig:p||__ez.template.isOrig}))}}function o(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(i)&&i.length>0&&[i.filter((function(e){return e.is_orig})),i.filter((function(e){return!e.is_orig}))].forEach((function(e){for(;e.length>0;){var i=e[0].is_orig||!1,t=5;t>e.length&&(t=e.length);var o=e.splice(0,t),d=__ez.dot.getURL("/porpoiseant/army.gif")+"?orig="+(!0===i?1:0)+"&sts="+btoa(JSON.stringify(o));(void 0!==window.isAmp&&isAmp||void 0!==window.ezWp&&ezWp)&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(d+="&visit_uuid="+_ezaq.visit_uuid),__ez.dot.Fire(d)}})),i=[])}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),o()},AddAndFireOrig:function(e,i){t(e,i,0,0,0,0,0,!0),o()},AddById:function(e,t,o,d){var n=e.split("/");if(__ez.dot.isDefined(e)&&3===n.length&&__ez.dot.isValid(t)){var _=n[0],r={type:"impression",impression_id:n[2],domain_id:__ez.dot.getDID(),unit:_,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(t),is_orig:o||__ez.template.isOrig};void 0!==d&&(r.revenue=d),i.push(r)}},Fire:o,GetPixels:function(){return i}}}()}();__ez.queue.addFile('/detroitchicago/raleigh.js', '/detroitchicago/raleigh.js?gcb=195-0&cb=6', false, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/detroitchicago/vista.js', '/detroitchicago/vista.js?gcb=195-0&cb=5', false, ['/parsonsmaize/abilene.js'], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '/detroitchicago/tampa.js?gcb=195-0&cb=5', false, ['/parsonsmaize/abilene.js'], true, false, true, false);</script><base href="https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/"/>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"/>
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>‘Booty Patrol’ driver caught by Florida deputies - Inshort</title>
+	<link rel="canonical" href="https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/"/>
+	<meta property="og:locale" content="en_US"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:title" content="‘Booty Patrol’ driver caught by Florida deputies - Inshort"/>
+	<meta property="og:description" content="Deputies issued a citation to the individual for violating Florida State Statute 316.2397."/>
+	<meta property="og:url" content="https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/"/>
+	<meta property="og:site_name" content="Inshort"/>
+	<meta property="article:published_time" content="2023-11-06T11:13:53+00:00"/>
+	<meta property="og:image" content="https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg"/>
+	<meta property="og:image:width" content="885"/>
+	<meta property="og:image:height" content="524"/>
+	<meta property="og:image:type" content="image/jpeg"/>
+	<meta name="author" content="Newsdesk"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:label1" content="Written by"/>
+	<meta name="twitter:data1" content="Newsdesk"/>
+	<meta name="twitter:label2" content="Est. reading time"/>
+	<meta name="twitter:data2" content="1 minute"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#article","isPartOf":{"@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/"},"author":{"name":"Newsdesk","@id":"https://inshort.geartape.com/#/schema/person/ac90cffb7588d5625af5cea3c42f92cc"},"headline":"‘Booty Patrol’ driver caught by Florida deputies","datePublished":"2023-11-06T11:13:53+00:00","dateModified":"2023-11-06T11:13:53+00:00","mainEntityOfPage":{"@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/"},"wordCount":200,"commentCount":0,"publisher":{"@id":"https://inshort.geartape.com/#organization"},"image":{"@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#primaryimage"},"thumbnailUrl":"https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg","articleSection":["News"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#respond"]}]},{"@type":"WebPage","@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/","url":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/","name":"‘Booty Patrol’ driver caught by Florida deputies - Inshort","isPartOf":{"@id":"https://inshort.geartape.com/#website"},"primaryImageOfPage":{"@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#primaryimage"},"image":{"@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#primaryimage"},"thumbnailUrl":"https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg","datePublished":"2023-11-06T11:13:53+00:00","dateModified":"2023-11-06T11:13:53+00:00","breadcrumb":{"@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#primaryimage","url":"https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg","contentUrl":"https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg","width":885,"height":524},{"@type":"BreadcrumbList","@id":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://inshort.geartape.com/"},{"@type":"ListItem","position":2,"name":"‘Booty Patrol’ driver caught by Florida deputies"}]},{"@type":"WebSite","@id":"https://inshort.geartape.com/#website","url":"https://inshort.geartape.com/","name":"Inshort","description":"News In Short At Point.","publisher":{"@id":"https://inshort.geartape.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://inshort.geartape.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://inshort.geartape.com/#organization","name":"Inshort","url":"https://inshort.geartape.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://inshort.geartape.com/#/schema/logo/image/","url":"https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159.jpg","contentUrl":"https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159.jpg","width":970,"height":225,"caption":"Inshort"},"image":{"@id":"https://inshort.geartape.com/#/schema/logo/image/"}},{"@type":"Person","@id":"https://inshort.geartape.com/#/schema/person/ac90cffb7588d5625af5cea3c42f92cc","name":"Newsdesk","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://inshort.geartape.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/8acf7e5957ae35ab84a31fee3aca45fc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/8acf7e5957ae35ab84a31fee3aca45fc?s=96&d=mm&r=g","caption":"Newsdesk"},"sameAs":["https://inshort.geartape.com"],"url":"https://inshort.geartape.com/author/sushil996x/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+<link rel="dns-prefetch" href="//fundingchoicesmessages.google.com"/>
+			<script>document.documentElement.classList.remove( 'no-js' );</script>
+			<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inshort.geartape.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://inshort.geartape.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1" media="all"/>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--theme-palette-1: #2B6CB0;--wp--preset--color--theme-palette-2: #215387;--wp--preset--color--theme-palette-3: #1A202C;--wp--preset--color--theme-palette-4: #2D3748;--wp--preset--color--theme-palette-5: #4A5568;--wp--preset--color--theme-palette-6: #718096;--wp--preset--color--theme-palette-7: #EDF2F7;--wp--preset--color--theme-palette-8: #F7FAFC;--wp--preset--color--theme-palette-9: #ffffff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 24px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--larger: 40px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="kadence-global-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.1.49" media="all"/>
+<style id="kadence-global-inline-css">
+/* Kadence Base CSS */
+:root{--global-palette1:#2B6CB0;--global-palette2:#215387;--global-palette3:#1A202C;--global-palette4:#2D3748;--global-palette5:#4A5568;--global-palette6:#718096;--global-palette7:#EDF2F7;--global-palette8:#F7FAFC;--global-palette9:#ffffff;--global-palette9rgb:255, 255, 255;--global-palette-highlight:var(--global-palette1);--global-palette-highlight-alt:var(--global-palette2);--global-palette-highlight-alt2:var(--global-palette9);--global-palette-btn-bg:var(--global-palette1);--global-palette-btn-bg-hover:var(--global-palette2);--global-palette-btn:var(--global-palette9);--global-palette-btn-hover:var(--global-palette9);--global-body-font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";--global-heading-font-family:inherit;--global-primary-nav-font-family:inherit;--global-fallback-font:sans-serif;--global-display-fallback-font:sans-serif;--global-content-width:1290px;--global-content-narrow-width:842px;--global-content-edge-padding:1.5rem;--global-content-boxed-padding:2rem;--global-calc-content-width:calc(1290px - var(--global-content-edge-padding) - var(--global-content-edge-padding) );--wp--style--global--content-size:var(--global-calc-content-width);}.wp-site-blocks{--global-vw:calc( 100vw - ( 0.5 * var(--scrollbar-offset)));}body{background:var(--global-palette8);}body, input, select, optgroup, textarea{font-weight:400;font-size:17px;line-height:1.6;font-family:var(--global-body-font-family);color:var(--global-palette4);}.content-bg, body.content-style-unboxed .site{background:var(--global-palette9);}h1,h2,h3,h4,h5,h6{font-family:var(--global-heading-font-family);}h1{font-weight:700;font-size:32px;line-height:1.5;color:var(--global-palette3);}h2{font-weight:700;font-size:28px;line-height:1.5;color:var(--global-palette3);}h3{font-weight:700;font-size:24px;line-height:1.5;color:var(--global-palette3);}h4{font-weight:700;font-size:22px;line-height:1.5;color:var(--global-palette4);}h5{font-weight:700;font-size:20px;line-height:1.5;color:var(--global-palette4);}h6{font-weight:700;font-size:18px;line-height:1.5;color:var(--global-palette5);}.entry-hero .kadence-breadcrumbs{max-width:1290px;}.site-container, .site-header-row-layout-contained, .site-footer-row-layout-contained, .entry-hero-layout-contained, .comments-area, .alignfull > .wp-block-cover__inner-container, .alignwide > .wp-block-cover__inner-container{max-width:var(--global-content-width);}.content-width-narrow .content-container.site-container, .content-width-narrow .hero-container.site-container{max-width:var(--global-content-narrow-width);}@media all and (min-width: 1520px){.wp-site-blocks .content-container  .alignwide{margin-left:-115px;margin-right:-115px;width:unset;max-width:unset;}}@media all and (min-width: 1102px){.content-width-narrow .wp-site-blocks .content-container .alignwide{margin-left:-130px;margin-right:-130px;width:unset;max-width:unset;}}.content-style-boxed .wp-site-blocks .entry-content .alignwide{margin-left:calc( -1 * var( --global-content-boxed-padding ) );margin-right:calc( -1 * var( --global-content-boxed-padding ) );}.content-area{margin-top:5rem;margin-bottom:5rem;}@media all and (max-width: 1024px){.content-area{margin-top:3rem;margin-bottom:3rem;}}@media all and (max-width: 767px){.content-area{margin-top:2rem;margin-bottom:2rem;}}@media all and (max-width: 1024px){:root{--global-content-boxed-padding:2rem;}}@media all and (max-width: 767px){:root{--global-content-boxed-padding:1.5rem;}}.entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.entry-content-wrap{padding:1.5rem;}}.entry.single-entry{box-shadow:0px 15px 15px -10px rgba(0,0,0,0.05);}.entry.loop-entry{box-shadow:0px 15px 15px -10px rgba(0,0,0,0.05);}.loop-entry .entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.loop-entry .entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.loop-entry .entry-content-wrap{padding:1.5rem;}}button, .button, .wp-block-button__link, input[type="button"], input[type="reset"], input[type="submit"], .fl-button, .elementor-button-wrapper .elementor-button{box-shadow:0px 0px 0px -7px rgba(0,0,0,0);}button:hover, button:focus, button:active, .button:hover, .button:focus, .button:active, .wp-block-button__link:hover, .wp-block-button__link:focus, .wp-block-button__link:active, input[type="button"]:hover, input[type="button"]:focus, input[type="button"]:active, input[type="reset"]:hover, input[type="reset"]:focus, input[type="reset"]:active, input[type="submit"]:hover, input[type="submit"]:focus, input[type="submit"]:active, .elementor-button-wrapper .elementor-button:hover, .elementor-button-wrapper .elementor-button:focus, .elementor-button-wrapper .elementor-button:active{box-shadow:0px 15px 25px -7px rgba(0,0,0,0.1);}.kb-button.kb-btn-global-outline.kb-btn-global-inherit{padding-top:calc(px - 2px);padding-right:calc(px - 2px);padding-bottom:calc(px - 2px);padding-left:calc(px - 2px);}@media all and (min-width: 1025px){.transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 1024px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 767px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}.entry-hero.post-hero-section .entry-header{min-height:200px;}
+/* Kadence Header CSS */
+@media all and (max-width: 1024px){.mobile-transparent-header #masthead{position:absolute;left:0px;right:0px;z-index:100;}.kadence-scrollbar-fixer.mobile-transparent-header #masthead{right:var(--scrollbar-offset,0);}.mobile-transparent-header #masthead, .mobile-transparent-header .site-top-header-wrap .site-header-row-container-inner, .mobile-transparent-header .site-main-header-wrap .site-header-row-container-inner, .mobile-transparent-header .site-bottom-header-wrap .site-header-row-container-inner{background:transparent;}.site-header-row-tablet-layout-fullwidth, .site-header-row-tablet-layout-standard{padding:0px;}}@media all and (min-width: 1025px){.transparent-header #masthead{position:absolute;left:0px;right:0px;z-index:100;}.transparent-header.kadence-scrollbar-fixer #masthead{right:var(--scrollbar-offset,0);}.transparent-header #masthead, .transparent-header .site-top-header-wrap .site-header-row-container-inner, .transparent-header .site-main-header-wrap .site-header-row-container-inner, .transparent-header .site-bottom-header-wrap .site-header-row-container-inner{background:transparent;}}.site-branding a.brand img{max-width:150px;}.site-branding a.brand img.svg-logo-image{width:150px;}.site-branding{padding:0px 0px 0px 0px;}#masthead, #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap), #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner{background:#ffffff;}.site-main-header-inner-wrap{min-height:80px;}.header-navigation[class*="header-navigation-style-underline"] .header-menu-container.primary-menu-container>ul>li>a:after{width:calc( 100% - 1.2em);}.main-navigation .primary-menu-container > ul > li.menu-item > a{padding-left:calc(1.2em / 2);padding-right:calc(1.2em / 2);padding-top:0.6em;padding-bottom:0.6em;color:var(--global-palette5);}.main-navigation .primary-menu-container > ul > li.menu-item .dropdown-nav-special-toggle{right:calc(1.2em / 2);}.main-navigation .primary-menu-container > ul > li.menu-item > a:hover{color:var(--global-palette-highlight);}.main-navigation .primary-menu-container > ul > li.menu-item.current-menu-item > a{color:var(--global-palette3);}.header-navigation .header-menu-container ul ul.sub-menu, .header-navigation .header-menu-container ul ul.submenu{background:var(--global-palette3);box-shadow:0px 2px 13px 0px rgba(0,0,0,0.1);}.header-navigation .header-menu-container ul ul li.menu-item, .header-menu-container ul.menu > li.kadence-menu-mega-enabled > ul > li.menu-item > a{border-bottom:1px solid rgba(255,255,255,0.1);}.header-navigation .header-menu-container ul ul li.menu-item > a{width:200px;padding-top:1em;padding-bottom:1em;color:var(--global-palette8);font-size:12px;}.header-navigation .header-menu-container ul ul li.menu-item > a:hover{color:var(--global-palette9);background:var(--global-palette4);}.header-navigation .header-menu-container ul ul li.menu-item.current-menu-item > a{color:var(--global-palette9);background:var(--global-palette4);}.mobile-toggle-open-container .menu-toggle-open{color:var(--global-palette5);padding:0.4em 0.6em 0.4em 0.6em;font-size:14px;}.mobile-toggle-open-container .menu-toggle-open.menu-toggle-style-bordered{border:1px solid currentColor;}.mobile-toggle-open-container .menu-toggle-open .menu-toggle-icon{font-size:20px;}.mobile-toggle-open-container .menu-toggle-open:hover, .mobile-toggle-open-container .menu-toggle-open:focus-visible{color:var(--global-palette-highlight);}.mobile-navigation ul li{font-size:14px;}.mobile-navigation ul li a{padding-top:1em;padding-bottom:1em;}.mobile-navigation ul li > a, .mobile-navigation ul li.menu-item-has-children > .drawer-nav-drop-wrap{color:var(--global-palette8);}.mobile-navigation ul li.current-menu-item > a, .mobile-navigation ul li.current-menu-item.menu-item-has-children > .drawer-nav-drop-wrap{color:var(--global-palette-highlight);}.mobile-navigation ul li.menu-item-has-children .drawer-nav-drop-wrap, .mobile-navigation ul li:not(.menu-item-has-children) a{border-bottom:1px solid rgba(255,255,255,0.1);}.mobile-navigation:not(.drawer-navigation-parent-toggle-true) ul li.menu-item-has-children .drawer-nav-drop-wrap button{border-left:1px solid rgba(255,255,255,0.1);}#mobile-drawer .drawer-header .drawer-toggle{padding:0.6em 0.15em 0.6em 0.15em;font-size:24px;}
+/* Kadence Footer CSS */
+.site-bottom-footer-inner-wrap{padding-top:30px;padding-bottom:30px;grid-column-gap:30px;}.site-bottom-footer-inner-wrap .widget{margin-bottom:30px;}.site-bottom-footer-inner-wrap .site-footer-section:not(:last-child):after{right:calc(-30px / 2);}
+</style>
+<link rel="stylesheet" id="kadence-header-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.1.49" media="all"/>
+<link rel="stylesheet" id="kadence-content-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/content.min.css?ver=1.1.49" media="all"/>
+<link rel="stylesheet" id="kadence-comments-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/comments.min.css?ver=1.1.49" media="all"/>
+<link rel="stylesheet" id="kadence-related-posts-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/related-posts.min.css?ver=1.1.49" media="all"/>
+<link rel="stylesheet" id="kad-splide-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/kadence-splide.min.css?ver=1.1.49" media="all"/>
+<link rel="stylesheet" id="kadence-footer-css" href="https://inshort.geartape.com/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.1.49" media="all"/>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-272755449-1" id="google_gtagjs-js" async=""></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["inshort.geartape.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-272755449-1", {"anonymize_ip":true});
+gtag("config", "GT-MRLCZ8W");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://inshort.geartape.com/wp-json/"/><link rel="alternate" type="application/json" href="https://inshort.geartape.com/wp-json/wp/v2/posts/135"/><link rel="alternate" type="application/json+oembed" href="https://inshort.geartape.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finshort.geartape.com%2Fbooty-patrol-driver-caught-by-florida-deputies%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://inshort.geartape.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finshort.geartape.com%2Fbooty-patrol-driver-caught-by-florida-deputies%2F&amp;format=xml"/>
+<meta name="generator" content="Site Kit by Google 1.111.1"/><link rel="pingback" href="https://inshort.geartape.com/xmlrpc.php"/>
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236"/>
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com"/>
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google AdSense Ad Blocking Recovery snippet added by Site Kit -->
+<script async="" src="https://fundingchoicesmessages.google.com/i/pub-6856405838992296?ers=1" nonce="l9ibzEpRxTVvutiTfVzOHw"></script><script nonce="l9ibzEpRxTVvutiTfVzOHw">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- End Google AdSense Ad Blocking Recovery snippet added by Site Kit -->
+
+<!-- Google AdSense Ad Blocking Recovery Error Protection snippet added by Site Kit -->
+<script>(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function ea(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var fa=ea(this);function ha(a,b){if(b)a:{var c=fa;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
+var ia="function"==typeof Object.create?Object.create:function(a){function b(){}b.prototype=a;return new b},l;if("function"==typeof Object.setPrototypeOf)l=Object.setPrototypeOf;else{var m;a:{var ja={a:!0},ka={};try{ka.__proto__=ja;m=ka.a;break a}catch(a){}m=!1}l=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}var la=l;
+function n(a,b){a.prototype=ia(b.prototype);a.prototype.constructor=a;if(la)la(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.A=b.prototype}function ma(){for(var a=Number(this),b=[],c=a;c<arguments.length;c++)b[c-a]=arguments[c];return b}
+var na="function"==typeof Object.assign?Object.assign:function(a,b){for(var c=1;c<arguments.length;c++){var d=arguments[c];if(d)for(var e in d)Object.prototype.hasOwnProperty.call(d,e)&&(a[e]=d[e])}return a};ha("Object.assign",function(a){return a||na});/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var p=this||self;function q(a){return a};var t,u;a:{for(var oa=["CLOSURE_FLAGS"],v=p,x=0;x<oa.length;x++)if(v=v[oa[x]],null==v){u=null;break a}u=v}var pa=u&&u[610401301];t=null!=pa?pa:!1;var z,qa=p.navigator;z=qa?qa.userAgentData||null:null;function A(a){return t?z?z.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function B(a){var b;a:{if(b=p.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function C(){return t?!!z&&0<z.brands.length:!1}function D(){return C()?A("Chromium"):(B("Chrome")||B("CriOS"))&&!(C()?0:B("Edge"))||B("Silk")};var ra=C()?!1:B("Trident")||B("MSIE");!B("Android")||D();D();B("Safari")&&(D()||(C()?0:B("Coast"))||(C()?0:B("Opera"))||(C()?0:B("Edge"))||(C()?A("Microsoft Edge"):B("Edg/"))||C()&&A("Opera"));var sa={},E=null;var ta="undefined"!==typeof Uint8Array,ua=!ra&&"function"===typeof btoa;var F="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0,G=F?function(a,b){a[F]|=b}:function(a,b){void 0!==a.g?a.g|=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function va(a){var b=H(a);1!==(b&1)&&(Object.isFrozen(a)&&(a=Array.prototype.slice.call(a)),I(a,b|1))}
+var H=F?function(a){return a[F]|0}:function(a){return a.g|0},J=F?function(a){return a[F]}:function(a){return a.g},I=F?function(a,b){a[F]=b}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function wa(){var a=[];G(a,1);return a}function xa(a,b){I(b,(a|0)&-99)}function K(a,b){I(b,(a|34)&-73)}function L(a){a=a>>11&1023;return 0===a?536870912:a};var M={};function N(a){return null!==a&&"object"===typeof a&&!Array.isArray(a)&&a.constructor===Object}var O,ya=[];I(ya,39);O=Object.freeze(ya);var P;function Q(a,b){P=b;a=new a(b);P=void 0;return a}
+function R(a,b,c){null==a&&(a=P);P=void 0;if(null==a){var d=96;c?(a=[c],d|=512):a=[];b&&(d=d&-2095105|(b&1023)<<11)}else{if(!Array.isArray(a))throw Error();d=H(a);if(d&64)return a;d|=64;if(c&&(d|=512,c!==a[0]))throw Error();a:{c=a;var e=c.length;if(e){var f=e-1,g=c[f];if(N(g)){d|=256;b=(d>>9&1)-1;e=f-b;1024<=e&&(za(c,b,g),e=1023);d=d&-2095105|(e&1023)<<11;break a}}b&&(g=(d>>9&1)-1,b=Math.max(b,e-g),1024<b&&(za(c,g,{}),d|=256,b=1023),d=d&-2095105|(b&1023)<<11)}}I(a,d);return a}
+function za(a,b,c){for(var d=1023+b,e=a.length,f=d;f<e;f++){var g=a[f];null!=g&&g!==c&&(c[f-b]=g)}a.length=d+1;a[d]=c};function Aa(a){switch(typeof a){case "number":return isFinite(a)?a:String(a);case "boolean":return a?1:0;case "object":if(a&&!Array.isArray(a)&&ta&&null!=a&&a instanceof Uint8Array){if(ua){for(var b="",c=0,d=a.length-10240;c<d;)b+=String.fromCharCode.apply(null,a.subarray(c,c+=10240));b+=String.fromCharCode.apply(null,c?a.subarray(c):a);a=btoa(b)}else{void 0===b&&(b=0);if(!E){E={};c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split("");d=["+/=","+/","-_=","-_.","-_"];for(var e=
+0;5>e;e++){var f=c.concat(d[e].split(""));sa[e]=f;for(var g=0;g<f.length;g++){var h=f[g];void 0===E[h]&&(E[h]=g)}}}b=sa[b];c=Array(Math.floor(a.length/3));d=b[64]||"";for(e=f=0;f<a.length-2;f+=3){var k=a[f],w=a[f+1];h=a[f+2];g=b[k>>2];k=b[(k&3)<<4|w>>4];w=b[(w&15)<<2|h>>6];h=b[h&63];c[e++]=g+k+w+h}g=0;h=d;switch(a.length-f){case 2:g=a[f+1],h=b[(g&15)<<2]||d;case 1:a=a[f],c[e]=b[a>>2]+b[(a&3)<<4|g>>4]+h+d}a=c.join("")}return a}}return a};function Ba(a,b,c){a=Array.prototype.slice.call(a);var d=a.length,e=b&256?a[d-1]:void 0;d+=e?-1:0;for(b=b&512?1:0;b<d;b++)a[b]=c(a[b]);if(e){b=a[b]={};for(var f in e)Object.prototype.hasOwnProperty.call(e,f)&&(b[f]=c(e[f]))}return a}function Da(a,b,c,d,e,f){if(null!=a){if(Array.isArray(a))a=e&&0==a.length&&H(a)&1?void 0:f&&H(a)&2?a:Ea(a,b,c,void 0!==d,e,f);else if(N(a)){var g={},h;for(h in a)Object.prototype.hasOwnProperty.call(a,h)&&(g[h]=Da(a[h],b,c,d,e,f));a=g}else a=b(a,d);return a}}
+function Ea(a,b,c,d,e,f){var g=d||c?H(a):0;d=d?!!(g&32):void 0;a=Array.prototype.slice.call(a);for(var h=0;h<a.length;h++)a[h]=Da(a[h],b,c,d,e,f);c&&c(g,a);return a}function Fa(a){return a.s===M?a.toJSON():Aa(a)};function Ga(a,b,c){c=void 0===c?K:c;if(null!=a){if(ta&&a instanceof Uint8Array)return b?a:new Uint8Array(a);if(Array.isArray(a)){var d=H(a);if(d&2)return a;if(b&&!(d&64)&&(d&32||0===d))return I(a,d|34),a;a=Ea(a,Ga,d&4?K:c,!0,!1,!0);b=H(a);b&4&&b&2&&Object.freeze(a);return a}a.s===M&&(b=a.h,c=J(b),a=c&2?a:Q(a.constructor,Ha(b,c,!0)));return a}}function Ha(a,b,c){var d=c||b&2?K:xa,e=!!(b&32);a=Ba(a,b,function(f){return Ga(f,e,d)});G(a,32|(c?2:0));return a};function Ia(a,b){a=a.h;return Ja(a,J(a),b)}function Ja(a,b,c,d){if(-1===c)return null;if(c>=L(b)){if(b&256)return a[a.length-1][c]}else{var e=a.length;if(d&&b&256&&(d=a[e-1][c],null!=d))return d;b=c+((b>>9&1)-1);if(b<e)return a[b]}}function Ka(a,b,c,d,e){var f=L(b);if(c>=f||e){e=b;if(b&256)f=a[a.length-1];else{if(null==d)return;f=a[f+((b>>9&1)-1)]={};e|=256}f[c]=d;e&=-1025;e!==b&&I(a,e)}else a[c+((b>>9&1)-1)]=d,b&256&&(d=a[a.length-1],c in d&&delete d[c]),b&1024&&I(a,b&-1025)}
+function La(a,b){var c=Ma;var d=void 0===d?!1:d;var e=a.h;var f=J(e),g=Ja(e,f,b,d);var h=!1;if(null==g||"object"!==typeof g||(h=Array.isArray(g))||g.s!==M)if(h){var k=h=H(g);0===k&&(k|=f&32);k|=f&2;k!==h&&I(g,k);c=new c(g)}else c=void 0;else c=g;c!==g&&null!=c&&Ka(e,f,b,c,d);e=c;if(null==e)return e;a=a.h;f=J(a);f&2||(g=e,c=g.h,h=J(c),g=h&2?Q(g.constructor,Ha(c,h,!1)):g,g!==e&&(e=g,Ka(a,f,b,e,d)));return e}function Na(a,b){a=Ia(a,b);return null==a||"string"===typeof a?a:void 0}
+function Oa(a,b){a=Ia(a,b);return null!=a?a:0}function S(a,b){a=Na(a,b);return null!=a?a:""};function T(a,b,c){this.h=R(a,b,c)}T.prototype.toJSON=function(){var a=Ea(this.h,Fa,void 0,void 0,!1,!1);return Pa(this,a,!0)};T.prototype.s=M;T.prototype.toString=function(){return Pa(this,this.h,!1).toString()};
+function Pa(a,b,c){var d=a.constructor.v,e=L(J(c?a.h:b)),f=!1;if(d){if(!c){b=Array.prototype.slice.call(b);var g;if(b.length&&N(g=b[b.length-1]))for(f=0;f<d.length;f++)if(d[f]>=e){Object.assign(b[b.length-1]={},g);break}f=!0}e=b;c=!c;g=J(a.h);a=L(g);g=(g>>9&1)-1;for(var h,k,w=0;w<d.length;w++)if(k=d[w],k<a){k+=g;var r=e[k];null==r?e[k]=c?O:wa():c&&r!==O&&va(r)}else h||(r=void 0,e.length&&N(r=e[e.length-1])?h=r:e.push(h={})),r=h[k],null==h[k]?h[k]=c?O:wa():c&&r!==O&&va(r)}d=b.length;if(!d)return b;
+var Ca;if(N(h=b[d-1])){a:{var y=h;e={};c=!1;for(var ca in y)Object.prototype.hasOwnProperty.call(y,ca)&&(a=y[ca],Array.isArray(a)&&a!=a&&(c=!0),null!=a?e[ca]=a:c=!0);if(c){for(var rb in e){y=e;break a}y=null}}y!=h&&(Ca=!0);d--}for(;0<d;d--){h=b[d-1];if(null!=h)break;var cb=!0}if(!Ca&&!cb)return b;var da;f?da=b:da=Array.prototype.slice.call(b,0,d);b=da;f&&(b.length=d);y&&b.push(y);return b};function Qa(a){return function(b){if(null==b||""==b)b=new a;else{b=JSON.parse(b);if(!Array.isArray(b))throw Error(void 0);G(b,32);b=Q(a,b)}return b}};function Ra(a){this.h=R(a)}n(Ra,T);var Sa=Qa(Ra);var U;function V(a){this.g=a}V.prototype.toString=function(){return this.g+""};var Ta={};function Ua(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};function Va(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)}function Wa(a){this.g=a||p.document||document}Wa.prototype.appendChild=function(a,b){a.appendChild(b)};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+function Xa(a,b){a.src=b instanceof V&&b.constructor===V?b.g:"type_error:TrustedResourceUrl";var c,d;(c=(b=null==(d=(c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(c,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",c)};function Ya(a){a=void 0===a?document:a;return a.createElement("script")};function Za(a,b,c,d,e,f){try{var g=a.g,h=Ya(g);h.async=!0;Xa(h,b);g.head.appendChild(h);h.addEventListener("load",function(){e();d&&g.head.removeChild(h)});h.addEventListener("error",function(){0<c?Za(a,b,c-1,d,e,f):(d&&g.head.removeChild(h),f())})}catch(k){f()}};var $a=p.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ab=p.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),bb=p.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu");function db(a,b,c){this.i=a;this.l=new Wa(this.i);this.g=null;this.j=[];this.m=!1;this.u=b;this.o=c}
+function eb(a){if(a.i.body&&!a.m){var b=function(){fb(a);p.setTimeout(function(){return gb(a,3)},50)};Za(a.l,a.u,2,!0,function(){p[a.o]||b()},b);a.m=!0}}
+function fb(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.i.body.appendChild(d);a.j.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=hb(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=hb(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,
+85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Va(a.l.g,"IMG");d.className=Ua();d.src=$a;d.alt="Warning icon";d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ab;var g=X(a);g.textContent=bb;Y(a,e,f);Y(a,e,g);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.i.body.appendChild(a.g);b=W(1,5);for(c=
+0;c<b;c++)d=X(a),a.i.body.appendChild(d),a.j.push(d)}function Y(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)}function W(a,b){return Math.floor(a+Math.random()*(b-a))}function hb(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,255)).toString()+")"}function X(a){a=Va(a.l.g,"DIV");a.className=Ua();return a}
+function gb(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(ib(a),fb(a),p.setTimeout(function(){return gb(a,b-1)},50))}
+function ib(a){var b=a.j;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];if(c)b=c.call(b);else if("number"==typeof b.length)b={next:aa(b)};else throw Error(String(b)+" is not an iterable or ArrayLike");for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.j=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};function jb(a,b,c,d,e){function f(k){document.body?g(document.body):0<k?p.setTimeout(function(){f(k-1)},e):b()}function g(k){k.appendChild(h);p.setTimeout(function(){h?(0!==h.offsetHeight&&0!==h.offsetWidth?b():a(),h.parentNode&&h.parentNode.removeChild(h)):a()},d)}var h=kb(c);f(3)}function kb(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};function Ma(a){this.h=R(a)}n(Ma,T);function lb(a){this.h=R(a)}n(lb,T);var mb=Qa(lb);function nb(a){a=Na(a,4)||"";if(void 0===U){var b=null;var c=p.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:q,createScript:q,createScriptURL:q})}catch(d){p.console&&p.console.error(d.message)}U=b}else U=b}a=(b=U)?b.createScriptURL(a):a;return new V(a,Ta)};function ob(a,b){this.m=a;this.o=new Wa(a.document);this.g=b;this.j=S(this.g,1);this.u=nb(La(this.g,2));this.i=!1;b=nb(La(this.g,13));this.l=new db(a.document,b,S(this.g,12))}ob.prototype.start=function(){pb(this)};
+function pb(a){qb(a);Za(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=p.btoa(b);if(c=p[c]){try{var d=Sa(p.atob(c))}catch(e){b=!1;break a}b=b===Na(d,1)}else b=!1}b?Z(a,S(a.g,14)):(Z(a,S(a.g,8)),eb(a.l))},function(){jb(function(){Z(a,S(a.g,7));eb(a.l)},function(){return Z(a,S(a.g,6))},S(a.g,9),Oa(a.g,10),Oa(a.g,11))})}function Z(a,b){a.i||(a.i=!0,a=new a.m.XMLHttpRequest,a.open("GET",b,!0),a.send())}function qb(a){var b=p.btoa(a.j);a.m[b]&&Z(a,S(a.g,5))};(function(a,b){p[a]=function(){var c=ma.apply(0,arguments);p[a]=function(){};b.apply(null,c)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ob(window,mb(window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItNjg1NjQwNTgzODk5MjI5NiIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi02ODU2NDA1ODM4OTkyMjk2Il0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hVdTN3MUxnLXpSWnFlSlFMaW5pV29ENlg0ZjdPaG9CY3M3MVAtVmV2UXlZMDAwSUctbGktVW9WTXBXT3phOVYwQ19pQkdhb25lSEdlSjZkcmZWVDRIVzR3XHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZSUUJ6UDdrcHlwWUF6UVYwX1dyMjdfV0RzdUF2WUhlWDZJTG9QeEtwYTFZZF9veVBxdGJkSkhmTVhjUHNnN0Mxa0h3UG5hQXEtN1o1cGRpeFRzaTVLZWdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFhxdFB0TWdYV1FtcGJhTGJIaWE0SDViaS1pdVZ2M1RWRTdoc2pxT05xd0hNWDlCdUdmRUpWTm9SYWJNb2pvMDFueGkxcGJ1eUtHS2FkdXVaTGYtTVJjU1FcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFVIOFhsaXEyMWhNSnFKUm9DZ1FwXzZFTjdQMUh5Qk4xRzFHS3A1WWFPbS1oWHRkdGd2YzNid2ZSZmRLTDNqdmR1ZG9QaFZNZ2dUNHBvWURaWDQ3d0N1OHdcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUWTROVFkwTURVNE16ZzVPVEl5T1RZXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi02ODU2NDA1ODM4OTkyMjk2LmpzP3VzcXBcdTAwM2RDQWMiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4WEctMjV0aHVyODBLd2ozSkpVVGJvckk3Vk4wandndGhJd0gwS3F0dEh3d1o2ampLV2ZlcDFfdVgwWTA3cEdTUWtfMUFfY291QW9jUWt1R0l1eWVTT3ZyUVx1MDAzZFx1MDAzZCJd");</script>
+<!-- End Google AdSense Ad Blocking Recovery Error Protection snippet added by Site Kit -->
+<link rel="icon" href="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-cropped-20230616_134159-32x32.jpg" sizes="32x32"/>
+<link rel="icon" href="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-cropped-20230616_134159-192x192.jpg" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-cropped-20230616_134159-180x180.jpg"/>
+<meta name="msapplication-TileImage" content="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-cropped-20230616_134159-270x270.jpg"/>
+<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style><style id='ezoicCSS'>.ezoic-grid-wrapper{grid-column:1/-1}</style><script type='text/javascript'>
+var ezoTemplate = 'orig_site';
+var ezouid = '1';
+var ezoFormfactor = '1';
+</script><script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 316356;
+var ezdomain = 'geartape.com';
+var ezoicSearchable = 1;
+</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = window._ezaq = Object.assign({}, typeof window._ezaq !== "undefined" ? window._ezaq : {}, {"ab_test_id":"mod51-c","ad_cache_level":0,"ad_lazyload_version":0,"ad_load_version":0,"city":"San Jose","country":"US","days_since_last_visit":-1,"domain_id":316356,"engaged_time_visit":0,"ezcache_level":2,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"is_embed":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":807,"page_ad_positions":"","page_view_count":0,"page_view_id":"1023bb0d-bfc0-4580-5c17-3a81388a5597","position_selection_id":0,"postal_code":"95126","pv_event_count":0,"response_size_orig":93865,"response_time_orig":50,"serverid":"i-013bf048c2717a5da","state":"CA","t_epoch":1700354133,"template_id":5,"time_on_site_visit":0,"url":"https://inshort.geartape.com/booty-patrol-driver-caught-by-florida-deputies/","word_count":670,"worst_bad_word_level":0});var _ezExtraQueries = "&ez_orig=1";</script>
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+	var d = new Date();
+	d.setTime(d.getTime() + (365*24*60*60*1000));
+	var expires = "expires="+d.toUTCString();
+	__ez.ck.setByCat("ezux_lpl_316356=" + new Date().getTime() + "|" + _ezaq.page_view_id + "|" + _ezaq.is_return_visitor + "; " + expires, 3);
+}
+function attach_ezolpl() {
+	if (document.readyState === "complete") {
+		create_ezolpl();
+		return;
+	}
+	window.addEventListener("load", create_ezolpl);
+}
+
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", null, false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script></head>
+
+<body class="post-template-default single single-post postid-135 single-format-standard wp-custom-logo wp-embed-responsive footer-on-bottom hide-focus-outline link-style-standard content-title-style-normal content-width-narrow content-style-boxed content-vertical-padding-show non-transparent-header mobile-non-transparent-header">
+<div id="wrapper" class="site wp-site-blocks">
+			<a class="skip-link screen-reader-text scroll-ignore" href="#main">Skip to content</a>
+		<header id="masthead" class="site-header" role="banner" itemtype="https://schema.org/WPHeader" itemscope="">
+	<div id="main-header" class="site-header-wrap">
+		<div class="site-header-inner-wrap">
+			<div class="site-header-upper-wrap">
+				<div class="site-header-upper-inner-wrap">
+					<div class="site-main-header-wrap site-header-row-container site-header-focus-item site-header-row-layout-standard" data-section="kadence_customizer_header_main">
+	<div class="site-header-row-container-inner">
+				<div class="site-container">
+			<div class="site-main-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center">
+									<div class="site-header-main-section-left site-header-section site-header-section-left">
+						<div class="site-header-item site-header-focus-item" data-section="title_tagline">
+	<div class="site-branding branding-layout-standard site-brand-logo-only"><a class="brand has-logo-image" href="https://inshort.geartape.com/" rel="home"><img width="970" height="225" src="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159.jpg" class="custom-logo" alt="Inshort" decoding="async" fetchpriority="high" srcset="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159.jpg 970w, https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159-300x70.jpg 300w, https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159-768x178.jpg 768w" sizes="(max-width: 970px) 100vw, 970px"/></a></div></div><!-- data-section="title_tagline" -->
+					</div>
+																	<div class="site-header-main-section-right site-header-section site-header-section-right">
+						<div class="site-header-item site-header-focus-item site-header-item-main-navigation header-navigation-layout-stretch-false header-navigation-layout-fill-stretch-false" data-section="kadence_customizer_primary_navigation">
+		<nav id="site-navigation" class="main-navigation header-navigation nav--toggle-sub header-navigation-style-standard header-navigation-dropdown-animation-none" role="navigation" aria-label="Primary Navigation">
+				<div class="primary-menu-container header-menu-container">
+			<ul id="primary-menu" class="menu"><li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-31"><a href="https://inshort.geartape.com/">Home</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-87"><a href="https://inshort.geartape.com/category/quotes/">Quotes</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://inshort.geartape.com/about-us/">About Us</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://inshort.geartape.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-32"><a rel="privacy-policy" href="https://inshort.geartape.com/privacy-policy/">Privacy Policy</a></li>
+</ul>		</div>
+	</nav><!-- #site-navigation -->
+	</div><!-- data-section="primary_navigation" -->
+					</div>
+							</div>
+		</div>
+	</div>
+</div>
+				</div>
+			</div>
+					</div>
+	</div>
+	
+<div id="mobile-header" class="site-mobile-header-wrap">
+	<div class="site-header-inner-wrap">
+		<div class="site-header-upper-wrap">
+			<div class="site-header-upper-inner-wrap">
+			<div class="site-main-header-wrap site-header-focus-item site-header-row-layout-standard site-header-row-tablet-layout-default site-header-row-mobile-layout-default ">
+	<div class="site-header-row-container-inner">
+		<div class="site-container">
+			<div class="site-main-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center">
+									<div class="site-header-main-section-left site-header-section site-header-section-left">
+						<div class="site-header-item site-header-focus-item" data-section="title_tagline">
+	<div class="site-branding mobile-site-branding branding-layout-standard branding-tablet-layout-inherit site-brand-logo-only branding-mobile-layout-inherit"><a class="brand has-logo-image" href="https://inshort.geartape.com/" rel="home"><img width="970" height="225" src="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159.jpg" class="custom-logo" alt="Inshort" decoding="async" srcset="https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159.jpg 970w, https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159-300x70.jpg 300w, https://inshort.geartape.com/wp-content/uploads/2023/06/cropped-20230616_134159-768x178.jpg 768w" sizes="(max-width: 970px) 100vw, 970px"/></a></div></div><!-- data-section="title_tagline" -->
+					</div>
+																	<div class="site-header-main-section-right site-header-section site-header-section-right">
+						<div class="site-header-item site-header-focus-item site-header-item-navgation-popup-toggle" data-section="kadence_customizer_mobile_trigger">
+		<div class="mobile-toggle-open-container">
+						<button id="mobile-toggle" class="menu-toggle-open drawer-toggle menu-toggle-style-default" aria-label="Open menu" data-toggle-target="#mobile-drawer" data-toggle-body-class="showing-popup-drawer-from-right" aria-expanded="false" data-set-focus=".menu-toggle-close">
+						<span class="menu-toggle-icon"><span class="kadence-svg-iconset"><svg aria-hidden="true" class="kadence-svg-icon kadence-menu-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Toggle Menu</title><path d="M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z"></path>
+				</svg></span></span>
+		</button>
+	</div>
+	</div><!-- data-section="mobile_trigger" -->
+					</div>
+							</div>
+		</div>
+	</div>
+</div>
+			</div>
+		</div>
+			</div>
+</div>
+</header><!-- #masthead -->
+
+	<span class="ezoic-autoinsert-video ezoic-under_page_title"></span><!-- ezoic_video_placeholder-under_page_title-1280x720-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-1280x720-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-854x480-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-854x480-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-640x360-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-640x360-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-426x240-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-426x240-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-384x216-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-384x216-999999-nonexxxclearxxxblock --><div id="inner-wrap" class="wrap hfeed kt-clear">
+		<div id="primary" class="content-area">
+	<div class="content-container site-container">
+		<main id="main" class="site-main" role="main">
+						<span class="ezoic-autoinsert-video ezoic-under_page_title"></span><!-- ezoic_video_placeholder-under_page_title-854x480-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-854x480-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-640x360-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-640x360-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-426x240-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-426x240-999999-nonexxxclearxxxblock --><!-- ezoic_video_placeholder-under_page_title-384x216-999999-clearholder --><!-- ezoic_video_placeholder-under_page_title-384x216-999999-nonexxxclearxxxblock --><div class="content-wrap">
+					<div class="post-thumbnail article-post-thumbnail kadence-thumbnail-position-behind alignwide kadence-thumbnail-ratio-2-3">
+		<div class="post-thumbnail-inner">
+			<img width="885" height="524" src="https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg" class="post-top-featured wp-post-image" alt="" decoding="async" srcset="https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1.jpg 885w, https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1-300x178.jpg 300w, https://inshort.geartape.com/wp-content/uploads/2023/11/Booty-Patrol-4-1-768x455.jpg 768w" sizes="(max-width: 885px) 100vw, 885px"/>		</div>
+	</div><!-- .post-thumbnail -->
+			<article id="post-135" class="entry content-bg single-entry post-135 post type-post status-publish format-standard has-post-thumbnail hentry category-news"><span class="ezoic-autoinsert-ad ezoic-sidebar"></span><!-- ezoic_ad_placeholder-sidebar-250x250-999700-clearholder --><!-- ezoic_ad_placeholder-sidebar-250x250-999700-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-sidebar-300x250-999700-clearholder --><!-- ezoic_ad_placeholder-sidebar-300x250-999700-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-sidebar-336x280-999700-clearholder --><span class="ezoic-grid-wrapper"><!-- ezoic_ad_placeholder-sidebar-336x280-999700-nonexxxclearxxxblock --></span>
+	<div class="entry-content-wrap">
+		<header class="entry-header post-title title-align-inherit title-tablet-align-inherit title-mobile-align-inherit">
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h1 class="entry-title">‘Booty Patrol’ driver caught by Florida deputies</h1><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published updated" datetime="2023-11-06T11:13:53+00:00">November 6, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+
+<div class="entry-content single-content">
+	
+<p>In recent news, Florida deputies have apprehended an individual who was allegedly impersonating a law enforcement officer while driving a Chevy Silverado equipped with red and blue lights. </p><!-- Ezoic - wp_under_page_title - under_page_title --><div id="ezoic-pub-ad-placeholder-126" data-inserter-version="2"></div><!-- End Ezoic - wp_under_page_title - under_page_title -->
+
+
+
+<p>The DeSoto County Sheriff’s Office issued a public warning earlier this week, urging citizens to remain vigilant.</p>
+
+
+
+<p>The distinctive Silverado in question featured conspicuous green decals, some of which prominently displayed the words “Booty Patrol.” This bizarre choice of labeling raised significant concerns and added to the urgency of the situation.</p><!-- Ezoic - wp_under_first_paragraph - under_first_paragraph --><div id="ezoic-pub-ad-placeholder-134" data-inserter-version="2"></div><!-- End Ezoic - wp_under_first_paragraph - under_first_paragraph -->
+
+
+
+<p>Remarkably, just a day before the sheriff’s office made their official Facebook post, DeSoto deputies successfully located the truck and its driver. </p>
+
+
+
+<p>Subsequently, they issued a citation to the individual for violating Florida State Statute 316.2397, which specifically addresses certain prohibited lights on vehicles.</p>
+
+
+
+<p>“We want to emphasize that DCSO located the vehicle on Sunday, and our initial post aimed to raise awareness about this incident, ensuring that the public can avoid being duped by such individuals. We extend our sincere gratitude to everyone who called in with information about the suspicious vehicle, as your continued support is crucial in helping us maintain a safe and secure community for our residents,” Deputies posted on Facebook.</p><!-- Ezoic - wp_under_second_paragraph - under_second_paragraph --><div id="ezoic-pub-ad-placeholder-135" data-inserter-version="2"></div><!-- End Ezoic - wp_under_second_paragraph - under_second_paragraph -->
+</div><!-- .entry-content -->
+<footer class="entry-footer">
+	</footer><!-- .entry-footer -->
+	</div>
+</article><!-- #post-135 -->
+
+
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://inshort.geartape.com/man-arrested-after-bringing-loaded-gun-tactical-vest-to-cafe-i-figured-because-it-was-halloween/" rel="prev"><div class="post-navigation-sub"><small><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-left-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28"><title>Previous</title><path d="M28 12.5v3c0 0.281-0.219 0.5-0.5 0.5h-19.5v3.5c0 0.203-0.109 0.375-0.297 0.453s-0.391 0.047-0.547-0.078l-6-5.469c-0.094-0.094-0.156-0.219-0.156-0.359v0c0-0.141 0.063-0.281 0.156-0.375l6-5.531c0.156-0.141 0.359-0.172 0.547-0.094 0.172 0.078 0.297 0.25 0.297 0.453v3.5h19.5c0.281 0 0.5 0.219 0.5 0.5z"></path>
+				</svg></span>Previous</small></div>Man Arrested After Bringing Loaded Gun, Tactical Vest to Cafe: ‘I Figured Because it was Halloween’</a></div><div class="nav-next"><a href="https://inshort.geartape.com/january-1-florida-man-attack-mcdonalds-employee-over-not-getting-straw/" rel="next"><div class="post-navigation-sub"><small>Next<span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span></small></div>January 1: Florida Man Attack McDonald’s Employee Over Not Getting Straw</a></div></div>
+	</nav>		<div class="entry-related alignfull entry-related-style-wide">
+			<div class="entry-related-inner content-container site-container">
+				<div class="entry-related-inner-content alignwide">
+					<h2 class="entry-related-title">Similar Posts</h2>					<div class="entry-related-carousel kadence-slide-init splide" data-columns-xxl="3" data-columns-xl="3" data-columns-md="3" data-columns-sm="2" data-columns-xs="2" data-columns-ss="1" data-slider-anim-speed="400" data-slider-scroll="1" data-slider-dots="true" data-slider-arrows="true" data-slider-hover-pause="false" data-slider-auto="false" data-slider-speed="7000" data-slider-gutter="40" data-slider-loop="true" data-slider-next-label="Next" data-slider-slide-label="Posts" data-slider-prev-label="Previous">
+						<div class="splide__track">
+							<div class="splide__list grid-cols grid-sm-col-2 grid-lg-col-3">
+								<div class="carousel-item splide__slide">
+<article class="entry content-bg loop-entry post-164 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+			<a class="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://inshort.geartape.com/covid-19-fraudster-used-stolen-relief-aid-to-purchase-a-private-island-in-florida/">
+			<div class="post-thumbnail-inner">
+				<img width="768" height="512" src="https://inshort.geartape.com/wp-content/uploads/2023/11/download-768x512.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="COVID-19 fraudster used stolen relief aid to purchase a private island in Florida" decoding="async" srcset="https://inshort.geartape.com/wp-content/uploads/2023/11/download-768x512.jpeg 768w, https://inshort.geartape.com/wp-content/uploads/2023/11/download-300x200.jpeg 300w, https://inshort.geartape.com/wp-content/uploads/2023/11/download-1024x683.jpeg 1024w, https://inshort.geartape.com/wp-content/uploads/2023/11/download-1536x1024.jpeg 1536w, https://inshort.geartape.com/wp-content/uploads/2023/11/download.jpeg 1600w" sizes="(max-width: 768px) 100vw, 768px"/>			</div>
+		</a><!-- .post-thumbnail -->
+			<div class="entry-content-wrap">
+		<header class="entry-header">
+
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h3 class="entry-title"><a href="https://inshort.geartape.com/covid-19-fraudster-used-stolen-relief-aid-to-purchase-a-private-island-in-florida/" rel="bookmark">COVID-19 fraudster used stolen relief aid to purchase a private island in Florida</a></h3><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published" datetime="2023-11-11T15:13:22+00:00">November 11, 2023</time><time class="updated" datetime="2023-11-11T15:13:23+00:00">November 11, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+	<div class="entry-summary">
+		<p>YANKEETOWN, Florida (AP) — A freshwater spring bubbles amid the mangroves, cabbage palms and red cedars on Sweetheart Island, a two-acre uninhabited patch of paradise about a mile off the coast of this little Gulf Coast town. Pelicans divebomb nearby into the cool waters of Florida’s Withlacoochee Bay and the open view westward holds the…</p>
+	</div><!-- .entry-summary -->
+	<footer class="entry-footer">
+		<div class="entry-actions">
+		<p class="more-link-wrap">
+			<a href="https://inshort.geartape.com/covid-19-fraudster-used-stolen-relief-aid-to-purchase-a-private-island-in-florida/" class="post-more-link">
+				Read More<span class="screen-reader-text"> COVID-19 fraudster used stolen relief aid to purchase a private island in Florida</span><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span>			</a>
+		</p>
+	</div><!-- .entry-actions -->
+	</footer><!-- .entry-footer -->
+	</div>
+</article>
+</div><div class="carousel-item splide__slide">
+<article class="entry content-bg loop-entry post-168 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+			<a class="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://inshort.geartape.com/lion-wanders-streets-of-italian-town-after-escaping-from-circus/">
+			<div class="post-thumbnail-inner">
+				<img width="768" height="461" src="https://inshort.geartape.com/wp-content/uploads/2023/11/480-768x461.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Lion wanders streets of Italian town after escaping from circus" decoding="async" srcset="https://inshort.geartape.com/wp-content/uploads/2023/11/480-768x461.jpg 768w, https://inshort.geartape.com/wp-content/uploads/2023/11/480-300x180.jpg 300w, https://inshort.geartape.com/wp-content/uploads/2023/11/480.jpg 930w" sizes="(max-width: 768px) 100vw, 768px"/>			</div>
+		</a><!-- .post-thumbnail -->
+			<div class="entry-content-wrap">
+		<header class="entry-header">
+
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h3 class="entry-title"><a href="https://inshort.geartape.com/lion-wanders-streets-of-italian-town-after-escaping-from-circus/" rel="bookmark">Lion wanders streets of Italian town after escaping from circus</a></h3><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published" datetime="2023-11-13T12:22:19+00:00">November 13, 2023</time><time class="updated" datetime="2023-11-13T12:22:20+00:00">November 13, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+	<div class="entry-summary">
+		<p>I hope this episode can raise some consciousness, and that we can finally put an end to animal exploitation in circuses,” Grando said in another Facebook post.</p>
+	</div><!-- .entry-summary -->
+	<footer class="entry-footer">
+		<div class="entry-actions">
+		<p class="more-link-wrap">
+			<a href="https://inshort.geartape.com/lion-wanders-streets-of-italian-town-after-escaping-from-circus/" class="post-more-link">
+				Read More<span class="screen-reader-text"> Lion wanders streets of Italian town after escaping from circus</span><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span>			</a>
+		</p>
+	</div><!-- .entry-actions -->
+	</footer><!-- .entry-footer -->
+	</div>
+</article>
+</div><div class="carousel-item splide__slide">
+<article class="entry content-bg loop-entry post-125 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+			<a class="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://inshort.geartape.com/michael-jordan-donates-10m-to-make-a-wish-for-60th-birthday/">
+			<div class="post-thumbnail-inner">
+				<img width="624" height="414" src="https://inshort.geartape.com/wp-content/uploads/2023/10/20231028_092156.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Michael Jordan donates $10M to Make-A-Wish for 60th birthday" decoding="async" loading="lazy" srcset="https://inshort.geartape.com/wp-content/uploads/2023/10/20231028_092156.jpg 624w, https://inshort.geartape.com/wp-content/uploads/2023/10/20231028_092156-300x199.jpg 300w" sizes="(max-width: 624px) 100vw, 624px"/>			</div>
+		</a><!-- .post-thumbnail -->
+			<div class="entry-content-wrap">
+		<header class="entry-header">
+
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h3 class="entry-title"><a href="https://inshort.geartape.com/michael-jordan-donates-10m-to-make-a-wish-for-60th-birthday/" rel="bookmark">Michael Jordan donates $10M to Make-A-Wish for 60th birthday</a></h3><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published" datetime="2023-02-16T03:46:19+00:00">February 16, 2023</time><time class="updated" datetime="2023-10-28T03:52:29+00:00">October 28, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+	<div class="entry-summary">
+		<p>“For the past 34 years, it’s been an honor to partner with Make-A-Wish and help bring a smile and happiness to so many kids,” Jordan said in a news release.</p>
+	</div><!-- .entry-summary -->
+	<footer class="entry-footer">
+		<div class="entry-actions">
+		<p class="more-link-wrap">
+			<a href="https://inshort.geartape.com/michael-jordan-donates-10m-to-make-a-wish-for-60th-birthday/" class="post-more-link">
+				Read More<span class="screen-reader-text"> Michael Jordan donates $10M to Make-A-Wish for 60th birthday</span><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span>			</a>
+		</p>
+	</div><!-- .entry-actions -->
+	</footer><!-- .entry-footer -->
+	</div>
+</article>
+</div><div class="carousel-item splide__slide">
+<article class="entry content-bg loop-entry post-150 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+			<a class="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://inshort.geartape.com/anthropologist-finds-real-human-skull-for-sale-in-florida-thrift-store/">
+			<div class="post-thumbnail-inner">
+				<img width="640" height="480" src="https://inshort.geartape.com/wp-content/uploads/2023/11/C0Xbodtj1CnhvMXyI-mty9Fl1VIgVj9eQlm2adbLjEA.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Anthropologist finds REAL Human Skull for Sale in Florida Thrift Store" decoding="async" loading="lazy" srcset="https://inshort.geartape.com/wp-content/uploads/2023/11/C0Xbodtj1CnhvMXyI-mty9Fl1VIgVj9eQlm2adbLjEA.jpg 640w, https://inshort.geartape.com/wp-content/uploads/2023/11/C0Xbodtj1CnhvMXyI-mty9Fl1VIgVj9eQlm2adbLjEA-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px"/>			</div>
+		</a><!-- .post-thumbnail -->
+			<div class="entry-content-wrap">
+		<header class="entry-header">
+
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h3 class="entry-title"><a href="https://inshort.geartape.com/anthropologist-finds-real-human-skull-for-sale-in-florida-thrift-store/" rel="bookmark">Anthropologist finds REAL Human Skull for Sale in Florida Thrift Store</a></h3><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published" datetime="2023-11-07T14:32:23+00:00">November 7, 2023</time><time class="updated" datetime="2023-11-07T14:32:24+00:00">November 7, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+	<div class="entry-summary">
+		<p>While there is currently no indication of suspicious activity, the police are not taking any chances. </p>
+	</div><!-- .entry-summary -->
+	<footer class="entry-footer">
+		<div class="entry-actions">
+		<p class="more-link-wrap">
+			<a href="https://inshort.geartape.com/anthropologist-finds-real-human-skull-for-sale-in-florida-thrift-store/" class="post-more-link">
+				Read More<span class="screen-reader-text"> Anthropologist finds REAL Human Skull for Sale in Florida Thrift Store</span><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span>			</a>
+		</p>
+	</div><!-- .entry-actions -->
+	</footer><!-- .entry-footer -->
+	</div>
+</article>
+</div><div class="carousel-item splide__slide">
+<article class="entry content-bg loop-entry post-118 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+			<a class="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://inshort.geartape.com/pole-dancing-skeleton-causes-uproar-in-utah-town-not-acceptable/">
+			<div class="post-thumbnail-inner">
+				<img width="412" height="275" src="https://inshort.geartape.com/wp-content/uploads/2023/10/104592854.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="Pole Dancing Skeleton Causes Uproar in Utah Town: ‘Not Acceptable’" decoding="async" loading="lazy" srcset="https://inshort.geartape.com/wp-content/uploads/2023/10/104592854.jpeg 412w, https://inshort.geartape.com/wp-content/uploads/2023/10/104592854-300x200.jpeg 300w" sizes="(max-width: 412px) 100vw, 412px"/>			</div>
+		</a><!-- .post-thumbnail -->
+			<div class="entry-content-wrap">
+		<header class="entry-header">
+
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h3 class="entry-title"><a href="https://inshort.geartape.com/pole-dancing-skeleton-causes-uproar-in-utah-town-not-acceptable/" rel="bookmark">Pole Dancing Skeleton Causes Uproar in Utah Town: ‘Not Acceptable’</a></h3><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published" datetime="2023-10-27T11:52:29+00:00">October 27, 2023</time><time class="updated" datetime="2023-10-27T11:52:41+00:00">October 27, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+	<div class="entry-summary">
+		<p>Fujishin told Fox13, “We look forward to keeping this going and getting a little more elaborate as we go.”</p>
+	</div><!-- .entry-summary -->
+	<footer class="entry-footer">
+		<div class="entry-actions">
+		<p class="more-link-wrap">
+			<a href="https://inshort.geartape.com/pole-dancing-skeleton-causes-uproar-in-utah-town-not-acceptable/" class="post-more-link">
+				Read More<span class="screen-reader-text"> Pole Dancing Skeleton Causes Uproar in Utah Town: ‘Not Acceptable’</span><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span>			</a>
+		</p>
+	</div><!-- .entry-actions -->
+	</footer><!-- .entry-footer -->
+	</div>
+</article>
+</div><div class="carousel-item splide__slide">
+<article class="entry content-bg loop-entry post-159 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+			<a class="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://inshort.geartape.com/man-found-with-5-alligators-living-in-his-bathtub/">
+			<div class="post-thumbnail-inner">
+				<img width="768" height="432" src="https://inshort.geartape.com/wp-content/uploads/2023/11/654d0a837be84766c1f922ed.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="Man Found With 5 Alligators Living in His Bathtub" decoding="async" loading="lazy" srcset="https://inshort.geartape.com/wp-content/uploads/2023/11/654d0a837be84766c1f922ed.jpeg 768w, https://inshort.geartape.com/wp-content/uploads/2023/11/654d0a837be84766c1f922ed-300x169.jpeg 300w" sizes="(max-width: 768px) 100vw, 768px"/>			</div>
+		</a><!-- .post-thumbnail -->
+			<div class="entry-content-wrap">
+		<header class="entry-header">
+
+			<div class="entry-taxonomies">
+			<span class="category-links term-links category-style-normal">
+				<a href="https://inshort.geartape.com/category/news/" rel="tag">News</a>			</span>
+		</div><!-- .entry-taxonomies -->
+		<h3 class="entry-title"><a href="https://inshort.geartape.com/man-found-with-5-alligators-living-in-his-bathtub/" rel="bookmark">Man Found With 5 Alligators Living in His Bathtub</a></h3><div class="entry-meta entry-meta-divider-dot">
+	<span class="posted-by"><span class="meta-label">By</span><span class="author vcard"><a class="url fn n" href="https://inshort.geartape.com">Newsdesk</a></span></span>					<span class="posted-on">
+						<time class="entry-date published" datetime="2023-11-10T14:59:04+00:00">November 10, 2023</time><time class="updated" datetime="2023-11-10T15:01:17+00:00">November 10, 2023</time>					</span>
+					</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+	<div class="entry-summary">
+		<p>The confiscated alligators were released into Lake Tohopekaliga, as reported by media outlets.</p>
+	</div><!-- .entry-summary -->
+	<footer class="entry-footer">
+		<div class="entry-actions">
+		<p class="more-link-wrap">
+			<a href="https://inshort.geartape.com/man-found-with-5-alligators-living-in-his-bathtub/" class="post-more-link">
+				Read More<span class="screen-reader-text"> Man Found With 5 Alligators Living in His Bathtub</span><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-right-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><title>Continue</title><path d="M27 13.953c0 0.141-0.063 0.281-0.156 0.375l-6 5.531c-0.156 0.141-0.359 0.172-0.547 0.094-0.172-0.078-0.297-0.25-0.297-0.453v-3.5h-19.5c-0.281 0-0.5-0.219-0.5-0.5v-3c0-0.281 0.219-0.5 0.5-0.5h19.5v-3.5c0-0.203 0.109-0.375 0.297-0.453s0.391-0.047 0.547 0.078l6 5.469c0.094 0.094 0.156 0.219 0.156 0.359v0z"></path>
+				</svg></span>			</a>
+		</p>
+	</div><!-- .entry-actions -->
+	</footer><!-- .entry-footer -->
+	</div>
+</article>
+</div>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- .entry-author -->
+		<div id="comments" class="comments-area">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/booty-patrol-driver-caught-by-florida-deputies/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://inshort.geartape.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment comment-form-float-label"><textarea id="comment" name="comment" placeholder="Leave a comment..." cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea><label class="float-label" for="comment">Comment <span class="required">*</span></label></p><div class="comment-input-wrap has-url-field"><p class="comment-form-author"><input aria-label="Name" id="author" name="author" type="text" placeholder="John Doe" value="" size="30" maxlength="245" aria-required="true" required="required"/><label class="float-label" for="author">Name <span class="required">*</span></label></p>
+<p class="comment-form-email"><input aria-label="Email" id="email" name="email" type="email" placeholder="john@example.com" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required="true" required="required"/><label class="float-label" for="email">Email <span class="required">*</span></label></p>
+<p class="comment-form-url"><input aria-label="Website" id="url" name="url" type="url" placeholder="https://www.example.com" value="" size="30" maxlength="200"/><label class="float-label" for="url">Website</label></p></div>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"/> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"/> <input type="hidden" name="comment_post_ID" value="135" id="comment_post_ID"/>
+<input type="hidden" name="comment_parent" id="comment_parent" value="0"/>
+</p></form>	</div><!-- #respond -->
+	</div><!-- #comments -->
+			</div>
+					</main><!-- #main -->
+			</div>
+</div><!-- #primary -->
+	</div><!-- #inner-wrap -->
+	<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="site-footer-wrap">
+		<div class="site-bottom-footer-wrap site-footer-row-container site-footer-focus-item site-footer-row-layout-standard site-footer-row-tablet-layout-default site-footer-row-mobile-layout-default" data-section="kadence_customizer_footer_bottom">
+	<div class="site-footer-row-container-inner">
+				<div class="site-container">
+			<div class="site-bottom-footer-inner-wrap site-footer-row site-footer-row-columns-1 site-footer-row-column-layout-row site-footer-row-tablet-column-layout-default site-footer-row-mobile-column-layout-row ft-ro-dir-row ft-ro-collapse-normal ft-ro-t-dir-default ft-ro-m-dir-default ft-ro-lstyle-plain">
+									<div class="site-footer-bottom-section-1 site-footer-section footer-section-inner-items-1">
+						
+<div class="footer-widget-area site-info site-footer-focus-item content-align-default content-tablet-align-default content-mobile-align-default content-valign-default content-tablet-valign-default content-mobile-valign-default" data-section="kadence_customizer_footer_html">
+	<div class="footer-widget-area-inner site-info-inner">
+		<div class="footer-html inner-link-style-normal"><div class="footer-html-inner"><p><a href="https://inshort.geartape.com/index.php/about-us/">About Us</a>  <a href="https://inshort.geartape.com/index.php/contact-us/">Contact Us</a>  <a href="https://inshort.geartape.com/index.php/privacy-policy/">Privacy Policy</a></p>
+<p>© 2023 Inshort</p>
+</div></div>	</div>
+</div><!-- .site-info -->
+					</div>
+								</div>
+		</div>
+	</div>
+</div>
+	</div>
+</footer><!-- #colophon -->
+
+</div><span class="ezoic-autoinsert-ad ezoic-top_of_page"></span><!-- ezoic_ad_placeholder-top_of_page-728x90-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-728x90-999900-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-top_of_page-468x80-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-468x80-999900-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-top_of_page-250x250-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-250x250-999900-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-top_of_page-300x250-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-300x250-999900-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-top_of_page-336x280-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-336x280-999900-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-top_of_page-970x250-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-970x250-999900-nonexxxclearxxxblock --><!-- ezoic_ad_placeholder-top_of_page-970x90-999900-clearholder --><!-- ezoic_ad_placeholder-top_of_page-970x90-999900-nonexxxclearxxxblock --><!-- #wrapper -->
+
+			<script>document.documentElement.style.setProperty('--scrollbar-offset', window.innerWidth - document.documentElement.clientWidth + 'px' );</script>
+			<a rel="nofollow" style="display:none" href="https://inshort.geartape.com/?blackhole=a537ff6c83" title="Do NOT follow this link or you will be banned from the site!">Inshort</a>
+<!-- Ezoic - wp_native_bottom - native_bottom --><div id="ezoic-pub-ad-placeholder-187" data-inserter-version="-1"></div><!-- End Ezoic - wp_native_bottom - native_bottom -->	<div id="mobile-drawer" class="popup-drawer popup-drawer-layout-sidepanel popup-drawer-animation-fade popup-drawer-side-right" data-drawer-target-string="#mobile-drawer">
+		<div class="drawer-overlay" data-drawer-target-string="#mobile-drawer"></div>
+		<div class="drawer-inner">
+						<div class="drawer-header">
+				<button class="menu-toggle-close drawer-toggle" aria-label="Close menu" data-toggle-target="#mobile-drawer" data-toggle-body-class="showing-popup-drawer-from-right" aria-expanded="false" data-set-focus=".menu-toggle-open">
+					<span class="toggle-close-bar"></span>
+					<span class="toggle-close-bar"></span>
+				</button>
+			</div>
+			<div class="drawer-content mobile-drawer-content content-align-left content-valign-top">
+								<div class="site-header-item site-header-focus-item site-header-item-mobile-navigation mobile-navigation-layout-stretch-false" data-section="kadence_customizer_mobile_navigation">
+		<nav id="mobile-site-navigation" class="mobile-navigation drawer-navigation drawer-navigation-parent-toggle-false" role="navigation" aria-label="Primary Mobile Navigation">
+				<div class="mobile-menu-container drawer-menu-container">
+			<ul id="mobile-menu" class="menu has-collapse-sub-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-31"><a href="https://inshort.geartape.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-87"><a href="https://inshort.geartape.com/category/quotes/">Quotes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://inshort.geartape.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://inshort.geartape.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-32"><a rel="privacy-policy" href="https://inshort.geartape.com/privacy-policy/">Privacy Policy</a></li>
+</ul>		</div>
+	</nav><!-- #site-navigation -->
+	</div><!-- data-section="mobile_navigation" -->
+							</div>
+		</div>
+	</div>
+	<script src="https://inshort.geartape.com/wp-includes/js/comment-reply.min.js?ver=6.4.1" id="comment-reply-js" async="" data-wp-strategy="async"></script>
+<script id="kadence-navigation-js-extra">
+var kadenceConfig = {"screenReader":{"expand":"Child menu","expandOf":"Child menu of","collapse":"Child menu","collapseOf":"Child menu of"},"breakPoints":{"desktop":"1024","tablet":768},"scrollOffset":"0"};
+</script>
+<script src="https://inshort.geartape.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.1.49" id="kadence-navigation-js" async=""></script>
+<script src="https://inshort.geartape.com/wp-content/themes/kadence/assets/js/splide.min.js?ver=1.1.49" id="kad-splide-js" async=""></script>
+<script id="kadence-slide-init-js-extra">
+var kadenceSlideConfig = {"of":"of","to":"to","slide":"Slide","next":"Next","prev":"Previous"};
+</script>
+<script src="https://inshort.geartape.com/wp-content/themes/kadence/assets/js/splide-init.min.js?ver=1.1.49" id="kadence-slide-init-js" async=""></script>
+
+
+
+
+<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span id="ezoic-pub-ad-placeholder-100"></span><!-- ezoic_pub_ad_placeholder-100-bottom_floating-728x90-100-nonexxxnonexxxxxxezmaxscaleval100 --><!-- ezoic_pub_ad_placeholder-100-bottom_floating-970x90-100-nonexxxnonexxxxxxezmaxscaleval100 --><span class="ezmob-footer-close-wrap" id="ezmob-footer-close" style="display: none;"><span class="ezmob-footer-close" onclick="__ez_close_anchor()" title="close"></span><span class="ezoicwhat"><img src="https://go.ezodn.com/utilcave_com/ezoic.png" title="ezoic" class="ezmob-anchor-img"/></span></span></center></div><div id="ez-sidebar-wall-left" class="ez-sidebar-wall" style="left: 0px;">
+	<div class="ez-sidebar-wall-ad">
+		<span id="ezoic-pub-ad-placeholder-975"></span><!-- ezoic_pub_ad_placeholder-975-edge-160x600-975-nonexxxnonexxxxxxezmaxscaleval100 -->
+		<span class="ez-rail-close" id="ez-rail-close-left" style="top: -21px; left: 0; display: none;" onclick="__ez_close_rail(this.parentElement.parentElement.id)">x</span>
+	</div>
+</div><div id="ez-sidebar-wall-right" class="ez-sidebar-wall" style="right: 0px;">
+	<div class="ez-sidebar-wall-ad">
+		<span id="ezoic-pub-ad-placeholder-976"></span><!-- ezoic_pub_ad_placeholder-976-edge_2-160x600-976-nonexxxnonexxxxxxezmaxscaleval100 -->
+		<span class="ez-rail-close" id="ez-rail-close-right" style="top: -21px; right: 0; display: none;" onclick="__ez_close_rail(this.parentElement.parentElement.id)">x</span>
+	</div>
+</div><script async src="https://g.ezodn.com/cmp/v2/v.js?v=4"></script><script>(function(){if(typeof document.body==='undefined'||document.body===null){return;}
+var attachEvent=function(element,evt,func){if(element.addEventListener){element.addEventListener(evt,func,false);}else{element.attachEvent("on"+evt,func);}};attachEvent(document.body,"ezVigImpression",function(e){if(typeof(_ezaq)!=="undefined"&&typeof e==="object"){__ez.pel.AddAndFire(e.slot,[(new __ezDotData(e.key,e.value))]);}});})();</script><script>window.__ez_vig_close_wrapper=function(closeFunc,urlAddition){closeFunc();var vc={"enabled":false,"useVignetteLoader":true,"fireEventName":"ezVigImpression","impressionSource":"anchor","urlAddition":"utm_content=anc-true","disableFloor":true,"eventHandlerTest":false};if(typeof urlAddition=='string'){vc.urlAddition=urlAddition;}
+var v=newEzVignette(vc);v.handleClick();};</script>
+<script>__ez.queue.addFile('/tardisrocinante/vitals.js', '/tardisrocinante/vitals.js?gcb=0&cb=3', false, ['/parsonsmaize/mulvane.js'], true, false, true, false);</script>
+<script>var _audins_dom="geartape_com",_audins_did=316356;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezodn.com/detroitchicago/audins.js?cb=195-0");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.geartape_com,DomainId.316356" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+<script>__ez.queue.addFile('/beardeddragon/drake.js', '/beardeddragon/drake.js?gcb=0&cb=6', false, [], true, false, true, false);</script>
+<script type="text/javascript" style='display:none;'>var __ez_dims = (function() {
+		var setCookie = function( name, content, expiry ) {
+			return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+		};
+		var ffid = 1;
+		var oh = window.screen.height;
+		var ow = window.screen.width;
+		var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+		var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+		var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+		var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+		setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+		setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+	})();</script>
+<script type='text/javascript' style='display:none;' async>__ez.queue.addFile('/parsonsmaize/chanute.js', '/parsonsmaize/chanute.js?a=a&cb=7&dcb=195-0&shcb=34', true, ['/parsonsmaize/mulvane.js'], true, false, false, false);</script>
+<script type='text/javascript' style='display:none;' async>__ez.queue.addFile('/porpoiseant/jellyfish.js', '/porpoiseant/jellyfish.js?a=a&cb=11&dcb=195-0&shcb=34', false, [], true, false, false, false);</script></body></html><!-- Page cached by LiteSpeed Cache 5.7.0.1 on 2023-11-18 21:01:47 -->

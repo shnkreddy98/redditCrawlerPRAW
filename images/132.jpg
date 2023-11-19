@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<!--iOS/android/handheld specific -->	
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!-- <link rel="stylesheet" type="text/css" media="all" href="https://www.mambaonline.com/wp-content/themes/glamour/style.css" /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/88igsfef/60h0x.css" media="all"/>
+<link rel="pingback" href="https://www.mambaonline.com/xmlrpc.php" />
+<link rel="prefetch" href="https://www.mambaonline.com">
+<link rel="prerender" href="https://www.mambaonline.com">
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--start fonts-->
+<link href="https://fonts.googleapis.com/css?family=Open Sans:400,700" rel="stylesheet" type="text/css">
+<style type="text/css">
+.title, h1,h2,h3,h4,h5,h6, .flex-caption .sliderTitle, .classtitle { font-family: 'Open Sans', sans-serif;}
+</style>
+<!--end fonts-->
+<style type="text/css">
+body {background-color:#FFFFFF;}
+body {background-image:url(https://www.mambaonline.com/wp-content/themes/glamour/images/nobg.png);}
+.sbutton, .readMore a, .flex-caption .sliderTitle, .secondary-navigation li.current-menu-item a, .secondary-navigation a:hover, #navigation ul li li, .sfHover a, #commentform input#submit, #cancel-comment-reply-link, .mts-subscribe input[type="submit"], .classtitle {background-color:#92AA2E;}
+.single_post a, a:hover, #logo a, .textwidget a:hover, #commentform a, #copyright-note a:hover, .widget h3, .post-info a, .fn a, footer .widget li a:hover, .widget li a:hover, a, h2.post-heading span, h2.post-heading-span span, .related-posts li a:hover, .home .post-content a:hover, .archive .post-content a:hover, .page-template-latest-posts-php .post-content a:hover {color:#92AA2E; }
+.flex-control-nav li:hover, .flex-control-nav li.flex-active {border:2px solid #92AA2E;}
+.bypostauthor .avatar img {
+border: 1px solid black!important;
+}
+div.post-single-content img {
+margin:10px;
+/*
+max-width: 440px;
+max-height:640px;
+*/
+}
+.main_text_red {
+color:#880000
+}
+.post-single-content {
+float:left;
+width:98%
+}
+.submenu {
+margin-top: 50px;
+height: 25px;
+}
+.submenu ul {
+width: 1040px;
+margin:0px auto;
+padding:0px;
+list-style-type:none;
+}
+.submenu li {
+float:left;
+padding:3px 12px;
+font: bold 13px Arial, Helvetica, sans-serif;
+background-color:#fff;
+border:1px solid #eee;
+margin-right:-1px;
+margin-top:-1px
+}
+.submenu li:hover {
+background-color:#ABBD5E;
+}
+.submenu li  a:hover {
+text-decoration:underline;
+color:#ffffff;
+}
+.mwm-aal-container {
+border:0 none none !important
+}
+.mwm-aal-container ul, .mwm-aal-container ol {
+margin:0 !important;
+padding:0 !important;
+overflow:hidden;
+list-style-type:none;
+}
+.mwm-aal-container ul li, mwm-aal-container ol li {
+float:left !important;
+padding:2px 20px 2px 0px !important;
+display:block;
+}
+.mwm-aal-container ul li a, mwm-aal-container ol li a {
+font:14px Arial, Helvetica, sans-serif
+}
+.mwm-aal-container ul li a:hover, mwm-aal-container ol li a:hover {
+text-decoration:underline
+}
+.zoombini {
+display:none
+}
+.mwm-aal-container ul li+li:before {
+content: ' |     ';
+}
+.main_pq {
+color: rgb(153, 153, 102);
+font-family: 'Rokkitt', serif;
+font-size: 24px;
+font-weight:bold;
+display: block;
+float: left;
+width: 220px;
+padding: 10px;
+margin-right:25px;
+margin-bottom: 25px
+}
+.sliderTitle {
+background-color:#92AA2E !important;
+}
+/*
+.post-content {
+min-height: 118px !important;
+max-height: 118px !important;
+border-bottom: 1px solid #ccc;
+}*/
+.post-content .image-caption-format-1 {
+max-height:120px !important
+}
+.form-allowed-tags {
+border:1px solid #ccc;
+padding:5px;
+font:9px Arial, Helvetica, sans-serif;
+background-color: #eee;
+margin-top: -14px
+}
+#respond textarea {
+height:80px !important;
+}
+.hotspot {
+clear:both;
+overflow:auto;
+margin-bottom: 15px
+}
+.hotspot img {
+margin:0 5px 0 0;
+max-width:70px
+}
+div#header div.content h1#logo, div#header div.content h2#logo {
+text-indent:-999px;
+background-image:url('https://www.mambaonline.com/images/mamba_logo.png');
+width: 273px;
+height: auto;
+background-repeat:no-repeat;
+background-size:contain;
+}
+.post.excerpt {
+height: 258px;
+}
+.social4i {
+display:inline-block;
+width:200px;
+float:left
+}
+.instaemail {
+display: inline-block !important;
+margin-left: 0px;
+margin-right: 0px;
+text-align: center;
+float:none
+}
+.instaemail:after {
+content:'';
+display:block;
+clear: both;
+}
+ul.sidebar_list li.widget.widget-sidebar h3 span a, ul.sidebar_list li.widget.widget-sidebar h3 span {
+line-height:26px !important;
+}
+.widget-sidebar:nth-child(2) span {
+line-height:26px !important;
+}
+div.addeventatc {
+height:16px !important;
+}
+@media only screen and (min-width: 1px) and (max-width:700px) {
+.wide-only {
+display: none !important;
+}
+.narrow-only {
+display: block !important;
+}	
+}
+@media only screen and (min-width: 701px) {
+.wide-only {
+display: block !important;
+}
+.narrow-only {
+display: none !important;
+}	
+}
+div.post-single-content img {
+height: auto !important;
+}
+div[id^=gpt-ad] {
+margin: 0 auto;
+}</style>
+<link href='https://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>	<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/superpwa-manifest.json">
+<link rel="prefetch" href="/superpwa-manifest.json">
+<meta name="theme-color" content="#ffffff">
+<!-- / SuperPWA.com -->
+<!--||  JM Twitter Cards by jmau111 v12  ||-->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@Mambaonline">
+<meta name="twitter:site" content="@Mambaonline">
+<meta name="twitter:title" content="Huge victory for LGBTIQ+ rights in Mauritius">
+<meta name="twitter:description" content="In a landmark ruling, the Supreme Court of Mauritius has declared the country&#039;s colonial-era ban on same-sex intimacy un-African and unconstitutional.">
+<meta name="twitter:image" content="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg">
+<!--||  /JM Twitter Cards by jmau111 v12  ||-->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Huge victory for LGBTIQ+ rights in Mauritius" />
+<meta property="og:description" content="In a landmark ruling, the Supreme Court of Mauritius has declared the country&#039;s colonial-era ban on same-sex intimacy un-African and unconstitutional." />
+<meta property="og:url" content="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" />
+<meta property="og:site_name" content="MambaOnline - Gay South Africa online" />
+<meta property="article:section" content="HEADLINES" />
+<meta property="article:published_time" content="2023-10-04T17:30:05+02:00" />
+<meta property="article:modified_time" content="2023-10-04T17:50:02+02:00" />
+<meta property="og:updated_time" content="2023-10-04T17:50:02+02:00" />
+<meta property="og:image" content="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg" />
+<meta property="og:image:secure_url" content="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg" />
+<!-- This site is optimized with the Yoast SEO plugin v21.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Huge victory for LGBTIQ+ rights in Mauritius - MambaOnline - Gay South Africa online</title>
+<meta name="description" content="In a landmark ruling, the Supreme Court of Mauritius has declared the country&#039;s ban on same-sex intimacy un-African and unconstitutional." />
+<link rel="canonical" href="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Huge victory for LGBTIQ+ rights in Mauritius - MambaOnline - Gay South Africa online" />
+<meta property="og:description" content="In a landmark ruling, the Supreme Court of Mauritius has declared the country&#039;s ban on same-sex intimacy un-African and unconstitutional." />
+<meta property="og:url" content="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" />
+<meta property="og:site_name" content="MambaOnline - Gay South Africa online" />
+<meta property="article:published_time" content="2023-10-04T15:30:05+00:00" />
+<meta property="article:modified_time" content="2023-10-04T15:50:02+00:00" />
+<meta property="og:image" content="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="Roberto Igual" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Roberto Igual" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="3 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/","url":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/","name":"Huge victory for LGBTIQ+ rights in Mauritius - MambaOnline - Gay South Africa online","isPartOf":{"@id":"https://www.mambaonline.com/#website"},"primaryImageOfPage":{"@id":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/#primaryimage"},"image":{"@id":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/#primaryimage"},"thumbnailUrl":"https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg","datePublished":"2023-10-04T15:30:05+00:00","dateModified":"2023-10-04T15:50:02+00:00","author":{"@id":"https://www.mambaonline.com/#/schema/person/a03a015dd1b880fb43f7d2cce28dfa46"},"description":"In a landmark ruling, the Supreme Court of Mauritius has declared the country's ban on same-sex intimacy un-African and unconstitutional.","breadcrumb":{"@id":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/#primaryimage","url":"https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg","contentUrl":"https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg","width":1200,"height":600,"caption":"Mauritius Pride 2018 (Pic: Herb Klein)"},{"@type":"BreadcrumbList","@id":"https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.mambaonline.com/"},{"@type":"ListItem","position":2,"name":"Huge victory for LGBTIQ+ rights in Mauritius"}]},{"@type":"WebSite","@id":"https://www.mambaonline.com/#website","url":"https://www.mambaonline.com/","name":"MambaOnline - Gay South Africa online","description":"The most popular gay South Africa news and lifestyle website","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.mambaonline.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.mambaonline.com/#/schema/person/a03a015dd1b880fb43f7d2cce28dfa46","name":"Roberto Igual","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.mambaonline.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/d9217b773c6dbd7f672d596b93e4a435?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/d9217b773c6dbd7f672d596b93e4a435?s=96&d=mm&r=g","caption":"Roberto Igual"},"description":"Roberto is a writer, content creator and would-be novelist who's passionate about equality, justice and freedom.","url":"https://www.mambaonline.com/author/roberto-igual/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//code.responsivevoice.org' />
+<link rel="alternate" type="application/rss+xml" title="MambaOnline - Gay South Africa online &raquo; Feed" href="https://www.mambaonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MambaOnline - Gay South Africa online &raquo; Comments Feed" href="https://www.mambaonline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MambaOnline - Gay South Africa online &raquo; Huge victory for LGBTIQ+ rights in Mauritius Comments Feed" href="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mambaonline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 0.07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery-style-css' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://www.mambaonline.com/wp-includes/css/dist/block-library/style.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/epfpj8qy/60h0x.css" media="all"/>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='contact-form-7-css' href='https://www.mambaonline.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='collapscore-css-css' href='https://www.mambaonline.com/wp-content/plugins/jquery-collapse-o-matic/css/core_style.css?ver=1.0' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/7wn81m1g/60h0x.css" media="all"/>
+<style id='collapscore-css-inline-css' type='text/css'>
+.collapseomatic {
+display:block
+}
+</style>
+<!-- <link rel='stylesheet' id='collapseomatic-css-css' href='https://www.mambaonline.com/wp-content/plugins/jquery-collapse-o-matic/css/light_style.css?ver=1.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='dashicons-css' href='https://www.mambaonline.com/wp-includes/css/dashicons.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='post-views-counter-frontend-css' href='https://www.mambaonline.com/wp-content/plugins/post-views-counter/css/frontend.min.css?ver=1.3.13' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='rv-style-css' href='https://www.mambaonline.com/wp-content/plugins/responsivevoice-text-to-speech/includes/css/responsivevoice.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='searchandfilter-css' href='https://www.mambaonline.com/wp-content/plugins/search-filter/style.css?ver=1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-polls-css' href='https://www.mambaonline.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/d4tvovmk/60h0x.css" media="all"/>
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+margin: 1px;
+font-size: 6px;
+line-height: 8px;
+height: 8px;
+background-image: url('https://www.mambaonline.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+border: 1px solid #c8c8c8;
+}
+</style>
+<!-- <link rel='stylesheet' id='ppress-frontend-css' href='https://www.mambaonline.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.13.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ppress-flatpickr-css' href='https://www.mambaonline.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.13.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ppress-select2-css' href='https://www.mambaonline.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/df1fv2es/60h0x.css" media="all"/>
+<!-- <link rel='stylesheet' id='NextGEN-css' href='https://www.mambaonline.com/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/jr2vios1/60h0x.css" media="screen"/>
+<!-- <link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://www.mambaonline.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.3.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-biographia-bio-css' href='https://www.mambaonline.com/wp-content/plugins/wp-biographia/public/css/wp-biographia.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='newsletter-css' href='https://www.mambaonline.com/wp-content/plugins/newsletter/style.css?ver=7.9.8' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/d7q3wear/60h0y.css" media="all"/>
+<!-- <link rel='stylesheet' id='fancybox-css' href='https://www.mambaonline.com/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/3096yecz/60h0x.css" media="screen"/>
+<!-- <link rel='stylesheet' id='subscribe-forms-css-css' href='https://www.mambaonline.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.css?ver=9.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='click2tweet-css-css' href='https://www.mambaonline.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/click-to-tweet.min.css?ver=9.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='easy-social-share-buttons-css' href='https://www.mambaonline.com/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=9.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/7kj715p5/60h0x.css" media="all"/>
+<style id='easy-social-share-buttons-inline-css' type='text/css'>
+.essb-mobile-sharepoint{opacity:1!important;}
+</style>
+<!-- <link rel='stylesheet' id='MWM-AAL-FRONT-CSS-css' href='https://www.mambaonline.com/wp-content/plugins/better-anchor-links/css/mwm-aal.css?ver=1.2.0' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/dj186n2y/60h0x.css" media="screen"/>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.7.1' id='jquery-js'></script>
+<script id="collapseomatic-js-js-before" type="text/javascript">
+const com_options = {"colomatduration":"fast","colomatslideEffect":"slideFade","colomatpauseInit":"","colomattouchstart":""}
+</script>
+<script src='//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/qgx0n5h/60h0x.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.7.2' id='collapseomatic-js-js'></script> -->
+<script type='text/javascript' src='https://code.responsivevoice.org/1.8.3/responsivevoice.js?source=wp-plugin&#038;key=3L91IMaB&#038;ver=6.3.2' id='responsive-voice-js'></script>
+<script src='//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/ertq9jg/60h0x.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wp-Content-Accordion-master/js/accordion.js?ver=0.1' id='PF_Content_Accordion_JS-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.13.4' id='ppress-flatpickr-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.13.4' id='ppress-select2-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995' id='jquery-cycle-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06' id='ngg-slideshow-js'></script> -->
+<script id="wpp-json" type="application/json">
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.mambaonline.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/www.mambaonline.com\/wp-json\/wordpress-popular-posts","ID":114150,"token":"7d76d715ef","lang":0,"debug":0}
+</script>
+<script src='//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/fh3vioh7/60h0x.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.3.3' id='wpp-js-js'></script> -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=1.8.16' id='jquery-ui-js'></script>
+<script src='//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/brn7sy7/60h0x.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/themes/glamour/js/modernizr.min.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5' id='modernizr-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.mambaonline.com/wp-content/themes/glamour/js/customscript.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5' id='customscript-js'></script> -->
+<link rel="https://api.w.org/" href="https://www.mambaonline.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.mambaonline.com/wp-json/wp/v2/posts/114150" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mambaonline.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.mambaonline.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.mambaonline.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&#038;format=xml" />
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+googletag.cmd.push(function() {
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+<style type="text/css">
+div.image-caption-format-1 div {
+display:none !important
+}
+</style>
+<!-- AddEvent -->
+<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<link rel="alternate" href="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" hreflang="x-default" /><!-- <meta name="NextGEN" version="1.9.12" /> -->
+<style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","essb3_nonce":"6cc2947b21","essb3_plugin_url":"https:\/\/www.mambaonline.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_ntg":false,"blog_url":"https:\/\/www.mambaonline.com\/","post_id":"114150"};</script>
+<!-- Google Universal Analytics for WordPress v2.4.3 -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-495923-1', 'auto');
+ga('require', 'linkid', 'linkid.js');
+ga('set', 'forceSSL', true);
+ga('send', 'pageview');
+</script>
+<!-- Google Universal Analytics for WordPress v2.4.3 - https://wordpress.org/plugins/google-universal-analytics -->
+<script type="text/javascript">
+jQuery(document).ready(function(e) {
+jQuery('a').click(function(e) {
+var $this = jQuery(this);
+var href = $this.prop('href').split('?')[0];
+var ext = href.split('.').pop();
+if ('xls,xlsx,doc,docx,ppt,pot,pptx,pdf,pub,txt,zip,rar,tar,7z,gz,exe,wma,mov,avi,wmv,wav,mp3,midi,csv,tsv,jar,psd,pdn,ai,pez,wwf,torrent,cbr'.split(',').indexOf(ext) !== -1) {		
+ga('send', 'event', 'Download', ext, href);
+}
+if (href.toLowerCase().indexOf('mailto:') === 0) {
+ga('send', 'event', 'Mailto', href.substr(7));
+}
+if (href.toLowerCase().indexOf('tel:') === 0) {
+ga('send', 'event', 'Phone number', href.substr(4));
+}
+if ((this.protocol === 'http:' || this.protocol === 'https:') && this.hostname.indexOf(document.location.hostname) === -1) {
+ga('send', 'event', 'Outbound', this.hostname, this.pathname);
+}
+});
+});
+</script>
+<meta name="onesignal" content="wordpress-plugin"/>
+<script>
+window.OneSignal = window.OneSignal || [];
+OneSignal.push( function() {
+OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+OneSignal.setDefaultNotificationUrl("https://www.mambaonline.com");
+var oneSignal_options = {};
+window._oneSignalInitOptions = oneSignal_options;
+oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '99485902-ef97-4797-af3d-db6e245e1a56';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.mambaonline.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+OneSignal.init(window._oneSignalInitOptions);
+OneSignal.showSlidedownPrompt();      });
+function documentInitOneSignal() {
+var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+}
+if (document.readyState === 'complete') {
+documentInitOneSignal();
+}
+else {
+window.addEventListener("load", function(event){
+documentInitOneSignal();
+});
+}
+</script>
+<link rel="icon" href="https://www.mambaonline.com/wp-content/uploads/2020/02/cropped-mamba_logo_output-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.mambaonline.com/wp-content/uploads/2020/02/cropped-mamba_logo_output-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.mambaonline.com/wp-content/uploads/2020/02/cropped-mamba_logo_output-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.mambaonline.com/wp-content/uploads/2020/02/cropped-mamba_logo_output-270x270.png" />
+<style type="text/css" id="wp-custom-css">
+/*
+You can add your own CSS here.
+Click the help icon above to learn more.
+*/
+div.single_post h2 {
+margin-bottom:20px !important;
+}
+.post-single-content > p:first-of-type > img:first-of-type {
+width: 100%;
+height: auto;
+}
+.post-single-content div.essb_links + div {
+width: 100% !important;
+}
+.post-single-content div.essb_links + div > img {
+width:95% !important;
+height:auto
+}
+.post-single-content p {
+font-size: 16px;
+}
+div.post-single-content p.wp-caption-text em {
+font-size: 13px !important;
+color: #999;
+margin-bottom: 5px;
+line-height: 0px;
+}
+.post-single-content .wp-caption-text {
+font-size: 12px !important;
+color: #888;
+margin-bottom: 5px;
+}
+@media screen and (max-width: 480px) {
+#logocontainer {
+display: block;
+float: left;
+width: 100% !important;
+height: 120px !important;
+}
+}
+@media screen and (max-width: 699px) {
+div.post-single-content div[id^='div-gpt-ad']  {
+display:inherit;
+margin: 0 auto;
+}
+div.post-single-content img {
+max-width: 100%;
+}
+.narrow-only {
+display:block;
+}
+.wide-only {
+display: none;
+}
+}
+@media screen and (min-width: 700px) {
+div.post-single-content div[id^='div-gpt-ad']  {
+display:none !important;
+}
+.narrow-only {
+display:none;
+}
+.wide-only {
+display: block;
+}
+}
+div.wp-biographia-widget img {
+float:left;
+margin-right: 12px;
+margin-bottom:2px;
+}
+form#polls_form_26 p,  form#polls_form_26 ul, form#polls_form_26 li {
+font-family:Arial, Helvetica, sans-serif;
+}
+#logocontainer {
+display:block; 
+float:left; 
+width:26%; 
+height:100px; 
+background-image: url('https://www.mambaonline.com/images/mamba_logo.png'); 
+background-repeat: no-repeat; 
+background-size: contain;
+background-position: center center;
+}
+#sliderBox {
+padding: 0;
+}
+.article ul {
+font-size: 16px;
+}
+.advertorial-notice {
+font-size: 15px;
+font-weight: 600 !important;
+color: #fff !important;
+background-color: #92AA2E;
+margin-bottom: 17px;
+padding: 5px 12px;
+display:none;
+}
+.tag-advertorial .advertorial-notice {
+display: block !important;
+}
+.advertorialtext {
+font-size: 11px;
+display:inline;
+font-weight:600;
+}
+.post-single-content ul > li {
+margin-bottom: 1em;
+}
+.grecaptcha-badge { 
+visibility: hidden;
+}
+#sliderBox {
+margin-bottom: 10px;
+}
+.menu-donate a {
+color:#92aa2e;
+font-weight:600
+}
+#galheader {
+display:none;
+}		</style>
+</head>
+<body data-rsssl=1 id ="blog" class="post-template-default single single-post postid-114150 single-format-standard main multiple-domain-www-mambaonline-com cat-11-id essb-9.2 elementor-default elementor-kit-104565">
+<header class="main-header">
+<div class="container">
+<div id="header">
+<div class="content">
+<a href="/" id="logocontainer"></a>
+<li class="widget widget-header"><!--Ad Injection:widget_5--><script>
+googletag.cmd.push(function() {
+var mapLeader = googletag.sizeMapping().
+addSize([480, 200], [320, 50]).
+addSize([768, 200], [728, 90]).
+build();
+window.LeaderSlot= googletag.defineSlot('/11190194/MWP_NEW_HEADER_ROS', [320,50], 'div-gpt-ad-1508319297456-0').
+defineSizeMapping(mapLeader).
+addService(googletag.pubads());
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_NEW_HEADER_ROS -->
+<div id='div-gpt-ad-1508319297456-0' style="margin:2px auto; text-align:center">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508319297456-0'); });
+</script>
+</li>                </div>
+<div class="secondary-navigation">
+<nav id="navigation" >
+<ul id="menu-main-menu" class="menu"><li id="menu-item-10175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10175"><a href="/">Home</a></li>
+<li id="menu-item-8306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8306"><a href="https://www.mambaonline.com/category/features/">Features</a>
+<ul class="sub-menu">
+<li id="menu-item-29995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29995"><a href="https://www.mambaonline.com/category/features/">General</a></li>
+<li id="menu-item-8308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8308"><a href="https://www.mambaonline.com/category/health/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-8309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8309"><a href="https://www.mambaonline.com/category/galleries/">Galleries</a></li>
+<li id="menu-item-8310" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-8310"><a href="https://www.mambaonline.com/category/headlines/">Headlines</a></li>
+<li id="menu-item-29953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29953"><a href="https://www.mambaonline.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-8314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8314"><a href="https://www.mambaonline.com/category/whats-on/">What&#8217;s On</a>
+<ul class="sub-menu">
+<li id="menu-item-29932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29932"><a href="https://www.mambaonline.com/category/whats-on/events/">Events &#038; Places</a></li>
+<li id="menu-item-8315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8315"><a href="https://www.mambaonline.com/category/whats-on/clubs/">Clubs</a></li>
+<li id="menu-item-8316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8316"><a href="https://www.mambaonline.com/category/whats-on/movies-whats-on/">Movies</a></li>
+<li id="menu-item-8317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8317"><a href="https://www.mambaonline.com/category/whats-on/tv/">TV</a></li>
+<li id="menu-item-29933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29933"><a href="https://www.mambaonline.com/category/whats-on/on-stage/">On Stage</a></li>
+</ul>
+</li>
+<li id="menu-item-113933" class="menu-donate menu-item menu-item-type-post_type menu-item-object-page menu-item-113933"><a target="_blank" rel="noopener" href="https://www.mambaonline.com/donate-now/">DONATE</a></li>
+<li id="menu-item-32235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32235"><a href="http://www.meetmarket.co.za">Meet Market</a></li>
+</ul>											</nav>
+</div>
+<div class="submenu">
+<div class="menu-header"><ul id="menu-submenu" class="menu"><li id="menu-item-8327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8327"><a href="https://www.mambaonline.com/advertise/">Advertise</a></li>
+<li id="menu-item-114754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114754"><a href="https://www.mambaonline.com/subscribe-join-the-mamba-community/">NEWSLETTER</a></li>
+<li id="menu-item-8330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8330"><a href="https://www.mambaonline.com/contact/">Contact</a></li>
+<li id="menu-item-8329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8329"><a href="https://www.mambaonline.com/organizations/">Organisations</a></li>
+<li id="menu-item-8326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8326"><a href="https://www.mambaonline.com/visit-sa/">Visit SA</a></li>
+<li id="menu-item-74524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-74524"><a rel="privacy-policy" href="https://www.mambaonline.com/terms-use-privacy-policy/">T&#8217;s&#038;C&#8217;s / Privacy</a></li>
+</ul></div>				</div>
+</div><!--#header-->
+</div><!--.container-->
+</header>
+<div class="main-container" style="position:relative">
+<div style="position:absolute; left:-180px; width:160px; height:1050px; z-index:99">
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_160X_1050_left_home_page', [160, 1050], 'div-gpt-ad-1428912049620-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_160X_1050_left_home_page -->
+<div id='div-gpt-ad-1428912049620-0' style='height:1050px; width:160px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428912049620-0'); });
+</script>
+</div>
+</div>
+<div style="position:absolute; right:-180px; width:160px; height:1050px; z-index:99">
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_160X_1050_right_home_page', [160, 1050], 'div-gpt-ad-1428912165928-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_160X_1050_right_home_page -->
+<div id='div-gpt-ad-1428912165928-0' style='height:1050px; width:160px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1428912165928-0'); });
+</script>
+</div>
+</div>
+<? if (1==2) { ?>
+<div id="z2862266a-99e6-40ea-a775-662f1a8dce38" style='display:none' ></div>
+<script>!function(a,n,e,t,r){tagsync=e;var c=window[a];if(tagsync){var d=document.createElement("script");d.src="https://3315.tm.zedo.com/v1/a218ea42-c218-4558-aa39-2da755565c0b/atm.js",d.async=!0;var i=document.getElementById(n);if(null==i||"undefined"==i)return;i.parentNode.appendChild(d,i),d.onload=d.onreadystatechange=function(){var a=new zTagManager(n);a.initTagManager(n,c,this.aync,t,r)}}else document.write("<script src='https://3315.tm.zedo.com/v1/a218ea42-c218-4558-aa39-2da755565c0b/tm.js?data="+a+"'><"+"/script>")}("datalayer","z2862266a-99e6-40ea-a775-662f1a8dce38",true, 1 , 1);</script>
+<? } ?>
+<div id="page" class="single">
+<div class="content">
+<article class="article">
+<div id="content_box" >
+<div id="post-114150" class="g post post-114150 type-post status-publish format-standard has-post-thumbnail hentry category-headlines cat-11-id has_thumb">
+<div class="single_post">
+<header>
+<h1 class="title single-title">Huge victory for LGBTIQ+ rights in Mauritius</h1>
+<div class="advertorial-notice">Advertorial</div>
+<span class="theauthor single-postmeta" style="background-color:#f3f3f3; padding:10px; margin-top:-10px;">
+<span class="post-by">Article by <a rel="nofollow" href="https://www.mambaonline.com/author/roberto-igual/" title="Posts by Roberto Igual" rel="author">Roberto Igual</a></span> | <span class="post-time">October 4, 2023</span> | <span class="post-tag">In <a href="https://www.mambaonline.com/category/headlines/" rel="nofollow">HEADLINES</a></span>
+</span>
+</header><!--.headline_area-->
+<div class="post-single-content box mark-links">
+<div class="essb_links essb_displayed_top essb_share essb_template_clear-retina essb_1483943012 essb_links_center print-no" id="essb_displayed_top_1483943012" data-essb-postid="114150" data-essb-position="top" data-essb-button-style="icon" data-essb-template="clear-retina" data-essb-counter-pos="hidden" data-essb-url="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" data-essb-fullurl="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" data-essb-instance="1483943012"><ul class="essb_links_list essb_force_hide_name essb_force_hide"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&t=Huge+victory+for+LGBTIQ%2B+rights+in+Mauritius" title="Share on Facebook" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&t=Huge+victory+for+LGBTIQ%2B+rights+in+Mauritius&#39;,&#39;facebook&#39;,&#39;1483943012&#39;); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_facebook essb-s-bg-facebook essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="Share on Twitter" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=Huge%20victory%20for%20LGBTIQ+%20rights%20in%20Mauritius&amp;url=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&amp;counturl=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&#39;,&#39;twitter&#39;,&#39;1483943012&#39;); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_twitter essb-s-bg-twitter essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_mail nolightbox"> <a href="#" title="Share on Email" onclick="essb_open_mailform(&#39;1483943012&#39;); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_mail essb-s-bg-mail essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=Huge%20victory%20for%20LGBTIQ+%20rights%20in%20Mauritius%20https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F" title="Share on WhatsApp" onclick="essb.tracking_only('', 'whatsapp', '1483943012', true);" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_whatsapp essb-s-bg-whatsapp essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_messenger nolightbox"> <a href="fb-messenger://share/?link=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F" title="Share on Facebook Messenger" onclick="essb.fbmessenger('', 'https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F', '1483943012'); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_messenger essb-s-bg-messenger essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name essb_noname"></span></a></li></ul></div><div id="attachment_84423" style="width: 1210px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-84423" decoding="async" fetchpriority="high" class="size-full wp-image-84423" src="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg" alt="" width="1200" height="600" srcset="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage.jpg 1200w, https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage-450x225.jpg 450w, https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage-768x384.jpg 768w, https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage-1024x512.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p id="caption-attachment-84423" class="wp-caption-text"><em>A scene from Mauritius Pride 2018 (Pic: Herb Klein)</em></p></div>
+<p><strong>In a landmark ruling, the Supreme Court of Mauritius has declared the country&#8217;s ban on same-sex intimacy discriminatory, un-African, and unconstitutional.</strong></p>
+<p>The case <a href="https://www.mambaonline.com/2021/11/22/mauritius-supreme-court-court-considers-legalising-homosexuality/">was brought by Abdool Ridwan Firaas Ah Seek</a>, the president of the local LGBTIQ+ organisation Collectif Arc-en-Ciel, with support from the Human Dignity Trust.</p>
+<p>They sought to challenge the constitutionality of Section 250 of the Mauritian Criminal Code, a colonial-era provision that criminalised consensual same-sex relations, punishable by up to five years in prison.</p><div class="1ueGrYTS" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300x250_In-article_1', [300, 250], 'div-gpt-ad-1507190905135-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_300x250_In-article_1 -->
+<div id='div-gpt-ad-1507190905135-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1507190905135-0'); });
+</script>
+</div></div>
+<a class="mwm-aal-item" name="a-milestone-for-freedom-and-equality"></a><h2>A Milestone for Freedom and Equality</h2>
+<p>&#8220;Receiving this judgment in my favour is an enormous relief,&#8221; commented a jubilant Ah Seek. &#8220;From today, as a citizen and a human being, I am now free to love whoever I want to without fear.</p>
+<p>&#8220;Above all, it also means that the next generations can fully and freely embrace their sexuality without fear of being arrested. This victory is undoubtedly a major step towards the full inclusion of our community in Mauritian society,&#8221; Ah Seek said.</p>
+<a class="mwm-aal-item" name="secular-state-and-personal-freedom"></a><h2>Secular State and Personal Freedom</h2>
+<p>In its judgment, delivered on Wednesday, the Supreme Court emphasised that Mauritius is a secular state, finding no justifiable reason for the state to intrude into the private lives of LGBTIQ+ individuals.</p>
+<p>The judges further acknowledged that the plaintiff&#8217;s sexual orientation is &#8220;natural and innate&#8230; cannot be altered and is a natural variant of his sexuality.&#8221;</p>
+<p>The court unequivocally ruled that Section 250(1) of the criminal code is discriminatory and unconstitutional as &#8220;it criminalises the only natural way for him and other homosexual men to have sexual intercourse whereas heterosexual men are permitted the right to have sexual intercourse in a way which is natural to them.&#8221;</p><div class="eMSjrZnQ" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300x250_In-article_2', [300, 250], 'div-gpt-ad-1508258001991-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_300x250_In-article_2 -->
+<div id='div-gpt-ad-1508258001991-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508258001991-0'); });
+</script>
+</div></div>
+<a class="mwm-aal-item" name="a-message-to-other-african-nations"></a><h2>A Message to Other African Nations</h2>
+<p>The Supreme Court judges also highlighted that Section 250 &#8220;was not introduced into Mauritius to reflect any Mauritian values&#8221; but was &#8220;imposed on Mauritius and other colonies by British rule.&#8221;</p>
+<p>Téa Braun, Chief Executive of the Human Dignity Trust, applauded the ruling. &#8220;This decision finally topples 185 years of state-sanctioned stigma against LGBT people in Mauritius and sends yet another important message to the remaining criminalising countries in Africa and beyond: these laws must go,&#8221; said Braun.</p>
+<p>Homosexuality continues to be a criminal offence punishable with prison <a href="https://database.ilga.org/criminalisation-consensual-same-sex-sexual-acts" target="_blank" rel="noopener">in 31 out of 55 countries in Africa</a>.</p><div class="kzlMV4hf" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300x250_In-article_3', [300, 250], 'div-gpt-ad-1690446652126-0').addService(googletag.pubads());
+});
+</script>
+<!-- /11190194/MWP_300x250_In-article_3 -->
+<div id='div-gpt-ad-1690446652126-0' style='min-width: 300px; min-height: 250px; text-align:center !important;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1690446652126-0'); });
+</script>
+</div></div>
+<p>While there have been significant advances, in the past year, several nations, including Kenya, Ghana, Namibia, Niger, Tanzania, and Uganda, have sought to impose harsher penalties against their LGBTIQ+ citizens.</p>
+<div class="widget_text awac-wrapper"><div class="widget_text awac widget custom_html-2"><div class="textwidget custom-html-widget"><div id="ENGAGEYA_WIDGET_121400"></div>
+<script data-cfasync="false">
+(function(E,n,G,A,g,Y,a){E['EngageyaObject']=g;E[g]=E[g]||function(){ (E[g].q=E[g].q||[]).push(arguments)},E[g].l=1*new Date();Y=n.createElement(G), a=n.getElementsByTagName(G)[0];Y.async=1;Y.src=A;a.parentNode.insertBefore(Y,a)})(window,document,'script','//widget.engageya.com/engageya_loader.js','__engWidget');
+__engWidget('createWidget',{wwei:'ENGAGEYA_WIDGET_121400',pubid:188333,webid:184693,wid:121400});
+</script></div></div></div></p><div class="post-views content-post post-114150 entry-meta">
+<span class="post-views-icon dashicons dashicons-chart-bar"></span> <span class="post-views-label">Post Views:</span> <span class="post-views-count">7,805</span>
+</div><div class="essb_links essb_counters essb_displayed_bottom essb_share essb_template_clear-retina essb_181639467 print-no" id="essb_displayed_bottom_181639467" data-essb-postid="114150" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="clear-retina" data-essb-counter-pos="hidden" data-essb-url="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" data-essb-fullurl="https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/" data-essb-instance="181639467"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&t=Huge+victory+for+LGBTIQ%2B+rights+in+Mauritius" title="Share on Facebook" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&t=Huge+victory+for+LGBTIQ%2B+rights+in+Mauritius&#39;,&#39;facebook&#39;,&#39;181639467&#39;); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_facebook essb-s-bg-facebook essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name">Facebook</span></a><span class="essb_counter_hidden" data-cnt="" data-cnt-short=""></span></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="Share on Twitter" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=Huge%20victory%20for%20LGBTIQ+%20rights%20in%20Mauritius&amp;url=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&amp;counturl=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F&#39;,&#39;twitter&#39;,&#39;181639467&#39;); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_twitter essb-s-bg-twitter essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name">Twitter</span></a><span class="essb_counter_hidden" data-cnt="6" data-cnt-short=""></span></li><li class="essb_item essb_link_mail nolightbox"> <a href="#" title="Share on Email" onclick="essb_open_mailform(&#39;181639467&#39;); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_mail essb-s-bg-mail essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name">Email</span></a><span class="essb_counter_hidden" data-cnt="" data-cnt-short=""></span></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=Huge%20victory%20for%20LGBTIQ+%20rights%20in%20Mauritius%20https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F" title="Share on WhatsApp" onclick="essb.tracking_only('', 'whatsapp', '181639467', true);" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_whatsapp essb-s-bg-whatsapp essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name">WhatsApp</span></a></li><li class="essb_item essb_link_messenger nolightbox"> <a href="fb-messenger://share/?link=https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F" title="Share on Facebook Messenger" onclick="essb.fbmessenger('', 'https%3A%2F%2Fwww.mambaonline.com%2F2023%2F10%2F04%2Fhuge-victory-for-lgbtiq-rights-in-mauritius%2F', '181639467'); return false;" target="_blank" rel="nofollow" class="nolightbox" ><span class="essb_icon essb_icon_messenger essb-s-bg-messenger essb-s-c-light essb-s-ch-light essb-s-bgh-dark essb-s-bg-network"></span><span class="essb_network_name">Facebook Messenger</span></a></li><li class="essb_item essb_totalcount_item" data-counter-pos="hidden"><span class="essb_totalcount essb_t_r" title="Total"><span class="essb_total_text">Total</span><span class="essb_t_nb">6</span></span></li></ul></div>																																								<!-- You can start editing here. -->
+<!-- If comments are open, but there are no comments. -->
+<div id="respond" class="box m-t-6">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://www.mambaonline.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required" /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='114150' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="bfd9b434a2" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="69"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</div>
+</div><!--.post-content box mark-links-->
+<div class="singleleft">
+<!-- .related-posts -->
+<!--Shareit-->
+</div>
+</div>
+</div>
+</div>
+</article>
+<aside class="sidebar c-4-12">
+<div id="sidebars" class="g">
+<div class="sidebar">
+<ul class="sidebar_list">
+<li class="widget widget-sidebar"><!--Ad Injection:widget_4--><script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300X_250_square_1_ROS', [300, 250], 'div-gpt-ad-1377871496697-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+});
+</script>
+<!-- MWP_300X_250_square_1_ROS -->
+<div id='div-gpt-ad-1377871496697-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377871496697-0'); });
+</script>
+</div></li><li class="widget widget-sidebar"><h3><span>Article by <a href="https://www.mambaonline.com/author/roberto-igual/">Roberto Igual</a></span></h3><div class="wp-biographia-widget textwidget"><img alt='' src='https://secure.gravatar.com/avatar/d9217b773c6dbd7f672d596b93e4a435?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d9217b773c6dbd7f672d596b93e4a435?s=128&#038;d=mm&#038;r=g 2x' class='wp-biographia-avatar wp-biographia-avatar-wrap avatar-64 photo' height='64' width='64' loading='lazy' decoding='async'/><p>Roberto is a writer, content creator and would-be novelist who's passionate about equality, justice and freedom.</p></div></li><li class="widget widget-sidebar"><h3><span>Networking</span></h3>			<div class="textwidget"><span style="font-size:12px; line-height:11px !important"><img src="https://www.mambaonline.com/images/mm_cut/mm_Oct_2023_01.jpg" border="1" style="float:right; margin-left:5px"><b>"Still figuring things out."</b> This 23-year-old Libra from Durban is looking to grow his network of friends. You can meet guys like him in <a href="http://www.meetmarket.co.za" target="_blank" style="font-weight:bold; color:#92AA2E" rel="noopener">Mamba's MeetMarket now</a>!  It's free!</span></div>
+</li><li class="widget widget-sidebar"><form method="get" id="searchform" class="search-form" action="https://www.mambaonline.com" _lpchecked="1">
+<fieldset>
+<input type="text" name="s" id="s" value="Search this Site..." onFocus="if(this.value=='Search this Site...')this.value='';" x-webkit-speech onwebkitspeechchange="transcribe(this.value)">
+<input id="search-image" class="sbutton" type="submit" style="border:0; vertical-align: top;" value="Search">
+<br>
+<span style="font-size:10px !important; display:inline-block; margin-left:10px"><strong>Show  results from the past</strong>
+<label style="margin-right:10px; float:none; margin-left:5px"><input type="radio" name="ShowOnly" value="week" id="ShowOnly_0">Week</label><label style="margin-right:10px; float:none"><input type="radio" name="ShowOnly" value="month" id="ShowOnly_1">Month</label><label style="float:none"><input type="radio" name="ShowOnly" value="year" id="ShowOnly_2">Year</label>
+</span>
+</fieldset>
+</form></li><li class="widget widget-sidebar"><!--Ad Injection:widget_8--><script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300X_250_square_2_ROS', [300, 250], 'div-gpt-ad-1377872534238-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- MWP_300X_250_square_2_ROS -->
+<div id='div-gpt-ad-1377872534238-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377872534238-0'); });
+</script>
+</div></li><li class="widget widget-sidebar"><!--Ad Injection:widget_16--><span class="wide-only">
+<script>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300X600_skyscraper_ROS', [300, 600], 'div-gpt-ad-1532941722090-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_300X600_skyscraper_ROS -->
+<div id='div-gpt-ad-1532941722090-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1532941722090-0'); });
+</script>
+</div>
+</span></li><li class="widget widget-sidebar"><!--Ad Injection:widget_6-->.</li>
+<div id="tabber">
+<ul class="tabs">
+<li><a href="#popular-posts">Popular Posts</a></li>
+<li class="tab-recent-posts"><a href="#recent-posts">Recent Posts</a></li>
+</ul> <!--end .tabs-->
+<div class="clear"></div>
+<div class="inside">
+<div id="popular-posts">
+<ul>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/10/15/south-african-transgender-pilot-fights-to-return-to-the-skies/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/10/Kailer-Smit-transgender-pilot-82x57.jpg" alt="South African transgender pilot fights to return to the skies" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/10/15/south-african-transgender-pilot-fights-to-return-to-the-skies/'>South African transgender pilot fights to return to the skies</a>
+<p>October 15, 2023 &middot; 1 Comment</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/10/26/johannesburg-pride-2023-here-are-all-the-details/'><img src="https://www.mambaonline.com/wp-content/uploads/2019/10/johannesburg_pride_2019-82x57.jpg" alt="Johannesburg Pride 2023: Here are all the details!" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/10/26/johannesburg-pride-2023-here-are-all-the-details/'>Johannesburg Pride 2023: Here are all the details!</a>
+<p>October 26, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/'><img src="https://www.mambaonline.com/wp-content/uploads/2018/06/Mauritius-FImage-82x57.jpg" alt="Huge victory for LGBTIQ+ rights in Mauritius" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/10/04/huge-victory-for-lgbtiq-rights-in-mauritius/'>Huge victory for LGBTIQ+ rights in Mauritius</a>
+<p>October 4, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/09/14/rugby-world-cup-gay-rugby-players-whove-flown-the-rainbow-flag/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/09/gay_rugby_players_2023-82x57.jpg" alt="Rugby World Cup: Gay rugby players who&#8217;ve flown the rainbow flag" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/09/14/rugby-world-cup-gay-rugby-players-whove-flown-the-rainbow-flag/'>Rugby World Cup: Gay rugby players who&#8217;ve flown the rainbow flag</a>
+<p>September 14, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/10/11/here-are-the-2023-mr-gay-world-contestants/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/10/mr_gay_world_2023_lrg_v3-82x57.jpg" alt="Here are the 2023 Mr Gay World contestants!" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/10/11/here-are-the-2023-mr-gay-world-contestants/'>Here are the 2023 Mr Gay World contestants!</a>
+<p>October 11, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+</ul>
+</div> <!--end #popular-posts-->
+<div id="recent-posts">
+<ul>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/11/17/nkoli-the-vogue-opera-the-making-of-a-musical-about-a-queer-liberation-activist-in-south-africa/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/11/nkoli_the_opera_01-82x57.jpg" alt="Nkoli: The Vogue Opera – the making of a musical about a queer liberation activist in South Africa" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/11/17/nkoli-the-vogue-opera-the-making-of-a-musical-about-a-queer-liberation-activist-in-south-africa/'>Nkoli: The Vogue Opera – the making of a musical about a queer liberation activist in South Africa</a>
+<p>November 17, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/11/17/bullying-suicide-report-teachers-accused-of-gross-misconduct/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/10/Sibusiso-Mbatha-school-sucide-82x57.jpg" alt="Report: Teachers accused of &#8220;gross misconduct&#8221; in &#8220;preventable&#8221; suicide" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/11/17/bullying-suicide-report-teachers-accused-of-gross-misconduct/'>Report: Teachers accused of &#8220;gross misconduct&#8221; in &#8220;preventable&#8221; suicide</a>
+<p> &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/11/16/kids-of-gay-dads-via-surrogacy-do-better-than-other-kids/'><img src="https://www.mambaonline.com/wp-content/uploads/2018/01/same_sex_gay_family_lrg-82x57.jpg" alt="Kids of gay dads via surrogacy do better than other kids" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/11/16/kids-of-gay-dads-via-surrogacy-do-better-than-other-kids/'>Kids of gay dads via surrogacy do better than other kids</a>
+<p>November 16, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/11/16/lgbtiq-activists-face-alleged-grindr-gang-supporters-in-court/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/11/activists_grindr_gang_seven_court_nov_2023-82x57.jpg" alt="LGBTIQ+ activists face alleged Grindr Gang supporters in court" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/11/16/lgbtiq-activists-face-alleged-grindr-gang-supporters-in-court/'>LGBTIQ+ activists face alleged Grindr Gang supporters in court</a>
+<p> &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+<li>
+<div class="left">
+<a href='https://www.mambaonline.com/2023/11/15/tanzania-court-backs-homophobic-arrest-of-human-rights-lawyers/'><img src="https://www.mambaonline.com/wp-content/uploads/2023/02/court_LGBTQ_rights-82x57.jpg" alt="Tanzania: Court backs homophobic arrest of human rights lawyers" class="wp-post-image" /></a>
+<div class="clear"></div>
+</div>
+<div class="info">
+<div class="meta">
+<a href='https://www.mambaonline.com/2023/11/15/tanzania-court-backs-homophobic-arrest-of-human-rights-lawyers/'>Tanzania: Court backs homophobic arrest of human rights lawyers</a>
+<p>November 15, 2023 &middot; No Comments</p>
+</div> <!--end .entry-meta-->
+</div> <!--end .info-->
+<div class="clear"></div>
+</li>
+</ul>
+</div> <!--end #recent-posts-->
+<div class="clear"></div>
+</div> <!--end .inside -->
+<div class="clear"></div>
+</div><!--end #tabber -->
+<li class="widget_text widget widget-sidebar"><div class="textwidget custom-html-widget">		<div data-elementor-type="section" data-elementor-id="113922" class="elementor elementor-113922" data-elementor-post-type="elementor_library">
+<div class="elementor-element elementor-element-9a4d105 e-flex e-con-boxed e-con" data-id="9a4d105" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-b109bf7 elementor-widget elementor-widget-text-editor" data-id="b109bf7" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Do you appreciate the work that MambaOnline does in reporting on LGBTIQ news and issues? Then please buy the Mamba Team a coffee, or two, or five! Your support and show of appreciation can make all the difference in keeping our platform online.</p>						</div>
+</div>
+<div class="elementor-element elementor-element-42fd95b elementor-widget elementor-widget-html" data-id="42fd95b" data-element_type="widget" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="mambaonline" data-color="#aed50b" data-emoji=""  data-font="Cookie" data-text="Buy us a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#b17d66" ></script>		</div>
+</div>
+</div>
+</div>
+</div>
+</div></li><li class="widget widget-sidebar"><!--Ad Injection:widget_14--><script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300X_250_square_4_ROS', [300, 250], 'div-gpt-ad-1438779535201-1').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_300X_250_square_4_ROS -->
+<div id='div-gpt-ad-1438779535201-1' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438779535201-1'); });
+</script>
+</div></li><li class="widget widget-sidebar"><h3><span>Find us on Facebook</span></h3>			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fmambaonline&amp;width=292&amp;height=100&amp;show_faces=false&amp;colorscheme=light&amp;stream=false&amp;border_color=%2392AA2E&amp;header=false&amp;appId=459157540766813" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:100px;" allowTransparency="true"></iframe></div>
+</li><li class="widget widget-sidebar"><!--Ad Injection:widget_12--><script>
+googletag.cmd.push(function() {
+googletag.defineSlot('/11190194/MWP_300X_250_square_3_ROS', [300, 250], 'div-gpt-ad-1507116700832-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+googletag.enableServices();
+});
+</script>
+<!-- /11190194/MWP_300X_250_square_3_ROS -->
+<div id='div-gpt-ad-1507116700832-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1507116700832-0'); });
+</script>
+</div></li><li class="widget widget-sidebar"><h3><span>Polls</span></h3><div id="polls-42" class="wp-polls">
+<form id="polls_form_42" class="wp-polls-form" action="/index.php" method="post">
+<p style="display: none;"><input type="hidden" id="poll_42_nonce" name="wp-polls-nonce" value="2bf4ade44e" /></p>
+<p style="display: none;"><input type="hidden" name="poll_id" value="42" /></p>
+<p style="text-align: center;"><strong>What's your preferred way to meet potential dates or partners?</strong></p><div id="polls-42-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+<li><input type="radio" id="poll-answer-226" name="poll_42" value="226" /> <label for="poll-answer-226">Facebook, Twitter or Instagram</label></li>
+<li><input type="radio" id="poll-answer-227" name="poll_42" value="227" /> <label for="poll-answer-227">On Grindr or other dating apps</label></li>
+<li><input type="radio" id="poll-answer-228" name="poll_42" value="228" /> <label for="poll-answer-228">At clubs, bars or social events</label></li>
+<li><input type="radio" id="poll-answer-229" name="poll_42" value="229" /> <label for="poll-answer-229">Through friends &amp; acquaintances</label></li>
+</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(42);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(42); return false;" title="View Results Of This Poll">View Results</a></p></div>
+</form>
+</div>
+<div id="polls-42-loading" class="wp-polls-loading"><img src="https://www.mambaonline.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+<ul><li><a href="https://www.mambaonline.com/pollsarchive">Polls Archive</a></li></ul></li><li class="widget_text widget widget-sidebar"><h3><span>Get the Mamba Newsletter</span></h3><div class="textwidget custom-html-widget"><span id="newsletter"></span>
+<div class="tnp tnp-subscription">
+<form method="post" action="https://www.mambaonline.com/?na=s">
+<input type="hidden" name="nlang" value=""><div class="tnp-field tnp-field-email"><label for="tnp-1">Email</label>
+<input class="tnp-email" type="email" name="ne" id="tnp-1" value="" required></div>
+<div class="tnp-field tnp-privacy-field"><label><input type="checkbox" name="ny" required class="tnp-privacy"> <a target="_blank" href="https://www.mambaonline.com/terms-use-privacy-policy/" rel="noopener">I accept the privacy policy</a></label></div><div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="SIGN UP!" >
+</div>
+</form>
+</div>
+</div></li>			</ul>
+</div>
+</div><!--sidebars-->
+</aside>	</div><!--#page-->
+</div><!--.container-->
+</div>
+<footer>
+<div class="toppart"></div>
+<div class="container">
+<div class="footer-widgets">
+<div class="f-widget one">
+</div>
+<div class="f-widget two">
+</div>
+<div class="f-widget three">
+</div>
+</div><!--.footer-widgets-->
+<div class="copyrights">
+<!--start copyrights-->
+<div class="row" id="copyright-note">
+<a href="https://www.mambaonline.com/" title="Gay South Africa Lifestyle, News, Dating, Hunks, What's On" rel="nofollow">MambaOnline</a> Copyright © 2023.
+<div class="top"><a href="#top">Back to top</a> &#8593;</div>
+</div>
+<!--end copyrights-->
+</div> 
+</div><!--.container-->
+</footer><!--footer-->
+<!--Twitter Button Script------>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<!--Facebook Like Button Script------>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=136911316406581";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--Start FlexSlider -->
+<script type="text/javascript">
+$(window).load(function(){
+$('.flexslider').flexslider({
+animation: "fade",
+controlNav: "thumbnails",
+start: function(slider){
+$('body').removeClass('loading');
+}
+});
+$('.sliderTitle').css('opacity',0.9);
+});
+</script>
+<!--End FlexSlider -->
+<!--start footer code-->
+<!--end footer code-->
+<!-- HFCM by 99 Robots - Snippet # 1: TEADS ad injection -->
+<script async="true" src="//a.teads.tv/page/96651/tag"></script>
+<!-- /end HFCM by 99 Robots -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+var wpfcWpfcAjaxCall = function(polls){
+if(polls.length > 0){
+poll_id = polls.last().attr('id').match(/\d+/)[0];
+jQuery.ajax({
+type: 'POST', 
+url: pollsL10n.ajax_url,
+dataType : "json",
+data : {"action": "wpfc_wppolls_ajax_request", "poll_id": poll_id, "nonce" : "9038ffe753"},
+cache: false, 
+success: function(data){
+if(data === true){
+poll_result(poll_id);
+}else if(data === false){
+poll_booth(poll_id);
+}
+polls.length = polls.length - 1;
+setTimeout(function(){
+wpfcWpfcAjaxCall(polls);
+}, 1000);
+}
+});
+}
+};
+var polls = jQuery('div[id^=\"polls-\"][id$=\"-loading\"]');
+wpfcWpfcAjaxCall(polls);
+});
+</script><!-- <link rel='stylesheet' id='elementor-frontend-css' href='https://www.mambaonline.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/f1nyo67k/60h0x.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-113922-css' href='https://www.mambaonline.com/wp-content/uploads/elementor/css/post-113922.css?ver=1693988522' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='elementor-icons-css' href='https://www.mambaonline.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='swiper-css' href='https://www.mambaonline.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/8hy5tf5e/60h0x.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-104565-css' href='https://www.mambaonline.com/wp-content/uploads/elementor/css/post-104565.css?ver=1688565449' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='elementor-pro-css' href='https://www.mambaonline.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.14.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-global-css' href='https://www.mambaonline.com/wp-content/uploads/elementor/css/global.css?ver=1688553288' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.mambaonline.com/wp-content/cache/www.mambaonline.com/wpfc-minified/ft7xln1l/60h0x.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script id="jquery-ui-datepicker-js-after" type="text/javascript">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/comment-reply.min.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.mambaonline.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7' id='contact-form-7-js'></script>
+<script type='text/javascript' id='superpwa-register-sw-js-extra'>
+/* <![CDATA[ */
+var superpwa_sw = {"url":"\/OneSignalSDKWorker.js.php?2.2","disable_addtohome":"0","enableOnDesktop":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js' id='superpwa-register-sw-js'></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.2' id='wp-polls-js'></script>
+<script type='text/javascript' id='wp-postviews-cache-js-extra'>
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","nonce":"168060623d","post_id":"114150"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68' id='wp-postviews-cache-js'></script>
+<script type='text/javascript' id='ppress-frontend-script-js-extra'>
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"15d9bd3184","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.13.4' id='ppress-frontend-script-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.mambaonline.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.mambaonline.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"88211","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/www.mambaonline.com\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.mambaonline.com/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1698673979&#038;ver=1.18.2' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/popup-maker/assets/js/vendor/mobile-detect.min.js?ver=1.3.3' id='mobile-detect-js'></script>
+<script type='text/javascript' id='pum-atc-js-extra'>
+/* <![CDATA[ */
+var pum_atc_vars = {"page":"114150"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/Popup_Maker_v1.2.01/assets/js/site.min.js?defer&#038;ver=1.2.0' id='pum-atc-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5' id='jquery-fancybox-js'></script>
+<script id="jquery-fancybox-js-after" type="text/javascript">
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery([".nolightbox","a.wp-block-fileesc_html__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+/* IMG */
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a),area[href*=".webp" i]:not(.nofancybox)');
+fb_IMG_select.addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transitionIn':'elastic','transitionOut':'elastic','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});
+};};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('a#fancybox-auto,#fancybox-auto>a').first().trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js?ver=1.4.1' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/easy-fancybox/vendor/jquery.mousewheel.min.js?ver=3.1.13' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdV4jInAAAAAIpXvwvrzmdmXFzZ-xqZJac-KJrq&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdV4jInAAAAAIpXvwvrzmdmXFzZ-xqZJac-KJrq","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5' async='async' id='remote_sdk-js'></script>
+<script defer type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1694655659' id='akismet-frontend-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.14.1' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
+<script id="wp-i18n-js-after" type="text/javascript">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before" type="text/javascript">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.mambaonline.com\/wp-admin\/admin-ajax.php","nonce":"40901d26f2","urls":{"assets":"https:\/\/www.mambaonline.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.mambaonline.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.mambaonline.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.14.1' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script id="elementor-frontend-js-before" type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"nested-elements":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.mambaonline.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":114150,"title":"Huge%20victory%20for%20LGBTIQ%2B%20rights%20in%20Mauritius%20-%20MambaOnline%20-%20Gay%20South%20Africa%20online","excerpt":"In a landmark ruling, the Supreme Court of Mauritius has declared the country's colonial-era ban on same-sex intimacy un-African and unconstitutional.","featuredImage":"https:\/\/www.mambaonline.com\/wp-content\/uploads\/2018\/06\/Mauritius-FImage-1024x512.jpg"}};
+</script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://www.mambaonline.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.14.1' id='pro-elements-handlers-js'></script>
+<div class="essb_mailform" data-error="Please fill all form fields" data-sending="Sending to"><div class="essb_mailform_header"><div class="heading">Send this to a friend</div></div><div class="essb_mailform_content"><input type="text" id="essb_mailform_from" class="essb_mailform_content_input" placeholder="Your email"/><input type="text" id="essb_mailform_from_name" class="essb_mailform_content_input" placeholder="Your name"/><input type="text" id="essb_mailform_to" class="essb_mailform_content_input" placeholder="Recipient email"/><label class="essb_mailform_status_message" id="essb_mailform_status_message"></label><div class="essb_mailform_content_buttons"><button id="essb_mailform_btn_submit" class="essb_mailform_content_button" onclick="essb_mailform_send();">Send</button><button id="essb_mailform_btn_cancel" class="essb_mailform_content_button" onclick="essb_close_mailform(); return false;">Cancel</button></div><input type="hidden" id="essb_mail_salt" value="539903950"/><input type="hidden" id="essb_mail_instance" value=""/><input type="hidden" id="essb_mail_post" value=""/></div></div><div class="essb_mailform_shadow"></div><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://www.mambaonline.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/pinterest-pro.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://www.mambaonline.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://www.mambaonline.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script><script type="text/javascript"></script></body>
+</html><!-- WP Fastest Cache file was created in 6.6585328578949 seconds, on 18-11-23 20:43:04 --><!-- need to refresh to see cached version -->

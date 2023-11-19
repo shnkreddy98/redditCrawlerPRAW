@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta property="og:title" content="Ukraine-Russia war – live: Putin’s navy has suffered ‘functional defeat’ in Black Sea, says UK" />
+  <meta property="og:description" content="Russian navy has been forced to disperse to ports from which ‘it cannot have an effect on Ukraine’, UK defence minister says" />
+  <meta property="og:image" content="https://dl.phncdn.com/gif/18014351.gif" />
+  <meta property="og:type" content="news" />
+  <meta property="og:url" content="https://globalnews.neocities.org" />
+
+  <title>Ukraine-Russia war – live: Putin’s navy has suffered ‘functional defeat’ in Black Sea, says UK</title>
+  <link rel="stylesheet" href="../styles/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="https://dl.phncdn.com/gif/18014351.gif" />
+</head>
+<body>
+
+  <header>
+    <a href="../index.html"><h1>Global News</h1></a>
+  </header>
+
+    <div class="right">
+      <button onclick="toggleTheme()">Dark Mode</button>
+      <script src="../scripts/darkmode.js"></script>
+    </div>
+
+  <main>
+
+    <article>
+      <h2 id="page-title"></h2>
+
+      <script>
+        const ogTitleTag = document.querySelector('meta[property="og:title"]');
+        const ogTitleText = ogTitleTag.content;
+
+      document.querySelector('#page-title').textContent = ogTitleText;
+      </script>
+      <p id="page-description"></p>
+
+      <script>
+        const ogDescriptionTag = document.querySelector('meta[property="og:description"]');
+        const ogDescriptionText = ogDescriptionTag.content;
+
+      document.querySelector('#page-description').textContent = ogDescriptionText;
+      </script>
+    </article>
+
+    <div class="image-container">
+      <img src="https://live-production.wcms.abc-cdn.net.au/67ab6e934c54e2114ace2140316d841a" alt="Houses destroyed in Russian missile strike">
+      <br>
+      <g>Houses destroyed in Russian missile strike</g>
+    </div>
+
+
+    <article>
+      <p>Russian navy ships have been forced to disperse to ports where they “cannot have an effect on Ukraine”, a UK defence minister has said in what he described as a “functional defeat” for the Kremlin.</p>
+    </article>
+
+    <article>
+      <p>James Heappey, speaking at a security event in Warsaw, said the Russian navy had been forced to disperse to ports from which “it cannot have an effect on Ukraine”.</p>
+    </article>
+
+    <center>
+      <iframe data-aa='2265189' src='//ad.a-ads.com/2265189?size=336x280' style='width:336px; height:280px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+    </center>
+
+    <article>
+      <p>He added that, despite the disappointment among Ukraine’s Western allies about the pace of Kyiv’s land offensive, the naval success was “every bit as important” as the land breakthrough in Kharkiv Oblast region.</p>
+    </article>
+
+    <article>
+      <p>Earlier it was reported that Russian soldiers “caught with alcohol on their breath” were being sent to the frontline to die in punishment squads.</p>
+    </article>
+
+    <article>
+      <p>Drunk and mutinous troops are being used in ‘Storm-Z’ human shield squads in the most ferocious battles against Ukraine troops.</p>
+    </article>
+
+    <center>
+      <iframe data-aa='2265189' src='//ad.a-ads.com/2265189?size=336x280' style='width:336px; height:280px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+    </center>
+
+    <article>
+      <p>As punishment for their bad behaviour, they are often forced over the trenches before other soldiers and heavy armoury, a soldier told Reuters.</p>
+    </article>
+
+    <article>
+      <p>“If the commandants catch anyone with the smell of alcohol on their breath, then they immediately send them to the Storm squads,” one said.</p>
+    </article>
+
+  </main>
+
+  <footer>
+    <p>Copyright &copy; 2023 Global News</p>
+  </footer>
+
+ <script async src="../scripts/metrics.js"></script>
+
+</body>
+</html>

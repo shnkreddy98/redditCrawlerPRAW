@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="en" class="no-js ie ie8 lte8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="en" class="no-js ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="no-js"> <![endif]-->
+<!--[if !IE]><!--><html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.politico.com/newsletters/power-switch/2023/09/28/fema-cuts-disaster-aid-ahead-of-shutdown-00118766"><meta name="brightspot.contentId" content="0000018a-dc88-dd68-a3cf-dfd8ab240000" />
+<style type="text/css" id="chartbeat-flicker-control-style">body { visibility: hidden !important; }</style><script type="text/javascript">
+(function() {
+var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+_sf_async_config.uid = 33430;
+_sf_async_config.domain = 'www.politico.com';
+_sf_async_config.useCanonical = true;
+window.setTimeout(function() {
+    var hider = document.getElementById('chartbeat-flicker-control-style');
+    if (hider) {
+        hider.parentNode.removeChild(hider);
+    }
+}, 1000);
+})();</script>
+<script src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+
+<script src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript" charset="UTF-8" ccpa-opt-out-ids="C0004" ccpa-opt-out-geo="ca" ccpa-opt-out-lspa="true"></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="c3eecc09-e5d5-4a23-9b7c-e441668791b9"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/css/style-core.js.b3d317efb1e60e48d6ec82b01927c270.gz.css">
+<title>FEMA cuts disaster aid ahead of shutdown - POLITICO</title>
+<meta property="og:title" content="FEMA cuts disaster aid ahead of shutdown">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#dc0228">
+<meta property="og:type" content="website">
+<meta property="fb:pages" content="62317591679">
+<meta property="og:url" content="https://www.politico.com/newsletters/power-switch/2023/09/28/fema-cuts-disaster-aid-ahead-of-shutdown-00118766">
+<meta property="twitter:title" content="FEMA cuts disaster aid ahead of shutdown">
+<meta property="twitter:image" content="https://www.politico.com/dims4/default/b1d089e/2147483647/legacy_thumbnail/1200x798%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386">
+<meta property="og:image" content="https://static.politico.com/92/c6/735b576045839d4241e655e7d9ad/https-delivery-gettyimages.com/downloads/850860386">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@politico">
+<meta property="twitter:creator" content="@politico">
+<meta property="og:fb_appid" content="114037015331397">
+<link rel="shortcut icon" type="image/x-icon" href="https://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.politico.com/dims4/default/bd69088/2147483647/legacy_thumbnail/144x144/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.politico.com/dims4/default/59ee5a3/2147483647/legacy_thumbnail/114x114/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.politico.com/dims4/default/27ede68/2147483647/legacy_thumbnail/72x72/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.politico.com/dims4/default/c73c7f7/2147483647/legacy_thumbnail/57x57/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/favicon-32x32.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/android-chrome-192x192.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/favicon-96x96.png">
+<link rel="icon" sizes="16x16" type="image/png" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:site_name" content="POLITICO">
+<meta name="host" content="www.politico.com">
+<meta name="build" content="1.0.0-SNAPSHOT"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript">window.jQuery || document.write('<script src="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/js/website/shared/libraries/jquery-1.11.0.min.daf47dbdebc0881066106b1dda1c9db3.gz.js"><\/script>')</script><script type="text/javascript" src="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/preload.40def5854a636041989b77e60edb706c.gz.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script type="text/javascript">;(function() {
+     document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+     var setNptTechAdblockerCookieError = function() {
+           var d = new Date();
+           d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+           document.cookie = "__adblocker=false; expires=" + d.toUTCString() + "; path=/";
+     };
+     var checkBodyVisibility = function() {
+           if (document.body.style.visibility != 'hidden' && document.body.style.display != 'none') {
+                clearInterval(adblockerTimer);
+                var script = document.createElement('script');
+                script.async = true;
+                script.src = '//www.npttech.com/advertising.js';
+                script.onerror = setNptTechAdblockerCookieError;
+                document.getElementsByTagName('head')[0].appendChild(script);
+           }
+     }
+     var adblockerTimer = setInterval(checkBodyVisibility, 100);
+})();</script></head>
+<body class="template-newsletter enable-ad-placeholder" id="pageNewsletter" data-ad-refresh="35">
+<div class="skip-nav">
+<div class="skip-nav__action">
+<div class="skip-nav__link" role="link" aria-label="Skip to Main Content" tabindex="1" onclick="document.querySelector('#main').focus();" onkeypress="if (event.key === 'Enter') { document.querySelector('#main').focus(); }">Skip to Main Content</div>
+</div>
+</div>
+<div class="global-wrapper" id="globalWrapper">
+<header class="header on-core  " id="js-top-header">
+<div class="header__row header__main">
+<div class="header__branding" role="banner">
+<h1>
+<a href="https://www.politico.com/" tabindex="3">
+<svg height="100%" width="261" viewBox="0 0 261 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title" class="is-emphasized">
+<title>POLITICO</title>
+<desc>Politico Logo</desc>
+<path id="politico-logo" d="M221.9,12.7c3.6-3.6,7.9-5.4,13.1-5.4c5.2,0,9.6,1.8,13.1,5.4c3.5,3.6,5.3,8,5.3,13.3c0,5.2-1.8,9.7-5.4,13.3c-3.6,3.6-8,5.4-13.2,5.4c-4.8,0-9.1-1.8-12.7-5.3c-3.7-3.5-5.5-8.1-5.5-13.6C216.6,20.7,218.3,16.3,221.9,12.7 M217.4,45.1c5.1,4.4,10.9,6.7,17.3,6.7c7.3,0,13.5-2.5,18.6-7.5c5.1-5,7.7-11.1,7.7-18.2c0-7.1-2.5-13.2-7.6-18.3c-5.1-5.1-11.1-7.6-18.2-7.6c-7.2,0-13.3,2.5-18.4,7.5c-5.1,5-7.7,11-7.7,18C209,33.8,211.8,40.2,217.4,45.1 M195,0.2c-8.2,0-14.9,3-20,9.1c-4.2,5-6.3,10.6-6.3,16.9c0,7.1,2.5,13.1,7.5,18.1c5,5,11.1,7.4,18.2,7.4c4.7,0,9.2-1.2,13.5-3.7v-9.1c-1.2,1-2.4,1.9-3.5,2.6c-1.1,0.7-2.2,1.3-3.2,1.7c-1.8,0.9-4.1,1.3-6.7,1.3c-5.1,0-9.4-1.8-13-5.4c-3.5-3.6-5.3-8-5.3-13.2c0-5.3,1.8-9.8,5.3-13.4c3.5-3.7,7.8-5.5,12.9-5.5c4.6,0,9.1,1.8,13.5,5.4V3.8C203.8,1.4,199.5,0.2,195,0.2 M157,50.9h7.5V1.2H157V50.9z M153.5,8.2V1.2h-30.4v7.1h11.4v42.7h7.5V8.2H153.5z M112.2,50.9h7.5V1.2h-7.5V50.9z M86.5,1.2v49.8h22.1v-7.1H94V1.2H86.5z M43.2,12.7c3.6-3.6,7.9-5.4,13.1-5.4c5.2,0,9.6,1.8,13.1,5.4c3.5,3.6,5.3,8,5.3,13.3c0,5.2-1.8,9.7-5.4,13.3c-3.6,3.6-8,5.4-13.2,5.4c-4.8,0-9.1-1.8-12.7-5.3c-3.7-3.5-5.5-8.1-5.5-13.6C37.9,20.7,39.7,16.3,43.2,12.7 M38.7,45.1c5.1,4.4,10.9,6.7,17.3,6.7c7.3,0,13.5-2.5,18.6-7.5c5.1-5,7.7-11.1,7.7-18.2c0-7.1-2.5-13.2-7.6-18.3c-5.1-5.1-11.1-7.6-18.2-7.6c-7.2,0-13.3,2.5-18.4,7.5c-5.1,5-7.7,11-7.7,18C30.3,33.8,33.1,40.2,38.7,45.1 M7.5,8.1H10c7.1,0,10.7,2.6,10.7,7.7c0,5.3-3.4,8-10.3,8H7.5V8.1z M11,30.7c5.2,0,9.3-1.3,12.3-4c3.1-2.7,4.6-6.3,4.6-10.8c0-4.3-1.4-7.8-4.3-10.6C22,3.7,20.1,2.6,17.9,2c-2.1-0.6-5.3-0.9-9.4-0.9H0v49.8h7.5V30.7H11z"></path>
+</svg>
+</a>
+</h1>
+</div>
+<div class="header__content">
+<div class="header__left">
+<button aria-label="Master menu" aria-expanded="false" class="hamburger js-hamburger" tabindex="2">
+<span></span>
+</button>
+</div>
+<div class="header__right">
+<div class="actions-lineup">
+<ul class="actions-lineup__list">
+<li class="actions-lineup__item hide-at-mobile">
+<a href="https://www.politico.com/live-updates/congress" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_header&amp;lindex=1&amp;lcol=1">Congress</a></li>
+<li class="actions-lineup__item hide-at-mobile">
+<a href="https://www.politicopro.com/" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_header&amp;lindex=2&amp;lcol=2">Pro</a></li>
+<li class="actions-lineup__item hide-at-mobile">
+<a href="https://www.eenews.net/" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_header&amp;lindex=3&amp;lcol=3">E&E News</a></li>
+<li class="actions-lineup__item ">
+<div class="slide-search" role="presentation">
+<a href="#" class="slide-search__open js-tealium-tracking" id="search-open" aria-label="Open search form" aria-pressed="false" role="button" target="_top" data-tracking="mpos=na&amp;mid=site_search_open&amp;lindex=1&amp;lcol=1"><svg viewBox="0 0 20 20" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg">
+<title>Search</title>
+<path id="icon-search" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 0C11.6421 0 15 3.35786 15 7.5C15 9.31638 14.3543 10.9819 13.2799 12.2797L20 19L19 20L12.2797 13.2799C10.9819 14.3543 9.31638 15 7.5 15C3.35786 15 0 11.6421 0 7.5C0 3.35786 3.35786 0 7.5 0ZM7.5 1C3.91015 1 1 3.91015 1 7.5C1 11.0899 3.91015 14 7.5 14C11.0899 14 14 11.0899 14 7.5C14 3.91015 11.0899 1 7.5 1Z" />
+</svg>
+</a><div class="slide-search__content " id="search-input" aria-hidden="true">
+<form class="slide-search__form" action="https://www.politico.com/search" method="get">
+<input class="slide-search__input" type="search" name="q" id="searchTerm" aria-label="Search for any story" placeholder="Enter search term..." />
+<button class="slide-search__run" type="submit" aria-label="Start search">
+<svg viewBox="0 0 20 20" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg">
+<title>Search</title>
+<use href="#icon-search" />
+</svg>
+</button>
+<button class="slide-search__close" id="search-close" type="button">
+<svg viewBox="0 0 20 20" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg">
+<title>Close</title>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.513 16.6291L10.8839 9.99995L17.513 3.37082L16.6291 2.48694L10 9.11606L3.37088 2.48694L2.487 3.37082L9.11613 9.99995L2.487 16.6291L3.37088 17.513L10 10.8838L16.6291 17.513L17.513 16.6291Z" />
+</svg>
+</button>
+</form>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<nav class="master-menu js-master-menu" role="navigation" aria-hidden="true">
+<div class="master-menu__content ">
+<div class="row row--6-col">
+<div class="col is-menu">
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">WASHINGTON & POLITICS</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/live-updates/congress" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=1">Congress</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/white-house" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=1">White House</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/elections" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=1">Elections</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/legal" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=4&amp;lcol=1">Legal</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/magazine" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=5&amp;lcol=1">Magazine</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/foreign-affairs" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=6&amp;lcol=1">Foreign Affairs</a></li>
+</ul>
+</div>
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">2024 ELECTIONS</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/2024-elections" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=7&amp;lcol=1">News</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/interactives/2023/republican-candidates-2024-gop-presidential-hopefuls-list/" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=8&amp;lcol=1">GOP Candidate Tracker</a></li>
+</ul>
+</div>
+</div><div class="col is-menu">
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">STATE POLITICS & POLICY</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/california" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=2">California</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/florida" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=2">Florida</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/new-jersey" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=2">New Jersey</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/new-york" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=4&amp;lcol=2">New York</a></li>
+</ul>
+</div>
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">GLOBAL POLITICS & POLICY</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.eu" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=5&amp;lcol=2">Brussels</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/pro-canada" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=6&amp;lcol=2">Canada</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.eu/uk" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=7&amp;lcol=2">United Kingdom</a></li>
+</ul>
+</div>
+</div><div class="col is-menu">
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">POLICY NEWS</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/agriculture" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=3">Agriculture</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/cannabis" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=3">Cannabis</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/cybersecurity" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=3">Cybersecurity</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/defense" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=4&amp;lcol=3">Defense</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/education" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=5&amp;lcol=3">Education</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/energy-and-environment" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=6&amp;lcol=3">Energy & Environment</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/finance" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=7&amp;lcol=3">Finance & Tax</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/health-care" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=8&amp;lcol=3">Health Care</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/immigration" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=9&amp;lcol=3">Immigration</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/labor" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=10&amp;lcol=3">Labor</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/sustainability" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=11&amp;lcol=3">Sustainability</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/technology" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=12&amp;lcol=3">Technology</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/trade" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=13&amp;lcol=3">Trade</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/transportation" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=14&amp;lcol=3">Transportation</a></li>
+</ul>
+</div>
+</div><div class="col is-menu">
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">NEWSLETTERS</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/playbook" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=4">Playbook</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/newsletters/playbook-pm" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=4">Playbook PM</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/newsletters/west-wing-playbook" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=4">West Wing Playbook</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/newsletters/politico-nightly" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=4&amp;lcol=4">POLITICO Nightly</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/newsletters/politico-weekend" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=5&amp;lcol=4">POLITICO Weekend</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/newsletters/the-recast" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=6&amp;lcol=4">The Recast</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/huddle/" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=7&amp;lcol=4">Huddle</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/newsletters" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=8&amp;lcol=4">All Newsletters</a></li>
+</ul>
+</div>
+</div><div class="col is-menu">
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">COLUMNISTS</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/column-tomorrow" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=5">Alex Burns</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/altitude" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=5">John Harris </a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/column-on-politics" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=5">Jonathan Martin</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/capital-city" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=4&amp;lcol=5">Michael Schaffer</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/fourth-estate" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=5&amp;lcol=5">Jack Shafer</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/rich-lowry" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=6&amp;lcol=5">Rich Lowry</a></li>
+</ul>
+</div>
+</div><div class="col is-menu">
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">SERIES & MORE</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/subscribe/breaking-news-alerts" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=6">Breaking News Alerts</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/podcasts" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=6">Podcasts</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/video" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=6">Video</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/series/states/the-fifty" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=4&amp;lcol=6">The Fifty</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/womenrule" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=5&amp;lcol=6">Women Rule</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/news/matt-wuerker" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=6&amp;lcol=6">Matt Wuerker Cartoons</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/tag/cartoon-carousel" target="_top" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=7&amp;lcol=6">Cartoon Carousel</a></li>
+</ul>
+</div>
+<div class="col is-menu">
+<h2 class="menu-toggle js-menu-toggle section-heading">POLITICO Live</h2>
+<ul class="master-menu__list">
+<li class="master-menu__item">
+<a href="https://www.politico.com/live-events/upcoming" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=8&amp;lcol=6">Upcoming Events</a></li>
+<li class="master-menu__item">
+<a href="https://www.politico.com/live-events/previous" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=9&amp;lcol=6">Previous Events</a></li>
+</ul>
+</div>
+</div></div><footer class="row menu-footer">
+<div class="menu-footer__follow">
+<h2 class="section-heading" aria-label="follow us">Follow us</h2>
+<ul class="menu-footer__list menu-footer__list--follow">
+<li class="menu-footer__item">
+<a href="https://twitter.com/politico" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=7">Twitter</a></li>
+<li class="menu-footer__item">
+<a href="https://www.instagram.com/politico/" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=7">Instagram</a></li>
+<li class="menu-footer__item">
+<a href="https://www.facebook.com/politico/" target="_blank" tabindex="-1" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=3&amp;lcol=7">Facebook</a></li>
+</ul>
+</div>
+<div class="menu-footer__actions">
+<ul class="menu-footer__list menu-footer__list--actions">
+<li class="menu-footer__item">
+<a href="https://www.politico.com/settings" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=1&amp;lcol=8">My Account</a></li>
+<li class="menu-footer__item">
+<a href="https://www.politico.com/_login?base=https%3A%2F%2Fwww.politico.com&amp;redirect=%2F_login&amp;logout=%2F_logout&amp;lRedirect=true&amp;sRedirect=%2Fsettings&amp;js=false" style="display: none;" class="politico-auth auth-logged-out js-tealium-tracking" target="_top" data-login="https://www.politico.com/_login?base=https%3A%2F%2Fwww.politico.com&amp;redirect=/_login&amp;logout=/_logout&amp;lRedirect=true&amp;sRedirect=/settings" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=8">Log In</a><a href="https://www.politico.com//_logout?base=https%3A%2F%2Fwww.politico.com&amp;redirect=%2F_logout&amp;js=false" style="display: none;" class="politico-auth auth-logged-in js-tealium-tracking" data-logout="https://www.politico.com//_logout?base=https%3A%2F%2Fwww.politico.com&amp;redirect=/_logout" target="_top" data-tracking="mpos=na&amp;mid=site_navigation&amp;lindex=2&amp;lcol=8">Log Out</a></li>
+</ul>
+</div>
+</footer>
+</div>
+</nav>
+</header>
+<script src="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/core-header.min.5e347acb6c268666a7ceba5058d288df.gz.js"></script>
+<main class="super-duper" role="main" id="main" tabindex="0">
+<div class="super  fixed-top">
+<div class="super-inner">
+<div class="content layout-full">
+<section class="content-groupset pos-omega">
+<div id="pol-01-wrap" class="content-group ad " aria-label="Advertisement">
+<div class="ad-slot   flex horizontal remove-label " id="pol-01" aria-hidden="true">
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="super">
+<div class="super-inner">
+<div class="content layout-full">
+<section class="content-groupset pos-omega">
+<div class="content-group story-segment">
+<div class="sign-up-21 is-legacy" data-api="/spring/cms-api/v1/fpd-21">
+<div class="col sign-up-21--header">
+<div class="sign-up-21--summary">
+<h3 class="sign-up-21--title">
+<a href="https://www.politico.com/power-switch" target="_top" class="js-tealium-tracking" data-tracking="mpos=center&amp;mid=sign_up_21&amp;lindex=1&amp;lcol=0">Power Switch</a></h3>
+<p class="sign-up-21--subtitle">
+Your guide to the political forces shaping the energy transformation</p>
+</div>
+<div class="sign-up-21--logo">
+<a href="https://www.politico.com/power-switch" target="_top" class="js-tealium-tracking" data-tracking="mpos=center&amp;mid=sign_up_21&amp;lindex=2&amp;lcol=0"><img data-lazy-img="https://static.politico.com/97/63/4f0e10d04f6f9a910ce7be7e72b8/politico-power-switch-keyart-1.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Power Switch newsletter logo"></a></div>
+</div>
+<div class="col sign-up-21--fullwidth-col-left">
+<div class="col sign-up-21--header">
+<div class="sign-up-21--logo">
+<a href="https://www.politico.com/power-switch" target="_top" class="js-tealium-tracking" data-tracking="mpos=center&amp;mid=sign_up_21&amp;lindex=3&amp;lcol=0"><img data-lazy-img="https://static.politico.com/97/63/4f0e10d04f6f9a910ce7be7e72b8/politico-power-switch-keyart-1.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Power Switch newsletter logo"></a></div>
+<div class="sign-up-21--summary">
+<h3 class="sign-up-21--title">
+<a href="https://www.politico.com/power-switch" target="_top" class="js-tealium-tracking" data-tracking="mpos=center&amp;mid=sign_up_21&amp;lindex=4&amp;lcol=0">Power Switch</a></h3>
+<p class="sign-up-21--subtitle">
+Your guide to the political forces shaping the energy transformation</p>
+</div>
+</div>
+<div class="row-bottom">
+<p class="form-policy">
+By signing up, you acknowledge and agree to our <a href="https://www.politico.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://www.politico.com/terms-of-service" target="_blank">Terms of Use</a>. You may unsubscribe at any time by following the directions at the bottom of the newsletter or by <a href="https://www.politico.com/feedback" target="_blank">contacting us here</a>. This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.
+</p>
+</div>
+</div>
+<div class="col col-form">
+<form class="form-section">
+<input type="hidden" name="subscribeId" value="0000014f-1646-d88f-a1cf-5f46b3e50000" />
+<input type="hidden" name="processorId" value="00000181-b532-d590-abb9-fd36f47d0000" />
+<input type="hidden" name="validateEmail" value="true" />
+<input type="hidden" name="enhancedSignUp" value="true" />
+<input type="hidden" name="bot-field" value class="dn" />
+<input type="hidden" name="subscriptionModule" value="newsletter_page_standard_Power Switch - POLITICO" class="dn" />
+<input type="hidden" name="captchaUserToken" value autocomplete="off" />
+<input type="hidden" name="captchaPublicKey" value="6LfS6L8UAAAAAAHCPhd7CF66ZbK8AyFfk3MslbKV" autocomplete="off" />
+<div class="sign-up-21--msg sign-up-21--msg-spinner active" aria-hidden="true">
+<div class="msg-content">
+<p>Loading</p>
+<svg class="sign-up-21--msg-icon-lg sign-up-21--spinner-icon-lg" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#4D8AD2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-loader">
+<line x1="12" y1="2" x2="12" y2="6"></line>
+<line x1="12" y1="18" x2="12" y2="22"></line>
+<line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line>
+<line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line>
+<line x1="2" y1="12" x2="6" y2="12"></line>
+<line x1="18" y1="12" x2="22" y2="12"></line>
+<line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line>
+<line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line>
+</svg>
+</div>
+</div>
+<div class="sign-up-21--msg sign-up-21--msg-completed" aria-live="assertive" aria-hidden="true">
+<div class="msg-content">
+<p>You will now start receiving email updates</p>
+<svg class="sign-up-21--msg-icon-lg" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M44 22.1597V23.9997C43.9975 28.3126 42.601 32.5091 40.0187 35.9634C37.4363 39.4177 33.8066 41.9447 29.6707 43.1675C25.5349 44.3904 21.1145 44.2435 17.0689 42.7489C13.0234 41.2543 9.56931 38.4919 7.22192 34.8739C4.87453 31.2558 3.75958 26.9759 4.04335 22.6724C4.32712 18.3689 5.99441 14.2724 8.79656 10.9939C11.5987 7.71537 15.3856 5.43049 19.5924 4.48002C23.7992 3.52955 28.2005 3.9644 32.14 5.71973" stroke="#4D8AD2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M44 8L24 28.02L18 22.02" stroke="#4D8AD2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+</div>
+<div class="sign-up-21--msg sign-up-21--msg-already-subscribed" aria-live="assertive" aria-hidden="true">
+<div class="msg-content">
+<p tabindex="-1">You are already subscribed</p>
+<svg class="sign-up-21--msg-icon-lg" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-thumbs-up">
+<path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>
+</svg>
+<a href="https://www.politico.com/newsletters" target="_top" class="js-tealium-tracking" data-tracking="mpos=center&amp;mid=sign_up_21&amp;lindex=5&amp;lcol=0">More Subscriptions</a></div>
+</div>
+<div class="sign-up-21--msg sign-up-21--msg-error" aria-live="assertive" aria-hidden="true">
+<div class="sign-up-21--msg-close">
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="close" fill-rule="evenodd" clip-rule="evenodd" d="M17.513 16.6291L10.8839 9.99995L17.513 3.37082L16.6291 2.48694L10 9.11606L3.37088 2.48694L2.487 3.37082L9.11613 9.99995L2.487 16.6291L3.37088 17.513L10 10.8838L16.6291 17.513L17.513 16.6291Z" fill="#000"></path>
+</svg>
+</div>
+<div class="msg-content">
+<p style="color:#9E352C">Something went wrong</p>
+</div>
+</div>
+<fieldset class="form-container active">
+<div class="form-row row-email">
+<div class="form-row-container">
+<label class="data-form-label" for="email" aria-hidden="true">Email</label>
+<span class="sign-up-21--error-msg" aria-hidden="true">
+<span class="sign-up-21--exclamation">!</span>
+<span id="email-hint">Please make sure that the email address you typed in is valid</span>
+</span>
+<div class="form-row-container--input">
+<input type="email" name="subscribeEmail" aria-label="Email" placeholder="Your Email" required>
+</div>
+</div>
+</div>
+<div class="form-row row-secondary-questions">
+<div class="sign-up-21--secondary-questions-container">
+</div>
+</div>
+<div class="form-row row-notice">
+<span class="sign-up-21--notice">
+<span class="color-red">*</span> All fields must be completed to subscribe.
+</span>
+<button type="submit" class="submit-button">Sign Up</button>
+</div>
+<div class="row-bottom">
+<p class="form-policy">
+By signing up, you acknowledge and agree to our <a href="https://www.politico.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://www.politico.com/terms-of-service" target="_blank">Terms of Use</a>. You may unsubscribe at any time by following the directions at the bottom of the newsletter or by <a href="https://www.politico.com/feedback" target="_blank">contacting us here</a>. This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.
+</p>
+<button type="submit" class="submit-button">Sign Up</button>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="super">
+<div class="super-inner">
+<article class="content layout-story sticky-wrapper">
+<section class="content-groupset pos-alpha">
+<div class="content-group story-tools">
+<div class="tools-group">
+<div class="tools-item">
+<aside class="user-tools orient-vertical sticky-content">
+<ul class="share-tools tools-list">
+<li class="share-facebook">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://politi.co/3Q65RUZ" target="_blank" data-track-link="share" data-share-service="facebook" aria-label="Facebook (opens in a new window)">
+<b aria-hidden="true" class="icon icon-facebook"></b>
+<span class="icon-text count-facebook" data-shares-text="false" style="opacity: 1;">Facebook</span>
+</a>
+</li>
+<li class="share-twitter">
+<a href="https://twitter.com/intent/tweet?url=https://politi.co/3Q65RUZ&amp;text=FEMA cuts disaster aid ahead of shutdown&amp;via=politico" target="_blank" data-track-link="share" data-share-service="twitter" aria-label="Twitter (opens in a new window)">
+<b aria-hidden="true" class="icon icon-twitter"></b>
+<span class="icon-text count-twitter" data-shares-text="true" style="opacity: 1;">Twitter</span>
+</a>
+</li>
+</ul>
+<ul class="utility-tools tools-list">
+<li class="utility-print"> <a href="#" onClick="window.print();return false;">
+<b aria-hidden="true" class="icon icon-print"></b>
+<span class="icon-text">Print</span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+</section>
+<section class="content-groupset pos-beta">
+<div class="content-group story-core">
+<div class="story-text">
+<div class="shifty-wrapper empty-at-base empty-at-small empty-at-medium" data-set="shifty-story-interrupt"></div>
+<div class="story-intro format-s">
+<div class="summary">
+<header>
+<h1>FEMA cuts disaster aid ahead of shutdown</h1>
+</header>
+<footer class="meta">
+<p class="byline">By <a href="https://www.politico.com/staff/arianna-skibell" target="_top">ARIANNA SKIBELL</a>&nbsp;</p>
+<p class="timestamp"><time datetime="2023-09-28 17:59:00">09/28/2023 05:59 PM EDT</time></p>
+</footer>
+</div>
+<div class="pb-header-ad pb-header-ad--horizontal">
+<p class="pb-header-ad__tag pb-header-ad__tag--horizontal">Presented by</p>
+<a href target="_blank">
+<img class="pb-header-ad__img pb-header-ad__img--horizontal" src="https://static.politico.com/3e/e7/ad563e86456b9192e24a8545f86d/acc-ccac-politico-newsletter-header-logo.png" width="125" style="width:100%;max-width:125px">
+</a>
+</div>
+</div>
+<style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}</style><div class="story-interrupt pos-alpha format-m ">
+<aside class="interrupt-item">
+<div class="story-media">
+<figure class="media-item type-photo">
+<div class="fig-graphic ">
+<picture>
+<source srcset="https://www.politico.com/dims4/default/e9b641c/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 1x, https://www.politico.com/dims4/default/deff60b/2147483647/resize/1524x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 2x" media="(min-width: 1012px)">
+<source srcset="https://www.politico.com/dims4/default/2abfb77/2147483647/resize/465x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 1x, https://www.politico.com/dims4/default/f7c33da/2147483647/resize/930x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 2x" media="(min-width: 686px)">
+<source srcset="https://www.politico.com/dims4/default/90c96f1/2147483647/resize/665x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 1x, https://www.politico.com/dims4/default/a7974e5/2147483647/resize/1330x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 2x" media="(min-width: 321px)">
+<source srcset="https://www.politico.com/dims4/default/d0185cf/2147483647/resize/310x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 1x, https://www.politico.com/dims4/default/f9cb384/2147483647/resize/620x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 2x" media="(max-width: 320px)">
+<img data-lazy-img="https://www.politico.com/dims4/default/e9b641c/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386" srcset="https://www.politico.com/dims4/default/e9b641c/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 1x, https://www.politico.com/dims4/default/deff60b/2147483647/resize/1524x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F92%2Fc6%2F735b576045839d4241e655e7d9ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F850860386 2x" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="A  man walks through floodwaters in Catano town, Puerto Rico, on Sept. 21, 2017, after Hurricane Maria devastated the island."></picture>
+</div>
+<figcaption>
+<p>
+A man walks through floodwaters in Catano, Puerto Rico, on Sept. 21, 2017, after Hurricane Maria devastated the island. | Hector Retamal/AFP/Getty Images</p>
+</figcaption>
+</figure>
+</div>
+</aside>
+</div>
+<p>The Federal Emergency Management Agency is preparing to withhold $8 billion in disaster recovery funding from states and territories until Congress replenishes its coffers — one of a host of spending decisions mired in the stalemate that’s threatening a government shutdown.</p><p><a href="https://www.eenews.net/articles/fema-document-8b-in-disaster-aid-to-be-withheld/" target="_blank">Thomas Frank discovered</a> the plan for the self-imposed funding restriction in the fine print of a recent FEMA report. It is intended to ensure the agency can respond to the immediate needs of future emergencies (by clearing roads and sheltering displaced residents, for example) while it waits for Congress to replenish its coffers.</p><p>But clawing back long-term recovery funds threatens to delay thousands of projects in 27 states and territories aimed at repairing roads, buildings and other facilities damaged by recent disasters.</p><aside class="story-related cl-l db ">
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/152ec65c-9594-400f-9003-f457f3b5f662?dark=false"></iframe></aside><p><br>Puerto Rico is projected to suffer the greatest loss. FEMA plans to withhold $2.6 billion, as the financially strained island struggles to rebuild the electric grid, hospitals and other critical facilities still wrecked from Hurricane Maria in 2017, earthquakes in 2020 and Hurricane Fiona in 2022.</p><p>Florida and Louisiana also face significant impacts from the FEMA restrictions, to the tune of hundreds of millions of dollars.</p><p><b>How did we get here?</b><br>President Joe Biden requested $16 billion in emergency disaster cash for the agency’s dwindling Disaster Relief Fund, and FEMA is seeking an additional $20 billion for the fund in the fiscal year that begins Sunday.</p><p>Money for both requests is stalled, though, as <a href="https://www.politico.com/live-updates/2023/09/28/congress/gaetz-v-mccarthy-clash-00118739" target="_blank">squabbling House Republicans</a> barrel <a href="https://www.politico.com/live-updates/2023/09/28/congress/senate-keeps-advancing-doomed-stopgap-00118782" target="_blank">toward Saturday’s midnight deadline</a> to keep the government running. A <a href="https://www.politico.com/news/2023/09/26/senate-shutdown-prevention-plan-00118277" target="_blank">proposed stopgap bill in the Senate</a> would offer about $6 billion in disaster relief.</p><p>Meanwhile, a hotter planet is fueling an increase in the frequency and intensity of natural disasters, and recovery efforts and aid are <a href="https://www.politico.com/newsletters/power-switch/2023/08/11/fires-floods-plunge-u-s-deeper-in-the-red-00110877" target="_blank">struggling to keep up</a>.</p><p>Since last month’s <a href="https://www.politico.com/newsletters/power-switch/2023/08/15/disasters-crash-bidens-climate-law-celebration-00111262" target="_blank">devastating wildfires in Hawaii</a>, FEMA has declared at least 15 more major disasters, bringing the total active count to 82 — not to mention pending requests from governors for additional emergency declarations.</p><p>A senior FEMA official told Thomas that the agency may end up withholding even more money if Congress doesn’t approve new disaster funding on time.</p><p>Oh, and there are still two months left in hurricane season.<br></p>
+<span class="story-text__divider"></span>
+<p><i>It’s Thursday</i><b><i> </i></b><i>— thank you for tuning in to </i><span style="color:#b70000;font-weight:bold;font-family:sans-serif;"><b><i>POLITICO’s Power Switch</i></b><i>.</i></span><i> I’m your host, </i><a href="https://twitter.com/AriannaSkibell" target="_blank"><i>Arianna Skibell.</i></a><i> Power Switch is brought to you by the journalists behind </i><b><i>E&amp;E News </i></b><i>and </i><b><i>POLITICO Energy</i></b><i>. </i></p><p><i>Send your tips, comments, questions to </i><a href="/cdn-cgi/l/email-protection#39584a52505b5c5555795c5c575c4e4a17575c4d" target="_blank"><i><span class="__cf_email__" data-cfemail="8feefce4e6edeae3e3cfeaeae1eaf8fca1e1eafb">[email&#160;protected]</span></i></a><i>. And folks, let’s keep it classy.</i><br></p><aside class="story-related cl-l db "> <div class="intext-ad intext-ad--presented  " style="background-color:#ffffff"> <p class="intext-ad__caption" style="color:#000000">A message from American Chemistry Council – Chemistry Creates America Competes:</p> <style>
+                .intext-ad__copy-styles0 p {
+                    color:#000000;
+                    margin-top:0;
+                    margin-bottom:1rem;
+                    line-height:1.5;
+                    font-family: Georgia,Times,serif;
+                }
+                .intext-ad__copy-styles0 a {
+                    color:#007bc7;
+                    text-decoration:underline;
+                }
+            </style> <div class="intext-ad__copy-styles0"> <p>Powering the nation’s supply chain, the U.S. business of chemistry drives innovation in semiconductors, energy, healthcare, and more. But urgent action is needed! Already the most heavily regulated sector, America’s chemical industry faces growing regulatory overload. Before it’s too late, the Biden Administration and Congress must correct course and do a better job understanding the negative impact additional, unduly restrictive regulations have on a fragile supply chain. Learn more – <a style="color:#007bc7; text-decoration:underline;" href="https://ad.doubleclick.net/ddm/clk/571628106;380995074;q" target="_blank"><i>Chemistry Creates, America Competes</i></a></p> </div> </div> </aside><p><b>Today in POLITICO Energy’s podcast: </b>Ben Lefebvre <a href="https://politico-energy.simplecast.com/episodes/biden-is-pushing-to-break-chinas-dominance-of-african-minerals" target="_blank">breaks down</a> why the Biden administration is meeting with African companies to shore up the United States’ supply of the critical minerals needed for the clean energy transition.<br></p><aside class="story-related cl-l db "> <div class="intext-ad intext-ad--img-only  ad-slot" style="background-color:#FFFFFF"> <p class="intext-ad__caption" style="color:#000000">A message from American Chemistry Council – Chemistry Creates America Competes:</p><p><a href="https://ad.doubleclick.net/ddm/clk/571644231;381001113;m" target="_blank"><img class="intext-ad__img" align="ad-slot" style="width:100%;max-width:500px" width="500" src="https://static.politico.com/bf/47/a6096b6c47a38efd2e94177fa2e9/acc-ccac-politico-newsletter-ad-3-2.png" title="Advertisement Image" alt="Advertisement Image"></a> </p> </div> </aside>
+<header class="block-p-header">
+<h2>Power Centers</h2>
+</header>
+<div class="story-interrupt pos-alpha format-m ">
+<aside class="interrupt-item">
+<div class="story-media">
+<figure class="media-item type-photo">
+<div class="fig-graphic ">
+<picture>
+<source srcset="https://www.politico.com/dims4/default/70904f2/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 1x, https://www.politico.com/dims4/default/f813f09/2147483647/resize/1524x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 2x" media="(min-width: 1012px)">
+<source srcset="https://www.politico.com/dims4/default/01127a0/2147483647/resize/465x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 1x, https://www.politico.com/dims4/default/2ce77e9/2147483647/resize/930x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 2x" media="(min-width: 686px)">
+<source srcset="https://www.politico.com/dims4/default/9dc02f3/2147483647/resize/665x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 1x, https://www.politico.com/dims4/default/d5ed5c2/2147483647/resize/1330x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 2x" media="(min-width: 321px)">
+<source srcset="https://www.politico.com/dims4/default/df573f5/2147483647/resize/310x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 1x, https://www.politico.com/dims4/default/db42498/2147483647/resize/620x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 2x" media="(max-width: 320px)">
+<img data-lazy-img="https://www.politico.com/dims4/default/70904f2/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg" srcset="https://www.politico.com/dims4/default/70904f2/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 1x, https://www.politico.com/dims4/default/f813f09/2147483647/resize/1524x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F4b%2Ffbe40ea34a1cbd2febfb6f44d43a%2Fgw-1110-richards-oilandgas-1160-01.jpg 2x" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Rig and supply vessel in Gulf of Mexico."></picture>
+</div>
+<figcaption>
+<p>
+A rig and supply vessel can be seen in this 2011 photo in the Gulf of Mexico, off the coast of Louisiana. | Gerald Herbert/AP Photo</p>
+</figcaption>
+</figure>
+</div>
+</aside>
+</div>
+<p><span style="color:#b70000;font-weight:bold;font-family:sans-serif;">Biden’s plan for offshore oil </span><br>The Biden administration plans to publish its much-anticipated five-year blueprint for oil and gas drilling off the nation’s coasts, <a href="https://www.eenews.net/articles/4-things-to-watch-in-bidens-offshore-oil-plan/" target="_blank">writes Heather Richards.</a></p><p>What’s inside the plan, which is slated for release despite the looming government shutdown, is somewhat of a mystery. But its contents are certain to draw pushback from either environmentalists or the oil and gas industry. Or both. </p><p><span style="color:#b70000;font-weight:bold;font-family:sans-serif;">Green group layoffs</span><br>The Natural Resources Defense Council, an influential New York-based environmental group, has announced it’s laying off dozens of employees, <a href="https://www.eenews.net/articles/nrdc-lays-off-dozens-of-staffers/" target="_blank">writes Robin Bravender.</a> </p><p>Manish Bapna, the organization’s president and CEO, told employees in an email that 6 percent of the group’s staff will be leaving NRDC as part of a “reset.”</p><p><span style="color:#b70000;font-weight:bold;font-family:sans-serif;">Can AI drive down carbon?</span><br>Panelists at POLITICO’s AI &amp; Tech Summit said Wednesday that the potential for rapidly advancing machine learning programs to help reduce greenhouse gas emissions is expansive, <a href="https://www.politico.com/news/2023/09/27/ai-carbon-dioxide-energy-ee-power-00118452" target="_blank">writes Corbin Hiar.</a></p><p>At the same time, questions remain about how much energy-hungry AI programs will add to the climate challenge.<br></p>
+<header class="block-p-header">
+<h2>In Other News</h2>
+</header>
+<p><b>Elsewhere on the Hill:</b> Eighteen youth climate <a href="https://www.theguardian.com/environment/2023/sep/28/young-climate-protesters-government-shutdown-kevin-mccarthy" target="_blank">activists were arrested</a> while protesting a potential government shutdown outside House Speaker Kevin McCarthy’s (R-Calif.) office today. </p><p><b>Lessons from this summer:</b> How to <a href="https://www.nytimes.com/2023/09/28/travel/travel-lessons-climate-change.html" target="_blank">navigate the unpredictability</a> of travel in the age of climate change.<br></p>
+<header class="block-p-header">
+<h2>Subscriber Zone</h2>
+</header>
+<p><i>A showcase of some of our best subscriber content.</i><br></p><div class="story-interrupt pos-alpha format-m ">
+<aside class="interrupt-item">
+<div class="story-media">
+<figure class="media-item type-photo">
+<div class="fig-graphic ">
+<picture>
+<source srcset="https://www.politico.com/dims4/default/0cd615d/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 1x, https://www.politico.com/dims4/default/3756760/2147483647/resize/1524x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 2x" media="(min-width: 1012px)">
+<source srcset="https://www.politico.com/dims4/default/cb5cf63/2147483647/resize/465x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 1x, https://www.politico.com/dims4/default/db3690a/2147483647/resize/930x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 2x" media="(min-width: 686px)">
+<source srcset="https://www.politico.com/dims4/default/ffa75be/2147483647/resize/665x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 1x, https://www.politico.com/dims4/default/db2e783/2147483647/resize/1330x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 2x" media="(min-width: 321px)">
+<source srcset="https://www.politico.com/dims4/default/21b26e5/2147483647/resize/310x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 1x, https://www.politico.com/dims4/default/83bd080/2147483647/resize/620x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 2x" media="(max-width: 320px)">
+<img data-lazy-img="https://www.politico.com/dims4/default/0cd615d/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg" srcset="https://www.politico.com/dims4/default/0cd615d/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 1x, https://www.politico.com/dims4/default/3756760/2147483647/resize/1524x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2F1a%2F3b5a70f9433a8f668e2c64590e8d%2Felection-2024-debate-46771.jpg 2x" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Florida Gov. Ron DeSantis, left, and businessman Vivek Ramaswamy argue a point during a Republican presidential primary debate hosted by FOX Business Network and Univision, Wednesday, Sept. 27, 2023, at the Ronald Reagan Presidential Library in Simi Valley, Calif."></picture>
+</div>
+<figcaption>
+<p>
+Florida Gov. Ron DeSantis (left) and businessman Vivek Ramaswamy argue a point during a Republican presidential primary debate. | AP Photo / Mark J. Terrill</p>
+</figcaption>
+</figure>
+</div>
+</aside>
+</div>
+<p><b>Republican presidential </b><a href="https://subscriber.politicopro.com/article/eenews/2023/09/28/gop-candidates-seize-on-anti-china-rhetoric-to-attack-climate-policy-00118661" target="_blank"><b>candidates repeatedly circled</b></a><b> back to two</b> boogeymen during Wednesday’s two-hour debate: Biden and China.</p><p><b>Your guide </b><a href="https://subscriber.politicopro.com/article/eenews/2023/09/28/were-on-the-brink-of-a-shutdown-heres-what-to-know-00118759" target="_blank"><b>to the energy and environmental</b></a><b> programs that </b>could be affected if the government shutters this weekend.</p><p><b>Sunnova Energy and the Energy Department’s Loan Programs Office</b> finalized a $3 billion partial loan guarantee <a href="https://subscriber.politicopro.com/article/2023/09/doe-and-sunnova-close-on-3b-solar-loan-guarantee-00118681" target="_blank">to help offer solar power</a> and battery storage to disadvantaged communities.</p><p><b>Oil and gas </b><a href="https://subscriber.politicopro.com/article/eenews/2023/09/28/oil-execs-on-record-production-2050-outlook-00118426" target="_blank"><b>activity grew</b></a><b> for the first time this year during</b> the third quarter, according to a poll of energy executives conducted by the Federal Reserve Bank of Dallas.</p><p>That’s it for today, folks! Thanks for reading.<br></p><aside class="story-related cl-l db "> <div class="intext-ad intext-ad--presented  " style="background-color:#ffffff"> <p class="intext-ad__caption" style="color:#000000">A message from American Chemistry Council – Chemistry Creates America Competes:</p> <style>
+                .intext-ad__copy-styles2 p {
+                    color:#000000;
+                    margin-top:0;
+                    margin-bottom:1rem;
+                    line-height:1.5;
+                    font-family: Georgia,Times,serif;
+                }
+                .intext-ad__copy-styles2 a {
+                    color:#007bc7;
+                    text-decoration:underline;
+                }
+            </style> <div class="intext-ad__copy-styles2"> <p>Our nation’s supply chain runs on the U.S. business of chemistry. When <a style="color:#007bc7; text-decoration:underline;" href="https://ad.doubleclick.net/ddm/clk/571628100;380995068;n" target="_blank"><i>chemistry creates, America competes.</i></a> </p> <p>Semiconductors, automotive, healthcare, infrastructure, and energy all rely on chemistry. From EV’s to smartphones, America’s chemical manufacturers power innovations we can’t live without. </p> <p>Unfortunately, regulatory overload and lack of coordination between the White House and its agencies is handicapping American chemistry’s ability to create products that support national priorities, jeopardizing the economy and America’s ability to compete with countries like China. This tidal wave of unduly restrictive regulations could disrupt the supply chain for crucial technologies and everyday products. </p><p>President Biden and his administration need to understand how vital chemistry is to the supply chain when it comes to making the things America and the world can’t live without. The Biden Administration and Congress must support policies that empower chemistry, promote American innovation, and strengthen U.S. competitiveness. Learn more – <a style="color:#007bc7; text-decoration:underline;" href="https://ad.doubleclick.net/ddm/clk/571644249;381001131;v" target="_blank"><i>Chemistry Creates, America Competes</i>.</a></p> </div> </div> </aside><ul class="twitter-authors">
+<h1 class="twitter-authors__headline">Follow us on Twitter</h1>
+<div class="twitter-authors__content">
+<img src="https://static.politico.com/hosted/icon-twitter-circle-blue%402x.png" class="twitter-authors__icon">
+<ul class="twitter-authors__list">
+<li>Arianna Skibell <a href="https://twitter.com/ariannaskibell" target="_blank" rel="noopener noreferrer">@ariannaskibell</a></li>
+</ul>
+</div>
+</ul>
+<ul class="pb-fam">
+<div class="pb-fam__follow">
+<h3 class="pb-fam__follow__headline" aria-label="follow us">Follow Us</h3>
+<div class="pb-fam__follow__list">
+<a class="pb-fam__follow-link" href="https://www.facebook.com/politico" target="_blank" rel="noopener noreferrer"><img src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png"></a>
+<a class="pb-fam__follow-link" href="https://twitter.com/politico" target="_blank" rel="noopener noreferrer"><img src="https://static.politico.com/hosted/icon-follow-twitter-gray%402x.png"></a>
+<a class="pb-fam__follow-link" href="https://www.instagram.com/politico/?hl=en" target="_blank" rel="noopener noreferrer"><img src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png"></a>
+<a class="pb-fam__follow-link" href="https://www.politico.com/podcasts" target="_blank" rel="noopener noreferrer"><img src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png"></a>
+</div>
+</div>
+</ul>
+<div class="story-supplement">
+<nav class="content-nav" role="navigation">
+<div class="contextual">
+<a href="https://www.politico.com/newsletters/power-switch/archive" class="button js-tealium-tracking" target="_top" data-tracking="mpos=Unknown&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">&laquo; View Archives</a></div>
+</nav>
+</div>
+<div class="shifty-wrapper empty-at-large empty-at-extra" data-set="shifty-story-interrupt">
+<div class="story-interrupt format-s pos-beta predetermined shifty-content is-masoned">
+<div id="pol-02-wrap" class="content-group ad " aria-label="Advertisement">
+<div class="ad-slot   flex vertical " id="pol-02" aria-hidden="true">
+</div>
+</div>
+<aside class="content-group interrupt-item global-author-description">
+<div class="widget caste-exclusive">
+<header class="widget-header">
+<h2>About The Author<span class="sr-only" role="presentation"> : Arianna Skibell</span>
+</h2>
+</header>
+<div class="widget-content">
+<div class="intel">
+<div class="intel-text">
+<a href="https://www.politico.com/staff/arianna-skibell" target="_top" class="js-tealium-tracking" data-tracking="mpos=Unknown&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed"><img data-lazy-img="https://www.politico.com/dims4/default/c0f2da2/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0d%2Fc4%2Ffe1f778a469ca6a5f5f83a19fff6%2Fa0a85fc57fe94c4fb98d524acb2c1195.jpeg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Arianna Skibell" class="pos-alpha" data-size="promo_small_square"></a>Arianna has covered the intersection of energy, environment and policy for close to a decade. Before anchoring Power Switch, she covered climate and transportation and the Federal Energy Regulatory Commission. Arianna holds a master's degree in journalism from Columbia University.</div>
+</div>
+</div>
+</div>
+</aside>
+<aside class="content-group interrupt-item global-playbook-archives">
+<div class="widget caste-exclusive">
+<header class="widget-header">
+<h2><a href="https://www.politico.com/newsletters/power-switch/archive" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">Power Switch - POLITICO Archive</a></h2>
+</header>
+<div class="widget-content">
+<ul class="story-frag-list layout-linear">
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3>
+<a href="https://www.politico.com/newsletters/power-switch/2023/11/17/power-switch-00127766" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">Friday,
+<time role="\&quot;presentation\&quot;" aria-label="\&quot;11/17/23\&quot;" pattern="\&quot;M/d/yy\&quot;" datetime="\&quot;2023-11-17T17:15:00-0500\&quot;">
+11/17/23</time>
+</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3>
+<a href="https://www.politico.com/newsletters/power-switch/2023/11/16/whats-missing-from-the-u-s-china-climate-deal-00127571" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">Thursday,
+<time role="\&quot;presentation\&quot;" aria-label="\&quot;11/16/23\&quot;" pattern="\&quot;M/d/yy\&quot;" datetime="\&quot;2023-11-16T18:00:00-0500\&quot;">
+11/16/23</time>
+</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3>
+<a href="https://www.politico.com/newsletters/power-switch/2023/11/15/darling-or-dud-has-offshore-winds-fortune-flipped-00127322" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">Wednesday,
+<time role="\&quot;presentation\&quot;" aria-label="\&quot;11/15/23\&quot;" pattern="\&quot;M/d/yy\&quot;" datetime="\&quot;2023-11-15T18:00:00-0500\&quot;">
+11/15/23</time>
+</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3>
+<a href="https://www.politico.com/newsletters/power-switch/2023/11/14/bidens-billion-dollar-warning-on-climate-00127021" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">Tuesday,
+<time role="\&quot;presentation\&quot;" aria-label="\&quot;11/14/23\&quot;" pattern="\&quot;M/d/yy\&quot;" datetime="\&quot;2023-11-14T18:03:22-0500\&quot;">
+11/14/23</time>
+</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3>
+<a href="https://www.politico.com/newsletters/power-switch/2023/11/13/small-states-lose-out-on-climate-adaptation-funds-00126824" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">Monday,
+<time role="\&quot;presentation\&quot;" aria-label="\&quot;11/13/23\&quot;" pattern="\&quot;M/d/yy\&quot;" datetime="\&quot;2023-11-13T17:57:08-0500\&quot;">
+11/13/23</time>
+</a></h3>
+</header>
+</div>
+</article>
+</li>
+</ul>
+</div>
+<footer class="widget-footer">
+<ul>
+<li>
+<a href="https://www.politico.com/newsletters/power-switch/archive" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=Unknown&amp;lindex=1&amp;lcol=gen_embed">View the Full Power Switch Archives &raquo;</a></li>
+</ul>
+</footer>
+</div>
+</aside>
+<aside class="content-group global-popular">
+<div class="widget caste-exclusive most-read-20-new-homepage-article-19s-newsletters">
+<div class="widget-nav">
+<ul class="widget-nav-list"><li class="current">
+<a href="?tab=most-read"><h2>
+<b aria-hidden="true" class="icon icon-flame"></b>
+Most Read</h2></a>
+</li></ul>
+</div>
+<div class="widget-content most-popular-tabbed-core">
+<div class="widget-prefix">
+<a href="https://www.politico.com/news/2023/11/17/desantis-bob-vander-plaats-2024-00127904" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=MostReadModule20&amp;lindex=1&amp;lcol=gen_embed"><img data-lazy-img="https://www.politico.com/dims4/default/df1f20b/2147483647/legacy_thumbnail/266x150%5E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F60%2F75%2Fa3fbe1014d48b4a0e52b5ccc40cf%2Fgop-2016-cruz.JPEG" width="266" height="150" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-size="promo_small_rectangle"></a></div>
+<ol class="story-frag-list layout-linear">
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3><a href="https://www.politico.com/news/2023/11/17/desantis-bob-vander-plaats-2024-00127904" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=MostReadModule20&amp;lindex=2&amp;lcol=1">The Vander Plaats primary is about to get its biggest test</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3><a href="https://www.politico.com/news/2023/11/17/trump-loses-mistrial-fraud-case-00127879" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=MostReadModule20&amp;lindex=3&amp;lcol=1">Trump loses bid for mistrial in fraud case as judge defends himself and his clerk</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3><a href="https://www.politico.com/news/2023/11/18/congress-retirements-2024-elections-00127883" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=MostReadModule20&amp;lindex=4&amp;lcol=1">How a flood of congressional retirements is rocking the 2024 elections</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3><a href="https://www.politico.com/news/2023/11/17/colorado-judge-rules-trump-engaged-in-insurrection-but-can-still-run-for-president-00127909" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=MostReadModule20&amp;lindex=5&amp;lcol=1">Colorado judge rules Trump &lsquo;engaged in an insurrection&rsquo; &mdash; but can still run for president</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="story-frag format-xxs">
+<div class="summary">
+<header>
+<h3><a href="https://www.politico.com/news/magazine/2023/11/17/us-presidents-ufo-obsession-00127519" target="_top" class="js-tealium-tracking" data-tracking="mpos=right-rail&amp;mid=MostReadModule20&amp;lindex=6&amp;lcol=1">Which Presidents Have Seen UFOs? Yep, It&rsquo;s More Than One.</a></h3>
+</header>
+</div>
+</article>
+</li>
+</ol>
+</div>
+</div>
+</aside>
+<div id="pol-04-wrap" class="content-group ad " aria-label="Advertisement">
+<div class="ad-slot   flex vertical " id="pol-04" aria-hidden="true">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</article>
+</div>
+</div>
+</main>
+<footer class="footer">
+<nav class="footer__group footer__group--links" role="contentinfo">
+<ul>
+<li>
+<a href="https://www.politico.com/about-us" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=1&amp;lcol=1">About Us</a></li>
+<li>
+<a href="https://www.politico.com/advertising" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=2&amp;lcol=1">Advertising</a></li>
+<li>
+<a href="https://www.politico.com/subscribe/breaking-news-alerts" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=3&amp;lcol=1">Breaking News Alerts</a></li>
+<li>
+<a href="https://www.politico.com/careers" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=4&amp;lcol=1">Careers</a></li>
+<li>
+<a href="https://www.politico.com/payment" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=5&amp;lcol=1">Credit Card Payments</a></li>
+<li>
+<a href="http://edition.pagesuite-professional.co.uk/Launch.aspx?bypass=true&amp;PBID=74262970-aa07-44b3-80c8-21fa8a8ac376" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=6&amp;lcol=1">Digital Edition</a></li>
+<li>
+<a href="https://www.politico.com/faq" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=7&amp;lcol=1">FAQ</a></li>
+<li>
+<a href="https://www.politico.com/feedback" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=8&amp;lcol=1">Feedback</a></li>
+<li>
+<a href="https://www.politico.com/politics" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=9&amp;lcol=1">Headlines</a></li>
+<li>
+<a href="https://www.politico.com/gallery" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=10&amp;lcol=1">Photos</a></li>
+<li>
+<a href="http://www.powerjobs.com/" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=11&amp;lcol=1">POWERJobs</a></li>
+<li>
+<a href="https://www.politico.com/press/about" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=12&amp;lcol=1">Press</a></li>
+<li>
+<a href="https://www.politico.com/subscriptions" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=13&amp;lcol=1">Print Subscriptions</a></li>
+<li>
+<a href="https://www.politico.com/corrections" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=14&amp;lcol=1">Request A Correction</a></li>
+<li>
+<a href="https://www.politico.com/write-for-us" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=15&amp;lcol=1">Write For Us</a></li>
+<li>
+<a href="https://www.politico.com/rss" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=16&amp;lcol=1">RSS</a></li>
+<li>
+<a href="https://www.politico.com/sitemap" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=17&amp;lcol=1">Site Map</a></li>
+</ul>
+<ul>
+<li>
+<a href="https://www.politico.com/terms-of-service" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=1&amp;lcol=2">Terms of Service</a></li>
+<li>
+<a href="https://www.politico.com/privacy-policy" target="_top" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=2&amp;lcol=2">Privacy Policy</a></li>
+<li>
+<a href="https://www.politico.com/do-not-sell" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=3&amp;lcol=2">Do not sell my info</a></li>
+<li>
+<a href="https://www.politico.com/privacy" target="_blank" class="js-tealium-tracking" data-tracking="mpos=na&amp;mid=site_footer&amp;lindex=4&amp;lcol=2">Notice to California Residents</a></li>
+</ul>
+</nav>
+<div class="footer__group footer__group--legal">
+<p class="footer__copyright"> &copy; 2023 POLITICO LLC</p>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/scriptloader.3116764ef3321bf7a23a43bbffa871e6.gz.js"></script><script>var scripts = [{'src': 'https://www.google.com/recaptcha/api.js?render=6LfS6L8UAAAAAAHCPhd7CF66ZbK8AyFfk3MslbKV'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/js/website/shared/libraries/jquery.extra.92da9856a10ae6fce38147ca8bb05f8c.gz.js'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/js/website/shared/libraries/popup.69ab75d84ac990173d81ca6b8bd70ff9.gz.js'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/js/website/shared/libraries/jquery-frame.24088515c18da4746e08f56627628e0f.gz.js'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/main.24ee53a237c9e85e5581de265e9f0cc5.gz.js'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/bsp.09e108525e4adb4a559c7d9793c26b64.gz.js'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/core-footer.min.ebc693d74a6b997262d25fa203618bef.gz.js'},{'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/core-default18-delayed.min.6efa1adde9d88ada4402803fcad4a6d4.gz.js'},{'inline': function() { buildSocial(); } },];POLITICO_Script_Loader.loadScriptsSync(scripts);</script><script type="text/javascript">$(document).ready(function(e) {
+    $('#pageProfileSettings').find('[target="_changePassword"]').attr('target', '_blank');
+    $('.header__branding h1 svg').attr('width', '261');
+});</script></div>
+<div class="ad-slot    " id="pol-oop" aria-hidden="true">
+</div>
+<script>
+    var id = 'gpt'
+    var gptadslots = [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function(){
+        if (!document.getElementById(id)) {
+            var gads = document.createElement('script');
+            gads.id = id;
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        }
+    })();
+</script>
+<script type="text/javascript">
+var utag_data = 
+{"page_level_1":"newsletters","page_level_2":"power-switch","page_level_3":"2023","page_level_4":"09","page_level_5":"28","page_level_6":"fema-cuts-disaster-aid-ahead-of-shutdown-00118766","organization_uuid":"anonymous","organization_name":"anonymous","user_login_type":"anonymous","us_em":"anonymous","content_uuid":"0000014b-3270-d4f3-a3cb-f3ffa8610000/0000018a-dc88-dd68-a3cf-dfd8ab240000","distribution_channel":"politico","content_id":"00118766","content_tag":"","free_paid_content":"free","publication_date":"20230928","original_headline":"FEMA cuts disaster aid ahead of shutdown","site_section":"tipsheets","ad_unit_section":"power-switch","viewport_ads_id":"pol-vp","event_type":"tipsheet","page_format":"1 of 1","site_domain":"www.politico.com","site_url":"https://www.politico.com/newsletters/power-switch/2023/09/28/fema-cuts-disaster-aid-ahead-of-shutdown-00118766","internal_site_id":"politico","page_type":"newsletter","content_byline":"By Arianna Skibell","content_author":"Arianna Skibell","content_source":"POLITICO","current_headline":"FEMA cuts disaster aid ahead of shutdown","tipsheet_name":"Power Switch","page_name":"newsletter - 00118766 - 20230928 - FEMA cuts disaster aid ahead of shutdown","enable_prebid":"true","enable_anchor_ad":"false","primary_vertical":"","originating_platform":"politico","cms_site_name":"politico","story_content_type":null,"story_sub_brand":"","parent_UUID":"0000018a-dc88-dd68-a3cf-dfd8ab240000","story_original_syndicated":"original","publication_hour":"4PM","newsletter_name":"power-switch"};
+
+if (typeof(Storage) !== 'undefined') {
+ if (localStorage.uId !== undefined && localStorage.uId !== '') {
+utag_data["us_id"] = localStorage.uId;
+}
+ if (localStorage.uStatus !== undefined && localStorage.uStatus !== '') {
+utag_data["us_st"] = localStorage.uStatus;} else {
+utag_data["us_st"] = "anonymous";
+}
+ if (localStorage.uCid !== undefined && localStorage.uCid !== '') {
+utag_data["us_co"] = localStorage.uCid;
+}
+}
+;(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/politico/main/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8284287b9e94f977","b":1,"version":"2023.10.0","token":"7d9e7eadcdaa4879a3e03eb2c3bbd3be"}' crossorigin="anonymous"></script>
+</body>
+</html>

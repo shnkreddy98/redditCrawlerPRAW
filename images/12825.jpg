@@ -1,0 +1,2202 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en-US">
+    <head>
+        <!-- Piano ad blocker -->
+        <script>
+            document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+            var setNptTechAdblockerCookie = function(adblocker) {
+                var d = new Date();
+                d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+                document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+            }
+            var script = document.createElement("script");
+            script.setAttribute("async", true);
+            script.setAttribute("src", "//www.npttech.com/advertising.js");
+            script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+            document.getElementsByTagName("head")[0].appendChild(script);
+        </script>
+        <!-- End Piano ad blocker -->
+
+        <!-- Piano Ad Revenue Insights -->
+        <script src="https://cdn.cxense.com/ari-ci.js"></script>
+        <!-- End Piano Ad Revenue Insights -->
+
+        <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                        <title>Russia&#039;s Crimean Red Line Has Been Erased by Ukraine</title>
+
+        <meta name="wapoGroupsX" content="default">
+        <meta name="google-site-verification" content="7Z5A6Xlt7BhqqooipJUtw0cu2IjSQ-_RnNbEA2c6pfc">
+        <meta name="facebook-domain-verification" content="mfvc1orqlhwi3yqdn555b9x0atd3ut" />
+        <meta name="pocket-site-verification" content="21de1071947281ccc893fa0bbfb1f6" />
+        
+                <!-- CANONICAL -->
+        <link rel="canonical" href="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/">
+
+                    <meta name="robots" content="noarchive">
+                    <!-- FB Tags -->
+            <meta property="og:title" content="Russia&#039;s Crimean Red Line Has Been Erased">
+            <meta property="og:image" itemprop="image" content="https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?w=1000">
+            <meta property="og:url" content="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/">
+            <meta property="og:description" content="Claims about the territory’s spiritual status have been revealed to be fiction.">
+            <meta property="og:site_name" content="Foreign Policy">
+            <meta property="fb:app_id" content="373958131177192" />
+            <meta property="og:type" content="article" />
+            <meta property="og:updated_time" content="1696436562" />
+
+            <!-- Twitter Tags -->
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@ForeignPolicy">
+            <meta name="twitter:title" content="Russia&#039;s Crimean Red Line Has Been Erased">
+            <meta name="twitter:description" content="Claims about the territory’s spiritual status have been revealed to be fiction.">
+            <meta name="twitter:image" content="https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?w=1000">
+            <meta property="twitter:domain" value="foreignpolicy.com"/>
+
+            <!-- Author Tags -->
+            <meta property="article:author" content="Casey Michel">
+            <meta name="author" content="Casey Michel">
+
+        
+        
+        
+                
+        
+
+        <!-- Preload fonts -->
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/dala-moa--normal--800.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/tiempos--normal--600.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/solido--normal--400.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/tiempos--normal--400.woff2" as="font" type="font/woff2" crossorigin>
+                <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/tiempos-headline--normal--200.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/solido-condensed--normal--600.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/solido--normal--800.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/wp-content/themes/foreign-policy-2017/public/fonts/solido--italic--500.woff2" as="font" type="font/woff2" crossorigin>
+        
+
+        <meta
+    name="application-name"
+    content="Foreign Policy">
+<meta
+    name="apple-mobile-web-app-title"
+    content="Foreign Policy">
+<meta name="theme-color" content="#eb372e">
+<meta name="msapplication-TileColor" content="#eb372e">
+<meta
+    name="msapplication-TileImage"
+    content="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/logos/favicon-256.png">
+<link
+    rel="apple-touch-icon"
+    sizes="192x192"
+    type="image/png"
+    href="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/logos/favicon-192.png">
+<link
+    rel="icon"
+    sizes="192x192"
+    type="image/png"
+    href="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/logos/favicon-192.png">
+<link
+    rel="icon"
+    sizes="16x16 32x32"
+    type="image/x-icon"
+    href="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/logos/favicon.ico">
+        <script>
+    window.FP = window.FP || {};
+    FP.Config = {"api":{"ip_access":"https:\/\/foreignpolicy.com\/r\/api\/ip-access\/","link_access":"https:\/\/foreignpolicy.com\/r\/api\/link-access\/{0}\/"},"context":{"is_home":false,"is_sponsored":false,"is_events":false},"current_site_admin_hostname":"foreignpolicy.com","current_site_hostname":"foreignpolicy.com","fonts":[{"family":"Dala Moa","option":{"style":"normal","weight":800}},{"family":"Solido","option":{"style":"normal","weight":400}},{"family":"Tiempos","option":{"style":"normal","weight":400}},{"family":"Tiempos","option":{"style":"normal","weight":600}},{"family":"Solido","option":{"style":"normal","weight":800}},{"family":"Solido Condensed","option":{"style":"normal","weight":600}}],"is_production":true,"marketing":{"after_content_messaging":"<p>Like this article? Read an unlimited number of articles, plus access to our entire 47-year printed archive, the FP App, and the Digital Magazine when you <strong><a href=\"https:\/\/foreignpolicy.com\/subscribe?utm_source=AMP%20-%20Launched%2018_08_23&amp;utm_medium=AMP&amp;utm_campaign=Premium\">subscribe to FP Premium<\/a><\/strong>!<\/p>","after_content_messaging_fbia":"<p>Like this article? Read an unlimited number of articles, plus access to our entire 47-year printed archive, the FP App, and the Digital Magazine when you <strong><a href=\"https:\/\/foreignpolicy.com\/subscribe?utm_source=FBIA%20-%20Launched%2018_09_04&amp;utm_medium=FBIA&amp;utm_campaign=Premium\">subscribe to FP Premium<\/a><\/strong>!<\/p>"},"misc":{"current_magazine_issue":{"isset":true,"link":"https:\/\/foreignpolicy.com\/the-magazine\/"}},"referrers":["google.com"],"widgets":[]};
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    lazySizesConfig = {"lazyClass":"-lazy","preloadClass":"-preloaded","loadingClass":"-loading","loadedClass":"-loaded"};
+</script>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//lngtd.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Foreign Policy &raquo; Russia&#8217;s Crimean Red Line Has Been Erased Comments Feed" href="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/foreignpolicy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='all-css-2' href='https://foreignpolicy.com/wp-includes/css/dist/block-library/style.min.css?m=1699561119g' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='all-css-4' href='https://foreignpolicy.com/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGppZWpqaGRoaWgIARP4u6w==' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='all-css-8' href='https://foreignpolicy.com/_static/??-eJytkkFuAyEMRS9UhySNmm6qHiUy4JmhAYywJ9HcvkzVRJG6asQCgRF+33zbXAs4zkpZjU6USMzAlcKYoXAMboH9dnc0ZbYtMKJLbC8sCplTwpA3qS0n8mKe4QwtQXqAHKfCmVaaTFjJd4ZOhJ5qZ2hh0c5IxTPxhWpvU9MyFINVg4tdGv+Ixoxjb+jArN37xdkyVh/y+BwYRWgd0NrgrobSzhfKnqtB70EZHMYWYwU7q3K+JTQJg+psPz0bxtWh2w6eBpyj3uEhuzj7hv1q/SEfkGJTaWqPQYm4UP1vUaKod3cnWgtEL9B+XlWALPMZCi5XjBHu0wyJbYgE6E8piINII7rlj2yaocR5DLkVTlrQnWG337z/GPh7seZ8po/dcbvdH95ed4dvC/LbNA==' type='text/css' media='all' />
+<script type="text/javascript" src="https://foreignpolicy.com/_static/??-eJytzlEOgjAQBNALWRYwgj/Gs9QyaEnbbXYrBk4vJN4A/yaTzMvQJxvHqSAVKi9EKI0s8M9kMgfvFtPWTU9WFUVJxZE68XnLM9LAQtDOZOHoFZV9F64mPdFRdNzGo3Xgh0JmSKXFpsEGTjjm/6rd1788DXZd1K/YtXu8NV1ft5dz3VynL3xrf7g=" ></script><link rel="https://api.w.org/" href="https://foreignpolicy.com/wp-json/" /><link rel="alternate" type="application/json" href="https://foreignpolicy.com/wp-json/wp/v2/posts/1126038" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://foreignpolicy.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<link rel="canonical" href="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/" />
+<link rel='shortlink' href='https://foreignpolicy.com/?p=1126038' />
+<link rel="alternate" type="application/json+oembed" href="https://foreignpolicy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforeignpolicy.com%2F2023%2F10%2F04%2Fcrimea-russia-ukraine-red-line%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://foreignpolicy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforeignpolicy.com%2F2023%2F10%2F04%2Fcrimea-russia-ukraine-red-line%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<meta name="parsely-title" content="Russia&#8217;s Crimean Red Line Has Been Erased" />
+<meta name="parsely-link" content="http://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-pub-date" content="2023-10-04T08:46:19Z" />
+<meta name="parsely-section" content="Analysis" />
+<meta name="parsely-tags" content="eastern europe,europe,russia,ukraine,war" />
+<meta name="parsely-author" content="Casey Michel" />
+<link rel="icon" href="https://foreignpolicy.com/wp-content/uploads/2017/12/cropped-favicon-512_2017.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://foreignpolicy.com/wp-content/uploads/2017/12/cropped-favicon-512_2017.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://foreignpolicy.com/wp-content/uploads/2017/12/cropped-favicon-512_2017.png?w=180" />
+<meta name="msapplication-TileImage" content="https://foreignpolicy.com/wp-content/uploads/2017/12/cropped-favicon-512_2017.png?w=270" />
+
+        
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6874192-41"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    // Add additional data for GA / GTM
+    dataLayer.push({
+        'author': "Casey Michel",
+        'category': "Analysis", 
+        'datePublished': "2023-10-04",
+        'editor': "Cameron",
+        'region': "Europe",
+        'tags': "Eastern Europe, Europe, Russia, Ukraine, War", 
+        'vertical': "Europe, Security",
+        'pageType': "Article",
+        'inMagazine': "",
+        // Values below defined after Piano JS runs
+        'accessId': "",
+        'accessGroup': "",
+        'subscriberState': ""
+    });
+
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    // Remove for now - gtag('config', 'UA-6874192-41');
+
+    // GA set config and WP post content group
+    // GA track page group -  syntax: gtag('config', 'GA_TRACKING_ID', {'content_group5': '/news/sports'});
+    if ('undefined' !== typeof realReferer && '' !== document.referrer && realReferer !== document.referrer) {
+        // ONECount tracking override
+        dataLayer.push({
+            'dimension2': 'LID',
+            'dimension3': 'RGRP',
+            'dimension4': 'VID',
+            'realReferer': realReferer,
+            // track category as content group, may be replaced by dataLayer below
+            'content_group1': "Analysis"        });
+    } else {
+        // Standard tracking
+        dataLayer.push({
+            'dimension2': 'LID',
+            'dimension3': 'RGRP',
+            'dimension4': 'VID',
+            // track category as content group, may be replaced by dataLayer below
+            'content_group1': "Analysis"        });
+    }
+</script>
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KVBCHJC');</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Native ads -->
+                <!-- End Native ads -->
+
+            </head>
+    <body class="post-template-default single single-post postid-1126038 single-format-standard site-root">
+        <div class="sticky_content"></div>
+
+        <nav class="skip-links-container">
+            <a 
+            href="#navigation"
+            class="skip-link" 
+            aria-label="Skip to navigation"
+        >
+            Skip to navigation        </a>
+                <a 
+            href="#search-desktop"
+            class="skip-link" 
+            aria-label="Skip to search"
+        >
+            Skip to search        </a>
+                <a 
+            href="#main"
+            class="skip-link" 
+            aria-label="Skip to main content"
+        >
+            Skip to main content        </a>
+                <a 
+            href="#footer"
+            class="skip-link" 
+            aria-label="Skip to footer"
+        >
+            Skip to footer        </a>
+        </nav>
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVBCHJC"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <div id="site-wrapper">            <header class="site-header">
+                <div id="piano-sticky-header"></div>
+
+                <a href="https://foreignpolicy.com/" class="logo">
+    <svg class="site-icon -inline -textonly" width="75" height="47.5" viewBox="0 0 75 47.5" aria-label="Foreign Policy Magazine" role="img">
+	<title id="svg-title">Foreign Policy Magazine</title>
+	<path fill="#EE3524" d="M39.4,8.7H40V0.5H0v0.8c4.5,0.2,7.4,0.8,7.4,4.9v36c0,4.2-2.9,4.8-7.4,4.9V48h26.2v-0.8c-5.2-0.3-9-0.8-9-4.9
+		V25.2h8.7c3,0,4.2,2.2,4.9,6.2h0.5V18h-0.5c-0.7,4-1.9,6.2-4.9,6.2h-8.7V1.3h13.3C35.9,1.3,37.7,2.8,39.4,8.7 M52.9,25.2h6.2
+		c11.1,0,15.9-5.8,15.9-13.1c0-6.4-4.5-11.7-17.3-11.7H40.9l0,41.8c0,4.2-2.9,4.8-7.4,4.9V48h27.3v-0.8c-5.2-0.3-9-0.8-9-4.9V1.5
+		h3.4c6.1,0,9.5,5.5,9.5,12c0,7.5-3.5,10.8-9.6,10.8h-2.4V25.2z"/>
+</svg>    <span class="hide">Foreign Policy Magazine</span>
+</a>
+
+                <div class="header-nav-wrapper">
+                    <label class="hide" id="primary-navigation">Account Management, Search, and Primary Navigation</label>
+                    <nav id="navigation" class="header-nav" aria-labelledby="primary-navigation">
+                        
+                        <div class="header-mobile-subnav">
+                            <ul class="manage-account account">
+                                <li class="header-menu-item header-menu-item--close">
+                                    <button class="close-menu-button" style="display: none;">Close menu</button>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="#" class="navlink -top -user -signin FP-paywall--login">Sign In</a>
+                                </li>
+                                <li class="header-menu-item gift-link">
+                                    <a href="/gift-subscriptions/?tpcc=navbar_gift" class="navlink -top -user -emph gift-prompt">
+                                        <span class="subscribe--long">Give a Gift</span>
+                                        <span class="subscribe--short">Give a Gift</span>
+                                    </a>
+                                </li>
+                                <li class="header-menu-item subscribe-link">
+                                    <a href="/subscribe" class="navlink -top -user -emph subscribe-prompt">
+                                        <span class="subscribe--long">Subscribe</span>
+                                        <span class="subscribe--short">Subscribe</span>
+                                    </a>
+                                    <a href="/insider" class="navlink -top -user -emph upgrade-to-insider-prompt">
+                                        <span class="subscribe--long">Upgrade</span>
+                                        <span class="subscribe--short">Upgrade</span>
+                                    </a>
+                                </li>
+                                <li class="header-menu-item login-ip-access">
+                                    <a href="#" class="navlink -top -user -signin FP-paywall--login--ip-access">Sign In</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="header-nav-main">
+                            <ul class="header-menu -top">
+                                <li class="header-menu-item hide-desktop">
+                                    <a href="/category/latest/" class="navlink red">Latest</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/channel/news/" class="navlink">News</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/channel/analysis/" class="navlink">Analysis</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/podcasts/" class="navlink">Podcasts</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/the-magazine/" class="navlink">The Magazine</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/newsletters/" class="navlink">Newsletters</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/live/" class="navlink">FP Live</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="/events/" class="navlink">Events</a>
+                                </li>
+                                <li class="header-menu-item">
+                                    <a href="https://fpanalytics.foreignpolicy.com/" target="_blank" class="navlink">FP Analytics</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="header-mobile-subnav">
+                            <div class="expando-search">
+    <div class="icon">
+        <svg viewBox="0 0 18 18" aria-labelledby="svg-title-search-mobile" role="button">
+	<title id="svg-title-search-mobile">Search Icon</title>
+	<circle class="search-icon" cx="7.5" cy="7.3" r="6.5"/>
+	<line class="search-icon" x1="12.1" y1="11.9" x2="17.5" y2="17.3"/>
+</svg>    </div>
+        <form role="search" method="get" id="searchform-mobile" class="searchform" action="/">
+    	<label class="hide" for="searchfield-mobile">Search</label>
+    	<input class="search searchfield-mobile" type="search" name="s" id="search-mobile" aria-label="Search" autocomplete="on" />
+    	<input type="submit" value="search-submit" style="height:0;width:0;position:fixed;opacity:0;" aria-label="Submit" role="button" />
+    </form>
+</div>
+                                                        <div class="latest-posts-nav">
+                                <h2 class="title">latest</h2>
+                                <div class="grid--container">
+                                    <div class="grid--flex no-border grid__fourth">
+                                                                                <div>
+                                            <div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/argentina-election-milei-economy-social-media-young-voters/">
+    <h3 class="hed">How Javier Milei Upended Argentina’s Politics</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">If he wins the presidency, the far-right libertarian will have young voters to thank.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/channel/analysis/"
+        class="department-name -excerpt ">
+        Analysis    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/lautaro-grinspan/"
+        data-author-id="1130052"        class="author">
+    Lautaro Grinspan</a></address>
+
+</div>
+</div>
+                                        </div>
+                                                                                <div>
+                                            <div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/why-did-americas-elite-keep-falling-for-crypto-frauds/">
+    <h3 class="hed">Why Did America’s Elite Keep Falling for Crypto Frauds?</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Even experienced journalists got suckered by Sam Bankman-Fried. </p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/review/"
+        class="department-name -excerpt ">
+        Review    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/stan-veuger/"
+        data-author-id="1084620"        class="author">
+    Stan Veuger</a></address>
+
+</div>
+</div>
+                                        </div>
+                                                                                <div>
+                                            <div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/material-world-ed-conway-book-review-supply-chain-minerals/">
+    <h3 class="hed">Living in a Material World</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">One of the defining features of modern supply chains is a distinct lack of human beings.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/review/"
+        class="department-name -excerpt ">
+        Review    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/bronwen-everill/"
+        data-author-id="1033136"        class="author">
+    Bronwen Everill</a></address>
+
+</div>
+</div>
+                                        </div>
+                                                                                <div>
+                                            <div class="excerpt-content -noimage">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/israel-gaza-un-suspends-humanitarian-aid-fuel-shortages-khan-younis-evacuations/">
+    <h3 class="hed">U.N. Suspends Aid Shipments Into Gaza</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Meanwhile, residents of southern Gaza evacuate ahead of anticipated Israeli offensive.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/world-brief/"
+        class="department-name -excerpt ">
+        World Brief    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/alexandra-sharp/"
+        data-author-id="1033414"        class="author">
+    Alexandra Sharp</a></address>
+
+</div>
+</div>
+                                        </div>
+                                                                            </div>
+                                </div>
+                                <div class="read-more">
+                                    <a href="/category/latest/">See All Stories</a>
+                                </div>
+                            </div>
+
+                            <div class="header-footer-nav">
+                                <span>
+                                    <ul id="menu-footer-column-1" class="mobile-subnav-menu"><li id="menu-item-988928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-988928 header-menu-item"><a href="https://foreignpolicy.com/events" class="navlink">FP Events</a></li>
+<li id="menu-item-1018372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018372 header-menu-item"><a href="https://foreignpolicy.com/fp-studios/" class="navlink">FP Studios</a></li>
+<li id="menu-item-993024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993024 header-menu-item"><a href="https://foreignpolicy.com/fp-analytics/" class="navlink">FP Analytics</a></li>
+<li id="menu-item-1002749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1002749 header-menu-item"><a href="https://foreignpolicy.com/fp-peacegames/" class="navlink">FP PeaceGames</a></li>
+</ul><ul id="menu-footer-column-2" class="mobile-subnav-menu"><li id="menu-item-993038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993038 header-menu-item"><a href="https://foreignpolicy.com/subscription-services/" class="navlink">Subscription Services</a></li>
+<li id="menu-item-1069218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069218 header-menu-item"><a href="https://foreignpolicy.com/group-subscriptions/" class="navlink">Group Subscriptions</a></li>
+<li id="menu-item-988929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988929 header-menu-item"><a href="https://foreignpolicy.com/reprint-permissions/" class="navlink">Reprint Permissions</a></li>
+<li id="menu-item-939400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-939400 header-menu-item"><a href="https://foreignpolicy.submittable.com/submit" class="navlink">Writer&#8217;s Guidelines</a></li>
+</ul>                                </span>
+                                <span>
+                                    <ul id="menu-footer-column-3" class="mobile-subnav-menu"><li id="menu-item-927960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927960 header-menu-item"><a href="https://fpguide.foreignpolicy.com/2023-grad-programs/" class="navlink">FP Guides &#8211; Graduate Education</a></li>
+<li id="menu-item-996597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-996597 header-menu-item"><a href="https://foreignpolicy.com/fp-for-education/" class="navlink">FP For Education</a></li>
+<li id="menu-item-660886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660886 header-menu-item"><a href="/magazine" class="navlink">FP Archive</a></li>
+<li id="menu-item-660961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660961 header-menu-item"><a href="https://foreignpolicy.com/buy-back-issues/" class="navlink">Buy Back Issues</a></li>
+</ul><ul id="menu-footer-column-4" class="mobile-subnav-menu"><li id="menu-item-1069220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069220 header-menu-item"><a href="https://foreignpolicy.com/employment-opportunities/" class="navlink">Work At FP</a></li>
+<li id="menu-item-1092041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092041 header-menu-item"><a href="https://foreignpolicy.com/staff/" class="navlink">Meet the Staff</a></li>
+<li id="menu-item-993026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-993026 header-menu-item"><a href="https://solutions.foreignpolicy.com/" class="navlink">Advertising/Partnerships</a></li>
+<li id="menu-item-1093837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1093837 header-menu-item"><a href="https://sponsored.foreignpolicy.com/country-reports/" class="navlink">Country Reports</a></li>
+</ul>                                </span>
+                            </div>
+                        </div>
+
+                    </nav>
+                </div>
+
+                
+                <div class="header-subnav-wrapper">
+                    <label class="hide" id="secondary-navigation">Account Management and Search</label>
+                    <nav class="header-subnav" aria-labelledby="secondary-navigation">
+                        <ul class="header-menu -top">
+                            <li class="header-menu-item">
+                                <a href="#" class="navlink -top -user -signin FP-paywall--login">Sign In</a>
+                            </li>
+                            <li class="header-menu-item gift-link">
+                                <a href="/gift-subscriptions/?tpcc=navbar_gift" class="navlink -top -user -emph gift-prompt">
+                                    <span class="subscribe--long">Give a Gift</span>
+                                    <span class="subscribe--short">Give a Gift</span>
+                                </a>
+                            </li>
+                            <li class="header-menu-item subscribe-link">
+                                <a href="/subscribe" class="navlink -top -user -emph subscribe-prompt">
+                                    <span class="subscribe--long">Subscribe</span>
+                                    <span class="subscribe--short">Subscribe</span>
+                                </a>
+                                <a href="/insider" class="navlink -top -user -emph upgrade-to-insider-prompt">
+                                    <span class="subscribe--long">Upgrade</span>
+                                    <span class="subscribe--short">Upgrade</span>
+                                </a>
+                            </li>
+                            <li class="header-menu-item login-ip-access">
+                                <a href="#" class="navlink -top -user -signin FP-paywall--login--ip-access">Sign In</a>
+                            </li>
+                        </ul>
+
+                        <div class="expando-search">
+    <div class="icon">
+        <svg viewBox="0 0 18 18" aria-labelledby="svg-title-search-desktop" role="button">
+	<title id="svg-title-search-desktop">Search Icon</title>
+	<circle class="search-icon" cx="7.5" cy="7.3" r="6.5"/>
+	<line class="search-icon" x1="12.1" y1="11.9" x2="17.5" y2="17.3"/>
+</svg>    </div>
+        <form role="search" method="get" id="searchform-desktop" class="searchform" action="/">
+    	<label class="hide" for="searchfield-desktop">Search</label>
+    	<input class="search searchfield-desktop" type="search" name="s" id="search-desktop" aria-label="Search" autocomplete="on" />
+    	<input type="submit" value="search-submit" style="height:0;width:0;position:fixed;opacity:0;" aria-label="Submit" role="button" />
+    </form>
+</div>
+                    </nav>
+                </div>
+                
+                <button class="hamburger-button" aria-expanded="false" aria-controls="navigation" aria-label="Toggle display of website navigation">
+    <span class="line"></span>
+    <span class="sr-only">Toggle display of website navigation</span>
+</button>
+
+                                                <div class="header-alt-layout__title ">
+                    <div class="header-alt-layout__wrapper">
+                        <p class="header-alt-title">
+                                                        <span class="department-title">
+                                Analysis:
+                            </span>
+                                                        <span class="header-alt-title__text">
+                                Russia&#8217;s Crimean Red Line Has Been Erased                            </span>
+                        </p>
+                        
+                        <div class="share-dropdown share-dropdown--with-comments">
+                                                    <span class="hide-ip-access content-gated vertical-divider flex-mobile-order-2"></span>
+                            <span class="header-comment-count hide-ip-access content-gated flex flex-mobile-order-1">
+                                <svg title="comment icon" xmlns="http://www.w3.org/2000/svg" width="13.115" height="13.115" viewBox="0 0 13.115 13.115">
+    <g id="Group_1806" data-name="Group 1806" transform="translate(-4668.249 -330.356)">
+        <path id="Path_198" data-name="Path 198" d="M35.014,25.331V15.4H22.6v9.932h9.932" transform="translate(4646 315.306)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7" />
+        <path id="Path_199" data-name="Path 199" d="M53.881,44.2v2.483L51.4,44.2" transform="translate(4627.133 296.439)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7" />
+    </g>
+</svg>
+                                <a href="#comments-container" class="link-to-comments">View Comments <span class="comment-count-wrapper">(<span class="coral-count" data-coral-notext="true"></span>)</span></a>
+                            </span>
+                            
+<nav class="share-dropdown__nav flex-mobile-order-3">
+    <button
+        class="share-dropdown__button"
+        aria-pressed="false"
+        aria-controls="options"
+        aria-label="share article"
+    >
+        <svg title="Share icon" xmlns="http://www.w3.org/2000/svg" width="10.929" height="14.098" viewBox="0 0 10.929 14.098">
+	<g id="Group_1805" data-name="Group 1805" transform="translate(-335.326 -7.928)">
+		<path id="Path_177" data-name="Path 177" d="M126.693,270.054a.25.25,0,0,0-.175-.072h-3.07a.248.248,0,0,0,0,.5h2.822v8.031h-9.737v-8.031h2.822a.248.248,0,0,0,0-.5h-3.07a.248.248,0,0,0-.248.248v8.527a.251.251,0,0,0,.073.175.248.248,0,0,0,.175.072h10.233a.247.247,0,0,0,.248-.248v-8.527A.252.252,0,0,0,126.693,270.054Zm-8.307-1.415a.249.249,0,0,0,.176-.072h0l2.591-2.591v8.518a.248.248,0,1,0,.5,0v-8.518l2.592,2.591a.248.248,0,1,0,.351-.351l-3.015-3.015a.248.248,0,0,0-.351,0l-3.015,3.015a.248.248,0,0,0,.175.423Z" transform="translate(219.39 -257.079)" stroke="#000" stroke-width="0.2"/>
+	</g>
+</svg>
+        <span>Share</span>
+    </button>
+
+    <ul 
+        id="options" 
+        class="share-dropdown__list share-dropdown__list--with-comments"
+        aria-expanded="false"
+    >
+            <li class="share-dropdown__list-item">
+                    <button    
+                                                                data-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"                onclick="socialshares.copyLink(this);" 
+                aria-label="share"                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="copy link icon" class="css-uz6jad" width="13" height="13" viewBox="0 0 13 13" xmlns="http://www.w3.org/2000/svg">
+	<path d="M5.61876 7.38125C5.87501 7.625 5.87501 8.025 5.61876 8.26875C5.37501 8.5125 4.97501 8.5125 4.73126 8.26875C3.51251 7.05 3.51251 5.06875 4.73126 3.85L6.94376 1.6375C8.16251 0.418747 10.1438 0.418747 11.3625 1.6375C12.5813 2.85625 12.5813 4.8375 11.3625 6.05625L10.4313 6.9875C10.4375 6.475 10.3563 5.9625 10.1813 5.475L10.475 5.175C11.2125 4.44375 11.2125 3.25625 10.475 2.525C9.74376 1.7875 8.55626 1.7875 7.82501 2.525L5.61876 4.73125C4.88126 5.4625 4.88126 6.65 5.61876 7.38125ZM7.38126 4.73125C7.62501 4.4875 8.02501 4.4875 8.26876 4.73125C9.48751 5.95 9.48751 7.93125 8.26876 9.15L6.05626 11.3625C4.83751 12.5812 2.85626 12.5812 1.63751 11.3625C0.418762 10.1437 0.418762 8.1625 1.63751 6.94375L2.56876 6.0125C2.56251 6.525 2.64376 7.0375 2.81876 7.53125L2.52501 7.825C1.78751 8.55625 1.78751 9.74375 2.52501 10.475C3.25626 11.2125 4.44376 11.2125 5.17501 10.475L7.38126 8.26875C8.11876 7.5375 8.11876 6.35 7.38126 5.61875C7.12501 5.375 7.12501 4.975 7.38126 4.73125Z" fill="#252525">
+</svg>                <span>Copy Link</span>
+                <span class="share-dropdown__tooltip">Link copied to clipboard</span>            </button>
+                </li>
+            <li class="share-dropdown__list-item">
+                    <a
+                href="mailto:?subject=Russia&#039;s Crimean Red Line Has Been Erased&body=Claims about the territory’s spiritual status have been revealed to be fiction.%0D%0A%0D%0Ahttps://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"
+                aria-label="email this article"
+                target="_blank"
+                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="email icon" viewBox="0 0 15 9" class="css-uz6jad" width="15" height="9">
+    <path d="M.906 8.418V0L5.64 4.76.906 8.419zm13 0L9.174 4.761 13.906 0v8.418zM7.407 6.539l-1.13-1.137L.907 9h13l-5.37-3.598-1.13 1.137zM1.297 0h12.22l-6.11 5.095L1.297 0z" fill="#252525">
+</svg>                Email            </a>
+                </li>
+            <li class="share-dropdown__list-item">
+                    <a    
+                data-endpoint="facebook"                data-title="Russia&#039;s Crimean Red Line Has Been Erased"                data-text="Claims about the territory’s spiritual status have been revealed to be fiction."                data-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"                onclick="socialshares.share(this);" 
+                aria-label="share on facebook"                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="Facebook icon" class="css-uz6jad" viewBox="0 0 7 15" width="7" height="15">
+    <path d="M4.775 14.163V7.08h1.923l.255-2.441H4.775l.004-1.222c0-.636.06-.977.958-.977H6.94V0H5.016c-2.31 0-3.123 1.184-3.123 3.175V4.64H.453v2.44h1.44v7.083h2.882z" fill="#252525">
+</svg>                <span>Facebook</span>
+                            </a>
+                </li>
+            <li class="share-dropdown__list-item">
+                    <a    
+                data-endpoint="twitter"                data-title="Russia&#039;s Crimean Red Line Has Been Erased"                data-text="Claims about the territory’s spiritual status have been revealed to be fiction."                data-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"                onclick="socialshares.share(this);" 
+                aria-label="share on twitter"                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="Twitter icon" viewBox="0 0 13 10" class="css-uz6jad" width="13" height="10">
+    <path d="M5.987 2.772l.025.425-.429-.052c-1.562-.2-2.927-.876-4.086-2.011L.93.571.784.987c-.309.927-.111 1.906.533 2.565.343.364.266.416-.327.2-.206-.07-.386-.122-.403-.096-.06.06.146.85.309 1.161.223.434.678.858 1.176 1.11l.42.199-.497.009c-.481 0-.498.008-.447.19.172.564.85 1.162 1.606 1.422l.532.182-.464.277a4.833 4.833 0 0 1-2.3.641c-.387.009-.704.044-.704.07 0 .086 1.047.572 1.657.762 1.828.564 4 .32 5.631-.641 1.159-.685 2.318-2.045 2.859-3.363.292-.702.583-1.984.583-2.6 0-.398.026-.45.507-.927.283-.277.55-.58.6-.667.087-.165.078-.165-.36-.018-.73.26-.832.226-.472-.164.266-.278.584-.78.584-.928 0-.026-.129.018-.275.096a4.79 4.79 0 0 1-.755.294l-.464.148-.42-.286C9.66.467 9.335.293 9.163.24 8.725.12 8.055.137 7.66.276c-1.074.39-1.752 1.395-1.674 2.496z" fill="#252525">
+</svg>                <span>Twitter</span>
+                            </a>
+                </li>
+            <li class="share-dropdown__list-item">
+                    <a    
+                data-endpoint="linkedin"                data-title="Russia&#039;s Crimean Red Line Has Been Erased"                data-text="Claims about the territory’s spiritual status have been revealed to be fiction."                data-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"                onclick="socialshares.share(this);" 
+                aria-label="share on linkedin"                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="LinkkedIn icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M2.793 3.86H.384a.194.194 0 00-.193.194v7.74c0 .106.086.193.193.193h2.41a.193.193 0 00.193-.194V4.054a.194.194 0 00-.194-.194zM1.59.013A1.59 1.59 0 000 1.601 1.59 1.59 0 001.59 3.19 1.59 1.59 0 003.178 1.6 1.59 1.59 0 001.59.013zM8.92 3.668c-.967 0-1.682.416-2.116.889v-.503a.194.194 0 00-.193-.193H4.304a.194.194 0 00-.194.193v7.74c0 .106.087.193.194.193h2.403a.194.194 0 00.194-.194V7.964c0-1.29.35-1.793 1.25-1.793.98 0 1.057.806 1.057 1.86v3.762c0 .107.087.194.194.194h2.405a.193.193 0 00.193-.194V7.548c0-1.918-.366-3.88-3.08-3.88z" fill="#252525" />
+</svg>                <span>LinkedIn</span>
+                            </a>
+                </li>
+            <li class="share-dropdown__list-item">
+                    <a    
+                data-endpoint="whatsapp"                data-title="Russia&#039;s Crimean Red Line Has Been Erased"                data-text="Claims about the territory’s spiritual status have been revealed to be fiction."                data-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"                onclick="socialshares.share(this);" 
+                aria-label="share on whatsapp"                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="WhatsApp icon" xmlns="http://www.w3.org/2000/svg" width="17" height="17">
+    <path d="M8.478 0a8.346 8.346 0 0 1 5.947 2.47 8.383 8.383 0 0 1 2.46 5.96c-.002 4.551-3.624 8.273-8.13 8.42l-.277.004h-.003a8.387 8.387 0 0 1-4.018-1.026L0 17l1.193-4.367A8.424 8.424 0 0 1 .071 8.422C.071 3.779 3.844 0 8.478 0Zm.003 1.422c-3.854 0-6.99 3.14-6.99 7.002 0 1.323.369 2.611 1.068 3.725l.166.266-.707 2.584 2.646-.696.255.152a6.975 6.975 0 0 0 3.557.976h.002c3.852 0 6.986-3.141 6.989-7.001 0-1.871-.726-3.63-2.046-4.954a6.934 6.934 0 0 0-4.94-2.054Zm-2.979 3.11c.14 0 .28 0 .403.006.15.006.315.012.472.363.057.129.136.316.219.516l.125.306c.144.356.275.685.303.742.054.105.089.227.019.368-.07.14-.106.228-.21.351l-.215.259-.101.11c-.105.105-.215.22-.091.43.315.54.708 1.032 1.167 1.458.803.717 1.48.94 1.689 1.045.21.105.333.087.456-.054.123-.14.525-.614.665-.825.14-.21.28-.175.472-.105.078.028.29.127.529.241l.367.177.54.266c.21.106.35.16.403.246.052.089.052.51-.123 1.001-.174.492-1.032.967-1.417 1.002-.386.034-.747.174-2.521-.527-2.135-.844-3.484-3.037-3.59-3.178-.104-.142-.856-1.142-.856-2.178s.542-1.545.734-1.757a.77.77 0 0 1 .561-.263Z" fill="#252525" />
+</svg>                <span>WhatsApp</span>
+                            </a>
+                </li>
+            <li class="share-dropdown__list-item">
+                    <a    
+                data-endpoint="reddit"                data-title="Russia&#039;s Crimean Red Line Has Been Erased"                data-text="Claims about the territory’s spiritual status have been revealed to be fiction."                data-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/"                onclick="socialshares.share(this);" 
+                aria-label="share on reddit"                role="button"
+                class="share-dropdown__option"
+                tabindex="0"
+            >
+                <svg title="Reddit icon" xmlns="http://www.w3.org/2000/svg" width="19" height="19">
+    <path d="M9.5 0A9.495 9.495 0 000 9.5C0 14.751 4.249 19 9.5 19S19 14.751 19 9.5 14.751 0 9.5 0zm5.596 10.71c.034.137.034.274.034.415 0 2.075-2.524 3.8-5.63 3.8-3.11 0-5.63-1.692-5.63-3.8 0-.137 0-.311.034-.449a1.442 1.442 0 01-.657-1.21 1.46 1.46 0 011.451-1.45c.345 0 .69.137.931.345.97-.624 2.246-1.002 3.663-1.036l1.002-3.454 2.557.482c.137-.275.416-.45.76-.482.52-.034.932.378.97.864.033.52-.38.932-.865.969-.52.033-.826-.188-.863-.675l-1.99-.294-.804 2.59c1.417.034 2.41.453 3.341 1.073.275-.241.586-.345.969-.345.794 0 1.45.657 1.45 1.45a1.611 1.611 0 01-.723 1.207z" fill="#252525" /><path d="M11.263 12.54s-.553.552-1.796.552c-1.21 0-1.693-.52-1.693-.52-.07-.103-.207-.103-.311-.033-.104.07-.104.242-.034.312.034.033.587.69 2.038.69 1.45 0 2.074-.657 2.107-.69.07-.104.07-.241 0-.312-.07-.066-.245-.066-.311 0zM12.3 10.49a.898.898 0 10-1.796-.045.898.898 0 001.795.044zM7.704 11.367a.898.898 0 100-1.797.898.898 0 000 1.797z" fill="#252525" />
+</svg>                <span>Reddit</span>
+                            </a>
+                </li>
+        </ul>
+</nav>
+
+
+    <span class="vertical-divider flex-mobile-order-4"></span>
+
+    <div class="save-article__wrapper flex-mobile-order-5">
+        <button class="save-article__button" data-slug="crimea-russia-ukraine-red-line">
+            <svg title="save icon" xmlns="http://www.w3.org/2000/svg" width="8.939" height="13.058" viewBox="0 0 8.939 13.058">
+    <path class="save-article__icon" d="M132.728,353.258l-4.119-4.119-4.119,4.119V340.9h8.239Z" transform="translate(-124.139 -340.551)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+</svg>
+                            <a href="#fn:1" rel="footnote" data-text="Save" class="save-article__text" style="color: #000; text-decoration: none;">Save</a>
+                        
+        </button>
+        
+        <span class="save-article__link-divider vertical-divider hide"></span>
+        <a href="/saved-articles" class="save-article__link hide">View Saved Articles</a>
+    
+                    <div class="footnotes hide">
+                <div class="footnotes">
+                    <ol>
+                        <li class="footnote save-article__footnote" id="fn:1">
+                            <p class="save-article__footnote--intro">Create an FP account to save articles to read later and in the FP mobile app.</p>
+                            <p>
+                                <a href="/subscribe/?tpcc=saved_articles" class="save-article__footnote--subscribe FP-paywall--login--signup">
+                                    Sign Up
+                                </a>
+                            </p>
+                            <p class="small">ALREADY AN FP SUBSCRIBER? <a href="javascript:void(0);" class="save-article__footnote--login navlink -top -user -signin FP-paywall--login">LOGIN</a></p>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            </div>
+                        </div>
+
+                        <div class="header-social-shares">
+                                                        
+                        </div>
+                    </div>
+                </div>
+                        
+            
+        </header>
+
+        <main>
+
+	
+<div id="article_d_1" class="home-ad-region-1" aria-hidden="true"></div>
+
+
+
+<div id="main" data-context="article" class="default default_text_style text_above_photo  ">
+
+	
+	<div class="post-content grid--flow" data-post-id="1126038" data-premium="no" data-premium-trigger="yes" data-whitelist="">
+
+		<article class="article" data-post-id="1126038" data-post-url="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/">
+
+			
+				
+
+    
+<div class="department-meta">
+	<a href="https://foreignpolicy.com/channel/analysis/" class="department-name  department">
+		Analysis	</a>
+
+	</div><span
+    class="hed-heading"
+    href="https://foreignpolicy.com/2023/10/04/crimea-russia-ukraine-red-line/">
+    <h1 class="hed">Russia&#8217;s Crimean Red Line Has Been Erased</h1>
+</span>
+<h2 class="dek-heading">Claims about the territory’s spiritual status have been revealed to be fiction.</h2>
+
+
+    <div class="author-bio">
+        
+        <div class="author-bio-text">
+                            By <a rel="author" href="https://foreignpolicy.com/author/casey-michel/"><strong>Casey Michel</strong></a>, head of the Human Rights Foundation's Combating Kleptocracy Program and author of <em>American Kleptocracy: How the U.S. Created the World’s Greatest Money Laundering Scheme in History</em>.                    </div>
+    </div>
+
+				<figure class="figure-image ">
+            <span
+            style="padding-bottom:66.666666666667%;
+        "
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="504"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?quality=90 3351w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=150,94&amp;quality=90 150w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=550,346&amp;quality=90 550w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=768,484&amp;quality=90 768w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1625,1024&amp;quality=90 1625w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1536,968&amp;quality=90 1536w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=2048,1290&amp;quality=90 2048w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=400,252&amp;quality=90 400w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1920,1210&amp;quality=90 1920w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1000,630&amp;quality=90 1000w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=325,205&amp;quality=90 325w"
+            sizes="(max-width: 800px) 100vw, 800px"
+            alt="Pedestrians walk past an wall painting depicting a map of Crimean peninsula bearing the colours of Russia&#039;s national flag  in Moscow, on March 31, 2014."
+            style="width:auto;"
+                            src=""
+                data-sizes="(max-width: 800px) 100vw, 800px"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?quality=90 3351w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=150,94&amp;quality=90 150w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=550,346&amp;quality=90 550w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=768,484&amp;quality=90 768w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1625,1024&amp;quality=90 1625w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1536,968&amp;quality=90 1536w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=2048,1290&amp;quality=90 2048w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=400,252&amp;quality=90 400w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1920,1210&amp;quality=90 1920w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=1000,630&amp;quality=90 1000w, https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?resize=325,205&amp;quality=90 325w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?w=800&#038;h=504&#038;quality=90"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="504"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/10/GettyImages-481714163.jpg?w=800&#038;h=504&#038;quality=90"
+                alt="Pedestrians walk past an wall painting depicting a map of Crimean peninsula bearing the colours of Russia&#039;s national flag  in Moscow, on March 31, 2014."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </span>
+        <figcaption style="height:0;opacity:0;">Pedestrians walk past an wall painting depicting a map of Crimean peninsula bearing the colours of Russia&#039;s national flag  in Moscow, on March 31, 2014.</figcaption>
+                <div class="caption">
+            Pedestrians walk past an wall painting depicting a map of Crimean peninsula bearing the colours of Russia's national flag  in Moscow, on March 31, 2014.             <span class="attribution">Vasily Maximov/AFP via Getty Images</span>
+        </div>
+    </figure>
+
+
+				
+			
+			<!-- MyFP Article -->
+			
+<div class="myfp-article loading js-myfp-container myfp-article--center">
+    <p class="myfp-article__message js-myfp-message"></p>
+    <ul class="myfp-article__list js-myfp-content">
+                                                        <li>
+                    
+    <span class="myfp-toggle myfp-toggle--small myfp-toggle--red">
+        <input
+            type="checkbox"
+            data-myfp-type="regional_alerts"
+            data-myfp-id="10759">
+        <label>
+                            <span>Russia</span>
+                    </label>
+    </span>
+                </li>
+                            <li>
+                    
+    <span class="myfp-toggle myfp-toggle--small myfp-toggle--red">
+        <input
+            type="checkbox"
+            data-myfp-type="regional_alerts"
+            data-myfp-id="4328">
+        <label>
+                            <span>Europe</span>
+                    </label>
+    </span>
+                </li>
+                            <li>
+                    
+    <span class="myfp-toggle myfp-toggle--small myfp-toggle--red">
+        <input
+            type="checkbox"
+            data-myfp-type="regional_alerts"
+            data-myfp-id="22735">
+        <label>
+                            <span>Ukraine</span>
+                    </label>
+    </span>
+                </li>
+                                            </ul>
+</div>
+
+			<div class="post-content-main shares-position">
+				
+									<div class="meta-data">
+					    <time
+    pubdate
+    datetime="2023-10-04"
+    class="date-time">
+October 4, 2023, 4:46 AM</time>
+					</div>
+				
+				
+				
+									<div class="content-ungated">
+						<p>In December 2014, Russian President Vladimir Putin stood in the middle of the Kremlin’s St. George’s Hall, delivering his annual address to the country’s Federal Assembly. Nine months removed from his formal annexation of Crimea, the Russian president unspooled a <a href="https://web.archive.org/web/20141211002453/http:/eng.kremlin.ru/news/23341">historical overview</a> of Crimea’s supposed importance to the Russian body politic.</p>					</div>
+					<div class="content-gated content-gated--main-article">
+						<p>In December 2014, Russian President Vladimir Putin stood in the middle of the Kremlin’s St. George’s Hall, delivering his annual address to the country’s Federal Assembly. Nine months removed from his formal annexation of Crimea, the Russian president unspooled a <a href="https://web.archive.org/web/20141211002453/http:/eng.kremlin.ru/news/23341">historical overview</a> of Crimea’s supposed importance to the Russian body politic.</p>
+<p>Crimea, as Putin claimed, was far more than simply a wayward chunk of rightfully Russian land. Rather, the peninsula was the “spiritual source” of the entire Russian nation—a province that presented “invaluable civilizational and even sacral importance” for all Russians. The language mirrored Putin’s <a href="http://www.en.kremlin.ru/events/president/news/20603">annexation announcement</a> that March, when he’d claimed that “in [Russians’] hearts and minds, Crimea has always been an inseparable part of Russia.” As Putin saw it, Crimea stood as the Temple Mount of Russia—as a Russian “<a href="https://tass.com/society/1267707">holy land</a>.” And this was, Putin assured his listeners in December, “exactly how we will treat it from now on and forever.”</p>
+<p>At the time, few in Russia appeared to disagree. Nor, likewise, did those in the West, who <a href="https://newrepublic.com/article/121222/one-year-after-russias-annexation-world-has-forgotten-crimea">largely rolled over</a> in the face of Russia’s initial invasion in 2014. Suckered by Russian propaganda surrounding the peninsula’s supposedly pro-Russian tilt and convinced that any Ukrainian assault on Crimea could spark potential military escalation, Western voices largely shied away from backing any attempts at returning the peninsula to Kyiv’s control. This was seen perhaps most spectacularly last month, when news emerged that Tesla CEO Elon Musk had undercut Ukrainian efforts to target the peninsula because of concerns any attack “<a href="https://www.theatlantic.com/ideas/archive/2023/09/elon-musk-let-russia-scare-him/675282/">could lead to a nuclear war</a>.”</p>
+<p>Those concerns were perhaps understandable, insofar as Russian officials have continually rattled a <a href="https://warontherocks.com/2023/02/the-case-for-caution-on-crimea/">nuclear saber</a> about protecting Crimea from any Ukrainian reclamation efforts. But now, as Ukraine unleashes near-daily assaults on the peninsula, the notion that Crimea presents some kind of Temple Mount—or even any kind of red line—for Russians has crumbled.</p>
+<p>In the face of continued drone attacks, long-range missile fires, sabotage operations, and annihilation of military assets across Crimea, Russians have hardly treated the Ukrainian peninsula as some kind of sacred land. Rather than rushing to protect Crimea, Russians have instead begun <a href="https://www.reuters.com/world/europe/russian-tourists-flee-crimea-after-attack-landmark-bridge-2023-07-17/">fleeing the region</a> en masse. Rather than seeing Russians lining up to enlist to aid the Kremlin’s defense of the peninsula, Moscow continues mooting the potential of a <a href="https://meduza.io/en/feature/2023/09/21/another-round-of-mobilization-in-russia-appears-inevitable-the-only-question-is-when">second, and far broader, forced mobilization</a>. And rather than resulting in any kind of nuclear conflagration, Russians’ subdued reaction to the continued bombardment of Crimea has dissolved Putin’s claims that the peninsula is some kind of special, sacrosanct land. As McGill University professor Maria Popova <a href="https://twitter.com/PopovaProf/status/1705806142444625981">recently posted on X</a> (formerly known as Twitter), “Crimea isn’t special, let alone a red line.”</p>
+<p>Indeed, with few even noticing, Ukraine’s continued shelling and strikes on the peninsula have illustrated one clear lesson: The idea that Crimea is some kind of holy land that Russians will race to defend—an idea that <a href="https://www.theatlantic.com/international/archive/2023/05/ukraine-us-long-range-missiles-crimea-war-end/674199/">far too many in the West previously swallowed</a>—is dead. And in that death, a wealth of new opportunities has opened up for Kyiv and for the Western partners who are suddenly realizing Crimea is hardly the sacral land Putin once claimed.</p>
+<hr class="thick-horizontal-rule" />
+<p>For those familiar with the region’s history, the notion that Crimea was always some kind of “spiritual center” for the Russian nation, or that it was perpetually inseparable from Moscow, was always a rickety proposition. While there were historical links tethering the peninsula to the imperial center in Moscow—not least the peninsula’s outsized role in the eponymous Crimean War of the 1850s or World War II—Crimea is hardly some central node of Russian identity that Putin and his claque have claimed.</p>
+<p>Just glance through the peninsula’s broader ethno-nationalist history. While tsarist forces first seized the province in 1783, Crimea was hardly a central destination for Russian settler-colonial efforts. Indeed, it <a href="https://iccrimea.org/population.html">wasn’t until World War II</a> that Crimea was even majority ethnic Russian—and even then, only as a result of gargantuan Stalinist ethnic cleansing efforts, forcibly displacing <a href="https://www.wilsoncenter.org/blog-post/crimean-tatars-and-russification">tens of thousands of Crimean Tatars</a> from their historic homeland.</p>
+<p>Or look at the peninsula’s political preferences. While the Kremlin’s <a href="https://www.wilsoncenter.org/publication/why-did-russia-give-away-crimea-sixty-years-ago">1954 decision</a> to transfer control of Crimea to Soviet Ukraine has seen overwrought attention in recent years, far less attention has been given to Crimeans’ actual voices and votes. For instance, in 1991 <a href="https://www.csce.gov/sites/helsinkicommission.house.gov/files/120191UkraineReferendum.pdf">Crimeans joined every other Ukrainian province</a> in voting for independence from Moscow. And in the intervening years, while Crimean leadership continually agitated for <a href="https://law.marquette.edu/facultyblog/2014/03/understanding-the-constitutional-situation-in-crimea/">increased autonomy</a> from Kyiv, Crimean residents never once voted for a return to the Kremlin’s embrace.</p>
+<p>Not that that’s necessarily surprising. As polling in the months leading up to Russia’s 2014 invasion indicated, Crimeans’ desire for Russian annexation was a minority—and clearly declining—position. One <a href="https://www.iri.org/wp-content/uploads/2013/10/201320October20720Survey20of20Crimean20Public20Opinion2C20May2016-302C202013.pdf">survey of Crimeans</a>, conducted by the International Republican Institute in mid-2013, found that less than a quarter of Crimeans wanted outright annexation. Likewise, the same poll found that the majority of Crimean residents identified primarily as something other than Russian, whether that be Ukrainian, Tatar, or simply Crimean.</p>
+<p>All of which is to say: Contrary to Putin and his propagandists’ claims, Crimea was hardly some hotbed of pro-Kremlin sentiment, agitating for a return to Russian control. Such a reality is borne out in contemporaneous reportage, which highlighted how Russian militias <a href="https://www.hurstpublishers.com/book/hybrid-warriors/">had to force Crimean deputies</a> to vote for annexation. (As notorious <a href="https://foreignpolicy.com/2023/07/25/putin-paranoia-igor-strelkov-girkin-arrest-russia-far-right-ukraine-war/">Russian war criminal Igor Girkin</a>, one of the key figures in Russia’s 2014 invasion, <a href="https://twitter.com/visegrad24/status/1657868798374887425">recalled</a>, he and other pro-Russian militia figures “didn’t see any support [for annexation] from any organ of government power” in Crimea.) Little surprise, then, that instead of any kind of free and fair vote on annexation, Moscow resorted to a ballot-by-bayonet referendum, with Moscow announcing that a ludicrous 97 percent of Crimeans backed Russian sovereignty over the peninsula.</p>
+<hr class="thick-horizontal-rule" />
+<p>Now, almost a decade after Putin first claimed Crimea as Russia’s alone, Ukraine’s efforts to bombard the peninsula into submission have begun in earnest. As the <em>Economist</em> <a href="https://www.economist.com/europe/2023/09/25/war-has-arrived-in-crimea">recently wrote</a>, “War has arrived in Crimea.” While <a href="https://www.reuters.com/world/europe/ukraines-sbu-claims-responsibility-last-years-crimea-bridge-blast-2023-07-26/">last year’s strike</a> against the primary Crimean bridge gained numerous headlines, the past few weeks have ramped up assaults on Crimean military assets to an unprecedented degree. There have been fires at <a href="https://www.rferl.org/a/crimea-fire-military-base-ukraine-attack/32509673.html">local ammunition holdings</a>; cruise missile strikes on <a href="https://www.politico.eu/article/ukraine-russia-war-submarine-british-cruise-missile-sevastopol-crimea/">naval assets in Sevastopol</a>, which hammered ships and submarines alike; drones targeting <a href="https://www.forbes.com/sites/davidaxe/2023/09/14/russia-had-five-s-400-air-defense-batteries-in-crimea-in-three-weeks-ukraine-blew-up-two/?sh=3b833bf016fc">Russia’s air defense infrastructure</a>; and <a href="https://news.yahoo.com/powerful-explosions-rock-ukraine-russian-183500012.html">plenty more</a>—and much of this in just the past few weeks. Moreover, a <a href="https://www.reuters.com/world/europe/russian-official-says-ukraine-struck-black-sea-navy-hq-with-missile-2023-09-22/">spectacular salvo</a> of Ukrainian long-range fires obliterated the central command of Russia’s Black Sea Fleet—an attack that was <a href="https://news.yahoo.com/video-footage-storm-shadow-strike-201000999.html">caught on tape</a> and <a href="https://www.nytimes.com/2023/09/25/world/europe/ukraine-russia-black-sea-fleet.html">decapitated</a> much of Moscow’s naval command in the region.</p>
+<p>Yet, even amid all of this mounting violence wracking the peninsula, the response from Russians has been largely muted (or at least as muted as an ongoing genocidal campaign of conquest can be). Part of this stems from Putin’s domestic desires to downplay Russian losses in Ukraine, attempting to maintain an air of both invincibility and inevitability about Russian military prowess. But part of that is also because Russians themselves have displayed an ongoing apathy regarding the assaults on Crimea. Rather than resulting in the kind of <a href="https://www.cnbc.com/2023/09/07/ukraine-rips-musk-disrupting-sneak-attack-russian-navy.html">Pearl Harbor-style</a> response that many Westerners feared, Russians have largely shrugged their shoulders. Instead of sparking a new onrush of military sign-ups, Moscow has struggled to meet basic enlistment targets, all while Kyiv continues to compile new weaponry to expand its arsenal dedicated to reclaiming Crimea. And instead of spiraling into nuclear exchanges, any likelihood of Moscow resorting to nuclear response has dissipated—undone both by pressure from Moscow’s allies (<a href="https://www.ft.com/content/c5ce76df-9b1b-4dfc-a619-07da1d40cbd3">especially Beijing</a>) but also by Kyiv calling Moscow’s bluff.</p>
+<p>Thankfully, it does appear that Western policymakers are finally starting to digest this new reality. Whereas Western officials, such as U.S. Secretary of State Antony Blinken, previously warned that Crimea presented a “<a href="https://www.politico.com/news/2023/02/15/blinken-crimea-ukraine-putin-00083149">red line</a>” for Putin, concerns out of Washington, London, and Brussels to the latest attacks in recent weeks have been largely nonexistent. If anything, Kyiv’s successful bombings have convinced Western partners to increase support; amid Ukraine’s escalating bombardment, the United States signaled that it would <a href="https://www.bbc.com/news/world-us-canada-66898029">finally supply</a> Ukraine with long-range missiles—so-called ATACMS—that would <a href="https://www.wsj.com/world/biden-told-zelensky-u-s-is-willing-to-provide-long-range-atacms-missiles-3d125ab3">allow Kyiv to expand its array</a> of targets in Crimea.</p>
+<p>More broadly, the disintegration of the notion that Crimea presents any kind of red line for Putin is of a piece with supposed Russian red lines elsewhere, all of which have likewise crumbled. And with the disappearance of this Crimean “red line”—as well the dismantling of the idea that Crimea is some kind of holy land for Russians—there is no reason remaining for Western governments not to do everything in their power to back Ukrainian efforts at retaking every inch of Ukrainian territory, including Crimea.</p>
+<p>After all, it was in the Crimean Peninsula that Moscow’s irredentist invasion first began in 2014. Given that Putin’s promises that Russians would rally to the peninsula’s defense have proved hollow, undone by Putin’s own hubris, it is only fitting that Crimea is where Russia’s revanchist efforts should end.</p>
+<div data-fp-lazy-load-image></div>					</div>
+				
+				
+				
+<div class="article-end content-gated">
+	</div>
+
+													<div class="in-article-piano-gating-container"></div>
+												</div>
+
+			
+<div class="myfp-article loading js-myfp-container ">
+    <p class="myfp-article__message js-myfp-message"></p>
+    <ul class="myfp-article__list js-myfp-content">
+                                                        <li>
+                    
+    <span class="myfp-toggle myfp-toggle--small myfp-toggle--red">
+        <input
+            type="checkbox"
+            data-myfp-type="regional_alerts"
+            data-myfp-id="10759">
+        <label>
+                            <span>Russia</span>
+                    </label>
+    </span>
+                </li>
+                            <li>
+                    
+    <span class="myfp-toggle myfp-toggle--small myfp-toggle--red">
+        <input
+            type="checkbox"
+            data-myfp-type="regional_alerts"
+            data-myfp-id="4328">
+        <label>
+                            <span>Europe</span>
+                    </label>
+    </span>
+                </li>
+                            <li>
+                    
+    <span class="myfp-toggle myfp-toggle--small myfp-toggle--red">
+        <input
+            type="checkbox"
+            data-myfp-type="regional_alerts"
+            data-myfp-id="22735">
+        <label>
+                            <span>Ukraine</span>
+                    </label>
+    </span>
+                </li>
+                                            </ul>
+</div>
+
+			
+	<section class="bio-no-photo">
+			<div>
+			<p><strong>Casey Michel</strong> is head of the Human Rights Foundation's Combating Kleptocracy Program and author of <em>American Kleptocracy: How the U.S. Created the World’s Greatest Money Laundering Scheme in History</em>. Twitter:&nbsp;<a href="http://www.twitter.com/cjcmichel" target="_blank">@cjcmichel</a></p>		</div>
+		</section>
+
+
+			<div class="the-tags no-top-border">
+    <span class="title">Read More On</span>
+    <a
+        href="https://foreignpolicy.com/tag/eastern-europe/"
+        class="tag">
+        Eastern Europe</a><span class="separator"> |</span><a
+        href="https://foreignpolicy.com/tag/europe/"
+        class="tag">
+        Europe</a><span class="separator"> |</span><a
+        href="https://foreignpolicy.com/tag/russia/"
+        class="tag">
+        Russia</a><span class="separator"> |</span><a
+        href="https://foreignpolicy.com/tag/ukraine/"
+        class="tag">
+        Ukraine</a><span class="separator"> |</span><a
+        href="https://foreignpolicy.com/tag/war/"
+        class="tag">
+        War</a></div>
+
+			
+			
+<div id="comments-container" class="comments-container hide-ip-access content-gated">
+	<div class="anon-content">
+		<div class="header bg-gray text-center">
+			<h2>Join the Conversation</h2>
+			<p>Commenting on this and other recent articles is just one benefit of a <strong><em>Foreign Policy</em></strong> subscription.</p>
+			<p>
+				Already a subscriber?
+				<strong><a href="javascript:void(0);" class="navlink -user -signin FP-paywall--login">Log In</a></strong>.
+			</p>
+			<p>
+				<a href="/subscribe" class="navlink -user -emph subscribe-prompt button-red">
+					<span class="subscribe--long">Subscribe</span>
+					<span class="subscribe--short">Subscribe</span>
+				</a>
+			</p>
+		</div>
+		<div class="open-comments">
+			<p><a href="javascript:void(0);">View <span class="coral-count" data-coral-notext="true"></span> Comments <span class="icon"></span></a></p>
+		</div>
+	</div>
+
+	<div class="reg-content">
+		<div class="header bg-gray text-center">
+			<h2>Join the Conversation</h2>
+			<p>Join the conversation on this and other recent <em>Foreign Policy</em> articles when you subscribe now.</p>
+			<p>
+				<a href="/subscribe" class="navlink -user -emph subscribe-prompt button-red">
+					<span class="subscribe--long">Subscribe</span>
+					<span class="subscribe--short">Subscribe</span>
+				</a>
+			</p>
+			<p>
+				Not your account?
+				<a href="javascript:void(0);" class="navlink -user -signin FP-paywall--logout">Log out</a>
+			</p>
+		</div>
+		<div class="open-comments">
+			<p><a href="javascript:void(0);">View <span class="coral-count" data-coral-notext="true"></span> Comments <span class="icon"></span></a></p>
+		</div>
+	</div>
+
+	<div class="user-content">
+		<div class="header bg-gray">
+			<h2>Join the Conversation</h2>
+			<p>Please follow our <strong><a href="https://foreignpolicy.com/comment-guidelines" target="_blank">comment guidelines</a></strong>, stay on topic, and be civil, courteous, and respectful of others’ beliefs.</p>
+		</div>
+	</div>
+
+	<div class="user-content">
+		<div class="comment-username-text inset bg-gray">
+			<strong>You are commenting as <span class="username-placeholder"></span>.</strong>
+			<span class="account-links">
+				<a href="javascript:void(0);" class="username-change-trigger-on">Change your username</a> <span class="separator" aria-hidden="true">|</span>
+				<a href="javascript:void(0);" class="FP-paywall--logout">Log out</a>
+			</span>
+		</div>
+
+		<div class="comment-change-username-form user-content inset bg-gray" style="display: none;">
+			<form class="username-form-top">
+				<div class="comment-username-fields">
+					<div class="row-1">
+						<div class="col-1">
+							<h3>Change your username:</h3>
+						</div>
+						<div class="col-2">
+							<label class="hide" for="comments-username-change">Username</label>
+							<input type="text" id="comments-username-change" name="username" class="username-input" value="" autocomplete="username" />
+							<p class="comments-username-message"></p>
+						</div>
+					</div>
+
+					<div class="row-2">
+						<div class="col-1">
+							<p>
+								<input required type="checkbox" id="commenting-guidelines-consent-top" name="commenting-guidelines-consent" value="1" />
+								<label for="commenting-guidelines-consent-top">
+									I agree to abide by FP’s <a href="https://foreignpolicy.com/comment-guidelines" target="_blank">comment guidelines</a>. (Required)
+								</label>
+							</p>
+						</div>
+						<div class="col-2">
+							<span class="actions">
+								<button class="button-red">Confirm</button>
+								<a href="javascript:void(0);" class="username-change-trigger-off">CANCEL</a>
+							</span>
+
+							<span class="loading">
+								<img src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/loading-animation.gif" alt="Loading..." class="facebook-button" width="25" height="25" />
+							</span>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<div class="comment-username-form user-content text-left" style="display: none;">
+		<form class="username-form-bottom">
+			<h2>Confirm your username to get started.</h2>
+			<p>The default username below has been generated using the first name and last initial on your FP subscriber account. Usernames may be updated at any time and must not contain inappropriate or offensive language.</p>
+
+			<div class="comment-username-fields">
+				<p>
+					<label class="hide" for="comments-username-confirm">Username</label>
+					<input type="text" name="username" id="comments-username-confirm" class="username-input" value="" autocomplete="username" />
+				</p>
+
+				<p>
+					<input required type="checkbox" id="commenting-guidelines-consent" name="commenting-guidelines-consent" value="1" />
+					<label for="commenting-guidelines-consent">
+						I agree to abide by FP’s <a href="https://foreignpolicy.com/comment-guidelines" target="_blank">comment guidelines</a>. (Required)
+					</label>
+				</p>
+
+				<span class="actions">
+					<button class="button-red">Confirm</button>
+				</span>
+
+				<span class="loading">
+					<img src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/loading-animation.gif" alt="Loading..." class="facebook-button" width="25" height="25" />
+				</span>
+			</div>
+
+			<p class="comments-username-message"></p>
+		</form>
+	</div>
+
+	<div id="coral_thread" class="inset"></div>
+</div>
+
+<script type="text/javascript">
+(function() {
+	var d = document, s = d.createElement('script');
+	s.src = 'https://foreignpolicy.coral.coralproject.net/assets/js/embed.js';
+	s.async = false;
+	s.defer = true;
+	s.onload = function() {
+		window.coral_embed = Coral.createStreamEmbed({
+			id: 'coral_thread',
+			autoRender: true,
+			rootURL: 'https://foreignpolicy.coral.coralproject.net',
+			events: function( events ) {
+				const trackedEvents = [ 'changeUsername.success', 'closeStory.success', 'copyPermalink', 'createComment.success', 'createCommentReaction.success', 'createCommentReply.success', 'editComment.success', 'ignoreUser.success', 'loadMoreAllComments.success', 'openSortMenu', 'openStory.success', 'removeCommentReaction.success', 'removeUserIgnore.success', 'reportComment.success', 'requestAccountDeletion.success', 'requestDownloadCommentHistory.success', 'showAllReplies.success', 'showMoreReplies', 'showReportPopover', 'showSharePopover', 'signOut.success', 'signedIn', 'updateNotificationSettings.success' ];
+				events.onAny( function( eventName, data ) {
+					if ( -1 < trackedEvents.indexOf( eventName ) ) {
+						data = data || {};
+						data.send_to = 'UA-6874192-41';
+						gtag(
+							'event',
+							eventName,
+							data
+						);
+					}
+				} );
+			},
+		});
+	};
+	(d.head || d.body).appendChild(s);
+})();
+</script>
+
+			<div class="fp-related-wrapper related-articles--no-video">
+    <div class="related-articles">
+        <p class="heading-container"><span class="heading">Read More</span></p>
+                    <div class="blog-list-layout" data-post-id="1109477">
+                <div class="excerpt-content--list --first-post content-block" data-post-id="1109477">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/04/11/crimea-has-become-a-frankensteins-monster/"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="562"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?quality=80 2872w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=150,105&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=550,386&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=768,539&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1458,1024&amp;quality=80 1458w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1536,1079&amp;quality=80 1536w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=2048,1438&amp;quality=80 2048w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=400,281&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1920,1348&amp;quality=80 1920w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1000,702&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=325,228&amp;quality=80 325w"
+            sizes="(max-width: 800px) 100vw, 800px"
+            alt="A worker adjusts lights above a tourist map of Ukraine at the Ukraine stand of the ITB International Travel Trade Fair in Berlin March 4, 2014."
+            style="height:auto;"
+                            src=""
+                data-sizes="(max-width: 800px) 100vw, 800px"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?quality=80 2872w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=150,105&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=550,386&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=768,539&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1458,1024&amp;quality=80 1458w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1536,1079&amp;quality=80 1536w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=2048,1438&amp;quality=80 2048w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=400,281&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1920,1348&amp;quality=80 1920w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=1000,702&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?resize=325,228&amp;quality=80 325w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?w=800&#038;h=562&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="562"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/04/GettyImages-476649409.jpg?w=800&#038;h=562&#038;quality=80"
+                alt="A worker adjusts lights above a tourist map of Ukraine at the Ukraine stand of the ITB International Travel Trade Fair in Berlin March 4, 2014."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">A worker adjusts lights above a tourist map of Ukraine at the Ukraine stand of the ITB International Travel Trade Fair in Berlin March 4, 2014.</figcaption>
+    </figure>
+    <div class="list-text">
+        <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/04/11/crimea-has-become-a-frankensteins-monster/">
+    <h3 class="hed">Crimea Has Become a Frankenstein’s Monster</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">The Ukrainian government is now trapped by its own uncompromising—and increasingly indefensible—policy.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/analysis/argument/"
+        class="department-name -excerpt ">
+        Argument    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/anatol-lieven/"
+        data-author-id="142321"        class="author">
+    Anatol Lieven</a></address>
+
+</div>
+    </div>
+</div>
+            </div> 
+                    <div class="blog-list-layout" data-post-id="1129742">
+                <div class="excerpt-content--list content-block" data-post-id="1129742">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/11/16/ukraine-europe-eu-accession-expansion-russia-balkans-backfire/"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="533"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?quality=80 1500w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=325,217&amp;quality=80 325w"
+            sizes="(max-width: 800px) 100vw, 800px"
+            alt="Ukrainian President Volodymyr Zelensky and President of the European Commission Ursula von der Leyen speak after a joint press conference after talks in Kyiv on February 2, 2023."
+            style="width:auto;"
+                            src=""
+                data-sizes="(max-width: 800px) 100vw, 800px"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?quality=80 1500w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?resize=325,217&amp;quality=80 325w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?w=800&#038;h=533&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="533"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1246740612.jpg?w=800&#038;h=533&#038;quality=80"
+                alt="Ukrainian President Volodymyr Zelensky and President of the European Commission Ursula von der Leyen speak after a joint press conference after talks in Kyiv on February 2, 2023."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">Ukrainian President Volodymyr Zelensky and President of the European Commission Ursula von der Leyen speak after a joint press conference after talks in Kyiv on February 2, 2023.</figcaption>
+    </figure>
+    <div class="list-text">
+        <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/16/ukraine-europe-eu-accession-expansion-russia-balkans-backfire/">
+    <h3 class="hed">The EU’s Plan for Ukraine Could Easily Backfire</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Membership bids in Europe sometimes accomplish the opposite of what they intend.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/analysis/argument/"
+        class="department-name -excerpt ">
+        Argument    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/paul-hockenos/"
+        data-author-id="360765"        class="author">
+    Paul Hockenos</a></address>
+
+</div>
+    </div>
+</div>
+            </div> 
+                    <div class="blog-list-layout" data-post-id="1129731">
+                <div class="excerpt-content--list content-block" data-post-id="1129731">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/11/16/ukraine-russia-war-us-congress-aid-weapons/"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="533"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=800&amp;h=533&amp;quality=80 800w, https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=600&amp;h=400 600w, https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=400&amp;h=267 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=200&amp;h=133 200w"
+            sizes="auto"
+            alt="American and Ukrainian flags near the Capitol Building in Washington."
+            style="width:auto;"
+                            src=""
+                data-sizes="auto"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=800&amp;h=533&amp;quality=80 800w, https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=600&amp;h=400 600w, https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=400&amp;h=267 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=200&amp;h=133 200w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=800&#038;h=533&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="533"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/11/congress-ukraine-GettyImages-1238861995-e1700127248951.jpg?w=800&#038;h=533&#038;quality=80"
+                alt="American and Ukrainian flags near the Capitol Building in Washington."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">American and Ukrainian flags near the Capitol Building in Washington.</figcaption>
+    </figure>
+    <div class="list-text">
+        <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/16/ukraine-russia-war-us-congress-aid-weapons/">
+    <h3 class="hed">The Case for Supporting Ukraine Is Crystal Clear</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Note to Congress: Ukraine aid is not charity but serves critical U.S. interests.</p>
+</div>
+<div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/analysis/argument/"
+        class="department-name -excerpt ">
+        Argument    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/michael-mcfaul/"
+        data-author-id="898945"        class="author">
+    Michael McFaul</a></address>
+
+</div>
+    </div>
+</div>
+            </div> 
+            </div>
+</div>
+
+		</article>
+
+		
+<div class="sidebar">
+
+	
+	<div class="sticky-container hide-on-pages">
+		<div id="newsletter-signup">
+			
+<div class="newsletter-unit-signup email-capture-unit email-capture-unit--non-subscriber">
+
+	<div class="newsletter-unit newsletters-page newsletter-row">
+		<div class="newsletter-editors_picks ">
+
+			<img src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/newsletters-page/newsletter-icon.png" alt="Newsletters" class="newsletter-icon-alt hide-from-newsletter-subscriber" />
+
+			<h2 class="signup-prompt hide-from-newsletter-subscriber"><b>Sign up for Editors&#039; Picks</b></h2>
+
+			<h3 class="dek-heading hide-from-newsletter-subscriber">A curated selection of FP’s must-read stories.</h3>
+
+			<div class="grid--flex newsletter-editors_picks hide-from-newsletter-subscriber">
+				<div class="buttons">
+					<div class="form-feedback" id="form-feedback-editors_picks"></div>
+
+						<label for="email-editors_picks">Enter your email</label>
+						<input type="email" name="email" placeholder="Enter your email" id="email-editors_picks" autocomplete="email">
+
+						
+						<a role="button" class="button button--signup article-right-rail" data-newsletter-id="editors_picks" data-sourceid="Right Rail">Sign Up</a>
+
+						<div class="signed-up">
+							<span class="button--signed-up">✓ Signed Up</span>
+							<a role="button" class="button--unsubscribe" data-newsletter-id="editors_picks">Unsubscribe</a>
+							<div class="additional-newsletters-container">
+								<p class="signed-up--message">You’re on the list! More ways to stay updated on global news:</p>
+								
+<div class="additional-newsletter additional-newsletter-fp_live">
+    <h3>FP Live</h3>
+            <label for="email-fp_live">Enter your email</label>
+		<input type="email" name="email" placeholder="Enter your email" id="email-fp_live">
+        <a role="button" class="button button--additional-signup button--additional-signup-fp_live article-right-rail-post-submit" data-newsletter-id="fp_live" data-sourceid="Right Rail">Sign Up</a>
+    <div class="additional-signed-up additional-signed-up-fp_live">
+        <span class="button--signed-up">✓ Signed Up</span>
+        <a role="button" class="button--additional-unsubscribe button--unsubscribe" data-newsletter-id="fp_live">Unsubscribe</a>
+    </div>
+</div>
+
+<div class="additional-newsletter additional-newsletter-world_brief">
+    <h3>World Brief</h3>
+            <label for="email-world_brief">Enter your email</label>
+		<input type="email" name="email" placeholder="Enter your email" id="email-world_brief">
+        <a role="button" class="button button--additional-signup button--additional-signup-world_brief article-right-rail-post-submit" data-newsletter-id="world_brief" data-sourceid="Right Rail">Sign Up</a>
+    <div class="additional-signed-up additional-signed-up-world_brief">
+        <span class="button--signed-up">✓ Signed Up</span>
+        <a role="button" class="button--additional-unsubscribe button--unsubscribe" data-newsletter-id="world_brief">Unsubscribe</a>
+    </div>
+</div>
+
+<div class="additional-newsletter additional-newsletter-china_brief">
+    <h3>China Brief</h3>
+            <label for="email-china_brief">Enter your email</label>
+		<input type="email" name="email" placeholder="Enter your email" id="email-china_brief">
+        <a role="button" class="button button--additional-signup button--additional-signup-china_brief article-right-rail-post-submit" data-newsletter-id="china_brief" data-sourceid="Right Rail">Sign Up</a>
+    <div class="additional-signed-up additional-signed-up-china_brief">
+        <span class="button--signed-up">✓ Signed Up</span>
+        <a role="button" class="button--additional-unsubscribe button--unsubscribe" data-newsletter-id="china_brief">Unsubscribe</a>
+    </div>
+</div>
+
+<div class="additional-newsletter additional-newsletter-south_asia_brief">
+    <h3>South Asia Brief</h3>
+            <label for="email-south_asia_brief">Enter your email</label>
+		<input type="email" name="email" placeholder="Enter your email" id="email-south_asia_brief">
+        <a role="button" class="button button--additional-signup button--additional-signup-south_asia_brief article-right-rail-post-submit" data-newsletter-id="south_asia_brief" data-sourceid="Right Rail">Sign Up</a>
+    <div class="additional-signed-up additional-signed-up-south_asia_brief">
+        <span class="button--signed-up">✓ Signed Up</span>
+        <a role="button" class="button--additional-unsubscribe button--unsubscribe" data-newsletter-id="south_asia_brief">Unsubscribe</a>
+    </div>
+</div>
+
+<div class="additional-newsletter additional-newsletter-situation_report">
+    <h3>Situation Report</h3>
+            <label for="email-situation_report">Enter your email</label>
+		<input type="email" name="email" placeholder="Enter your email" id="email-situation_report">
+        <a role="button" class="button button--additional-signup button--additional-signup-situation_report article-right-rail-post-submit" data-newsletter-id="situation_report" data-sourceid="Right Rail">Sign Up</a>
+    <div class="additional-signed-up additional-signed-up-situation_report">
+        <span class="button--signed-up">✓ Signed Up</span>
+        <a role="button" class="button--additional-unsubscribe button--unsubscribe" data-newsletter-id="situation_report">Unsubscribe</a>
+    </div>
+</div>
+								<div class="additional-newsletters-privacy-acknowledgements">
+									<a class="link-additional-signup" href="/newsletters">View All Newsletters</a>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+
+			<div class="hide-from-newsletter-subscriber">
+				<div class="privacy-policy-acknowledge">
+					<label for="privacy-policy-acknowledge-checkbox--newsletter" class="hide">By submitting your email, you agree to the Privacy Policy and Terms of Use and to receive email correspondence from us. You may opt out at any time.</label>
+					<input type="checkbox" checked="checked" class="required-checkbox" id="privacy-policy-acknowledge-checkbox--newsletter" />
+					<p><small>By submitting your email, you agree to the <a href="https://foreignpolicy.com/privacy/" target="_blank">Privacy Policy</a> and <a href="https://foreignpolicy.com/termsofuse/" target="_blank">Terms of Use</a> and to receive email correspondence from us. You may opt out at any time.</small></p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<div class="sidebar-list">
+    <h2 class="title">latest</h2>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/argentina-election-milei-economy-social-media-young-voters/?tpcc=recirc_latest062921">
+    <h3 class="hed">How Javier Milei Upended Argentina’s Politics</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 7:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/why-did-americas-elite-keep-falling-for-crypto-frauds/?tpcc=recirc_latest062921">
+    <h3 class="hed">Why Did America’s Elite Keep Falling for Crypto Frauds?</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 6:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/material-world-ed-conway-book-review-supply-chain-minerals/?tpcc=recirc_latest062921">
+    <h3 class="hed">Living in a Material World</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 6:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/israel-gaza-un-suspends-humanitarian-aid-fuel-shortages-khan-younis-evacuations/?tpcc=recirc_latest062921">
+    <h3 class="hed">U.N. Suspends Aid Shipments Into Gaza</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-17"
+    class="date-time">
+November 17, 2023, 7:00 PM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/rishi-sunak-david-cameron-tories-britain-back-to-the-future/?tpcc=recirc_latest062921">
+    <h3 class="hed">Rishi Sunak Goes Back to the Future</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-17"
+    class="date-time">
+November 17, 2023, 5:46 PM</time>
+</div>
+</div>
+</div>
+<div class="sidebar-list-more">
+    <a href="/category/latest/">See All  Stories</a>
+</div>
+		</div>
+	</div>
+
+			<div
+			class="sticky-container sticky-container--delay hide-on-pages hide-on-gated-post"
+			aria-hidden="true">
+						<div id="distroscale_ad_1"></div>
+		</div>
+	
+	<div class="sticky-container trending-container hide-on-gated-post">
+		<div class="fp-trending-wrapper trending-articles--no-video">
+    <div class="trending-articles top-ten-stories">
+        <h2><span class="heading">Editors&#8217; Picks</span></h2>
+        <ol>
+                    <li class="fp-trending-content">
+                <div class="fp-trending-count">1</div>
+                <div class="title">
+                    <a href="/2023/11/17/al-shifa-hospital-raid-israel-idf-hamas-war-gaza/?tpcc=recirc_trending062921">Where Is the West’s Moral Courage on Israel?</a>
+                </div>
+            </li>
+                    <li class="fp-trending-content">
+                <div class="fp-trending-count">2</div>
+                <div class="title">
+                    <a href="/2023/11/16/us-russia-china-gaza-ukraine-world-war-defense-security-strategy/?tpcc=recirc_trending062921">America Is a Heartbeat Away From a War It Could Lose</a>
+                </div>
+            </li>
+                    <li class="fp-trending-content">
+                <div class="fp-trending-count">3</div>
+                <div class="title">
+                    <a href="/2023/11/18/argentina-election-milei-economy-social-media-young-voters/?tpcc=recirc_trending062921">How Javier Milei Upended Argentina’s Politics</a>
+                </div>
+            </li>
+                    <li class="fp-trending-content">
+                <div class="fp-trending-count">4</div>
+                <div class="title">
+                    <a href="/2023/11/17/macron-israel-hamas-war-france-cease-fire/?tpcc=recirc_trending062921">Macron Breaks Ranks With the West on Israel-Hamas War</a>
+                </div>
+            </li>
+                </ol>
+    </div>
+</div>
+	</div>
+
+		<div class="sticky-container hide-on-pages hide-on-gated-post" aria-hidden="true">
+		<div>
+							<div id="article_d_2" class="channel-sidebar-big-box-ad"></div>
+				<div id="article_m_2" class="channel-sidebar-big-box-ad"></div>
+					</div>
+	</div>
+	
+	<div class="sticky-container the-latest-container hide-on-gated-post">
+		<div>
+		<div class="sidebar-list">
+    <h2 class="title">Latest</h2>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/argentina-election-milei-economy-social-media-young-voters/?tpcc=recirc_latest062921">
+    <h3 class="hed">Argentina Election: Young Voters Back Libertarian Javier Milei for President</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 7:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/why-did-americas-elite-keep-falling-for-crypto-frauds/?tpcc=recirc_latest062921">
+    <h3 class="hed">Sam Bankman-Fried&#039;s Crypto Fraud Conned the U.S. Establishment</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 6:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/material-world-ed-conway-book-review-supply-chain-minerals/?tpcc=recirc_latest062921">
+    <h3 class="hed">Review: Ed Conway&#039;s &#039;Material World&#039; Interrogates the Modern Supply Chain</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 6:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/israel-gaza-un-suspends-humanitarian-aid-fuel-shortages-khan-younis-evacuations/?tpcc=recirc_latest062921">
+    <h3 class="hed">U.N. Suspends Aid Shipments Into Gaza Amid Israeli Political Turmoil</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-17"
+    class="date-time">
+November 17, 2023, 7:00 PM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/rishi-sunak-david-cameron-tories-britain-back-to-the-future/?tpcc=recirc_latest062921">
+    <h3 class="hed">Rishi Sunak and Britain&#039;s Conservatives Have No Clear Direction</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-17"
+    class="date-time">
+November 17, 2023, 5:46 PM</time>
+</div>
+</div>
+</div>
+
+<div class="sidebar-list-more">
+    <a href="/category/latest/">See All Stories</a>
+</div>
+		</div>
+	</div>
+
+	
+		<div class="sticky-container hide-on-pages hide-on-gated-post hide-on-shorter-posts">
+				<div id="article_d_3" class="ad-container" aria-hidden="true"></div>
+		<div id="article_m_3" class="ad-container" aria-hidden="true"></div>
+	</div>
+		
+	</div>
+
+		<div class="post-content--after grid--full">
+			<div class="piano-gating-offer-container"></div>
+			<div class="post-content--after--final-post grid--container grid--flex">
+				<h2 class="more-from-fp--title">More from Foreign Policy</h2>
+<div class="grid__fourth grid__half--mobile more-from-fp grid--flex grid--flow">
+	<div class="excerpt-content content-block" data-post-id="1129206">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/11/08/israel-hamas-gaza-war-geopolitics/?tpcc=recirc062921"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="533"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?quality=80 1500w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=325,217&amp;quality=80 325w"
+            sizes="(max-width: 800px) 100vw, 800px"
+            alt="Media delegates watch Ukrainian President Volodymyr Zelensky, shown on a TV screen, address the Arab League summit in Jeddah."
+            style="width:auto;"
+                            src=""
+                data-sizes="(max-width: 800px) 100vw, 800px"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?quality=80 1500w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?resize=325,217&amp;quality=80 325w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?w=800&#038;h=533&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="533"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/11/GettyImages-1256069605.jpg?w=800&#038;h=533&#038;quality=80"
+                alt="Media delegates watch Ukrainian President Volodymyr Zelensky, shown on a TV screen, address the Arab League summit in Jeddah."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">Media delegates watch Ukrainian President Volodymyr Zelensky, shown on a TV screen, address the Arab League summit in Jeddah.</figcaption>
+    </figure>
+    <div class="list-text">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/08/israel-hamas-gaza-war-geopolitics/?tpcc=recirc062921">
+    <h3 class="hed">The World Won&#8217;t Be the Same After the Israel-Hamas War</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">The Middle East’s latest war will have widespread geopolitical effects.</p>
+</div>
+    </div>
+</div>
+<div class="excerpt-content content-block" data-post-id="1128632">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/11/05/russia-ukraine-empire-imperialism-war/?tpcc=recirc062921"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="533"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?quality=80 1884w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=1536,1024&amp;quality=80 1536w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=325,217&amp;quality=80 325w"
+            sizes="(max-width: 800px) 100vw, 800px"
+            alt="A photo collage illustration shows Russian President Vladamir Putin walking with a shadow cast before him on a red field. In front of him is the crown of a Russian tsar and a Soviet-era statue with hammer, sickle, and star."
+            style="width:auto;"
+                            src=""
+                data-sizes="(max-width: 800px) 100vw, 800px"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?quality=80 1884w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=1536,1024&amp;quality=80 1536w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?resize=325,217&amp;quality=80 325w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?w=800&#038;h=533&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="533"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/11/putin-empire-fall-russia-soviet-imperialism-foreign-policy-illustration-HPoverride.jpg?w=800&#038;h=533&#038;quality=80"
+                alt="A photo collage illustration shows Russian President Vladamir Putin walking with a shadow cast before him on a red field. In front of him is the crown of a Russian tsar and a Soviet-era statue with hammer, sickle, and star."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">A photo collage illustration shows Russian President Vladamir Putin walking with a shadow cast before him on a red field. In front of him is the crown of a Russian tsar and a Soviet-era statue with hammer, sickle, and star.</figcaption>
+    </figure>
+    <div class="list-text">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/05/russia-ukraine-empire-imperialism-war/?tpcc=recirc062921">
+    <h3 class="hed">The Inevitable Fall of Putin’s New Russian Empire</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">What history tells us about collapsed empires trying to restore their former possessions.</p>
+</div>
+    </div>
+</div>
+<div class="excerpt-content content-block" data-post-id="1128977">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/11/07/china-philippines-us-biden-alliance-asia-south-china-sea/?tpcc=recirc062921"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="533"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=800&amp;h=533&amp;quality=80 800w, https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=600&amp;h=400 600w, https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=400&amp;h=267 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=200&amp;h=133 200w"
+            sizes="auto"
+            alt="A protester holds a placard reading &quot;China Out&quot; outside the Chinese Embassy in Manila."
+            style="width:auto;"
+                            src=""
+                data-sizes="auto"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=800&amp;h=533&amp;quality=80 800w, https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=600&amp;h=400 600w, https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=400&amp;h=267 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=200&amp;h=133 200w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=800&#038;h=533&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="533"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/11/china-philippines-GettyImages-1591270574-e1699376640721.jpg?w=800&#038;h=533&#038;quality=80"
+                alt="A protester holds a placard reading &quot;China Out&quot; outside the Chinese Embassy in Manila."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">A protester holds a placard reading &quot;China Out&quot; outside the Chinese Embassy in Manila.</figcaption>
+    </figure>
+    <div class="list-text">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/07/china-philippines-us-biden-alliance-asia-south-china-sea/?tpcc=recirc062921">
+    <h3 class="hed">With Two Wars Raging, China Tests America in Asia</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Beijing knows that Washington can ill afford a third geopolitical crisis.</p>
+</div>
+    </div>
+</div>
+<div class="excerpt-content content-block" data-post-id="1129077">
+    <figure class="figure-image -nocaption">
+            <a
+            style="padding-bottom:66.666666666667%;
+        "
+                    href="https://foreignpolicy.com/2023/11/07/haiti-kenya-invasion-gang-war-united-states/?tpcc=recirc062921"
+                class="image-attachment -ratioscale  horizontal-orientation">
+        <img
+                            width="800"
+                height="533"
+                        srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?quality=80 1500w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=325,217&amp;quality=80 325w"
+            sizes="(max-width: 800px) 100vw, 800px"
+            alt="A barricaded street at night with a fire in the background an silhouettes of four people in front of it."
+            style="width:auto;"
+                            src=""
+                data-sizes="(max-width: 800px) 100vw, 800px"
+                data-srcset="https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?quality=80 1500w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=150,100&amp;quality=80 150w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=550,367&amp;quality=80 550w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=768,512&amp;quality=80 768w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=400,267&amp;quality=80 400w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=1000,667&amp;quality=80 1000w, https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?resize=325,217&amp;quality=80 325w"
+                data-src="https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?w=800&#038;h=533&#038;quality=80"
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="800"
+                    height="533"
+                                src="https://foreignpolicy.com/wp-content/uploads/2023/11/1-haiti-unrest-invasion-kenya-united-nations-US-GettyImages-1664041443.jpg?w=800&#038;h=533&#038;quality=80"
+                alt="A barricaded street at night with a fire in the background an silhouettes of four people in front of it."
+                loading="lazy"
+                class="image -fit-3-2">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">A barricaded street at night with a fire in the background an silhouettes of four people in front of it.</figcaption>
+    </figure>
+    <div class="list-text">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/07/haiti-kenya-invasion-gang-war-united-states/?tpcc=recirc062921">
+    <h3 class="hed">The U.S. Is Preparing an Outsourced Invasion of Haiti</h3>
+</a>
+<div class="dek-heading -excerpt">
+    <p class="dek">Repeated interventions have done nothing to aid Haitians.</p>
+</div>
+    </div>
+</div>
+</div>
+				<div class="grid__third grid--flex grid--flow additional-recirc-units">
+					<div class="trending-container">
+						<div class="g-block-wrapper top-ten-stories">
+    <h2 class="title">Trending</h2>
+    <div class="grid__half--mobile">
+        <ol>
+                    <li class="fp-trending-content">
+                <a class="hed-heading -excerpt" href="/2023/11/16/us-russia-china-gaza-ukraine-world-war-defense-security-strategy/?tpcc=recirc_trending062921">
+                    <h3 class="hed">America Is a Heartbeat Away From a War It Could Lose</h3>
+                </a>
+                <div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/analysis/shadow-government/"
+        class="department-name -excerpt ">
+        Shadow Government    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/a-wess-mitchell/"
+        data-author-id="199449"        class="author">
+    A. Wess Mitchell</a></address>
+
+</div>
+            </li>
+                    <li class="fp-trending-content">
+                <a class="hed-heading -excerpt" href="/2023/11/17/macron-israel-hamas-war-france-cease-fire/?tpcc=recirc_trending062921">
+                    <h3 class="hed">Macron Breaks Ranks With the West on Israel-Hamas War</h3>
+                </a>
+                <div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/category/news/dispatch/"
+        class="department-name -excerpt ">
+        Dispatch    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/michele-barbero/"
+        data-author-id="1026786"        class="author">
+    Michele Barbero</a></address>
+
+</div>
+            </li>
+                    <li class="fp-trending-content">
+                <a class="hed-heading -excerpt" href="/2023/11/17/rishi-sunak-david-cameron-tories-britain-back-to-the-future/?tpcc=recirc_trending062921">
+                    <h3 class="hed">Rishi Sunak Goes Back to the Future</h3>
+                </a>
+                <div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/channel/analysis/"
+        class="department-name -excerpt ">
+        Analysis    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/vernon-bogdanor/"
+        data-author-id="953105"        class="author">
+    Vernon Bogdanor</a></address>
+
+</div>
+            </li>
+                    <li class="fp-trending-content">
+                <a class="hed-heading -excerpt" href="/2023/11/18/argentina-election-milei-economy-social-media-young-voters/?tpcc=recirc_trending062921">
+                    <h3 class="hed">How Javier Milei Upended Argentina’s Politics</h3>
+                </a>
+                <div class="meta-data -excerpt">
+        <a
+        href="https://foreignpolicy.com/channel/analysis/"
+        class="department-name -excerpt ">
+        Analysis    </a>
+        <p class="separator" aria-hidden="true">|</p>
+        <address class="author-list -excerpt">
+    <a
+        href="https://foreignpolicy.com/author/lautaro-grinspan/"
+        data-author-id="1130052"        class="author">
+    Lautaro Grinspan</a></address>
+
+</div>
+            </li>
+                </ol>
+    </div>
+</div>					</div>
+					<div class="the-latest-container">
+						<div>
+						<div class="sidebar-list">
+    <h2 class="title">Latest</h2>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/argentina-election-milei-economy-social-media-young-voters/?tpcc=recirc_latest062921">
+    <h3 class="hed">How Javier Milei Upended Argentina’s Politics</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 7:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/why-did-americas-elite-keep-falling-for-crypto-frauds/?tpcc=recirc_latest062921">
+    <h3 class="hed">Why Did America’s Elite Keep Falling for Crypto Frauds?</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 6:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/18/material-world-ed-conway-book-review-supply-chain-minerals/?tpcc=recirc_latest062921">
+    <h3 class="hed">Living in a Material World</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-18"
+    class="date-time">
+November 18, 2023, 6:00 AM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/israel-gaza-un-suspends-humanitarian-aid-fuel-shortages-khan-younis-evacuations/?tpcc=recirc_latest062921">
+    <h3 class="hed">U.N. Suspends Aid Shipments Into Gaza</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-17"
+    class="date-time">
+November 17, 2023, 7:00 PM</time>
+</div>
+</div>
+<div class="excerpt-content">
+    <a
+    class="hed-heading -excerpt"
+    href="https://foreignpolicy.com/2023/11/17/rishi-sunak-david-cameron-tories-britain-back-to-the-future/?tpcc=recirc_latest062921">
+    <h3 class="hed">Rishi Sunak Goes Back to the Future</h3>
+</a>
+<div class="meta-data -ago">
+    <time
+    pubdate
+    datetime="2023-11-17"
+    class="date-time">
+November 17, 2023, 5:46 PM</time>
+</div>
+</div>
+</div>
+
+<div class="sidebar-list-more">
+    <a href="/category/latest/">See All Stories</a>
+</div>
+						</div>
+					</div>
+					<div class="newsletter-signup-and-ads">
+						
+<div class="newsletter-unit-signup">
+
+  <div class="newsletter-world_brief">
+
+    <div class="newsletter-unit newsletters-page newsletter-row">
+      <div class="newsletter-world_brief ">
+
+        <div>
+          <div class="padding-right--desktop">
+            <img src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/newsletters-page/newsletter-icon.png" alt="Newsletters" class="newsletter-icon-alt" />
+            
+            <p class="signup-prompt"><b>Sign up for World Brief</b></p>
+            
+            <h2 class="dek-heading">FP’s flagship evening newsletter guiding you through the most important world stories of the day, written by <b>Alexandra Sharp</b>. Delivered weekdays.</h2>
+          </div>
+
+          <div>
+            <div class="grid--flex newsletter-world_brief">
+              <div class="buttons">
+                <div class="form-feedback" id="form-feedback-world_brief"></div>
+
+                <div class="email-container">
+                  <label for="email-world_brief">Enter your email</label>
+                  <input type="email" name="email" placeholder="Enter your email" id="email-world_brief">
+
+                  
+                  <a role="button" class="button button--signup" data-newsletter-id="world_brief" data-sourceid="Article Page Form">Sign Up</a>
+                </div>
+            
+                <div class="signed-up">
+                  <span class="button--signed-up">✓ Signed Up</span>
+                  <a role="button" class="button--unsubscribe" data-newsletter-id="world_brief">Unsubscribe</a>
+                </div>
+              </div>
+            </div>
+
+            <div>
+              <div class="privacy-policy-acknowledge">
+                <label for="privacy-policy-acknowledge-checkbox--footer" class="hide">By submitting your email, you agree to the Privacy Policy and Terms of Use and to receive email correspondence from us. You may opt out at any time.</label>
+                <input type="checkbox" class="required-checkbox" id="privacy-policy-acknowledge-checkbox--footer" style="visibility: hidden; height: 0; width: 0; margin: 0;" checked="checked" />
+                <p><small>By submitting your email, you agree to the <a href="https://foreignpolicy.com/privacy/" target="_blank">Privacy Policy</a> and <a href="https://foreignpolicy.com/termsofuse/" target="_blank">Terms of Use</a> and to receive email correspondence from us. You may opt out at any time.</small></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+												<div class="ad-container--parent ad-container--parent--mobile-spacing hide-desktop" aria-hidden="true">
+							<div id="article_m_4" class="ad-container"></div>
+						</div>
+						<div class="ad-container--parent ad-container--parent--mobile-spacing hide-mobile" aria-hidden="true">
+							<div id="article_d_4" class="ad-container"></div>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+			<div class="in-article-subscribe-expandable-container"></div>
+		<div class="in-article-subscribe-takeover-container"></div>
+	
+
+</div>
+
+<div class="piano-sticky-bar"></div>
+
+            <div class="anchor-scroll-loading">
+                <div class="loading-placeholder">Loading graphics</div>
+            </div>
+
+            <div id="subscribe-takeover--insider"></div>
+
+            
+            <div id="subscribe-takeover">
+                <svg class="subscribe-takeover-close" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10" overflow="visible" stroke="white" stroke-width="1" stroke-linecap="round">
+                <line x1="0" y1="0" x2="10" y2="10" />
+                <line x1="10" y1="0" x2="0" y2="10" />
+                </svg>
+
+                <iframe 
+                    id="subscribe-takeover-iframe"
+                    src=""
+                    data-src="?subscribe"
+                    width="100%"
+                    height="100%"
+                ></iframe>
+            </div>
+
+        </main>
+
+        <footer id="footer" aria-label="footer" class="site-footer-wrapper">
+            <div class="site-footer">
+                <div class="logo">
+                                <a
+                style="padding-bottom:42%;
+        "
+                href="https://foreignpolicy.com/"
+            class="image-attachment -ratioscale">
+        <img
+                            width="100"
+                height="42"
+                        alt="Foreign Policy Magazine"
+                            src=""
+                data-srcset=""
+                data-src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/logos/FP.svg"
+                srcset=""
+                class="image -fit -lazy"
+                    >
+        <noscript>
+            <img
+                                    width="100"
+                    height="42"
+                                src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/logos/FP.svg"
+                alt="Foreign Policy Magazine"
+                loading="lazy"
+                class="image -fit">
+        </noscript>
+        </a>
+        <figcaption style="height:0;opacity:0;">Foreign Policy Magazine</figcaption>
+                    </div>
+                <label class="hide" id="footer-navigation">Secondary Navigation</label>
+                <nav class="nav" aria-labelledby="footer-navigation">
+                    <ul id="menu-footer-column-5" class="footer-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-988928 footer-menu-item"><a href="https://foreignpolicy.com/events" class="navlink">FP Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018372 footer-menu-item"><a href="https://foreignpolicy.com/fp-studios/" class="navlink">FP Studios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993024 footer-menu-item"><a href="https://foreignpolicy.com/fp-analytics/" class="navlink">FP Analytics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1002749 footer-menu-item"><a href="https://foreignpolicy.com/fp-peacegames/" class="navlink">FP PeaceGames</a></li>
+</ul><ul id="menu-footer-column-6" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993038 footer-menu-item"><a href="https://foreignpolicy.com/subscription-services/" class="navlink">Subscription Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069218 footer-menu-item"><a href="https://foreignpolicy.com/group-subscriptions/" class="navlink">Group Subscriptions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988929 footer-menu-item"><a href="https://foreignpolicy.com/reprint-permissions/" class="navlink">Reprint Permissions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-939400 footer-menu-item"><a href="https://foreignpolicy.submittable.com/submit" class="navlink">Writer&#8217;s Guidelines</a></li>
+</ul><ul id="menu-footer-column-7" class="footer-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-927960 footer-menu-item"><a href="https://fpguide.foreignpolicy.com/2023-grad-programs/" class="navlink">FP Guides &#8211; Graduate Education</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-996597 footer-menu-item"><a href="https://foreignpolicy.com/fp-for-education/" class="navlink">FP For Education</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-660886 footer-menu-item"><a href="/magazine" class="navlink">FP Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660961 footer-menu-item"><a href="https://foreignpolicy.com/buy-back-issues/" class="navlink">Buy Back Issues</a></li>
+</ul><ul id="menu-footer-column-8" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069220 footer-menu-item"><a href="https://foreignpolicy.com/employment-opportunities/" class="navlink">Work At FP</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092041 footer-menu-item"><a href="https://foreignpolicy.com/staff/" class="navlink">Meet the Staff</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-993026 footer-menu-item"><a href="https://solutions.foreignpolicy.com/" class="navlink">Advertising/Partnerships</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1093837 footer-menu-item"><a href="https://sponsored.foreignpolicy.com/country-reports/" class="navlink">Country Reports</a></li>
+</ul><ul id="menu-footer-column-9" class="footer-menu"><li id="menu-item-1069217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069217 footer-menu-item"><a href="https://foreignpolicy.com/contact-us/" class="navlink">Contact Us</a></li>
+<li id="menu-item-1069216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069216 footer-menu-item"><a href="https://foreignpolicy.com/privacy/" class="navlink">Privacy Policy</a></li>
+</ul>                    <span class="powered-by-wpcom--parent">
+                        <div>Powered by <a href="https://wpvip.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=foreignpolicy.com" rel="generator nofollow" class="powered-by-wpcom">WordPress VIP</a></div>
+                        <div>&copy; 2023, Graham Digital Holding Company</div>
+                    </span>
+                </nav>
+            </div>
+        </footer>
+
+        </div><!-- end site-wrapper -->
+                
+        <script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nzlz2');
+twq('track','PageView');
+</script>    
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","publisher":{"@type":"Organization","name":"Foreign Policy","url":"https:\/\/foreignpolicy.com","logo":{"@type":"ImageObject","height":60,"url":"https:\/\/foreignpolicy.com\/wp-content\/uploads\/2016\/04\/logo.png","width":74}},"@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/foreignpolicy.com\/2023\/10\/04\/crimea-russia-ukraine-red-line\/"},"headline":"Russia's Crimean Red Line Has Been Erased by Ukraine","description":"Claims about the territory\u2019s spiritual status have been revealed to be fiction.","Articlebody":"In December 2014, Russian President Vladimir Putin stood in the middle of the Kremlin\u2019s St. George\u2019s Hall, delivering his annual address to the country\u2019s Federal Assembly. Nine months removed from his formal annexation of Crimea, the Russian president unspooled a <a href=\"https:\/\/web.archive.org\/web\/20141211002453\/http:\/eng.kremlin.ru\/news\/23341\">historical overview<\/a> of Crimea\u2019s supposed importance to the Russian body politic.\r\n\r\nCrimea, as Putin claimed, was far more than simply a wayward chunk of rightfully Russian land. Rather, the peninsula was the \u201cspiritual source\u201d of the entire Russian nation\u2014a province that presented \u201cinvaluable civilizational and even sacral importance\u201d for all Russians. The language mirrored Putin\u2019s <a href=\"http:\/\/www.en.kremlin.ru\/events\/president\/news\/20603\">annexation announcement<\/a> that March, when he\u2019d claimed that \u201cin [Russians\u2019] hearts and minds, Crimea has always been an inseparable part of Russia.\u201d As Putin saw it, Crimea stood as the Temple Mount of Russia\u2014as a Russian \u201c<a href=\"https:\/\/tass.com\/society\/1267707\">holy land<\/a>.\u201d And this was, Putin assured his listeners in December, \u201cexactly how we will treat it from now on and forever.\u201d\r\n\r\nAt the time, few in Russia appeared to disagree. Nor, likewise, did those in the West, who <a href=\"https:\/\/newrepublic.com\/article\/121222\/one-year-after-russias-annexation-world-has-forgotten-crimea\">largely rolled over<\/a> in the face of Russia\u2019s initial invasion in 2014. Suckered by Russian propaganda surrounding the peninsula\u2019s supposedly pro-Russian tilt and convinced that any Ukrainian assault on Crimea could spark potential military escalation, Western voices largely shied away from backing any attempts at returning the peninsula to Kyiv\u2019s control. This was seen perhaps most spectacularly last month, when news emerged that Tesla CEO Elon Musk had undercut Ukrainian efforts to target the peninsula because of concerns any attack \u201c<a href=\"https:\/\/www.theatlantic.com\/ideas\/archive\/2023\/09\/elon-musk-let-russia-scare-him\/675282\/\">could lead to a nuclear war<\/a>.\u201d\r\n\r\nThose concerns were perhaps understandable, insofar as Russian officials have continually rattled a <a href=\"https:\/\/warontherocks.com\/2023\/02\/the-case-for-caution-on-crimea\/\">nuclear saber<\/a> about protecting Crimea from any Ukrainian reclamation efforts. But now, as Ukraine unleashes near-daily assaults on the peninsula, the notion that Crimea presents some kind of Temple Mount\u2014or even any kind of red line\u2014for Russians has crumbled.\r\n\r\nIn the face of continued drone attacks, long-range missile fires, sabotage operations, and annihilation of military assets across Crimea, Russians have hardly treated the Ukrainian peninsula as some kind of sacred land. Rather than rushing to protect Crimea, Russians have instead begun <a href=\"https:\/\/www.reuters.com\/world\/europe\/russian-tourists-flee-crimea-after-attack-landmark-bridge-2023-07-17\/\">fleeing the region<\/a> en masse. Rather than seeing Russians lining up to enlist to aid the Kremlin\u2019s defense of the peninsula, Moscow continues mooting the potential of a <a href=\"https:\/\/meduza.io\/en\/feature\/2023\/09\/21\/another-round-of-mobilization-in-russia-appears-inevitable-the-only-question-is-when\">second, and far broader, forced mobilization<\/a>. And rather than resulting in any kind of nuclear conflagration, Russians\u2019 subdued reaction to the continued bombardment of Crimea has dissolved Putin\u2019s claims that the peninsula is some kind of special, sacrosanct land. As McGill University professor Maria Popova <a href=\"https:\/\/twitter.com\/PopovaProf\/status\/1705806142444625981\">recently posted on X<\/a> (formerly known as Twitter), \u201cCrimea isn\u2019t special, let alone a red line.\u201d\r\n\r\nIndeed, with few even noticing, Ukraine\u2019s continued shelling and strikes on the peninsula have illustrated one clear lesson: The idea that Crimea is some kind of holy land that Russians will race to defend\u2014an idea that <a href=\"https:\/\/www.theatlantic.com\/international\/archive\/2023\/05\/ukraine-us-long-range-missiles-crimea-war-end\/674199\/\">far too many in the West previously swallowed<\/a>\u2014is dead. And in that death, a wealth of new opportunities has opened up for Kyiv and for the Western partners who are suddenly realizing Crimea is hardly the sacral land Putin once claimed.\r\n\r\n[hrthick]\r\n\r\nFor those familiar with the region\u2019s history, the notion that Crimea was always some kind of \u201cspiritual center\u201d for the Russian nation, or that it was perpetually inseparable from Moscow, was always a rickety proposition. While there were historical links tethering the peninsula to the imperial center in Moscow\u2014not least the peninsula\u2019s outsized role in the eponymous Crimean War of the 1850s or World War II\u2014Crimea is hardly some central node of Russian identity that Putin and his claque have claimed.\r\n\r\nJust glance through the peninsula\u2019s broader ethno-nationalist history. While tsarist forces first seized the province in 1783, Crimea was hardly a central destination for Russian settler-colonial efforts. Indeed, it <a href=\"https:\/\/iccrimea.org\/population.html\">wasn\u2019t until World War II<\/a> that Crimea was even majority ethnic Russian\u2014and even then, only as a result of gargantuan Stalinist ethnic cleansing efforts, forcibly displacing <a href=\"https:\/\/www.wilsoncenter.org\/blog-post\/crimean-tatars-and-russification\">tens of thousands of Crimean Tatars<\/a> from their historic homeland.\r\n\r\nOr look at the peninsula\u2019s political preferences. While the Kremlin\u2019s <a href=\"https:\/\/www.wilsoncenter.org\/publication\/why-did-russia-give-away-crimea-sixty-years-ago\">1954 decision<\/a> to transfer control of Crimea to Soviet Ukraine has seen overwrought attention in recent years, far less attention has been given to Crimeans\u2019 actual voices and votes. For instance, in 1991 <a href=\"https:\/\/www.csce.gov\/sites\/helsinkicommission.house.gov\/files\/120191UkraineReferendum.pdf\">Crimeans joined every other Ukrainian province<\/a> in voting for independence from Moscow. And in the intervening years, while Crimean leadership continually agitated for <a href=\"https:\/\/law.marquette.edu\/facultyblog\/2014\/03\/understanding-the-constitutional-situation-in-crimea\/\">increased autonomy<\/a> from Kyiv, Crimean residents never once voted for a return to the Kremlin\u2019s embrace.\r\n\r\nNot that that\u2019s necessarily surprising. As polling in the months leading up to Russia\u2019s 2014 invasion indicated, Crimeans\u2019 desire for Russian annexation was a minority\u2014and clearly declining\u2014position. One <a href=\"https:\/\/www.iri.org\/wp-content\/uploads\/2013\/10\/201320October20720Survey20of20Crimean20Public20Opinion2C20May2016-302C202013.pdf\">survey of Crimeans<\/a>, conducted by the International Republican Institute in mid-2013, found that less than a quarter of Crimeans wanted outright annexation. Likewise, the same poll found that the majority of Crimean residents identified primarily as something other than Russian, whether that be Ukrainian, Tatar, or simply Crimean.\r\n\r\nAll of which is to say: Contrary to Putin and his propagandists\u2019 claims, Crimea was hardly some hotbed of pro-Kremlin sentiment, agitating for a return to Russian control. Such a reality is borne out in contemporaneous reportage, which highlighted how Russian militias <a href=\"https:\/\/www.hurstpublishers.com\/book\/hybrid-warriors\/\">had to force Crimean deputies<\/a> to vote for annexation. (As notorious <a href=\"https:\/\/foreignpolicy.com\/2023\/07\/25\/putin-paranoia-igor-strelkov-girkin-arrest-russia-far-right-ukraine-war\/\">Russian war criminal Igor Girkin<\/a>, one of the key figures in Russia\u2019s 2014 invasion, <a href=\"https:\/\/twitter.com\/visegrad24\/status\/1657868798374887425\">recalled<\/a>, he and other pro-Russian militia figures \u201cdidn\u2019t see any support [for annexation] from any organ of government power\u201d in Crimea.) Little surprise, then, that instead of any kind of free and fair vote on annexation, Moscow resorted to a ballot-by-bayonet referendum, with Moscow announcing that a ludicrous 97 percent of Crimeans backed Russian sovereignty over the peninsula.\r\n\r\n[hrthick]\r\n\r\nNow, almost a decade after Putin first claimed Crimea as Russia\u2019s alone, Ukraine\u2019s efforts to bombard the peninsula into submission have begun in earnest. As the <em>Economist<\/em> <a href=\"https:\/\/www.economist.com\/europe\/2023\/09\/25\/war-has-arrived-in-crimea\">recently wrote<\/a>, \u201cWar has arrived in Crimea.\u201d While <a href=\"https:\/\/www.reuters.com\/world\/europe\/ukraines-sbu-claims-responsibility-last-years-crimea-bridge-blast-2023-07-26\/\">last year\u2019s strike<\/a> against the primary Crimean bridge gained numerous headlines, the past few weeks have ramped up assaults on Crimean military assets to an unprecedented degree. There have been fires at <a href=\"https:\/\/www.rferl.org\/a\/crimea-fire-military-base-ukraine-attack\/32509673.html\">local ammunition holdings<\/a>; cruise missile strikes on <a href=\"https:\/\/www.politico.eu\/article\/ukraine-russia-war-submarine-british-cruise-missile-sevastopol-crimea\/\">naval assets in Sevastopol<\/a>, which hammered ships and submarines alike; drones targeting <a href=\"https:\/\/www.forbes.com\/sites\/davidaxe\/2023\/09\/14\/russia-had-five-s-400-air-defense-batteries-in-crimea-in-three-weeks-ukraine-blew-up-two\/?sh=3b833bf016fc\">Russia\u2019s air defense infrastructure<\/a>; and <a href=\"https:\/\/news.yahoo.com\/powerful-explosions-rock-ukraine-russian-183500012.html\">plenty more<\/a>\u2014and much of this in just the past few weeks. Moreover, a <a href=\"https:\/\/www.reuters.com\/world\/europe\/russian-official-says-ukraine-struck-black-sea-navy-hq-with-missile-2023-09-22\/\">spectacular salvo<\/a> of Ukrainian long-range fires obliterated the central command of Russia\u2019s Black Sea Fleet\u2014an attack that was <a href=\"https:\/\/news.yahoo.com\/video-footage-storm-shadow-strike-201000999.html\">caught on tape<\/a> and <a href=\"https:\/\/www.nytimes.com\/2023\/09\/25\/world\/europe\/ukraine-russia-black-sea-fleet.html\">decapitated<\/a> much of Moscow\u2019s naval command in the region.\r\n\r\nYet, even amid all of this mounting violence wracking the peninsula, the response from Russians has been largely muted (or at least as muted as an ongoing genocidal campaign of conquest can be). Part of this stems from Putin\u2019s domestic desires to downplay Russian losses in Ukraine, attempting to maintain an air of both invincibility and inevitability about Russian military prowess. But part of that is also because Russians themselves have displayed an ongoing apathy regarding the assaults on Crimea. Rather than resulting in the kind of <a href=\"https:\/\/www.cnbc.com\/2023\/09\/07\/ukraine-rips-musk-disrupting-sneak-attack-russian-navy.html\">Pearl Harbor-style<\/a> response that many Westerners feared, Russians have largely shrugged their shoulders. Instead of sparking a new onrush of military sign-ups, Moscow has struggled to meet basic enlistment targets, all while Kyiv continues to compile new weaponry to expand its arsenal dedicated to reclaiming Crimea. And instead of spiraling into nuclear exchanges, any likelihood of Moscow resorting to nuclear response has dissipated\u2014undone both by pressure from Moscow\u2019s allies (<a href=\"https:\/\/www.ft.com\/content\/c5ce76df-9b1b-4dfc-a619-07da1d40cbd3\">especially Beijing<\/a>) but also by Kyiv calling Moscow\u2019s bluff.\r\n\r\nThankfully, it does appear that Western policymakers are finally starting to digest this new reality. Whereas Western officials, such as U.S. Secretary of State Antony Blinken, previously warned that Crimea presented a \u201c<a href=\"https:\/\/www.politico.com\/news\/2023\/02\/15\/blinken-crimea-ukraine-putin-00083149\">red line<\/a>\u201d for Putin, concerns out of Washington, London, and Brussels to the latest attacks in recent weeks have been largely nonexistent. If anything, Kyiv\u2019s successful bombings have convinced Western partners to increase support; amid Ukraine\u2019s escalating bombardment, the United States signaled that it would <a href=\"https:\/\/www.bbc.com\/news\/world-us-canada-66898029\">finally supply<\/a> Ukraine with long-range missiles\u2014so-called ATACMS\u2014that would <a href=\"https:\/\/www.wsj.com\/world\/biden-told-zelensky-u-s-is-willing-to-provide-long-range-atacms-missiles-3d125ab3\">allow Kyiv to expand its array<\/a> of targets in Crimea.\r\n\r\nMore broadly, the disintegration of the notion that Crimea presents any kind of red line for Putin is of a piece with supposed Russian red lines elsewhere, all of which have likewise crumbled. And with the disappearance of this Crimean \u201cred line\u201d\u2014as well the dismantling of the idea that Crimea is some kind of holy land for Russians\u2014there is no reason remaining for Western governments not to do everything in their power to back Ukrainian efforts at retaking every inch of Ukrainian territory, including Crimea.\r\n\r\nAfter all, it was in the Crimean Peninsula that Moscow\u2019s irredentist invasion first began in 2014. Given that Putin\u2019s promises that Russians would rally to the peninsula\u2019s defense have proved hollow, undone by Putin\u2019s own hubris, it is only fitting that Crimea is where Russia\u2019s revanchist efforts should end.","datePublished":"2023-10-04T04:46:19+00:00","dateModified":"2023-10-04T16:22:42+00:00","url":"https:\/\/foreignpolicy.com\/2023\/10\/04\/crimea-russia-ukraine-red-line\/","author":{"@type":"Person","name":"Casey Michel","url":"https:\/\/foreignpolicy.com\/author\/casey-michel\/"},"image":{"@type":"ImageObject","url":"https:\/\/foreignpolicy.com\/wp-content\/uploads\/2023\/10\/GettyImages-481714163.jpg?w=1625","height":1024,"width":1625},"isAccessibleForFree":"False","hasPart":{"@type":"WebPageElement","isAccessibleForFree":"False","cssSelector":".content-gated"}}</script>
+<link rel='stylesheet' id='FP__styles__libre_franklin_font-css' href='https://fonts.googleapis.com/css2?family=Libre+Franklin%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&#038;display=swap&#038;ver=1.1.8' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/public/styles/components/fp-quiz/_main.min.css?m=1700243264g' type='text/css' media='all' />
+<script type="text/javascript" src="https://foreignpolicy.com/_static/??-eJyNzUEOgkAMheELORQ0hLgwngWZisVOS9oZDbd34soVcd3vf4X3GkgmLhEdFodInuGFEtWgnlbl7U7M1aDlJpE0ix9gJzKcsdoxqwUrkinhP9nPr13+UH36r5hUMkqGVMLKZSbx79ZojryFU9O1cCvEEVjHiFaza7p0Q9t2fX8+DssHodVd9A==" ></script><script type="text/javascript" data-parsely-site="foreignpolicy.com" src="https://cdn.parsely.com/keys/foreignpolicy.com/p.js?ver=3.10.0" id="parsely-cfg"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" id="FP__vendor__jquery-js"></script>
+<script type="text/javascript" id="FP__scripts__components__my-fp-js-extra">
+/* <![CDATA[ */
+var myFpData = {"postType":"post"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="utils-js-js-extra">
+/* <![CDATA[ */
+var fpUtilsLoc = {"isDev":"","redirectUri":"https:\/\/foreignpolicy.com\/share_redirect\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="FP__scripts__singletons__user__piano-js-extra">
+/* <![CDATA[ */
+var pianoData = {"cache_group_nonce":"1e76c9c61f","use_piano_environment":"production","userLevels":{"isReg":false,"isSub":false,"isInsider":false,"isPremium":false,"isIspyPlus":false,"isIPAccess":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" id="FP__scripts__singletons__user__alt_access-js-extra">
+/* <![CDATA[ */
+var postDataPiano = ["Eastern Europe","Europe","Russia","Ukraine","War","article"];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://foreignpolicy.com/_static/??-eJytk01SwzAMhS+E67Z06IrhKB3HVR2ljuRKDmk4PR4ChWHB0CQb/yz0+elZz/bJeKYMlG2uoQW1JxbAQCZxRD+Y7Xqzt04VsloVb9ULpnKuoHavyKL20uHbqtEH+z9W6qpyuXHa4ZQ+llWLNB3zLYfKHlxGpjuJfzZJ0Jse6ci9gWsGIRdNRDrrUg9g6wLcQ9NcmvS2URsiVy5OKu0yRrWRvYuaWYqE6ZilnPDMZwRTanWqnkMSvg4H532BTCI0lw5kWI1a5nU2elwUtaiLoDQLUliC1Mk9Y/Mrcl9i0J+HGtwRROdl+CdQaydQOZmf4ZH6WZs5hDjzE7SYHyEzFbaCmISOeFmki9nchvelfd7s1+vt7ulxs2veAQH6HFU=" ></script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdNhYkiAAAAAEo_IrOgwgJPQt4LnKpiSPXhUHxZ&amp;ver=1.0.0" id="FP__scripts__behaviors__recaptcha-js"></script>
+<script type="text/javascript" id="FP__scripts__behaviors__newsletter-signup-js-extra">
+/* <![CDATA[ */
+var newslettersLocal = {"hostURL":"foreignpolicy.com","wpNonce":"8a9255d0c6"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="FP__scripts__takeovers__takeovers-js-extra">
+/* <![CDATA[ */
+var takeoverSettings = [{"ip_access_guids":["512fc78abe0843cf807572f06ec31a16"],"id":1129384,"qualifiers":["ip_access"],"takeover_html":"\n<div id=\"takeover-1129384\" class=\"takeover takeover-type-default  device-all\" data-takeover-type=\"default\">\n\t\n<div id=\"takeover-close_button-1129384\" class=\"takeover-close-1129384 takeover-close takeover-close--button\">\u00d7<\/div>\n\n<div id=\"takeover-content-1129384\" class=\"takeover-content\">\n  <div class=\"takeover-content-wrapper\">\n    <div>\n      <h1>Alert<\/h1>\n\n      <div class=\"takeover-body-content\">\n        Your access to Foreign Policy will cease on January 24, 2024, when your subscription expires. For further assistance with your account status and renewal options, please contact technical services personnel at USAF Academy McDermott Library.      <\/div>\n\n      \n              <div class=\"takeover-body-content\">\n                  <\/div>\n          <\/div>\n\n      <\/div>\n\n  <div id=\"takeover-close_text-1129384\" class=\"takeover-close-1129384 takeover-close\">Close<\/div>\n<\/div>\n\n<\/div>\n","integration":{"integration_type":"none","sailthru_list_id":"","salesforce_lead_source":"","salesforce_return_url":""},"newsletter_id":"","template":"default","device_targeting":"all","cookie_duration":"2","scroll_depth":"","time_delay":""},{"subscription_level":["IPACCESS"],"id":1109007,"qualifiers":["subscription_level"],"takeover_html":"\n<div id=\"takeover-1109007\" class=\"takeover takeover-type-slider slider-right device-all\" data-takeover-type=\"slider\">\n\t\n<div id=\"takeover-content-1109007\" class=\"takeover-content takeover-animation-right bg-black\">\n  <div role=\"button\" id=\"takeover-close_button-1109007\" class=\"takeover-close-1109007 takeover-close takeover-close--button\" aria-label=\"close\">\u00d7<\/div>\n  \n    <div>\n    <div class=\"takeover-image-container\" style=\"background-image: url('https:\/\/foreignpolicy.com\/wp-content\/uploads\/2023\/04\/Email-Banner-3-FP-podcasts-\u2013-700x236-1.png');\"><\/div>\n  <\/div>\n  \n  <div class=\"takeover-content-wrapper\">\n    <h1>Reading is better in the app<\/h1>\n\n    <div class=\"takeover-body-content\">\n      Download the FP mobile app to read on-the-go. Group subscribers can create an account to access the app and tailor your preferences. Find instructions at the link below.    <\/div>\n\n        <div class=\"takeover-body-content\">\n      <a href=\"https:\/\/help.foreignpolicy.com\/organizational-subscriptions\" class=\"takeover-cta\" id=\"takeover-cta-1109007\" target=\"_blank\">LEARN MORE<\/a>\n    <\/div>\n    \n        <div class=\"takeover-body-content\">\n          <\/div>\n      <\/div>\n\n  <div id=\"takeover-close_text-1109007\" class=\"takeover-close-1109007 takeover-close\">Close<\/div>\n<\/div>\n\n<\/div>\n","integration":{"integration_type":"none","sailthru_list_id":"","salesforce_lead_source":"","salesforce_return_url":""},"newsletter_id":"","template":"slider","device_targeting":"all","cookie_duration":"10","scroll_depth":"","time_delay":"1"}];
+/* ]]> */
+</script>
+<script type="text/javascript" id="FP__scripts__behaviors__new_subs_onboarding_flow-js-extra">
+/* <![CDATA[ */
+var onboardingLocal = {"wpNonce":"526dfe8208","hostURL":"foreignpolicy.com","hostProtocol":"https","postDataPiano":["Eastern Europe","Europe","Russia","Ukraine","War","article"]};
+/* ]]> */
+</script>
+<script type="text/javascript" id="FP__scripts__components__fp-live-home-and-onboarding-js-extra">
+/* <![CDATA[ */
+var fpLiveLocal = {"wpNonce":"81de581eb0","postId":null,"eventStatus":null,"shouldCheckForLive":"","shouldCheckForVideo":"","shouldCheckForPast":""};
+/* ]]> */
+</script>
+<script type="text/javascript" id="FP__scripts__vendor__chartbeat-js-extra">
+/* <![CDATA[ */
+var chartbeatData = {"category_name":"Analysis","author_list":"Casey Michel"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="alerts-cors-js-js-extra">
+/* <![CDATA[ */
+var myFpAlertsLoc = {"isVIPEnv":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://foreignpolicy.com/_static/??-eJytkM1OAzEMhF8IN22p6Alx4QXgxNXJersu2TjEzq7K05MeCpwQ/TlZI3k+z9jNGYIko2TOBhpJXS+FeJcgS+RwgPVytXW5+iachsLZ1HkacGIp6hLNGsmMCmgz1bwYOS32euf+B0ZVasCO1b7phu8kExU9k/VXSNDqFSR5wdJx2kEfZb4sq5afGxOlTorzvOtF7DSvyx1kzJKap21niDwRfDYNg4wEmLpfLW5WALsOTCBgbBoL+Gom6WTYq0ML/mbXwoDFPKGdQVNDa086RolUjqFeKpXD4u1ZRuT0Sh+V9DIgK4ziOdJ15apxVDcXzNwXbMaGexofV9vlcr15uF9t9l+nvkRf" ></script><script src="https://lngtd.com/foreignpolicy_article.js?ver=1.0.1" defer="defer" type="text/javascript"></script>
+<script type="text/javascript" id="FP__scripts__behaviors__article-page-js-extra">
+/* <![CDATA[ */
+var fpNativeAdData = [];
+/* ]]> */
+</script>
+<script type="text/javascript" id="moat-content-js-extra">
+/* <![CDATA[ */
+var zMoatADVERTISER = {"moatPassback":"editorial"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://foreignpolicy.com/_static/??-eJylkk1SwzAMRi+EcVI6dMVwFtUWiTLyD5acTm+PWAS66IKUneQZPb9PI3+pLpSsmNXrjAnFf5SGNGVXC1O4usMwnjyIoIqXFryERtXqUFIt2ebsmVJldMIUsT0v8uT/RhUFpeAX8bUzf/aiuGP6jtMZZ1ipNPHQjGxOFaYfJuXAPRrNPkwYCZANbp/cNg5ydJXhakkS5R0+tZ+tueNC2W06kwXO007w75pSAd0mHjfrSmx7K4GAZYaG8r+kt5cAK8YtrWzFw3mhhZlWuyz8rpyZdlYx1Ht6G0/DcDi+vozH5Qv2ugYC" ></script><script defer type="text/javascript" src="https://stats.wp.com/e-202346.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'162972146',post:'1126038',tz:'-5',srv:'foreignpolicy.com',hp:'vip',j:'1:12.8.1'} ]);
+_stq.push([ "clickTrackerInit", "162972146", "1126038" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/scripts/behaviors/comments.js?m=1670253018g" ></script>    </body>
+</html>

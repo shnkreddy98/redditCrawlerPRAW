@@ -1,0 +1,1290 @@
+<!DOCTYPE html>
+
+<html lang="en-US" class="no-js mj-www">
+<head>
+	
+<script>
+if (document.cookie.indexOf("scroll0=") > -1) {
+	document.documentElement.className += ' scrolluser';
+}
+</script>
+<meta charset="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src https://* wss://motherjones.coral.coralproject.net wss://motherjones.staging.coral.coralproject.net 'unsafe-inline' 'unsafe-eval' data: blob:; upgrade-insecure-requests;">
+	<script>
+		// Google Tag Manager
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl+"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&gtm_preview=env-2&gtm_cookies_win=x";f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-55MKBQW');
+	</script>
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script>
+	(function(a,s,y,n,c,h,i,d,e){
+		// we don't need this, we need to specifically mark optimize spots
+		s.className+=' '+y;
+		// okay yeah we need this tho
+		h.start=1*new Date;
+		h.end=i=function(){
+			// okay instead of screwing w/ the document classname we need to remove the class from all elements w/ the class
+			s.className=s.className.replace(RegExp(' ?'+y),'');
+			// you may have noticed this but it means that if this runs before those elements are ready they stay hidden	
+		};
+		(a[n]=a[n]||[]).hide=h;
+		setTimeout(function(){i(); h.end=null},c);
+		h.timeout=c;
+	})(
+		window, //a
+		document.documentElement, //s
+		'async-hide', //y
+		'dataLayer', //n
+		3000, //c
+		{'GTM-55MKBQW':true} //h
+	);</script>
+
+<!-- begin freestar -->
+<link rel="preconnect" href="https://a.pub.network/" crossorigin />
+<link rel="preconnect" href="https://b.pub.network/" crossorigin />
+<link rel="preconnect" href="https://c.pub.network/" crossorigin />
+<link rel="preconnect" href="https://d.pub.network/" crossorigin />
+<link rel="preconnect" href="https://c.amazon-adsystem.com" crossorigin />
+<link rel="preconnect" href="https://s.amazon-adsystem.com" crossorigin />
+<link rel="preconnect" href="https://secure.quantserve.com/" crossorigin />
+<link rel="preconnect" href="https://rules.quantcount.com/" crossorigin />
+<link rel="preconnect" href="https://pixel.quantserve.com/" crossorigin />
+<link rel="preconnect" href="https://cmp.quantcast.com/" crossorigin />
+<link rel="preconnect" href="https://btloader.com/" crossorigin />
+<link rel="preconnect" href="https://api.btloader.com/" crossorigin />
+<link rel="preconnect" href="https://confiant-integrations.global.ssl.fastly.net" crossorigin />
+<link rel="stylesheet" href="https://a.pub.network/motherjones-com/cls.css">
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.queue.push(function() {
+		googletag.pubads().setTargeting('is_testing', 'no'); // output 'yes' on stage, 'no' on prod
+		googletag.pubads().setTargeting('is_home', 'no'); // output 'yes' on homepage, 'no' on other pages
+		googletag.pubads().setTargeting('Page', 'post'); // page type
+		googletag.pubads().setTargeting('post_id', '1023581');
+googletag.pubads().setTargeting('Category', ["politics"]);
+googletag.pubads().setTargeting('Tag', ["corruption","foreign-influence","joe-biden","rudy-giuliani","russia","ukraine"]);
+		googletag.pubads().setTargeting('env', 'www'); // environment targeting
+});
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+
+</script>
+<script src="https://a.pub.network/motherjones-com/pubfig.min.js" data-cfasync="false" async></script>
+<!-- end freestar -->
+
+<style>
+@font-face{font-family:'MallorySubset';src:url(data:application/font-woff;charset=utf-8;base64,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)format('woff');unicode-range:U+0021-U+007E}body,caption,input,textarea,select,option,legend,fieldset{font-family:Georgia,"Times New Roman","Bitstream Vera Serif",serif;font-size:16px;line-height:1.5}.fonts-stage-1 h1,.fonts-stage-1 h2,.fonts-stage-1 h3,.fonts-stage-1 h4,.fonts-stage-1 h5{font-family:MallorySubset,sans-serif;font-weight:bold;font-style:normal}
+</style>
+<script>
+!function(){if(sessionStorage.criticalFoftDataUriFontsLoaded)document.documentElement.className+=" fonts-stage-1 fonts-stage-2";else{!function(){function e(e,t){document.addEventListener?e.addEventListener("scroll",t,!1):e.attachEvent("scroll",t)}function t(e){document.body?e():document.addEventListener?document.addEventListener("DOMContentLoaded",function t(){document.removeEventListener("DOMContentLoaded",t),e()}):document.attachEvent("onreadystatechange",function t(){"interactive"!=document.readyState&&"complete"!=document.readyState||(document.detachEvent("onreadystatechange",t),e())})}function n(e){this.a=document.createElement("div"),this.a.setAttribute("aria-hidden","true"),this.a.appendChild(document.createTextNode(e)),this.b=document.createElement("span"),this.c=document.createElement("span"),this.h=document.createElement("span"),this.f=document.createElement("span"),this.g=-1,this.b.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.c.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.f.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.h.style.cssText="display:inline-block;width:200%;height:200%;font-size:16px;max-width:none;",this.b.appendChild(this.h),this.c.appendChild(this.f),this.a.appendChild(this.b),this.a.appendChild(this.c)}function o(e,t){e.a.style.cssText="max-width:none;min-width:20px;min-height:20px;display:inline-block;overflow:hidden;position:absolute;width:auto;margin:0;padding:0;top:-999px;left:-999px;white-space:nowrap;font:"+t+";"}function i(e){var t=e.a.offsetWidth,n=t+100;return e.f.style.width=n+"px",e.c.scrollLeft=n,e.b.scrollLeft=e.b.scrollWidth+100,e.g!==t&&(e.g=t,!0)}function a(t,n){function o(){var e=a;i(e)&&null!==e.a.parentNode&&n(e.g)}var a=t;e(t.b,o),e(t.c,o),i(t)}function s(e,t){var n=t||{};this.family=e,this.style=n.style||"normal",this.weight=n.weight||"normal",this.stretch=n.stretch||"normal"}function d(){if(null===r){var e=document.createElement("div");try{e.style.font="condensed 100px sans-serif"}catch(e){}r=""!==e.style.font}return r}function l(e,t){return[e.style,e.weight,d()?e.stretch:"","100px",t].join(" ")}var c=null,r=null,h=null;s.prototype.load=function(e,i){var s=this,d=e||"BESbswy",r=i||3e3,f=(new Date).getTime();return new Promise(function(e,i){if(null===h&&(h=!!window.FontFace),h){var u=new Promise(function(e,t){function n(){(new Date).getTime()-f>=r?t():document.fonts.load(l(s,s.family),d).then(function(t){1<=t.length?e():setTimeout(n,25)},function(){t()})}n()}),m=new Promise(function(e,t){setTimeout(t,r)});Promise.race([m,u]).then(function(){e(s)},function(){i(s)})}else t(function(){function t(){var t;(t=-1!=w&&-1!=v||-1!=w&&-1!=y||-1!=v&&-1!=y)&&((t=w!=v&&w!=y&&v!=y)||(null===c&&(t=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent),c=!!t&&(536>parseInt(t[1],10)||536===parseInt(t[1],10)&&11>=parseInt(t[2],10))),t=c&&(w==g&&v==g&&y==g||w==b&&v==b&&y==b||w==x&&v==x&&y==x)),t=!t),t&&(null!==E.parentNode&&E.parentNode.removeChild(E),clearTimeout(F),e(s))}function h(){if((new Date).getTime()-f>=r)null!==E.parentNode&&E.parentNode.removeChild(E),i(s);else{var e=document.hidden;!0!==e&&void 0!==e||(w=u.a.offsetWidth,v=m.a.offsetWidth,y=p.a.offsetWidth,t()),F=setTimeout(h,50)}}var u=new n(d),m=new n(d),p=new n(d),w=-1,v=-1,y=-1,g=-1,b=-1,x=-1,E=document.createElement("div"),F=0;E.dir="ltr",o(u,l(s,"sans-serif")),o(m,l(s,"serif")),o(p,l(s,"monospace")),E.appendChild(u.a),E.appendChild(m.a),E.appendChild(p.a),document.body.appendChild(E),g=u.a.offsetWidth,b=m.a.offsetWidth,x=p.a.offsetWidth,h(),a(u,function(e){w=e,t()}),o(u,l(s,'"'+s.family+'",sans-serif')),a(m,function(e){v=e,t()}),o(m,l(s,'"'+s.family+'",serif')),a(p,function(e){y=e,t()}),o(p,l(s,'"'+s.family+'",monospace'))})})},"undefined"!=typeof module?module.exports=s:(window.FontFaceObserver=s,window.FontFaceObserver.prototype.load=s.prototype.load)}();var e=new FontFaceObserver("MallorySubset");Promise.all([e.load()]).then(function(){document.documentElement.className+=" fonts-stage-1";var e=new FontFaceObserver("Mallory"),t=new FontFaceObserver("Calluna");Promise.all([e.load(),t.load()]).then(function(){document.documentElement.className+=" fonts-stage-2",sessionStorage.criticalFoftDataUriFontsLoaded=!0})})}}();
+</script>
+<title>There&#8217;s a Big Problem With Giuliani&#8217;s Lawsuit Against Joe Biden &#8211; Mother Jones</title>
+<meta name='robots' content='max-image-preview:large' />
+<!-- Jetpack Site Verification Tags -->
+<link rel='dns-prefetch' href='//ak.sail-horizon.com' />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//static.scroll.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.motherjones.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='all-css-2' href='https://www.motherjones.com/wp-includes/css/dist/block-library/style.min.css?m=1699561119g' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='all-css-4' href='https://www.motherjones.com/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGppZWpqaGRoaWgIARP4u6w==' type='text/css' media='all' />
+<style id='elasticpress-facet-style-inline-css'>
+.widget_ep-facet input[type=search],.wp-block-elasticpress-facet input[type=search]{margin-bottom:1rem}.widget_ep-facet .searchable .inner,.wp-block-elasticpress-facet .searchable .inner{max-height:20em;overflow:scroll}.widget_ep-facet .term.hide,.wp-block-elasticpress-facet .term.hide{display:none}.widget_ep-facet .empty-term,.wp-block-elasticpress-facet .empty-term{opacity:.5;position:relative}.widget_ep-facet .empty-term:after,.wp-block-elasticpress-facet .empty-term:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;width:100%;z-index:2}.widget_ep-facet .level-1,.wp-block-elasticpress-facet .level-1{padding-left:20px}.widget_ep-facet .level-2,.wp-block-elasticpress-facet .level-2{padding-left:40px}.widget_ep-facet .level-3,.wp-block-elasticpress-facet .level-3{padding-left:60px}.widget_ep-facet .level-4,.wp-block-elasticpress-facet .level-4{padding-left:5pc}.widget_ep-facet .level-5,.wp-block-elasticpress-facet .level-5{padding-left:75pt}.widget_ep-facet input[disabled],.wp-block-elasticpress-facet input[disabled]{cursor:pointer;opacity:1}.widget_ep-facet .term a,.wp-block-elasticpress-facet .term a{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.widget_ep-facet .term a:hover .ep-checkbox,.wp-block-elasticpress-facet .term a:hover .ep-checkbox{background-color:#ccc}.ep-checkbox{-webkit-box-align:center;-ms-flex-align:center;-ms-flex-negative:0;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;background-color:#eee;display:-webkit-box;display:-ms-flexbox;display:flex;flex-shrink:0;height:1em;justify-content:center;margin-right:.25em;width:1em}.ep-checkbox:after{border:solid #fff;border-width:0 .125em .125em 0;content:"";display:none;height:.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:.25em}.ep-checkbox.checked{background-color:#5e5e5e}.ep-checkbox.checked:after{display:block}
+
+</style>
+<link rel='stylesheet' id='all-css-6' href='https://www.motherjones.com/wp-content/mu-plugins/search/elasticpress-next/dist/css/related-posts-block-styles.min.css?m=1698686983g' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='all-css-10' href='https://www.motherjones.com/_static/??-eJyVztsOgjAMgOEXchsQT1wYn2WMBoo7kLUDeXsn6pUmhru/Tb+kah6FCZ7Bs+IeHJByIUccgs9tiBTxYkE69DJPO/Uf6LYHwuC3mDBBtHrZQuCOLHA9+clGmzr0+X+NlvuYxIxtB7zaV0pKDZmIDXxhl8THD8CjNjdRVvK84vfiaa7uUp6Kojrs62P9AIXkfBo=' type='text/css' media='all' />
+<script src='//ak.sail-horizon.com/spm/spm.v1.min.js?ver=6.4.1' type='text/javascript' async></script><script type="text/javascript" id="tag-js-extra">
+/* <![CDATA[ */
+var tag = {"options":{"customerId":"90617d09ad824190762a833577743daa"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.motherjones.com/_static/??-eJyVjc0OwiAQhF9IoBp/0oPxWSisdAkslV3S+PZi2pM3k0lmDvPNmHVRSC41D2xi16tBfe+mM5KOfDC95AoJkJgltYDEhi0mmWtTK/oA8mXFht+2zJD7cC491FhoO9kQXYFsBvVESJ7/+NlxbhO7ihN09JHvx9swnC7n8TrGD8QvTzo=" ></script><link rel="https://api.w.org/" href="https://www.motherjones.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.motherjones.com/wp-json/wp/v2/posts/1023581" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.motherjones.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<link rel="canonical" href="https://www.motherjones.com/politics/2023/10/rudy-giuliani-biden-russia-lawsuit/" />
+<link rel='shortlink' href='https://www.motherjones.com/?p=1023581' />
+<link rel="alternate" type="application/json+oembed" href="https://www.motherjones.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.motherjones.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F&#038;format=xml" />
+
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.date" content="2023-10-05 12:52:49" />
+<meta name="sailthru.title" content="There&#8217;s a Big Problem With Giuliani&#8217;s Lawsuit Against Joe Biden" />
+<meta name="sailthru.tags" content=",Corruption,Foreign Influence,Joe Biden,Rudy Giuliani,Russia,Ukraine,Politics," />
+<meta name="sailthru.description" content="Joe called Rudy a &quot;Russian pawn.&quot; There&#039;s evidence supporting that allegation." />
+<meta name="sailthru.image.full" content="https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg" />
+<meta name="sailthru.image.thumb" content="https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?w=50" />
+<!-- END Sailthru Horizon Meta Information -->
+
+	<style>img#wpstats{display:none}</style>
+		<meta name="parsely-title" content="There&#8217;s a Big Problem With Giuliani&#8217;s Lawsuit Against Joe Biden" />
+<meta name="parsely-link" content="http://www.motherjones.com/politics/2023/10/rudy-giuliani-biden-russia-lawsuit/" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-image-url" content="https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?w=208&amp;h=117&amp;crop=1" />
+<meta name="parsely-pub-date" content="2023-10-05T16:52:49Z" />
+<meta name="parsely-section" content="Politics" />
+<meta name="parsely-tags" content="corruption,foreign influence,joe biden,rudy giuliani,russia,ukraine" />
+<meta name="parsely-author" content="Dan Friedman" />
+<meta property="og:url" content="https://www.motherjones.com/politics/2023/10/rudy-giuliani-biden-russia-lawsuit/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="There&#039;s a big problem with Giuliani&#039;s lawsuit against Joe Biden" />
+<meta property="og:description" content="Joe called Rudy a &quot;Russian pawn.&quot; There&#039;s evidence supporting that allegation." />
+<meta property="og:image" content="https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?w=1200&amp;h=630&amp;crop=1" />
+<meta property="article:published" content="2023-10-05T12:52:49-04:00" />
+<meta property="article:modified" content="2023-10-05T12:54:48-04:00" />
+<meta property="article:section" content="Politics" />
+<meta property="article:tag" content="Corruption" />
+<meta property="article:tag" content="Foreign Influence" />
+<meta property="article:tag" content="Joe Biden" />
+<meta property="article:tag" content="Rudy Giuliani" />
+<meta property="article:tag" content="Russia" />
+<meta property="article:tag" content="Ukraine" />
+<meta property="article:author" content="Dan Friedman" />
+<meta property="og:site_name" content="Mother Jones" />
+<meta property="fb:pages" content="7642602143" />
+<meta property="fb:pages" content="1072916546168933" />
+<meta property="fb:pages" content="416261761736915" />
+<meta property="fb:pages" content="149244498452823" />
+<meta property="fb:pages" content="111917028836008" />
+<meta property="twitter:url" content="https://www.motherjones.com/politics/2023/10/rudy-giuliani-biden-russia-lawsuit/" />
+<meta property="twitter:site" content="@Motherjones" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta name="twitter:dnt" content="on" /><meta property="wordcount" content="1142" />
+<script type="text/javascript">var sailthru_vars = {"ajaxurl":"https:\/\/www.motherjones.com\/wp-admin\/admin-ajax.php"}</script><script type="text/javascript">var sailthru_vars = {"ajaxurl":"https:\/\/www.motherjones.com\/wp-admin\/admin-ajax.php"}</script><link rel="icon" href="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180" />
+<meta name="msapplication-TileImage" content="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=270" />
+<meta name="description" content="Joe called Rudy a &#8220;Russian pawn.&#8221; There&#8217;s evidence supporting that allegation."/></head>
+
+<body class="post-template-default single single-post postid-1023581 single-format-standard mj_content_type-article">
+<!-- Google Tag Manager (noscript) -->
+			<noscript>
+				<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55MKBQW=0&amp;gtm_auth=1&amp;gtm_preview=1&amp;gtm_cookies_win=1" height="0" width="0" style="display:none;visibility:hidden">
+				</iframe>
+			</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<a href="#main" class="visuallyhidden">Skip to main content</a>
+<nav id="navbar" role="navigation">
+	<ul>
+		<li class="logo">
+			<a href="/" aria-label="Home" data-ga-label="Home" data-ga-category="NavbarFloating">
+				
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813.67 165.61"><path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z"/><path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z"/></svg>
+			</a>
+		</li>
+		<ul class="social-container navbar"><li class="facebook"><a class="social" href="http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F" target="_blank" data-ga-label="FacebookShare" data-ga-category="NavbarFloating" aria-label="Share on Facebook"><i class="icon-facebook"></i><span class="share-text">Share on Facebook</span></a></li>
+		 <li class="twitter"><a class="social" target="_blank" aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=There%27s%20a%20big%20problem%20with%20Giuliani%27s%20lawsuit%20against%20Joe%20Biden&url=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F&amp;via=MotherJones" data-ga-label="TwitterShare" data-ga-category="NavbarFloating"><i class="icon-twitter"></i><span class="share-text">Share on Twitter</span></a></li><li class="email"><a href="mailto:?subject=There%E2%80%99s%20a%20Big%20Problem%20With%20Giuliani%E2%80%99s%20Lawsuit%20Against%20Joe%20Biden&body=Rudy%20Giuliani%20sued%20President%20Joe%20Biden%20in%20New%20Hampshire%20on%20Wednesday%2C%20alleging%20that%20Biden%20had%20defamed%20him%20by%20calling%20Giuliani%20a%20%E2%80%9CRussian%20pawn%E2%80%9D%20during%20a%202020%20presidential%20debate%20in%20Nashville.%20Suing%20the%20president%20under%20any%20circumstances%20is%20hard.%20And%20Giuliani%20faces%20another%20problem%3A%20There%E2%80%99s%20a%20lot%20of%20evidence%20that%20appears%20to%20support%20Biden%E2%80%99s%20claim.%20The%20%5B%E2%80%A6%5D0https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F" aria-label="Share via Email" target="_blank" data-ga-label="Email" data-ga-category="NavbarFloating"><i class="icon-mail"></i><span class="share-text">Email</span></a></li><li class="print"><a href="#" title="Print this article" rel="nofollow" data-ga-category="NavbarFloating" data-ga-label="Print" onclick="window.print(); return false;"><i class="icon-print"></i><span class="share-text">Print</span></a></li><li class="comment"><a href="#comment-container" aria-label="Comment" data-ga-label="Comment" data-ga-category="NavbarFloating" onclick="mj_display_comments();"><i class="icon-comment"></i><span class="share-text">Comments</span></a></li></ul>		<li class="menu-button">
+ 			<a
+				data-ga-label="MenuExpand"
+				data-ga-category="NavbarFloating"
+				tabindex="0"
+				 onclick="expandMenu();"			>
+				<svg id="nav-menu-svg" width="36px" height="36px" enable-background="new 0 0 125 125" version="1.1" viewBox="0 0 125 125" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+					<path d="m0 100.87"/>
+					<rect y="0" width="125" height="20"/>
+					<rect y="40" width="125" height="20"/>
+					<rect y="80" width="125" height="20"/>
+				</svg>
+				<svg id="nav-close-svg" width="34px" height="34px" x="0px" y="0px" version="1.1" viewBox="0 0 19.8 19.8" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+					<polygon points="19.8,2.4 17.4,0 9.9,7.5 2.4,0 0,2.4 7.5,9.9 0,17.4 2.4,19.8 9.9,12.3 17.4,19.8 19.8,17.4 12.3,9.9 "/>
+				</svg>
+			</a>
+		</li>
+		<li class="donate-link article-page desktop">
+			<a href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP002|PEGP002"
+				title="Donate"
+				target="_blank"
+				data-ga-label="Donate"
+				data-ga-category="NavbarFloating"
+			>Donate</a>
+		</li>
+		<li class="donate-link article-page mobile" style="display:none;">
+			<a href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP007|PEGP007"
+				title="Donate"
+				target="_blank"
+				data-ga-label="Donate"
+				data-ga-category="NavbarFloating"
+			>Donate</a>
+		</li>
+		<li class="subscribe-link article-page hidden-xxs">
+			<a href="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYIP&c=SEGYIC&d=SEGYID&f=SEGYIF"
+				title="Subscribe"
+				target="_blank"
+				data-ga-label="Subscribe"
+				data-ga-category="NavbarFloating"
+			>Subscribe</a>
+		</li>
+	</ul>
+	<div id="combined-nav">
+		<div id="mj_floatingnav_select" class="menu-top-nav-container"><ul class="mj_topnav_options"><li>
+<form
+	role="search"
+	method="get"
+	class="search-form"
+	action="https://www.motherjones.com/"
+	data-ga-label="Search"
+	data-ga-category="Search"
+>
+	<label>
+		<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="Submit"></input>
+	<button type="submit" aria-label="Search"><i class="icon-search"></i></button>
+</form>
+</li><li id="menu-item-1028922" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028922"><a href="https://www.motherjones.com/politics/2023/11/george-santos-ethics-report-only-fans-hermes-sephora/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/politics/2023/11/george-santos-ethics-report-only-fans-hermes-sephora/" data-ga-label="InTheNews_1">George Santos</a></li>
+<li id="menu-item-1028924" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028924"><a href="https://www.motherjones.com/politics/2023/11/allie-phillips-tennessee-abortion-dobbs-roe-election-2024-tiktok/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/politics/2023/11/allie-phillips-tennessee-abortion-dobbs-roe-election-2024-tiktok/" data-ga-label="InTheNews_2">Abortion Access</a></li>
+<li id="menu-item-1028981" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028981"><a href="https://www.motherjones.com/politics/2023/11/michael-eisen-tweet-elife-firing-science-editor-palestinians-israel-gaza/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/politics/2023/11/michael-eisen-tweet-elife-firing-science-editor-palestinians-israel-gaza/" data-ga-label="InTheNews_3">Palestine</a></li>
+<li id="menu-item-1028982" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028982"><a href="https://www.motherjones.com/politics/2023/11/rep-becca-balint-becomes-the-first-jewish-congressperson-to-back-a-ceasefire/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/politics/2023/11/rep-becca-balint-becomes-the-first-jewish-congressperson-to-back-a-ceasefire/" data-ga-label="InTheNews_4">Ceasefire</a></li>
+</ul></div>		<div id="mj_menu_select" class="menu-floating-navbar-container"><ul id="mj_menu_options"><li id="menu-item-970455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-970455"><a href="https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav" data-ga-label="NavPosition_1|newsletters">Newsletters</a></li>
+<li id="menu-item-405555" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-405555"><a href="https://www.motherjones.com/./politics/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/./politics/" data-ga-label="NavPosition_2|politics">Politics</a></li>
+<li id="menu-item-405556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405556"><a href="https://www.motherjones.com/./environment/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/./environment/" data-ga-label="NavPosition_3|environment">Environment</a></li>
+<li id="menu-item-405558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405558"><a href="https://www.motherjones.com/./crime-justice/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-label="NavPosition_4|crime-and-justice">Crime and Justice</a></li>
+<li id="menu-item-405559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405559"><a href="https://www.motherjones.com/./food/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/./food/" data-ga-label="NavPosition_5|food">Food</a></li>
+<li id="menu-item-405557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405557"><a href="https://www.motherjones.com/./media/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/./media/" data-ga-label="NavPosition_6|media">Media</a></li>
+<li id="menu-item-405563" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405563"><a href="https://www.motherjones.com/topics/investigations/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-label="NavPosition_7|investigations">Investigations</a></li>
+<li id="menu-item-405562" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405562"><a href="https://www.motherjones.com/topics/photoessays/" data-ga-category="NavbarFloating" data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-label="NavPosition_8|photos">Photos</a></li>
+<li id="menu-item-615549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615549"><a href="/magazine" data-ga-category="NavbarFloating" data-ga-action="/magazine" data-ga-label="NavPosition_9|magazine">Magazine</a></li>
+</ul></div>	</div>
+</nav>
+<!-- end following navbar -->
+<div id="TopROS970x250" class="ad-unit ad desktop_ad col-12"><!-- Tag ID: motherjones_leaderboard_atf -->
+            <div id="ROS_ATF_970x250">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_leaderboard_atf",
+                        slotId: "ROS_ATF_970x250"
+                    });
+                </script>
+            </div></div>
+<nav id="topnav" role="navigation">
+	<div class="grid">
+		<div id="topic-menu" class="grid col-8">
+			<div id="mj_topnav_select" class="menu-top-nav-container"><ul class="mj_topnav_options"><li>
+<form
+	role="search"
+	method="get"
+	class="search-form"
+	action="https://www.motherjones.com/"
+	data-ga-label="Search"
+	data-ga-category="Search"
+>
+	<label>
+		<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="Submit"></input>
+	<button type="submit" aria-label="Search"><i class="icon-search"></i></button>
+</form>
+</li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028922"><a href="https://www.motherjones.com/politics/2023/11/george-santos-ethics-report-only-fans-hermes-sephora/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/politics/2023/11/george-santos-ethics-report-only-fans-hermes-sephora/" data-ga-label="InTheNews_1">George Santos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028924"><a href="https://www.motherjones.com/politics/2023/11/allie-phillips-tennessee-abortion-dobbs-roe-election-2024-tiktok/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/politics/2023/11/allie-phillips-tennessee-abortion-dobbs-roe-election-2024-tiktok/" data-ga-label="InTheNews_2">Abortion Access</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028981"><a href="https://www.motherjones.com/politics/2023/11/michael-eisen-tweet-elife-firing-science-editor-palestinians-israel-gaza/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/politics/2023/11/michael-eisen-tweet-elife-firing-science-editor-palestinians-israel-gaza/" data-ga-label="InTheNews_3">Palestine</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1028982"><a href="https://www.motherjones.com/politics/2023/11/rep-becca-balint-becomes-the-first-jewish-congressperson-to-back-a-ceasefire/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/politics/2023/11/rep-becca-balint-becomes-the-first-jewish-congressperson-to-back-a-ceasefire/" data-ga-label="InTheNews_4">Ceasefire</a></li>
+</ul></div>		</div>
+		<div class="subscribe-link col-4">
+			<a 
+				href="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYOP&c=SEGYOC&d=SEGYOD&f=SEGYOF"
+				title="Subscribe"
+				data-ga-label="Subscribe|Text"
+				data-ga-category="Masthead">
+
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+						 viewbox="0 0 120 93" style="enable-background:new 0 0 120 93; max-width:1.5rem;" xml:space="preserve">
+					<path d="M113.97,12.88V0.37h-4.01c-1.58,0-35.61,0.3-50.15,23.55C45.26,0.67,11.23,0.37,9.65,0.37H5.64v12.52
+						c-3.72-0.32-6.02-0.37-6.02-0.37v80.24H59.8h60.18V12.51C119.98,12.51,117.68,12.56,113.97,12.88z M105.94,8.63v5.18
+						c-11.46,1.65-27.54,5.35-38.83,13.68C76.98,12.86,97.3,9.42,105.94,8.63z M13.66,8.62C22.3,9.4,42.63,12.8,52.5,27.5
+						c-11.29-8.34-27.37-12.04-38.84-13.69V8.62z"/>
+				</svg>
+				<span>Subscribe to our magazine</span>
+			</a>
+		</div>
+	</div>
+</nav>
+<!-- end following navbar -->
+<div id="page" class="grid">
+	<header id="masthead" class="site-header col-12">
+		<section class="banner grid" role="banner">
+			<div class="logo col-4">
+				<a href="/" title="Return to Mother Jones Homepage"
+					data-ga-label="Home"
+					data-ga-category="Masthead"
+				>
+					
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813.67 165.61"><path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z"/><path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z"/></svg>
+				</a>
+			</div>
+			<div class="subscribe-donate col-8">
+				<a
+					href="https://secure.motherjones.com/flex/mj/key/7MNTHLY/src/7EGP009"
+					title="Donate Monthly"
+					data-ga-label="DonateMonthly"
+					data-ga-category="Masthead"
+				>
+					<button class="donate donate-monthly">
+						Donate Monthly
+					</button>
+				</a>
+				<a
+					href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP014|PEGP014/"
+					title="Donate"
+					data-ga-label="Donate"
+					data-ga-category="Masthead"
+				>
+					<button class="donate">
+						Donate
+					</button>
+				</a>
+				<div id="mj-nonprofit-tagline">Smart, Fearless Journalism</div>
+			</div>
+		</section>
+		<nav id="static-navbar" role="navigation">
+	<a name="navigation" id="navigation"></a>
+	<ul class="menu">
+		<li id="menu-item-405545" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-405545"><a href="https://www.motherjones.com/./politics/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./politics/" data-ga-label="NavPosition_1">Politics</a></li>
+<li id="menu-item-405546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405546"><a href="https://www.motherjones.com/./environment/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./environment/" data-ga-label="NavPosition_2">Environment</a></li>
+<li id="menu-item-405549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405549"><a href="https://www.motherjones.com/./crime-justice/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-label="NavPosition_3">Crime and Justice</a></li>
+<li id="menu-item-405547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405547"><a href="https://www.motherjones.com/./food/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./food/" data-ga-label="NavPosition_4">Food</a></li>
+<li id="menu-item-405548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405548"><a href="https://www.motherjones.com/./media/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./media/" data-ga-label="NavPosition_5">Media</a></li>
+<li id="menu-item-405551" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405551"><a href="https://www.motherjones.com/topics/investigations/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-label="NavPosition_6">Investigations</a></li>
+<li id="menu-item-405550" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405550"><a href="https://www.motherjones.com/topics/photoessays/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-label="NavPosition_7">Photos</a></li>
+<li id="menu-item-405552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405552"><a href="/magazine" data-ga-category="Masthead" data-ga-action="/magazine" data-ga-label="NavPosition_8">Magazine</a></li>
+<li id="menu-item-970454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-970454"><a href="https://www.motherjones.com/newsletters/?mj_oac=desktop_header_nav" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/newsletters/?mj_oac=desktop_header_nav" data-ga-label="NavPosition_9">Newsletters</a></li>
+		<li role="search" id="search-li" tabindex="0">
+			<i class="icon-search"></i>
+			
+<form
+	role="search"
+	method="get"
+	class="search-form"
+	action="https://www.motherjones.com/"
+	data-ga-label="Search"
+	data-ga-category="Search"
+>
+	<label>
+		<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="Submit"></input>
+	<button type="submit" aria-label="Search"><i class="icon-search"></i></button>
+</form>
+		</li>
+	</ul>
+</nav>
+	</header><!-- .site-header -->
+
+
+<main id="main" role="main" class="hnews hentry grid post-1023581 post type-post status-publish format-standard has-post-thumbnail category-politics tag-corruption tag-foreign-influence tag-joe-biden tag-rudy-giuliani tag-russia tag-ukraine mj_content_type-article featured-media featured-media-image" itemscope itemtype="http://schema.org/Article">
+<div id="main-inner" class="grid">
+	<header class="entry-header grid">
+	<div class="mj-header-left col-lg-1"></div>
+	<div class="mj-header-middle col-lg-7 col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+		<div class="mj-top-flag"><ul class="post-categories">
+	<li><a href="https://www.motherjones.com/./politics/" rel="category tag">Politics</a></li></ul><span class="dateline">October 5, 2023</span></div><h1 class="entry-title">There&#8217;s a Big Problem With Giuliani&#8217;s Lawsuit Against Joe Biden</h1><h2 class="dek">Joe called Rudy a &#8220;Russian pawn.&#8221; There&#8217;s evidence supporting that allegation.</h2>		<div class="widget mj-author-links"><ul class="author-bios article end group">						<li class="author-bio group vcard">
+							<div class="author-image"><a href="https://www.motherjones.com/author/dan-friedman/" rel="author" data-ga-category="TopOfArticle" data-ga-label="authorPhoto" data-ga-action="https://www.motherjones.com/author/dan-friedman/"><img width="60" height="60" src="https://www.motherjones.com/wp-content/uploads/2022/06/FriedmanDan_2022_350px.jpg?w=60&amp;h=60&amp;crop=1" class="attachment-author_image size-author_image wp-post-image" alt="" decoding="async" srcset="https://www.motherjones.com/wp-content/uploads/2022/06/FriedmanDan_2022_350px.jpg 353w, https://www.motherjones.com/wp-content/uploads/2022/06/FriedmanDan_2022_350px.jpg?resize=321,321 321w, https://www.motherjones.com/wp-content/uploads/2022/06/FriedmanDan_2022_350px.jpg?resize=50,50 50w, https://www.motherjones.com/wp-content/uploads/2022/06/FriedmanDan_2022_350px.jpg?resize=60,60 60w" sizes="(max-width: 60px) 85vw, 60px" /></a></div><div class="author-data"><h3 class="byline"><span class="fn n"><a class="url" href="https://www.motherjones.com/author/dan-friedman/" rel="author" title="See all posts by Dan Friedman" data-ga-category="TopOfArticle" data-ga-label="authorName" data-ga-action="https://www.motherjones.com/author/dan-friedman/">Dan Friedman</a></span></h3><span class="byline-position">Senior Reporter</span><a class="byline-bio" href="https://www.motherjones.com/author/dan-friedman/" rel="author" title="See all posts by this author" data-ga-category="TopOfArticle" data-ga-label="authorBio" data-ga-action="https://www.motherjones.com/author/dan-friedman/">Bio</a><span class="byline-pipe">  | </span><a class="byline-follow" href="https://twitter.com/dfriedman33" data-ga-category="TopOfArticle" data-ga-label="authorTwitter" data-ga-action="https://twitter.com/dfriedman33">Follow</a></div>
+						</li>
+				</ul></div>	</div>
+	<div class="mj-header-right col-lg-4"></div>
+</header><!-- .entry-header -->
+
+	<div class="mj-article-left offset-1 col-lg-1 col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+		<div class="social-container top hidden-md hidden-sm hidden-xs hidden-xxs"><ul><li class="facebook"><a class="social" href="http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F" target="_blank" data-ga-label="FacebookShare" data-ga-category="TopOfArticle" aria-label="Share on Facebook"><i class="icon-facebook"></i><span class="share-text">Share on Facebook</span></a></li>
+		 <li class="twitter"><a class="social" target="_blank" aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=There%27s%20a%20big%20problem%20with%20Giuliani%27s%20lawsuit%20against%20Joe%20Biden&url=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F&amp;via=MotherJones" data-ga-label="TwitterShare" data-ga-category="TopOfArticle"><i class="icon-twitter"></i><span class="share-text">Share on Twitter</span></a></li><li class="email"><a href="mailto:?subject=There%E2%80%99s%20a%20Big%20Problem%20With%20Giuliani%E2%80%99s%20Lawsuit%20Against%20Joe%20Biden&body=Rudy%20Giuliani%20sued%20President%20Joe%20Biden%20in%20New%20Hampshire%20on%20Wednesday%2C%20alleging%20that%20Biden%20had%20defamed%20him%20by%20calling%20Giuliani%20a%20%E2%80%9CRussian%20pawn%E2%80%9D%20during%20a%202020%20presidential%20debate%20in%20Nashville.%20Suing%20the%20president%20under%20any%20circumstances%20is%20hard.%20And%20Giuliani%20faces%20another%20problem%3A%20There%E2%80%99s%20a%20lot%20of%20evidence%20that%20appears%20to%20support%20Biden%E2%80%99s%20claim.%20The%20%5B%E2%80%A6%5D0https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2023%2F10%2Frudy-giuliani-biden-russia-lawsuit%2F" aria-label="Share via Email" target="_blank" data-ga-label="Email" data-ga-category="TopOfArticle"><i class="icon-mail"></i><span class="share-text">Email</span></a></li><li class="print"><a href="#" title="Print this article" rel="nofollow" data-ga-category="TopOfArticle" data-ga-label="Print" onclick="window.print(); return false;"><i class="icon-print"></i><span class="share-text">Print</span></a></li><li class="comment"><a href="#comment-container" aria-label="Comment" data-ga-label="Comment" data-ga-category="TopOfArticle" onclick="mj_display_comments();"><i class="icon-comment"></i><span class="share-text">Comments</span></a></li></ul></div>	</div>
+
+	<div class="mj-article-middle col-lg-6 col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+		<section id="post-1023581" class="main-col">
+
+			<article class="entry-content" itemprop="articleBody">
+				
+				<div class="mj-floating-ad-wrapper">
+					<div id="rhc-atf" class="ad"><!-- Tag ID: motherjones_right_rail_1 -->
+            <div id="ROS_ATF_300x600">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_right_rail_1",
+                        slotId: "ROS_ATF_300x600"
+                    });
+                </script>
+            </div></div>				</div>
+
+				
+<div class="hero is-image ">
+	<img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?w=990" class="skip-lazy wp-post-image" alt="Rudy Giuliani announcing a lawsuit against Joe Biden" decoding="async" fetchpriority="high" srcset="https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/10/RudyinNHsized.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><p class="wp-caption-text"><span class="media-caption">Former New York City Mayor Rudy Giuliani in Concord, NH, on Oct. 4 announcing a lawsuit against President Joe Biden.</span><span class="media-credit">Charles Krupa/AP</p></div>
+
+				<div class="mj-text-cta">Fight disinformation: <a href="https://www.motherjones.com/newsletters/?mj_oac=Article_Top_Fight_Disinfo" data-ga-category="TopOfArticle" data-ga-label="ewsletterPromoCovid" data-ga-action="click|https://www.motherjones.com/newsletters/?mj_oac=Article_Top_Support">Sign up</a> for the free <em>Mother Jones Daily</em> newsletter and follow the news that matters.</div><p><span class="section-lead">Rudy Giuliani sued</span> President Joe Biden in New Hampshire on Wednesday, <a href="https://www.documentcloud.org/documents/24007946-giuliani-v-biden-defamation-complaint-20231004">alleging</a> that Biden had defamed him by calling Giuliani a &#8220;Russian pawn&#8221; during a 2020 presidential debate in Nashville. Suing the president under any circumstances is hard. And Giuliani faces another problem: There&#8217;s a lot of evidence that appears to support Biden&#8217;s claim.</p>
+<p>The suit, almost certain to be stayed as long as Biden is in the White House, might be aimed more at protecting Giuliani&#8217;s plummeting reputation than at actually recovering damages.</p>
+<p>The former New York mayor filed his complaint—probably by coincidence—on the same day that the <em>New York Times</em> <a href="https://www.nytimes.com/2023/10/04/us/politics/rudy-giuliani-drinking.html">reported</a> on sordid details of the former mayor&#8217;s <a href="https://www.motherjones.com/politics/2022/06/giuliani-inebriated-intoxicated-trump-election-night/">alleged</a> alcoholism. Giuliani was <a href="https://www.nytimes.com/interactive/2023/08/15/us/politics/trump-georgia-indictment-annotated.html">indicted</a> in&nbsp;August in Georgia for his role in trying to subvert election results there. He was recently <a href="https://www.motherjones.com/politics/2023/09/hunter-biden-sues-rudy-giuliani-over-total-annihilation-of-his-privacy/">sued</a> by Hunter Biden for violating his privacy, <a href="https://www.motherjones.com/politics/2023/09/trump-giuliani-costello-bannon-legal-fees/">by his own former lawyer</a> for $1.4 million in unpaid fees, and by a former assistant who <a href="https://www.courthousenews.com/wp-content/uploads/2023/05/dunphy-giuliani-complaint.pdf">says he raped</a> her. And Giuliani&#8217;s defamation allegation comes as he <a href="https://www.npr.org/2023/08/30/1196875212/judge-finds-rudy-giuliani-liable-for-defamation-of-two-georgia-election-workers">braces</a> to pay damages to two Georgia election workers he was already found to have defamed.</p>
+<p>(Giuliani <a href="https://nypost.com/2023/10/04/rudy-giuliani-rages-im-not-an-alcoholic-amid-trump-case/">denies</a> being an alcoholic, has pleaded not guilty in Georgia, disputes Hunter Biden’s claims, says his former lawyer over-billed him, and claims his relationship with the former assistant was consensual. He has <a href="https://www.theguardian.com/us-news/2023/jul/26/rudy-giuliani-georgia-election-defamation-lawsuit">admitted</a> that his statements about the Georgia election workers were defamatory.)</p>
+<p>But the details of Rudy&#8217;s new suit warrant some attention. Giuliani says that Biden defamed him by making two statements during the October 22, 2020, presidential <a href="https://www.debates.org/voter-education/debate-transcripts/october-22-2020-debate-transcript/">debate</a>. (The suit was filed in New Hampshire because it has a three-year statute of limitations for defamation and a rule that allows successful plaintiffs in the state to also collect money for damages that occurred elsewhere.)&nbsp;</p>
+<p>In the first relevant statement from the debate, Biden spoke broadly about allegations dredged up by Giuliani in Ukraine, which Donald Trump had worked to exploit. Trump&#8217;s &#8220;own national security advisor told him that what is happening with his buddy…Rudy Giuliani,&#8221; Biden said. &#8220;He’s being used as a Russian pawn. He’s being fed information that is Russian, that is not true.&#8221;</p>
+<p>&#8220;The Plaintiff was never used as a Russian pawn,&#8221; Giuliani&#8217;s suit asserts. &#8220;He has never been &#8216;fed&#8217; untrue information that was Russian, that he knew as false, and that he used while asserting or implying its truth.&#8221;</p>
+<p>The suit also cites a statement Biden made about allegations stemming from material on his son Hunter&#8217;s laptop. &#8220;There are 50 former national intelligence folks who said that what this, he’s accusing me of is a Russian plant,&#8221; Biden said, adding: &#8220;Nobody believes it except him and his good friend Rudy Giuliani.&#8221;</p>
+<p>Rudy&#8217;s on stronger ground when it comes to Biden&#8217;s second statement. That&#8217;s because Biden was wrong. He was referring to an October 19, 2020, <a href="https://www.politico.com/f/?id=00000175-4393-d7aa-af77-579f9b330000">letter</a> from various former national security officials that said that the emergence of &#8220;emails purportedly belonging to Vice President Biden’s son Hunter, much of it related to his time serving on the Board of the Ukrainian gas company Burisma, has all the classic earmarks of a Russian information operation.&#8221;</p>
+<p>Notably, the letter did not claim, as Biden said, that the laptop material was a Russian plant. It just said it looked like it could be. In addition, the letter has since been substantially undercut, in part by <a href="https://judiciary.house.gov/media/in-the-news/biden-campaign-blinken-orchestrated-intel-letter-discredit-hunter-biden-laptop">evidence</a> that Anthony Blinken—who at the time was a Biden adviser and is now the secretary of State—had a hand in organizing it. And multiple media outlets <a href="https://www.nytimes.com/2022/03/16/us/politics/hunter-biden-tax-bill-investigation.html#:~:text=Those%20emails%20were%20obtained%20by,them%20and%20with%20the%20investigation.">have</a> <a href="https://www.washingtonpost.com/technology/2022/03/30/hunter-biden-laptop-data-examined/">validated</a> emails on the device as real.</p>
+<p>But was Biden&#8217;s mischaracterization actually defamatory? That seems tough to argue. It&#8217;s hard to say whether Biden was deliberately lying&nbsp;or just happened to get the facts wrong. And political speech regarding a public figure like Giuliani, at a presidential debate, is about as protected as it gets.</p>
+<p>The first statement cited in the lawsuit poses an even bigger challenge for Rudy. Biden&#8217;s allegation that&nbsp;Giuliani was being &#8220;fed&nbsp;information&#8221; by Russia came just a week after the <em>Washington Post</em> <a href="https://www.washingtonpost.com/national-security/giuliani-biden-ukraine-russian-disinformation/2020/10/15/43158900-0ef5-11eb-b1e8-16b59b92b36d_story.html">reported</a> that US intelligence agencies had warned Trump in 2019 that &#8220;Giuliani was the target of an influence operation by Russian intelligence.&#8221; That&#8217;s apparently what Biden meant when he cited Trump&#8217;s &#8220;own national security advisor.&#8221;</p>
+<p>And in September 2020, Trump&#8217;s own Treasury Department <a href="https://home.treasury.gov/news/press-releases/sm1118">sanctioned</a> Andriy Derkach, a pro-Russian Ukrainian legislator who Giuliani <a href="https://x.com/dfriedman33/status/1304085774661492736?s=20">met with</a> in Ukraine while seeking dirt on Hunter Biden. Derkach &#8220;has been an active Russian agent for over a decade, maintaining close connections with the Russian Intelligence Services,&#8221; the department said. (Giuliani at the time <a href="https://www.cnn.com/2020/09/10/politics/treasury-sanctions-derkach-ukraine-election-interference/index.html">downplayed</a> the importance of information he&#8217;d received from Derkach.)</p>
+<p>Treasury later <a href="https://home.treasury.gov/news/press-releases/sm1232">sanctioned</a> several other Ukrainians who also provided information on the Bidens to Giuliani. The department, which didn&#8217;t mention Rudy, said that these Ukrainian individuals had advanced &#8220;disinformation narratives that U.S. government officials have engaged in corrupt dealings in Ukraine&#8221; as part of &#8220;Derkach’s efforts, acting as an agent of the Russian intelligence services, to influence the 2020 U.S. Presidential election.&#8221;&nbsp;&nbsp;</p>
+<div class="page" title="Page 7">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 8">
+<div class="layoutArea">
+<div class="column">
+<p>More recently, Mother<em> Jones</em> has&nbsp;<a href="https://www.motherjones.com/politics/2023/09/a-new-rudy-scandal-fbi-agent-says-giuliani-was-co-opted-by-russian-intelligence/">reported</a> on additional allegations regarding possible Russian influence over Giuliani. Johnathan Buma, an FBI agent, <a href="https://www.documentcloud.org/documents/23903968-wed-redact">told</a> Congress this year that Giuliani “may have been compromised” by Russian intelligence during the 2020 campaign. Buma cited $300,000 in payments to Giuliani by a Ukrainian oligarch, Pavel Fuks, who Buma said the FBI suspected was a &#8220;co-opted asset” of Russian intelligence services. (Fuks has denied working for Russia.)</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>All of this gets at a distinction that Giuliani and various Trump defenders miss or ignore. They are correct that the material on Hunter Biden&#8217;s laptop was not a Russian plant. Hunter <a href="https://www.motherjones.com/politics/2023/09/with-nothing-on-joe-biden-republicans-move-toward-impeaching-him-anyway/">did use</a> his name and perceived access to his father to get millions of dollars in sketchy payments from a Ukrainian energy company and other foreign clients.&nbsp;</p>
+<p>But there is also evidence suggesting that Russian agents looking to help Trump pushed still-unsubstantiated allegations that Joe Biden interceded in Ukraine in an effort to help his son&#8217;s business interests. Giuliani, who has <a href="https://www.nytimes.com/2020/09/10/us/politics/sanctions-russia-ukraine-election-interference.html">admitted</a> he “didn’t do much investigation” of Derkach before meeting with him, seems to have knowingly left himself open to those Russian influence efforts. He appeared indifferent to whether the allegations about the Bidens he passed on were true—or where they came from.</p>
+<p>You can argue about how to characterize Giuliani&#8217;s efforts. One of his lawyers, William O&#8217;Brien, a former New Hampshire House speaker, said in an interview Wednesday that Giuliani had vetted information he got from Derkach and others. Giuliani did not, as Biden claimed, advance claims he knew were false, O&#8217;Brien said. Biden and Democrats&#8217; claims about Giuliani &#8220;wrecked his law practice, his consulting practice,&#8221; O&#8217;Brien said.</p>
+<p>But given the documented suspicions of various US officials, &#8220;pawn&#8221; seems like a defensible word choice. And it is not Biden&#8217;s statements, but Giuliani&#8217;s own decisions, that appear responsible for his downfall.</p>
+			</article>
+
+			<footer class="entry-footer">
+				
+		<div class="newsletter-signup grid" id="article-footer-newsletter-signup">
+			<div class="col-12">
+				<h3>
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 164 110" style="enable-background:new 0 0 164 110; max-width:1.8rem;" xml:space="preserve">
+						<path d="M0,0.48v109.22h163.84V0.48H0z M81.92,64.62l-68.27-41.6l5.69-9.33l62.59,38.14l62.59-38.14l5.69,9.33L81.92,64.62z"></path>
+					</svg>
+					Looking for news you can trust?
+				</h3>
+				<p><em>Subscribe to the</em> Mother Jones Daily <em>to have our top stories delivered directly to your inbox.</em></p>
+			</div>
+			<div class="col-12">
+				        <section class="newsletter-signup grid">
+            <div class="sailthru-signup-widget ns-inner col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+                <div>
+					<span class="sailthru-signup-widget-close"><a href="#sailthru-signup-widget">Close</a></span>
+                    <div class="sailthru_form">
+						<div class="success" hidden="hidden">Thank you for subscribing!</div>
+			<form 
+				method="post" action="#" class="sailthru-add-subscriber-form" 
+				data-ga-label="ArticleFooterNewsletterClick"
+				data-ga-category="MidpagePromo"
+				id="mj-sailthru-subscribe-id--1"
+			>
+
+				<div class="sailthru-add-subscriber-errors"></div>
+
+				<div class="sailthru_form_input form-group">
+					<label class="visuallyhidden sailthru-widget-label E32CB">E32CB</label> <input type="text" placeholder="E32CB" name="E32CB" value="" class="sailthru_E32CB" />
+				</div>
+				
+				<input type="hidden" name="sailthru_nonce" value="49d519e2fb" />
+				<input type="hidden" name="sailthru_email_list" value="Newsletters,Fundraising_Emails,Sponsored_Emails" />
+				<input type="hidden" name="action" value="add_subscriber" />
+				<input type="hidden" name="source" value="EndOfArticle" />
+				<input type="hidden" name="lo_event_name" value="" />
+				<input type="hidden" name="reset_optout_status" value="" />
+				<input type="hidden" name="hide_title_status" value="" />
+				<input type="hidden" name="site_key" value="6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD" id="siteKey" />
+				<input type="hidden" name="captcha_token" value="" id="sailthruToken" />
+				<input type="hidden" name="email" value="" autocomplete="off" />
+				<input type="submit" name="commit" value="Sign Up" />
+		</form></div></div> <script src="https://www.google.com/recaptcha/api.js?render=6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD"></script></div>
+</section>
+			</div>
+			<div>
+				<p class="col-sm-10 col-xs-12 signup-small">By signing up, you agree to our <a href="https://www.motherjones.com/about/privacy-policy/">privacy policy</a> and <a href="https://www.motherjones.com/about/terms/">terms of use</a>, and to receive messages from <em>Mother Jones</em> and our partners.</p>
+			</div>
+		</div>
+
+		<section id="mj-article-bottom-membership-widget-3" class="widget mj-article-bottom-membership-widget"><h3>WHO DOESN’T LOVE A POSITIVE STORY—OR TWO?</h3><p>“Great journalism really does make a difference in this world: it can even save kids.” </p>
+
+<p>That’s what a civil rights lawyer wrote to Julia Lurie, the day after her <a href="https://www.motherjones.com/crime-justice/2023/10/foster-kids-psychiatric-hospitals-universal-health-services-uhs-alaska-cps/?keycode=7AHPB43|PAHPB43" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">major investigation</a> into a psychiatric hospital chain that uses foster children as “cash cows” published, letting her know he was using her findings that same day in a hearing to keep a child out of one of the facilities we investigated.</p>
+
+<p>That’s awesome. As is the fact that Julia, who spent a full year reporting this challenging story, promptly heard from a Senate committee that will use her work in their own investigation of Universal Health Services. There’s no doubt her revelations will continue to have a big impact in the months and years to come.</p>
+
+<p><strong>Like another story about <em>Mother Jones</em>’ real-world impact.</strong></p>
+
+<p>This one, a multiyear investigation, published in 2021, <a href="https://www.motherjones.com/politics/2021/09/sugar-central-romana-fanjul-dominican-republic/?keycode=7AHPB43|PAHPB43" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">exposed conditions in sugar work camps</a> in the Dominican Republic owned by Central Romana—the conglomerate behind brands like C&amp;H and Domino, whose product ends up in our Hershey bars and other sweets. A year ago, the Biden administration banned sugar imports from Central Romana. And just recently, we learned of <a href="https://www.motherjones.com/politics/2023/10/central-romana-homeland-security-sugar/?keycode=7AHPB43|PAHPB43" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">a previously undisclosed investigation</a> from the Department of Homeland Security, looking into working conditions at Central Romana. How big of a deal is this?</p>
+
+<p><strong>“This could be the first time a corporation would be held criminally liable for forced labor in their own supply chains,”</strong> according to a retired special agent we talked to.</p>
+
+<p>Wow.</p>
+
+<p>And it is only because <em>Mother Jones</em> is funded primarily by <a href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7AHPB43%7CPAHPB43/" data-ga-label="ArticleFooterDonationTextClick" data-ga-category="MidpagePromo">donations from readers</a> that we can mount ambitious, yearlong—<a href="https://www.motherjones.com/media/2016/08/whats-missing-from-journalism/?keycode=7AHPB43|PAHPB43" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">or more</a>—investigations like these two stories that are making waves.</p>
+
+<p><strong>About that: It’s <a href="https://www.motherjones.com/media/2023/06/news-never-pays/?keycode=7AHPB43|PAHPB43" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">unfathomably hard</a> in the news business right now, and we came up about $28,000 short during our recent fall fundraising campaign.</strong> We simply have to make that up soon to avoid falling further behind than can be made up for, or needing to somehow trim $1 million from our budget, like <a href="https://www.motherjones.com/media/2023/09/journalism-is-in-trouble/?keycode=7AHPB43|PAHPB43" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">happened last year</a>.</p>
+
+<p>If you can, please support the reporting you get from <em>Mother Jones</em>—that exists to make a difference, not a profit—with a donation of any amount today. We need more donations than normal to come in from this specific blurb to help close our funding gap before it gets any bigger.</p>			<a
+				target="_blank"
+				href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7AHPB43|PAHPB43/"
+				data-ga-label="ArticleFooterDonationClick"
+				data-ga-category="MidpagePromo"
+				class="mj-button"
+			>
+				<button class="btn-primary">Donate</button>
+			</a>
+			<img class="payment-methods" src="https://www.motherjones.com/wp-content/themes/motherjones/img/payment-methods.png" alt="payment methods" />
+		</section><section id="mj-article-bottom-membership-widget-mobile-2" class="widget mj-article-bottom-membership-widget-mobile"><h3>WHO DOESN’T LOVE A POSITIVE STORY—OR TWO?</h3><p>“Great journalism really does make a difference in this world: it can even save kids.” </p>
+
+<p>That’s what a civil rights lawyer wrote to Julia Lurie, the day after her <a href="https://www.motherjones.com/crime-justice/2023/10/foster-kids-psychiatric-hospitals-universal-health-services-uhs-alaska-cps/?keycode=7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">major investigation</a> into a psychiatric hospital chain that uses foster children as “cash cows” published, letting her know he was using her findings that same day in a hearing to keep a child out of one of the facilities we investigated.</p>
+
+<p>That’s awesome. As is the fact that Julia, who spent a full year reporting this challenging story, promptly heard from a Senate committee that will use her work in their own investigation of Universal Health Services. There’s no doubt her revelations will continue to have a big impact in the months and years to come.</p>
+
+<p><strong>Like another story about <em>Mother Jones</em>’ real-world impact.</strong></p>
+
+<p>This one, a multiyear investigation, published in 2021, <a href="https://www.motherjones.com/politics/2021/09/sugar-central-romana-fanjul-dominican-republic/?keycode=7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">exposed conditions in sugar work camps</a> in the Dominican Republic owned by Central Romana—the conglomerate behind brands like C&amp;H and Domino, whose product ends up in our Hershey bars and other sweets. A year ago, the Biden administration banned sugar imports from Central Romana. And just recently, we learned of <a href="https://www.motherjones.com/politics/2023/10/central-romana-homeland-security-sugar/?keycode=7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">a previously undisclosed investigation</a> from the Department of Homeland Security, looking into working conditions at Central Romana. How big of a deal is this?</p>
+
+<p><strong>“This could be the first time a corporation would be held criminally liable for forced labor in their own supply chains,”</strong> according to a retired special agent we talked to.</p>
+
+<p>Wow.</p>
+
+<p>And it is only because <em>Mother Jones</em> is funded primarily by <a href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationTextClick" data-ga-category="MidpagePromo">donations from readers</a> that we can mount ambitious, yearlong—<a href="https://www.motherjones.com/media/2016/08/whats-missing-from-journalism/?keycode=7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">or more</a>—investigations like these two stories that are making waves.</p>
+
+<p><strong>About that: It’s <a href="https://www.motherjones.com/media/2023/06/news-never-pays/?keycode=7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">unfathomably hard</a> in the news business right now, and we came up about $28,000 short during our recent fall fundraising campaign.</strong> We simply have to make that up soon to avoid falling further behind than can be made up for, or needing to somehow trim $1 million from our budget, like <a href="https://www.motherjones.com/media/2023/09/journalism-is-in-trouble/?keycode=7AHPMBF|PAHPMBF" data-ga-label="ArticleFooterDonationReadMoreClick" data-ga-category="MidpagePromo">happened last year</a>.</p>
+
+<p>If you can, please support the reporting you get from <em>Mother Jones</em>—that exists to make a difference, not a profit—with a donation of any amount today. We need more donations than normal to come in from this specific blurb to help close our funding gap before it gets any bigger.</p> 			<a
+				target="_blank"
+				href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7AHPMBF|PAHPMBF/"
+				data-ga-label="ArticleFooterDonationClick"
+				data-ga-category="MidpagePromo"
+				class="mj-button"
+			>
+				<button class="btn-primary">Donate</button>
+			</a>
+			<img class="payment-methods" src="https://www.motherjones.com/wp-content/themes/motherjones/img/payment-methods.png" alt="payment methods" />
+		</section>				<ul id="mj-tag-list"><span>More about:</span><li><a href="https://www.motherjones.com/topics/corruption/" rel="tag">Corruption</a></li><li><a href="https://www.motherjones.com/topics/foreign-influence/" rel="tag">Foreign Influence</a></li><li><a href="https://www.motherjones.com/topics/joe-biden/" rel="tag">Joe Biden</a></li><li><a href="https://www.motherjones.com/topics/rudy-giuliani/" rel="tag">Rudy Giuliani</a></li><li><a href="https://www.motherjones.com/topics/russia/" rel="tag">Russia</a></li><li><a href="https://www.motherjones.com/topics/ukraine/" rel="tag">Ukraine</a></li></ul>			</footer>
+
+		</section>
+
+	</div>
+</div>
+
+<section class="section col-xs-12 eoa-recirc" id="eoa-related">
+		<h2 class="section-heading">Related</h2>
+	<ul class="post-list grid">
+		
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/09/hunter-biden-sues-rudy-giuliani-over-total-annihilation-of-his-privacy/"
+			title="Hunter Biden Sues Rudy Giuliani Over &#8220;Total Annihilation&#8221; of His Privacy"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RelatedArticle-1|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/09/hunter-biden-sues-rudy-giuliani-over-total-annihilation-of-his-privacy/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/09/rudy-sued-sized.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/09/hunter-biden-sues-rudy-giuliani-over-total-annihilation-of-his-privacy/"
+		title="Hunter Biden Sues Rudy Giuliani Over &#8220;Total Annihilation&#8221; of His Privacy"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RelatedArticle-1|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/09/hunter-biden-sues-rudy-giuliani-over-total-annihilation-of-his-privacy/"
+	><h3 class="hed">Hunter Biden Sues Rudy Giuliani Over &#8220;Total Annihilation&#8221; of His Privacy</h3><p class="byline"><a href="https://www.motherjones.com/author/dan-friedman/" title="Posts by Dan Friedman" rel="author">Dan Friedman</a></p></a></div></li>
+
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/09/a-new-rudy-scandal-fbi-agent-says-giuliani-was-co-opted-by-russian-intelligence/"
+			title="A New Rudy Scandal: FBI Agent Says Giuliani Was Co-opted by Russian Intelligence"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RelatedArticle-2|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/09/a-new-rudy-scandal-fbi-agent-says-giuliani-was-co-opted-by-russian-intelligence/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/08/0901_giuliani_2000.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/09/a-new-rudy-scandal-fbi-agent-says-giuliani-was-co-opted-by-russian-intelligence/"
+		title="A New Rudy Scandal: FBI Agent Says Giuliani Was Co-opted by Russian Intelligence"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RelatedArticle-2|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/09/a-new-rudy-scandal-fbi-agent-says-giuliani-was-co-opted-by-russian-intelligence/"
+	><h3 class="hed">A New Rudy Scandal: FBI Agent Says Giuliani Was Co-opted by Russian Intelligence</h3><p class="byline"><a href="https://www.motherjones.com/author/dan-friedman/" title="Posts by Dan Friedman" rel="author">Dan Friedman</a> and <a href="https://www.motherjones.com/author/david-corn/" title="Posts by David Corn" rel="author">David Corn</a></p></a></div></li>
+
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/politics/2021/08/the-fbi-is-investigating-giulianis-attempt-to-make-a-movie-about-the-bidens-and-ukraine/"
+			title="The FBI Is Investigating Giuliani&#8217;s Attempt to Make a Movie About the Bidens and Ukraine"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RelatedArticle-3|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2021/08/the-fbi-is-investigating-giulianis-attempt-to-make-a-movie-about-the-bidens-and-ukraine/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2021/07/Rudy-movie.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/politics/2021/08/the-fbi-is-investigating-giulianis-attempt-to-make-a-movie-about-the-bidens-and-ukraine/"
+		title="The FBI Is Investigating Giuliani&#8217;s Attempt to Make a Movie About the Bidens and Ukraine"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RelatedArticle-3|headline"
+		data-ga-action="https://www.motherjones.com/politics/2021/08/the-fbi-is-investigating-giulianis-attempt-to-make-a-movie-about-the-bidens-and-ukraine/"
+	><h3 class="hed">The FBI Is Investigating Giuliani&#8217;s Attempt to Make a Movie About the Bidens and Ukraine</h3><p class="byline"><a href="https://www.motherjones.com/author/dan-friedman/" title="Posts by Dan Friedman" rel="author">Dan Friedman</a></p></a></div></li>
+
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/politics/2021/03/russia-worked-to-boost-trump-in-2020-with-help-from-giuliani-fox-news-and-oann/"
+			title="Russia Worked to Boost Trump in 2020—With Help From Giuliani, Fox News, and OANN"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RelatedArticle-4|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2021/03/russia-worked-to-boost-trump-in-2020-with-help-from-giuliani-fox-news-and-oann/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2021/03/rudy_2k_3.16.21.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/politics/2021/03/russia-worked-to-boost-trump-in-2020-with-help-from-giuliani-fox-news-and-oann/"
+		title="Russia Worked to Boost Trump in 2020—With Help From Giuliani, Fox News, and OANN"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RelatedArticle-4|headline"
+		data-ga-action="https://www.motherjones.com/politics/2021/03/russia-worked-to-boost-trump-in-2020-with-help-from-giuliani-fox-news-and-oann/"
+	><h3 class="hed">Russia Worked to Boost Trump in 2020—With Help From Giuliani, Fox News, and OANN</h3><p class="byline"><a href="https://www.motherjones.com/author/aj-vicens/" title="Posts by AJ Vicens" rel="author">AJ Vicens</a> and <a href="https://www.motherjones.com/author/dan-friedman/" title="Posts by Dan Friedman" rel="author">Dan Friedman</a></p></a></div></li>
+	</ul>
+</section>
+
+<section class="ad">
+<!-- Tag ID: motherjones_medrec_btf_1 -->
+            <div id="ROS_BTF_300x250_1">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_medrec_btf_1",
+                        slotId: "ROS_BTF_300x250_1"
+                    });
+                </script>
+            </div><!-- Tag ID: motherjones_leaderboard_btf_1 -->
+            <div id="ROS_BTF_970x250_1">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_leaderboard_btf_1",
+                        slotId: "ROS_BTF_970x250_1"
+                    });
+                </script>
+            </div></section>
+
+<section class="section col-xs-12 eoa-recirc" id="eoa-recommend">
+	<h2 class="section-heading">We Recommend</h2>
+	<ul class="post-list grid">
+		
+<li class="grid col-sm-6 col-xxs-12 recommended">
+	<div class="col-5 order-1"><a
+			href="https://www.motherjones.com/environment/2023/11/green-groups-housing-crisis-ceqa-environmental-density-nimby/"
+			title="How Major Environmental Groups Ended Up on the Wrong Side of California’s Housing Crisis"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecommendedArticle-1|thumbnail"
+			data-ga-action="https://www.motherjones.com/environment/2023/11/green-groups-housing-crisis-ceqa-environmental-density-nimby/"
+			rel="bookmark"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?w=990" class="article-image wp-post-image" alt="A collage of someone banging their fist on top of a row of houses" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=1536,862 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=1300,730 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=642,360 642w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_green-vs-housing_2000.jpg?resize=768,431 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 order-2"><a
+		href="https://www.motherjones.com/environment/2023/11/green-groups-housing-crisis-ceqa-environmental-density-nimby/"
+		title="How Major Environmental Groups Ended Up on the Wrong Side of California’s Housing Crisis"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecommendedArticle-1|headline"
+		data-ga-action="https://www.motherjones.com/environment/2023/11/green-groups-housing-crisis-ceqa-environmental-density-nimby/"
+			rel="bookmark"
+	><h3 class="hed">How Major Environmental Groups Ended Up on the Wrong Side of California’s Housing Crisis</h3><p class="byline"><a href="https://www.motherjones.com/author/chris-elmendorf/" title="Posts by Chris Elmendorf" rel="author">Chris Elmendorf</a></p></a></div></li>
+
+<li class="grid col-sm-6 col-xxs-12 recommended">
+	<div class="col-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/11/brett-mcgurk-collective-punishment-gaza-hostages/"
+			title="Senior US Official Appears to Endorse Collective Punishment of Gazans"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecommendedArticle-2|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/11/brett-mcgurk-collective-punishment-gaza-hostages/"
+			rel="bookmark"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/11/McGurk111823.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/11/brett-mcgurk-collective-punishment-gaza-hostages/"
+		title="Senior US Official Appears to Endorse Collective Punishment of Gazans"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecommendedArticle-2|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/11/brett-mcgurk-collective-punishment-gaza-hostages/"
+			rel="bookmark"
+	><h3 class="hed">Senior US Official Appears to Endorse Collective Punishment of Gazans</h3><p class="byline"><a href="https://www.motherjones.com/author/noah-lanard/" title="Posts by Noah Lanard" rel="author">Noah Lanard</a></p></a></div></li>
+
+<li class="grid col-sm-6 col-xxs-12 recommended">
+	<div class="col-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/11/elon-musk-river-sea-antidefamation-league/"
+			title="ADL Celebrates Elon Musk&#8217;s Crackdown on Pro-Palestinian Speech"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecommendedArticle-3|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/11/elon-musk-river-sea-antidefamation-league/"
+			rel="bookmark"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/11/MuskADL111823.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/11/elon-musk-river-sea-antidefamation-league/"
+		title="ADL Celebrates Elon Musk&#8217;s Crackdown on Pro-Palestinian Speech"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecommendedArticle-3|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/11/elon-musk-river-sea-antidefamation-league/"
+			rel="bookmark"
+	><h3 class="hed">ADL Celebrates Elon Musk&#8217;s Crackdown on Pro-Palestinian Speech</h3><p class="byline"><a href="https://www.motherjones.com/author/noah-lanard/" title="Posts by Noah Lanard" rel="author">Noah Lanard</a></p></a></div></li>
+
+<li class="grid col-sm-6 col-xxs-12 recommended">
+	<div class="col-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/11/israels-fuel-blockade-is-strangling-gaza/"
+			title="Israel&#8217;s Fuel Blockade is Strangling Gaza"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecommendedArticle-4|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/11/israels-fuel-blockade-is-strangling-gaza/"
+			rel="bookmark"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/11/gazafuel11823.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/11/israels-fuel-blockade-is-strangling-gaza/"
+		title="Israel&#8217;s Fuel Blockade is Strangling Gaza"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecommendedArticle-4|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/11/israels-fuel-blockade-is-strangling-gaza/"
+			rel="bookmark"
+	><h3 class="hed">Israel&#8217;s Fuel Blockade is Strangling Gaza</h3><p class="byline"><a href="https://www.motherjones.com/author/noah-lanard/" title="Posts by Noah Lanard" rel="author">Noah Lanard</a></p></a></div></li>
+	</ul>
+</section>
+
+<section class="ad">
+<!-- Tag ID: motherjones_medrec_btf_2 -->
+            <div id="ROS_BTF_300x250_2">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_medrec_btf_2",
+                        slotId: "ROS_BTF_300x250_2"
+                    });
+                </script>
+            </div><!-- Tag ID: motherjones_leaderboard_btf_2 -->
+            <div id="ROS_BTF_970x250_2">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_leaderboard_btf_2",
+                        slotId: "ROS_BTF_970x250_2"
+                    });
+                </script>
+            </div></section>
+
+<section class="section col-xs-12 eoa-recirc" id="eoa-recent">
+	<h2 class="section-heading">Latest</h2>
+	<ul class="post-list grid">
+		
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/environment/2023/11/underground-sounds-biggest-trees-world/"
+			title="How Underground Sounds Can Help Us Save the World&#8217;s Largest Trees"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecentArticle-1|thumbnail"
+			data-ga-action="https://www.motherjones.com/environment/2023/11/underground-sounds-biggest-trees-world/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?w=990" class="article-image wp-post-image" alt="Pando trees, which have light brown coloring and green leaves." decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/11/c85de3f9-102d-4d0f-b55e-bb4b488a46f092e2aa083e3ad15654_360111370_272605972080542_1412260437078509786_n.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/environment/2023/11/underground-sounds-biggest-trees-world/"
+		title="How Underground Sounds Can Help Us Save the World&#8217;s Largest Trees"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecentArticle-1|headline"
+		data-ga-action="https://www.motherjones.com/environment/2023/11/underground-sounds-biggest-trees-world/"
+	><h3 class="hed">How Underground Sounds Can Help Us Save the World&#8217;s Largest Trees</h3><p class="byline"><a href="https://www.motherjones.com/author/hugo-mccafferty/" title="Posts by Hugo McCafferty" rel="author">Hugo McCafferty</a></p></a></div></li>
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/11/center-for-american-progress-ceasefire-biden-patrick-gaspard/"
+			title="A Leading Think Tank for the Democratic Establishment Calls for a Ceasefire &#8220;Now&#8221;"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecentArticle-2|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/11/center-for-american-progress-ceasefire-biden-patrick-gaspard/"
+		><img width="984" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?w=984" class="article-image wp-post-image" alt="Patrick Gaspard speaking at a public event" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=321,182 321w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=625,354 625w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=1536,869 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=1300,736 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=990,560 990w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=642,363 642w, https://www.motherjones.com/wp-content/uploads/2023/11/GettyImages-1039263654.jpg?resize=768,435 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/11/center-for-american-progress-ceasefire-biden-patrick-gaspard/"
+		title="A Leading Think Tank for the Democratic Establishment Calls for a Ceasefire &#8220;Now&#8221;"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecentArticle-2|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/11/center-for-american-progress-ceasefire-biden-patrick-gaspard/"
+	><h3 class="hed">A Leading Think Tank for the Democratic Establishment Calls for a Ceasefire &#8220;Now&#8221;</h3><p class="byline"><a href="https://www.motherjones.com/author/noah-lanard/" title="Posts by Noah Lanard" rel="author">Noah Lanard</a></p></a></div></li>
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/politics/2023/11/plan-c-abortion-documentary-streaming/"
+			title="To Make a Documentary About Abortion, They Had to Fight the Right&#8217;s War on Information"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecentArticle-3|thumbnail"
+			data-ga-action="https://www.motherjones.com/politics/2023/11/plan-c-abortion-documentary-streaming/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?w=990" class="article-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/11/20231116_plan-c-documentary_2000_B.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/politics/2023/11/plan-c-abortion-documentary-streaming/"
+		title="To Make a Documentary About Abortion, They Had to Fight the Right&#8217;s War on Information"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecentArticle-3|headline"
+		data-ga-action="https://www.motherjones.com/politics/2023/11/plan-c-abortion-documentary-streaming/"
+	><h3 class="hed">To Make a Documentary About Abortion, They Had to Fight the Right&#8217;s War on Information</h3><p class="byline"><a href="https://www.motherjones.com/author/julianne-mcshane/" title="Posts by Julianne McShane" rel="author">Julianne McShane</a></p></a></div></li>
+<li class="grid col-sm-3 col-xxs-12">
+	<div class="col-5 col-sm-12 col-xs-5 col-xxs-5 order-1"><a
+			href="https://www.motherjones.com/environment/2023/11/study-controlled-burns-protection-against-wildfires/"
+			title="Decades of California Wildfire Data Show the Benefits of Setting Our Own"
+			data-ga-category="EndOfArticle"
+			data-ga-label="RecentArticle-4|thumbnail"
+			data-ga-action="https://www.motherjones.com/environment/2023/11/study-controlled-burns-protection-against-wildfires/"
+		><img width="990" height="557" src="https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?w=990" class="article-image wp-post-image" alt="Controlled burns where part of a field is on fire, with one person walking by" decoding="async" loading="lazy" srcset="https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2023/11/controlled-burns-copy.jpg?resize=768,432 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></div><div class="col-7 col-sm-12 col-xs-7 col-xxs-7 order-2"><a
+		href="https://www.motherjones.com/environment/2023/11/study-controlled-burns-protection-against-wildfires/"
+		title="Decades of California Wildfire Data Show the Benefits of Setting Our Own"
+		data-ga-category="EndOfArticle"
+		data-ga-label="RecentArticle-4|headline"
+		data-ga-action="https://www.motherjones.com/environment/2023/11/study-controlled-burns-protection-against-wildfires/"
+	><h3 class="hed">Decades of California Wildfire Data Show the Benefits of Setting Our Own</h3><p class="byline"><a href="https://www.motherjones.com/author/tik-root/" title="Posts by Tik Root" rel="author">Tik Root</a></p></a></div></li>	</ul>
+</section>
+
+<div id="promos-container">
+	<section id="mj-connatix-player-widget-2" class="widget mj-connatix-player-widget">        <div class="connatix-player-container">
+            <div id="FreeStarVideoAdContainer">
+                <div id="freestar-video-parent">
+                    <div id="freestar-video-child"></div>
+                </div>
+            </div>
+        </div>
+</section><section id="mj-incontent-ad-widget-11" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-10" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-9" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-8" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-7" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-6" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-5" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-3" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-incontent-ad-widget-2" class="widget mj-incontent-ad-widget"><div class="incontent-ad-container ad"></div></section><section id="mj-house-newsletter-promo-widget-2" class="widget mj-house-promo-widget mj-house-newsletter-promo-widget">		<div class="grid">
+			<div class="col-2 col-lg-2 col-md-12 col-sm-10 col-xs-12 col-xxs-12"></div>
+			<div class="incontent-promo-sm col-lg-6 col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+				<div class="promo-all">
+								<h3>
+				
+					
+				
+				Sign up for our free newsletter
+			</h3>
+				<p><em>Subscribe to the </em>Mother Jones Daily<em> to have our top stories delivered directly to your inbox.</em></p>
+					        <section class="newsletter-signup grid">
+            <div class="sailthru-signup-widget ns-inner col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+                <div>
+					<span class="sailthru-signup-widget-close"><a href="#sailthru-signup-widget">Close</a></span>
+                    <div class="sailthru_form">
+						<div class="success" hidden="hidden">Thank you for subscribing!</div>
+			<form 
+				method="post" action="#" class="sailthru-add-subscriber-form" 
+				data-ga-label="InContentNewsletterClick"
+				data-ga-category="MidpagePromo"
+				id="mj-sailthru-subscribe-id--1"
+			>
+
+				<div class="sailthru-add-subscriber-errors"></div>
+
+				<div class="sailthru_form_input form-group">
+					<label class="visuallyhidden sailthru-widget-label E32CB">E32CB</label> <input type="text" placeholder="E32CB" name="E32CB" value="" class="sailthru_E32CB" />
+				</div>
+				
+				<input type="hidden" name="sailthru_nonce" value="49d519e2fb" />
+				<input type="hidden" name="sailthru_email_list" value="Newsletters,Fundraising_Emails,Sponsored_Emails" />
+				<input type="hidden" name="action" value="add_subscriber" />
+				<input type="hidden" name="source" value="InContent" />
+				<input type="hidden" name="lo_event_name" value="" />
+				<input type="hidden" name="reset_optout_status" value="" />
+				<input type="hidden" name="hide_title_status" value="" />
+				<input type="hidden" name="site_key" value="6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD" id="siteKey" />
+				<input type="hidden" name="captcha_token" value="" id="sailthruToken" />
+				<input type="hidden" name="email" value="" autocomplete="off" />
+				<input type="submit" name="commit" value="Sign Up" />
+		</form></div></div> <script src="https://www.google.com/recaptcha/api.js?render=6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD"></script></div>
+</section>
+					<div class="col-sm-10 col-xs-12">
+						<p class="signup-small">By signing up, you agree to our <a href="https://www.motherjones.com/about/privacy-policy/">privacy policy</a> and <a href="https://www.motherjones.com/about/terms/">terms of use</a>, and to receive messages from <em>Mother Jones</em> and our partners.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-4"></div>
+		</div>
+</section><section id="mj-house-subscription-promo-widget-2" class="widget mj-house-promo-widget mj-house-subscription-promo-widget"><div class="grid">
+	<div class="col-2 col-lg-2 col-md-12 col-sm-10 col-xs-12 col-xxs-12"></div>
+	<div class="incontent-promo-sm col-lg-6 col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+		<div class="promo-all">
+			<h3>
+				
+					
+				
+				Get our award-winning magazine
+			</h3>
+			<p><em>Save big on a full year of investigations, ideas, and insights.</em></p>	
+			<a class="btn" href="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&amp;c=SEGYGC&amp;d=SEGYGD&amp;f=SEGYGF" title="Subscribe" data-ga-label="InContentSubscriptionClick" data-ga-category="MidpagePromo">Subscribe</a>	
+		</div>
+	</div>
+	<div class="col-4"></div>
+</div>
+</section><section id="mj-house-donation-promo-widget-2" class="widget mj-house-promo-widget mj-house-donation-promo-widget"><div class="grid">
+	<div class="col-2 col-lg-2 col-md-12 col-sm-10 col-xs-12 col-xxs-12"></div>
+	<div class="incontent-promo-sm col-lg-6 col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+		<div class="promo-all">
+			<h3>
+				
+					
+						
+					
+				
+				Support our journalism
+			</h3>
+			<p><em>Help </em>Mother Jones<em>' reporters dig deep with a tax-deductible donation.</em></p>
+			<a class="btn" href="https://secure.motherjones.com/flex/mj/key/7DONATE/src/7EGPBA1/" data-ga-label="InContentDonationClick" data-ga-category="MidpagePromo">Donate</a><!-- needs new list_source -->
+		</div>
+	</div>
+	<div class="col-4"></div>
+</div></section>	<aside id="sidebar-right" class="col-4 hidden-sm hidden-xs hidden-xxs">
+	<section id="mj-floating-ad-widget-2" class="widget mj-floating-ad"><div id="rhc-scroller" class="ad"><!-- Tag ID: motherjones_right_rail_2 -->
+            <div id="ROS_Scroller_Refresh">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_right_rail_2",
+                        slotId: "ROS_Scroller_Refresh"
+                    });
+                </script>
+            </div></div></section><!-- Tag ID: Site_Skin_Left -->
+            <div id="Site_Skin_Left">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "Site_Skin_Left",
+                        slotId: "Site_Skin_Left"
+                    });
+                </script>
+            </div><!-- Tag ID: Site_Skin_Right -->
+            <div id="Site_Skin_Right">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "Site_Skin_Right",
+                        slotId: "Site_Skin_Right"
+                    });
+                </script>
+            </div><section id="text-5" class="widget widget_text"><h2 class="widget-title">RHC membership for blog posts</h2>			<div class="textwidget"><div id="interior-rhc-membership" class="blog">
+<a class="onetime donation" target="_blank" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&b_country=United+States&pub_code=DON&term_pub=DON&list_source=7HEGPA03&term=XX.1.50.00.DON.D.0.7288" rel="noopener"></a>
+<a class="monthly donation" target="_blank" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&b_country=United+States&pub_code=SDN&term_pub=SDN&list_source=7HEGPAM3&term=XX.1.20.00.SDN.D.0.7310&term_pub_override=SDN" rel="noopener"></a>
+<a class="subscribe" target="_blank" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&b_country=United+States&pub_code=MJM&term_pub=MJM&list_source=SEGYN1B" rel="noopener"></a>
+</div></div>
+		</section></aside>
+ 
+</div>
+
+
+<section class="ad"><!-- Tag ID: motherjones_leaderboard_btf_3 -->
+            <div id="ROS_BTF_970x250_3">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_leaderboard_btf_3",
+                        slotId: "ROS_BTF_970x250_3"
+                    });
+                </script>
+            </div><!-- Tag ID: motherjones_medrec_btf_3 -->
+            <div id="ROS_BTF_300x250_3">
+                <script data-cfasync="false" type="text/javascript">
+                    freestar.config.enabled_slots.push({ 
+                        placementName: "motherjones_medrec_btf_3",
+                        slotId: "ROS_BTF_300x250_3"
+                    });
+                </script>
+            </div></section><section id="mj-comments-container" class="section col-xs-12"><div id="comment-container">
+			<div id="coral_thread" class="hide col-lg-8 col-md-10 col-sm-10 col-xs-12 col-xxs-12"></div>
+		<div id="comment-noscript"
+		 onclick="mj_display_comments(); jQuery(this).addClass(&quot;hidden&quot;); return false;"	>
+					<a
+				id="coral-display-comments"
+				data-ga-label="CommentsExpand"
+				data-ga-category="EndOfArticle"
+			>
+				  <i class="icon-plus"></i>view comments
+	  </a>
+	</div>
+</div>
+</section>
+		</main>
+	</div><!-- #page -->
+
+	<div id="site-footer-promos" class="grid">
+		<section id="custom_html-11" class="widget_text widget widget_custom_html"><h2 class="widget-title">Mag Promo</h2><div class="textwidget custom-html-widget"><div id="footer-promo-mag" class="grid">
+	<div class="col-sm-4 col-xs-12">
+		<h3>Independent. In print. In your mailbox.</h3>
+		<p>Inexpensive, too! Subscribe today and get a full year of <em>Mother Jones</em> for just $14.95.</p>
+		<a href="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGYGP&c=SEGYGC&d=SEGYGD&f=SEGYGF" title="Subscribe" data-ga-label="MagazineSubscribeClick" data-ga-category="BottomPromo"><button class="btn-primary">Subscribe</button></a>
+	</div>
+	<div class="col-sm-8 col-xs-12 grid">
+		<div class="mag-promo col-xs-4 col-xxs-12">
+      		<a href="/mag/2023/11/toc/" data-ga-category="BottomPromo" data-ga-label="MagazineSubscribeMagCover_1|imageClick">
+				<img border="0" src="/wp-content/uploads/2023/09/mojo_cover_novdec23.jpg?w=575" alt="Mother Jones Magazine Cover : November + December 2023"></a>
+      		<a href="/mag/2023/11/toc" data-ga-category="BottomPromo" data-ga-label="MagazineSubscribeMagCover_1|textClick">December 2023</a>
+    	</div>
+		<div class="mag-promo col-xs-4 hidden-xxs-12">
+			<a href="/mag/2023/09/toc/" data-ga-category="BottomPromo" data-ga-label="MagazineSubscribeMagCover_2|imageClick">
+				<img border="0" src="/wp-content/uploads/2023/07/mojo_cover_septoct23.jpg?w=575" alt="Mother Jones Magazine Cover : September + October 2023">
+			</a>
+			<a href="/mag/2023/09/toc" data-ga-category="BottomPromo" data-ga-label="MagazineSubscribeMagCover_2|textClick">October 2023</a>
+		</div>
+		<div class="mag-promo col-xs-4 col-xxs-12">
+			<a href="/mag/2023/07/toc/" data-ga-category="BottomPromo" data-ga-label="MagazineSubscribeMagCover_3|imageClick">
+				<img border="0" src="/wp-content/uploads/2023/05/mojo_cover_julyaug23.jpg?w=575" alt="Mother Jones Magazine Cover : July + August 2023">
+			</a>
+			<a href="/mag/2023/07/toc" data-ga-category="BottomPromo" data-ga-label="MagazineSubscribeMagCover_3|textClick">August 2023</a>
+		</div>
+	</div>
+</div></div></section>
+<section class="widget instagram-promo grid">
+		<div id="footer-promo-instagram" class="grid col-md-12 col-sm-12 col-xs-12 col-xxs-12">
+			<div class="col-4">
+					<a href="https://www.instagram.com/motherjonesmag/" data-ga-category="BottomPromo" data-ga-label="InstagramFollowClick">
+						<img class="instagram-img jetpack-lazy-image jetpack-lazy-image--handled" src="https://www.motherjones.com/wp-content/uploads/2023/08/ig-mj-logo-layers@2x.png" alt="podcast" scale="0" data-lazy-loaded="1" loading="eager"><noscript><img data-lazy-fallback="1" class="podcast-img" src="/wp-content/themes/motherjones/img/the-mother-jones-podcast-logo-615-615.png?w=200" alt="podcast" scale="0" /></noscript>
+					</a>
+				</div>
+				<div class="col-8">
+					<h3>Bold. Brave. Beautiful.</h3>
+					<p>Award-winning photojournalism. <br> Stunning video. Fearless conversations.</p>
+					<a href="https://www.instagram.com/motherjonesmag/" data-ga-category="BottomPromo" data-ga-label="InstagramFollowClick">Follow us on Instagram ></a>
+				</div>
+			</div>
+    </section>	
+
+        		<section class="widget newsletter-signup grid">
+			<div class="ns-inner col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+				<div>
+					<div class="col-11" id="BottomPromoNewsletterSignup">
+						<h3>Looking for news you can trust?</h3>
+						<p><em>Subscribe to the</em> Mother Jones Daily <em>to have our top stories delivered directly to your inbox.</em></p>
+					</div>
+					        <section class="newsletter-signup grid">
+            <div class="sailthru-signup-widget ns-inner col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+                <div>
+					<span class="sailthru-signup-widget-close"><a href="#sailthru-signup-widget">Close</a></span>
+                    <div class="sailthru_form">
+						<div class="success" hidden="hidden">Thank you for subscribing!</div>
+			<form 
+				method="post" action="#" class="sailthru-add-subscriber-form" 
+				data-ga-label="NewsletterSubscribeView"
+				data-ga-category="BottomPromo"
+				id="mj-sailthru-subscribe-id--1"
+			>
+
+				<div class="sailthru-add-subscriber-errors"></div>
+
+				<div class="sailthru_form_input form-group">
+					<label class="visuallyhidden sailthru-widget-label E32CB">E32CB</label> <input type="text" placeholder="E32CB" name="E32CB" value="" class="sailthru_E32CB" />
+				</div>
+				
+				<input type="hidden" name="sailthru_nonce" value="49d519e2fb" />
+				<input type="hidden" name="sailthru_email_list" value="Newsletters,Fundraising_Emails,Sponsored_Emails" />
+				<input type="hidden" name="action" value="add_subscriber" />
+				<input type="hidden" name="source" value="Bottom_Promo" />
+				<input type="hidden" name="lo_event_name" value="" />
+				<input type="hidden" name="reset_optout_status" value="" />
+				<input type="hidden" name="hide_title_status" value="" />
+				<input type="hidden" name="site_key" value="6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD" id="siteKey" />
+				<input type="hidden" name="captcha_token" value="" id="sailthruToken" />
+				<input type="hidden" name="email" value="" autocomplete="off" />
+				<input type="submit" name="commit" value="Sign Up" />
+		</form></div></div> <script src="https://www.google.com/recaptcha/api.js?render=6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD"></script></div>
+</section>
+					<div>
+						<p class="col-sm-11 col-xs-12 signup-small">By signing up, you agree to our <a href="https://www.motherjones.com/about/privacy-policy/">privacy policy</a> and <a href="https://www.motherjones.com/about/terms/">terms of use</a>, and to receive messages from <em>Mother Jones</em> and our partners.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+			</div>
+
+	<footer id="site-footer">
+	<div class="container grid">
+		<section class="logo col-md-3 col-sm-12">
+			<a href="/" aria-label="Home" class="footer-logo">
+				
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813.67 165.61"><path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z"/><path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z"/></svg>
+			</a>
+			<ul class="footer-social">
+				<li class="fb">
+					<a href="https://www.facebook.com/motherjones"
+						aria-label="Mother Jones on Facebook"
+						data-ga-category="SiteFooter"
+						data-ga-label="Facebook"
+					>
+						<i class="icon-facebook"></i>
+					</a>
+				</li>
+				<li class="tweet">
+					<a href="https://twitter.com/motherjones"
+						aria-label="Mother Jones on Twitter"
+						data-ga-category="SiteFooter"
+						data-ga-label="Twitter"
+					>
+						<i class="icon-twitter"></i>
+					</a>
+				</li>
+				<li class="instagram">
+					<a href="https://www.instagram.com/motherjonesmag/"
+						aria-label="Mother Jones on Instagram"
+						data-ga-category="SiteFooter"
+						data-ga-label="Instagram"
+					>
+						<i class="icon-instagram"></i>
+					</a>
+				</li>
+				<li class="rss">
+					<a href="http://feeds.feedburner.com/motherjones/feed"
+						aria-label="MotherJones.com RSS feed"
+						data-ga-category="SiteFooter"
+						data-ga-label="RSS"
+					>
+						<i class="icon-rss"></i>
+					</a>
+				</li>
+				<li class="newsletter">
+					<a href="/newsletters"
+						aria-label="Newsletters"
+						data-ga-category="SiteFooter"
+						data-ga-label="Newsletter"
+					>
+						<i class="icon-mail"></i>
+					</a>
+				</li>
+			</ul>
+		</section>
+		<section class="menu col-md-9 col-sm-12 col-xs-12 grid">
+			<ul class="col-sm-4 col-xs-12"><li id="menu-item-612461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612461"><a href="https://www.motherjones.com/about/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/" data-ga-label="Section_1_NavPosition_1">About</a></li>
+<li id="menu-item-612462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612462"><a href="https://www.motherjones.com/about/staff/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/staff/" data-ga-label="Section_1_NavPosition_2">Our Staff</a></li>
+<li id="menu-item-980706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-980706"><a href="https://www.motherjones.com/mother-jones-commitment-to-diversity-equity-and-inclusion/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/mother-jones-commitment-to-diversity-equity-and-inclusion/" data-ga-label="Section_1_NavPosition_3">DEI&#038;B</a></li>
+<li id="menu-item-612481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612481"><a href="https://www.motherjones.com/about/financials/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/financials/" data-ga-label="Section_1_NavPosition_4">Financials</a></li>
+<li id="menu-item-612465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612465"><a href="https://www.motherjones.com/careers/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/careers/" data-ga-label="Section_1_NavPosition_5">Careers</a></li>
+<li id="menu-item-1005799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1005799"><a href="https://www.motherjones.com/contribute/writer-guidelines/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/contribute/writer-guidelines/" data-ga-label="Section_1_NavPosition_6">Freelance Guidelines</a></li>
+<li id="menu-item-612464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612464"><a href="https://www.motherjones.com/contact/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/contact/" data-ga-label="Section_1_NavPosition_7">Contact Us</a></li>
+</ul><ul class="col-sm-4 col-xs-12"><li id="menu-item-612467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612467"><a href="https://www.motherjones.com/support/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/support/" data-ga-label="Section_2_NavPosition_1">Support</a></li>
+<li id="menu-item-612468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612468"><a href="https://www.motherjones.com/support/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/support/" data-ga-label="Section_2_NavPosition_2">Ways to Give</a></li>
+<li id="menu-item-612470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612470"><a href="https://www.motherjones.com/advertising/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/advertising/" data-ga-label="Section_2_NavPosition_3">Advertise With Us</a></li>
+<li id="menu-item-863514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863514"><a href="https://www.motherjones.com/customer-service/permissions/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/customer-service/permissions/" data-ga-label="Section_2_NavPosition_4">Licensing / Reprints</a></li>
+<li id="menu-item-612471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612471"><a href="http://store.motherjones.com/?utm_source=motherjones&#038;utm_medium=footer&#038;utm_content=orangefooterlink&#038;utm_campaign=evergreen" data-ga-category="SiteFooter" data-ga-action="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen" data-ga-label="Section_2_NavPosition_5">Store</a></li>
+</ul><ul class="col-sm-4 col-xs-12"><li id="menu-item-612473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612473"><a href="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&#038;c=SEGMOC&#038;d=SEGMOD&#038;f=SEGMOF" data-ga-category="SiteFooter" data-ga-action="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&amp;c=SEGMOC&amp;d=SEGMOD&amp;f=SEGMOF" data-ga-label="Section_3_NavPosition_1">Subscribe</a></li>
+<li id="menu-item-612474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612474"><a href="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&#038;c=SEGMOC&#038;d=SEGMOD&#038;f=SEGMOF" data-ga-category="SiteFooter" data-ga-action="https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGMOP&amp;c=SEGMOC&amp;d=SEGMOD&amp;f=SEGMOF" data-ga-label="Section_3_NavPosition_2">Magazine Subscriptions</a></li>
+<li id="menu-item-785947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-785947"><a href="https://secure.motherjones.com/flex/mj/key/YGIFUP/" data-ga-category="SiteFooter" data-ga-action="https://secure.motherjones.com/flex/mj/key/YGIFUP/" data-ga-label="Section_3_NavPosition_3">Give a Gift Subscription</a></li>
+<li id="menu-item-612476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612476"><a href="https://www.motherjones.com/newsletters/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/newsletters/" data-ga-label="Section_3_NavPosition_4">Email Newsletters</a></li>
+<li id="menu-item-612478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612478"><a href="https://www.motherjones.com/customer-service/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/customer-service/" data-ga-label="Section_3_NavPosition_5">Customer Service</a></li>
+</ul>		</section>
+		<section class="bottom col-12">
+			<p class="captcha-disclaimer">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+				<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+			</p>
+			<p class="copyright" role="contentinfo">
+			Copyright &copy; 2023 Mother Jones and the Foundation for National Progress. All Rights Reserved.<ul id="menu-copyright" class="menu"><li id="menu-item-405542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405542"><a href="https://www.motherjones.com/about/terms/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/terms/" data-ga-label="Section_Copyright_NavPosition_1">Terms of Service</a></li>
+<li id="menu-item-405543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405543"><a href="https://www.motherjones.com/about/privacy-policy/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/privacy-policy/" data-ga-label="Section_Copyright_NavPosition_2">Privacy Policy</a></li>
+</ul>			</p>
+			<a href="https://wpvip.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=www.motherjones.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://www.motherjones.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png?ver=20220317" width="187" height="26" alt="Powered by WordPress VIP" /></a>		</section>
+	</div>
+</footer>
+
+<section id="custom_html-22" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><style>
+#top-stories .main .article-image {display: block;}
+</style></div></section><section id="mj-adblock-widget-2" class="widget mj-adblock-widget hide">		<section id="adblock-message" class="hide">
+			<div class="text-and-buttons-container grid">
+				<h2>We Noticed You Have An Ad Blocker On.</h2>				<div class="text-container col-md-8 col-sm-12">
+					<p class="long-text">
+																										Can you pitch in a few bucks to help fund <em>Mother Jones'</em> investigative journalism? We're a nonprofit (so it's tax-deductible), and reader support makes up about two-thirds of our budget.																				</p>
+					<p class="short-text">
+																										<strong>We noticed you have an ad blocker on.</strong> Can you pitch in a few bucks to help fund <em>Mother Jones'</em> investigative journalism?																				</p>
+				</div>
+				<div class="buttons-container col-md-4 col-sm-12 col-xs-12">
+					<a href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGZS1A|PEGZS1A" target="_blank"
+						data-ga-label="AdblockDonateClick"
+						data-ga-category="AdblockDetected"
+					>
+						<button class="donate btn-primary">Donate</button>
+					</a>
+					<a data-ga-label="AdblockDonateClose"
+					   data-ga-category="AdblockDetected"
+					>
+						<button class="close">Not Now</button>
+					</a>
+				</div>
+			</div>
+		</section>
+
+		</section><div id="exit-intent-overlay" style="display:none;">
+
+	<div id="exit-intent-background"></div>
+	<div id="exit-intent-display">
+		<span id="exit-intent-close-button" class="close exit-button"><a>close</a></span>
+
+		<h2>
+            Don't let an algorithm decide what news you see.
+		</h2>
+		<p class="exit-intent-ask">
+		    Sign up for the free <em>Mother Jones Daily</em> newsletter and follow the news that matters.
+		</p>
+
+                <section class="newsletter-signup grid">
+            <div class="sailthru-signup-widget ns-inner col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+                <div>
+					<span class="sailthru-signup-widget-close"><a href="#sailthru-signup-widget">Close</a></span>
+                    <div class="sailthru_form">
+						<div class="success" hidden="hidden">Thank you for subscribing!</div>
+			<form 
+				method="post" action="#" class="sailthru-add-subscriber-form" 
+				data-ga-label="ExitIntentNewsletterClick"
+				data-ga-category="ExitIntent"
+				id="mj-sailthru-subscribe-id--1"
+			>
+
+				<div class="sailthru-add-subscriber-errors"></div>
+
+				<div class="sailthru_form_input form-group">
+					<label class="visuallyhidden sailthru-widget-label E32CB">E32CB</label> <input type="text" placeholder="E32CB" name="E32CB" value="" class="sailthru_E32CB" />
+				</div>
+				
+				<input type="hidden" name="sailthru_nonce" value="49d519e2fb" />
+				<input type="hidden" name="sailthru_email_list" value="Newsletters,Fundraising_Emails,Sponsored_Emails" />
+				<input type="hidden" name="action" value="add_subscriber" />
+				<input type="hidden" name="source" value="ExitIntent_V4" />
+				<input type="hidden" name="lo_event_name" value="" />
+				<input type="hidden" name="reset_optout_status" value="" />
+				<input type="hidden" name="hide_title_status" value="" />
+				<input type="hidden" name="site_key" value="6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD" id="siteKey" />
+				<input type="hidden" name="captcha_token" value="" id="sailthruToken" />
+				<input type="hidden" name="email" value="" autocomplete="off" />
+				<input type="submit" name="commit" value="Sign Up" />
+		</form></div></div> <script src="https://www.google.com/recaptcha/api.js?render=6LcY49YZAAAAACUVFagnDa8fHQY-ZFtc7_W0SBLD"></script></div>
+</section>
+
+	</div>
+</div>
+<script type="text/javascript" src="https://www.motherjones.com/_static/??-eJyNzUEOgkAMheELORQ0hLgwngWZisVOS9oZDbd34soVcd3vf4X3GkgmLhEdFodInuGFEtWgnlbl7U7M1aDlJpE0ix9gJzKcsdoxqwUrkinhP9nPr13+UH36r5hUMkqGVMLKZSbx79ZojryFU9O1cCvEEVjHiFaza7p0Q9t2fX8+DssHodVd9A==" ></script><script type="text/javascript" data-parsely-site="motherjones.com" src="https://cdn.parsely.com/keys/motherjones.com/p.js?ver=3.10.0" id="parsely-cfg"></script>
+<script type="text/javascript" src="https://www.motherjones.com/wp-content/themes/motherjones/js/ads.min.js?ver=0.4.4" id="ad_block_check-js"></script>
+<script type="text/javascript" id="in-content-promo-code-js-extra">
+/* <![CDATA[ */
+var mj_ad_config = {"desktop":["<!-- Tag ID: motherjones_incontent_leaderboard_1 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_1\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_1\",\n                        slotId: \"Incontent_970x250_1\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_2 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_2\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_2\",\n                        slotId: \"Incontent_970x250_2\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_3 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_3\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_3\",\n                        slotId: \"Incontent_970x250_3\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_4 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_4\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_4\",\n                        slotId: \"Incontent_970x250_4\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_5 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_5\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_5\",\n                        slotId: \"Incontent_970x250_5\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_6 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_6\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_6\",\n                        slotId: \"Incontent_970x250_6\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_7 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_7\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_7\",\n                        slotId: \"Incontent_970x250_7\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_8 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_8\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_8\",\n                        slotId: \"Incontent_970x250_8\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_leaderboard_9 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_9\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_leaderboard_9\",\n                        slotId: \"Incontent_970x250_9\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: Incontent_970x250_10 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__970x250 __970x90 __728x90 __1060x520\"\n                id=\"Incontent_970x250_10\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"Incontent_970x250_10\",\n                        slotId: \"Incontent_970x250_10\"\n                    });\n                <\/script>\n            <\/div>"],"mobile":["<!-- Tag ID: motherjones_incontent_medrec_1 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_1\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_1\",\n                        slotId: \"Incontent_300x250_1\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_2 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_2\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_2\",\n                        slotId: \"Incontent_300x250_2\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_3 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_3\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_3\",\n                        slotId: \"Incontent_300x250_3\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_4 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_4\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_4\",\n                        slotId: \"Incontent_300x250_4\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_5 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_5\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_5\",\n                        slotId: \"Incontent_300x250_5\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_6 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_6\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_6\",\n                        slotId: \"Incontent_300x250_6\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_7 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_7\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_7\",\n                        slotId: \"Incontent_300x250_7\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_8 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_8\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_8\",\n                        slotId: \"Incontent_300x250_8\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: motherjones_incontent_medrec_9 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_9\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_incontent_medrec_9\",\n                        slotId: \"Incontent_300x250_9\"\n                    });\n                <\/script>\n            <\/div>","<!-- Tag ID: Incontent_300x250_10 -->\n            <div align=\"center\" \n                data-freestar-ad=\"__300x250 __300x100 __320x100 __300x50 __320x50\"\n                id=\"Incontent_300x250_10\">\n                <script data-cfasync=\"false\" type=\"text\/javascript\">\n                    freestar.config.enabled_slots.push({ \n                        placementName: \"Incontent_300x250_10\",\n                        slotId: \"Incontent_300x250_10\"\n                    });\n                <\/script>\n            <\/div>"],"is_fullwidth":""};
+/* ]]> */
+</script>
+<script type="text/javascript" id="membership_check-js-extra">
+/* <![CDATA[ */
+var campaign_start_time = {"value":"1665126000000"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="mj-adhesion-js-extra">
+/* <![CDATA[ */
+var mj_adhesion_config = {"is_single":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="overlay-script-js-extra">
+/* <![CDATA[ */
+var overlay_codes = {"overlay_code":"<div id=\"overlay-ad-bg\" class=\"hidden\"><div class=\"overlay-ad-wrapper\"><p class=\"overlay-ad-aux\"><span class=\"ad-label\">Advertisement<\/span><span class=\"close\">Close X<\/span><\/p><!-- Tag ID: motherjones_overlay -->\n            <div id=\"Overlay\">\n                \n                    freestar.config.enabled_slots.push({ \n                        placementName: \"motherjones_overlay\",\n                        slotId: \"Overlay\"\n                    });\n                \n            <\/div><\/div><\/div>","mobile_overlay_on":"mobile_overlay_on"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="exit_intent-js-extra">
+/* <![CDATA[ */
+var mj_exit_intent_config = {"is_user_logged_in":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.motherjones.com/_static/??-eJyV0cEOgjAMgOEXcgwOaDwYn2WMyjbXlrQL6tu7mHB23Nrk/9JD7Ws1nqkAFVsCIKhFroMkpjontQ/mAtJhpC7pyf7tMZniZIESaWlXkfbArMLIdZvh0FEEnEA0xNoG8M9D2M0BNDK1I95Asvu0A3jHYuKvaEfkNqPgxId2o1445xqhmdz+uDvehkvfD+M4XM/pCzbwvGI=" ></script><script type="text/javascript" src="https://static.scroll.com/js/scroll.js?ver=0.4.4" id="scroll-com-js"></script>
+<script type="text/javascript" id="single-js-extra">
+/* <![CDATA[ */
+var mj_comment_config = {"storyID":"1023581","storyURL":"https:\/\/www.motherjones.com\/?p=1023581#comment-container","root_URL":"motherjones.coral.coralproject.net","static_URL":"motherjones.coral.coralproject.net"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.motherjones.com/_static/??-eJyVyzEOgCAMheELCY0DRAbjWYipCqGFUNTry+BuXF7+4X1wF7VmbsgN2oGEApR71Ji5dxSQwHtCTYF1lAE+/xWlZJZwoQpb9fSDnjWp4rvpK/K6hebROuuMmSYbHzTtQUk=" ></script><script defer type="text/javascript" src="https://stats.wp.com/e-202346.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'130213978',post:'1023581',tz:'-5',srv:'www.motherjones.com',hp:'vip',j:'1:12.8.1'} ]);
+_stq.push([ "clickTrackerInit", "130213978", "1023581" ]);
+/* ]]> */
+</script>
+
+
+</body>
+</html>

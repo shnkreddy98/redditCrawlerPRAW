@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chipping Away at the Right to Strike - Dissent Magazine</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="norton-safeweb-site-verification" content="jp8eq9wcf3j69a1j8nsb0a1kip1twtirsdpm33x5-q2cxh8qn9vl8egi0x6bq8cnvwxycgskx2txfd93y53yuln98nfzoz2tc7ta2ogt82z6olmgnz5ydwnn2q7jxuc0" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Chipping Away at the Right to Strike - Dissent Magazine" />
+	<meta property="og:description" content="Glacier v. Teamsters was not a crisis averted but another step in the right’s plan to stifle labor power." />
+	<meta property="og:url" content="https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/" />
+	<meta property="og:site_name" content="Dissent Magazine" />
+	<meta property="article:publisher" content="https://www.facebook.com/dissentmag" />
+	<meta property="article:modified_time" content="2023-10-09T12:55:19+00:00" />
+	<meta property="og:image" content="https://www.dissentmagazine.org/wp-content/uploads/1200dubal-jpeg.webp" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="640" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/1024dubal-jpeg.webp?fit=1024%2C515&ssl=1" />
+	<meta name="twitter:site" content="@dissentmag" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="12 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/","url":"https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/","name":"Chipping Away at the Right to Strike - Dissent Magazine","isPartOf":{"@id":"https://www.dissentmagazine.org/#website"},"datePublished":"2023-10-05T13:11:44+00:00","dateModified":"2023-10-09T12:55:19+00:00","breadcrumb":{"@id":"https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dissentmagazine.org/"},{"@type":"ListItem","position":2,"name":"Article","item":"https://www.dissentmagazine.org/article/"},{"@type":"ListItem","position":3,"name":"Chipping Away at the Right to Strike"}]},{"@type":"WebSite","@id":"https://www.dissentmagazine.org/#website","url":"https://www.dissentmagazine.org/","name":"Dissent Magazine","description":"An independent quarterly magazine, publishing some of America&#039;s most exciting long-form political and cultural criticism since 1954.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dissentmagazine.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.typotheque.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.19 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-VYQ4ZKSKCR"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.19';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-VYQ4ZKSKCR',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-VYQ4ZKSKCR', {"forceSSL":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dissentmagazine.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.4"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css">
+.powerpress_player .wp-audio-shortcode { max-width: 435px; }
+</style>
+<link rel='stylesheet' id='materialize-css' href='https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/styles/materialize.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dissent-css' href='https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/styles/dissent.css' type='text/css' media='all' />
+<link rel='stylesheet' id='web-fonts-css' href='//fonts.typotheque.com/WF-012646-007580.css' type='text/css' media='all' />
+<link rel='stylesheet' id='materialize-font-css' href='https://fonts.googleapis.com/icon?family=Material+Icons' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.1.4/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1.4/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1.4/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1.4/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://www.dissentmagazine.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<style id='dominant-color-styles-inline-css' type='text/css'>
+img[data-dominant-color]:not(.has-transparency) { background-color: var(--dominant-color); }
+</style>
+<link rel='stylesheet' id='addtoany-css' href='https://www.dissentmagazine.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+.a2a_svg, .a2a_count { border-radius: 0 !important; }
+</style>
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/12.0.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.19' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.dissentmagazine.org","hash_tracking":"false","v4_id":"G-VYQ4ZKSKCR"};/* ]]> */
+</script>
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color = "black";
+a2a_config.templates.twitter = "${title} ${link} via @DissentMag";
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' async src='https://www.dissentmagazine.org/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<link rel="https://api.w.org/" href="https://www.dissentmagazine.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dissentmagazine.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dissentmagazine.org/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.4" />
+<link rel='shortlink' href='https://www.dissentmagazine.org/?p=83678' />
+<link rel="alternate" type="application/json+oembed" href="https://www.dissentmagazine.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fchipping-away-at-the-right-to-strike%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.dissentmagazine.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fchipping-away-at-the-right-to-strike%2F&#038;format=xml" />
+<script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.dissentmagazine.org') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\'' + all_links.href.replace(/'/g, '') + '\', \'_blank\', \'noopener\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+
+<meta name="generator" content="Performance Lab 2.2.0; modules: images/dominant-color-images, images/fetchpriority, images/webp-support, images/webp-uploads">
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.dissentmagazine.org/?wordfence_lh=1&hid=9D2539B167AC584198AAE25625E6B904');
+</script>	<style>img#wpstats{display:none}</style>
+					<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		  
+
+  
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Put the following javascript before the closing </head> tag. -->
+<script>
+  (function() {
+    var cx = '002782977905511017341:ituh9bp54dw';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '552845971584446', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=552845971584446&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+</head>
+<body class="article-template-default single single-article postid-83678 single-author singular two-column right-sidebar">
+
+<div class="container">
+<!--back to top loader    -->
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+<header id="header">
+        
+        
+  <hgroup class="clearfix">
+     
+   
+   <nav class="top-nav  navgrad">
+   <div class="nav-wrapper">
+   
+      <a href="/" class="hide-on-med-and-down brand-logo">
+        <img class="dissent-logo" src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/images/logo-dissent-200.png" alt="Dissent" />
+      </a>
+        <a href="/" class="hide-on-large-only brnad-logo right">
+        <img class="dissent-logo responsive-img" src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/images/logo-dissent-200.png" alt="Dissent" />
+      </a>
+   <div class="plain">
+       <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a> </div>
+    
+      
+      <ul class="text-right right inline navigationd actions horizontal black-text plain-links hide-on-med-and-down">
+         <!-- mfunc subsmenu -->
+                  <li><a href="/login" id="login_button">Login</a></li>
+                  <!-- /mfunc subsmenu -->
+        <li><a href="/about-dissent-magazine">About Us</a></li>
+        <li>
+          <form id="search-bar" name="input" action="/search" method="get">
+            <input type="text" name="q" value="Search" />
+          </form>
+        </li>
+       </ul>
+
+      <ul class="inline black-text right hide-on-med-and-down navigationd primary horizontal bold plain-links">
+        <li><a class="nav-link" title="Dissent Magazine" href="/issue">Magazine</a></li>
+        <li><a class="nav-link" title="Online Articles" href="/online-articles">Online</a></li>
+        <li><a class="nav-link" title="Blog" href="/blog">Blog</a></li>
+        <li><a href="/category/podcast">Podcasts</a></li>
+        <li><a href="/events">Events</a></li>
+        <li><a class="nav-link" title="Support" href="/donate">Donate</a></li>
+          <!-- mfunc subsmenu -->
+                <li><a class="nav-link" title="Subscribe" href="https://www.ezsubscription.com/dis/subscribe">Subscribe</a></li>
+                   <!-- /mfunc subsmenu -->
+          <li><a class="nav-link" title="Store" href="/store">Store</a></li>
+       </ul>
+
+        
+        </div>
+              </nav>
+  </hgroup>
+</header>
+    
+   <ul id="slide-out" class="plain side-nav">
+       <br>
+
+     
+     
+         <li class="center-align"><h1>Fall 2023</h1><a href="https://www.dissentmagazine.org/issue/fall-2023" class="logomenu"><img class="image responsive-img" src="https://www.dissentmagazine.org/wp-content/files_mf/1693323648350x500cover.png" alt="Fall 2023" width="350" height="500" /></a></li>           <!-- mfunc subsmenu -->
+             <li><a class="nav-link" title="Subscribe" href="https://www.ezsubscription.com/dis/subscribe">Subscribe</a></li>
+               <!-- /mfunc subsmenu -->
+        <li><form  class="center-align" id="search-bar" name="input" action="/search" method="get">
+            <input type="text" name="q" value="Search" />
+          </form></li>
+        <li><a class="nav-link" title="Dissent Magazine" href="/issue">Magazine</a></li>
+        <li><a class="nav-link" title="Online Articles" href="/online-articles">Online</a></li>
+        <li><a class="nav-link" title="Blog" href="/blog">Blog</a></li>
+        <li><a href="/category/podcast">Podcasts</a></li>
+        <li><a href="/events">Events</a></li>
+       <li><a class="nav-link" title="Store" href="/store">Store</a></li>
+             
+        <li ><a class="side-nav-smaller"  href="/login" id="login_button">Login</a></li>
+              <li><a class="side-nav-smaller" href="/about-dissent-magazine">About Us</a></li>
+       <li><a class="side-nav-smaller" href="/donate">Donate</a></li>
+       <li><a class="side-nav-smaller" href="/about-dissent-magazine/contact">Contact</a></li>
+       <li><a class="side-nav-smaller" href="/about-dissent-magazine/advertising">Advertise</a></li>
+       <li><a class="side-nav-smaller" href="/newsletter">Newsletter</a></li>
+             <!-- mfunc subsmenu -->
+                  <!-- /mfunc subsmenu -->
+       <li><br /></li>
+       
+       
+        
+  </ul>
+  
+
+<!-- Single: article; -->
+<section id="article" class="single">
+    <div class="row"><article class="col s12 l8">
+    <header>
+        <h1 class="hide-on-small-only flow-text">
+        Chipping Away at the Right to Strike        </h1>
+        <h2 class="hide-on-med-and-up flow-text">
+        Chipping Away at the Right to Strike        </h2>
+                <div class="excerpt-tag"> <p><i>Glacier v. Teamsters</i> was not a crisis averted but another step in the right’s plan to stifle labor power. </p>
+</div>
+      
+      <aside class="article-meta">
+          <a href="https://www.dissentmagazine.org/author/veena-dubal/" title="Posts by Veena Dubal" class="author url fn" rel="author">Veena Dubal</a> &squarf; <a href="https://www.dissentmagazine.org/issue/fall-2023/">Fall 2023</a>      </aside>
+
+      <figure class="article-image">
+        <img src="https://www.dissentmagazine.org/wp-content/files_mf/1693246913666dubal.jpeg"/>
+                  <figcaption class="article-image-caption">
+            Supreme Court justices pose for a photo on October 7, 2022. (Olivier Douliery/AFP)          </figcaption>
+              </figure>
+    </header>
+
+  <p><span>On June 1, the Supreme Court issued a significant decision against the labor movement in <i>Glacier Northwest v. Teamsters Local Union No. 174</i>. In an 8–1 split, the Court found that the National Labor Relations Act does not protect striking cement truck drivers from being sued by their employer, who alleges damages for lost cement caused by their work stoppage. </span></p>
+<p><span>The decision, perhaps by design, has received little public outcry. Some in labor, who had anticipated a worse outcome, even expressed relief. On June 1, SEIU International President Mary Kay Henry </span><span><a href="https://twitter.com/MaryKayHenry/status/1664290177336877059?s=20">tweeted</a></span>, “We are pleased that today’s decision . . . doesn’t change labor law and leaves the right to strike intact.”</p>
+<p>But the right to strike is not intact in the United States, and arguably, it never has been. Railway and airline workers, for example, must exhaust lengthy and complicated negotiations and mediations before they can engage in a legally protected strike. Other workers, including public sector, agricultural, and domestic workers, as well as independent contractors, have no federally protected right to strike at all. For the private-sector workers who are covered by the National Labor Relations Act, Congress and the courts have, over time, narrowed what constitutes “protected concerted activity.” Some of the most powerful on-the-job tools that workers can use to exert coordinated power in an oppressive workplace—including intermittent strikes, partial strikes, and slowdown strikes—have all been deemed unlawful. Further, federal law bans secondary boycotts, making solidarity actions illegal.</p>
+<p>Recently, stringent legal restrictions on the right to strike have proliferated across the globe. In 2022, strikes were severely restricted or banned in 129 of the 148 countries the International Trade Union Confederation measures—a 24 percent increase since 2014. These attacks on the right to strike have been largely procedural, blunting the public’s understanding and response to these draconian shifts. In 2020, during the longest and largest farmworker uprising in India’s modern history, Prime Minister Narendra Modi’s far-right political party, the BJP, passed <span><a href="https://www.thehindu.com/news/national/the-hindu-explains-what-does-the-new-industrial-relations-code-say-and-how-does-it-affect-the-right-to-strike/article61723538.ece">an industrial-relations code</a></span> that requires workers to provide fourteen days’ notice before a strike, giving employers the opportunity to blunt the effects of the action. In January of this year, following a series of industrial disputes, the UK’s Conservative government introduced <span><a href="https://bills.parliament.uk/bills/3396">the Strikes Bill</a></span>, which aims to mandate that “essential” sectors (broadly interpreted) have minimum service levels during a strike, making it impossible for many workers to stop work and diminishing their power.</p>
+<p>The <i>Glacier Northwest </i>decision is part of this pattern of legal attacks on collective work stoppages. And we should understand it as the first move in an attempt to hobble the strike power of U.S. workers even further. As with the destruction of other fundamental rights (including abortion), an effective ban on the right to strike could take place over time, through the cultivation of a legal culture in which workers—and courts—become accustomed to more draconian strike restrictions. But only if we let it.</p>
+<p>Seeing the decision in <i>Glacier Northwest</i> as a preview of judicial attacks against workers to come allows us to mobilize against any further erosion of labor power—and the critical leverage that strike power gives us over democracy and racial and economic inequality. But to understand the current relationship between labor power and labor law, we must understand the complexities of the 8–1 decision and what it portends.<br />
+<div style="margin-top:24px;">&nbsp;</div></p>
+<p>The basic facts are simple. On July 31, 2017, the contract between Teamsters Local 174 and the cement company Glacier Northwest expired. During negotiations with the union to establish a new contract, Glacier Northwest unilaterally rejected workers’ proposals without explanation and refused to provide information that was necessary for negotiations. Less than two weeks after their contract expired, the union called a strike. After this work stoppage—which lasted a week—the Teamsters won a four-year contract with record-setting wages.</p>
+<p>In response to the strike itself, and perhaps to undermine future union militancy, Glacier sent disciplinary letters to some of the striking drivers. The Teamsters alleged this was unlawful retaliation for legally protected strike activity. Glacier Northwest also filed a complaint in Washington state court alleging that the union had, among other things, intentionally destroyed its property by orchestrating the strike during the middle of a shift, when some of the trucks contained wet concrete. The union, meanwhile, maintained that the cyclical nature of concrete delivery (drivers deliver three to six loads of concrete during each shift) meant that at any given time during a work day, some drivers would be returning with empty trucks, some would be waiting to have their trucks loaded, and some would have trucks full of cement.</p>
+<p>The union claimed that they instructed workers with loaded trucks to return the trucks to Glacier Northwest with their cylinders running to avoid damaging the trucks with hardening concrete. The drivers did so. Upon removal, the concrete dried and became useless. The trucks were not damaged; still, Glacier Northwest alleged, they <i>could </i>have been.</p>
+<p>Strikes are only as effective as they are strategic. When withdrawing labor, a collective of workers wants to create a crisis so that the employer will be incentivized to meet their demands—and do so swiftly. <i>Glacier Northwest</i> is ultimately about whether employees (here, concrete truck drivers working for a concrete trucking company) can legally strike when doing so risks damaging their employers’ property. But strikes <i>always </i>risk damage to an employers’ property, broadly construed. That is the point: to create an economic emergency that forces capital to heed workers’ demands. In her masterful, sole dissent to the Supreme Court’s decision, Justice Ketanji Brown Jackson put it succinctly: the “right to strike inherently includes the right to impose economic harm on [the] employer.” This often means timing strikes when the employer has the most to lose.</p>
+<p>U.S. labor law has long had strict rules against damaging employers’ property, even preceding the <i>Glacier Northwest</i> decision. Workers cannot seize property or affirmatively destroy it by, for example, taking over a plant or lighting its contents on fire. The National Labor Relations Board, the independent agency tasked with adjudicating the National Labor Relations Act, has developed a narrow requirement for strike activity to be considered lawful if it results in property destruction: “striking employees must take <i>reasonable precautions</i> before or when they strike in order to forestall or address foreseeable, imminent, and aggravated injury to persons, premises, and equipment that might otherwise be caused by their sudden cessation of work.”</p>
+<p>But who decides what counts as “reasonable”? In a 1959 case known as <i>San Diego Building Trades Council v. Garmon</i>, the Supreme Court clarified that the NLRA preempts state law when the two conflict. In practice, this means that a state court presented with a lawsuit in which an employer alleges civil damages for property destruction caused by strike activity must pause proceedings so the NLRB can determine whether the union’s conduct is “arguably protected” by the NLRA and therefore lawful. The NLRB then conducts a fact-intensive inquiry: did the striking employees take reasonable precautions to prevent, say, the destruction of cement? If they did, the lawsuit generally does not move forward. For years, <i>Garmon</i> staved off union liability for employer’s claims alleging damages for economic loss caused by strikes.</p>
+<p>In <i>Glacier Northwest</i>, though the Court did not formally overturn <i>Garmon</i>, as many feared it would, it did something almost as sinister: it did not wait for a decision from the NLRB, which at the time of writing was also examining the challenged strike conduct “with the benefit of developed facts and labor law expertise,” as Justice Jackson put it. Instead, it applied the employer’s allegations (some of which the union contested) to the “reasonable precautions” analysis. The majority found that the timing of the strike, the lack of notice (which is not required by the NLRA, except in healthcare), the perishable nature of concrete and its ability to destroy the trucks when hardened together suggested that the union did not take “reasonable precautions,” and so the workers’ strike conduct could be unprotected and their union sued. In doing so, the court did not just make it more complicated for workers in industries with perishable goods to call a strike; it also undermined the administrative authority of the NLRB—and perhaps invited lower courts to do the same.<br />
+<div style="margin-top:24px;">&nbsp;</div></p>
+<p>This decision is a stabbing wound that will infect the right to strike in the years to come, resulting in lengthy, costly litigation for workers and their unions in state courts. And it’s not the last time this conservative Supreme Court will rule on cases related to labor power. Indeed, Justice Samuel Alito, in a concurring opinion (in which he was joined by Justices Clarence Thomas and Neil Gorsuch) put forth a roadmap effectively inviting the Chamber of Commerce to orchestrate another Supreme Court appeal in which they would overturn <i>Garmon</i> entirely by allowing employers to sue unions for economic harm caused by strike activity. In a footnote responding to Jackson’s dissent, Alito threatened that if the Washington state court responds to the Supreme Court decision by dismissing Glacier Northwest’s lawsuit, “the decision<span dir="RTL"></span><span dir="RTL"></span><span lang="AR-YE" dir="RTL"><span dir="RTL"></span><span dir="RTL"></span> . . . </span>would be a good candidate for a quick return trip here.” And under the right circumstances, Alito indicated, the Court would allow employers to sue unions for economic damages caused by strikes, all but crippling strike protections.</p>
+<p>Glacier Northwest thus contains the juridical seeds of the demise of the right to strike in the United States. It is troubling that the majority opinion, written by Justice Amy Coney Barrett, was also signed by two of the three liberal-leaning justices, Sonia Sotomayor and Elena Kagan, who judicial observers had predicted would vote in favor of the union. Some analysts, tacitly acknowledging the inherently political nature of the Court, have argued that Kagan and Sotomayor’s votes constituted a “<span><a href="https://www.vox.com/scotus/2023/6/1/23745372/supreme-court-unions-labor-strike-glacier-northwest-teamsters-amy-coney-barrett">brokered compromise</a></span>,” which prevented Alito and Thomas from getting five votes to overturn Garmon entirely. But by signing on to the majority opinion without comment, the two justices lent their significant weight to a challenge of the authority of a critical administrative agency. Furthermore, their signatures make the truth much less obvious: this decision undercuts the already limited right of workers to collectively withhold their labor.</p>
+<p>Though the Supreme Court’s hierarchical culture often inhibits new justices from authoring solo dissents early in their career on the bench, Jackson—the first African American woman to serve on the Court—did not mince words in holding her colleagues to account for their poor analysis. “Today,” she wrote, “the Court falters.” Employing <span><a href="https://www.nytimes.com/2023/07/07/us/supreme-court-ketanji-brown-jackson.html">progressive originalism</a></span>, Jackson offered a powerful overview of the purpose of the National Labor Relations Act and the preemption doctrine, noting that the right to strike is “fundamental.” She chided her fellow justices for their break from precedent and strategic disregard for basic facts in the case, and emphasized that the majority opinion “inappropriately weigh[s] in on the merits” of questions better left to the NLRB and then “misapplies the Board’s cases” to make their decision. By effectively expanding the duty of the union to protect Glacier’s property, she argued, the majority view “places a significant burden on the employees’ exercise of their statutory right to strike.” Perhaps most important, Jackson—more than once—highlighted the critical importance of work stoppages to economic dignity. Without the right to withhold their collective labor at will, workers are, she wrote, unfree “indentured servants.” In this way, Jackson’s dissent reminds us of something that <span><a href="https://labornotes.org/2022/02/heres-whats-new-bill-jointly-backed-uber-and-teamsters-washington-state">some in organized labor</a></span><span> seem to</span> have forgotten: the right to strike is central to labor’s power.<br />
+<div style="margin-top:24px;">&nbsp;</div></p>
+<p>Some unionists have raised concerns that sounding the alarm over Glacier could make workers more reticent to strike. But these anxieties ignore workers’ historic bravery. When fighting for their lives, families, and communities, they have withstood the dangers of the law and how it limits their collective activity. Before the passage of the NLRA, during the Great Depression, U.S. workers engaged in widespread strike activity, despite the use of injunctions and police to deter and criminalize them and their unions. From mostly white coal miners in Harlan, Kentucky, to immigrant women cannery workers in California’s Santa Clara Valley, the 1930s saw some 27,000 work stoppages. Some workers—including an unknown number of miners—lost their lives at the hands of state police and private mercenaries acting on behalf of the bosses.</p>
+<p>Though the United States has tragically seen a large-scale decline in labor power since the 1980s, workers today are more militant and mobilized than they have been in some time. According to the Economic Policy Institute, U.S. strike activity <span><a href="https://www.epi.org/publication/2022-work-stoppages/">increased by nearly 50 percent last year</a></span>—even as the percentage of workers represented by a union <span><a href="https://www.bls.gov/news.release/pdf/union2.pdf">dropped one-third of a percentage point</a></span>. Even without the financial support and expertise of established unions, workers are banding together and standing with their coworkers who experience unlawful retaliation. Glacier must be understood as part of a backlash to this bold activity.</p>
+<p>What if we see this moment as a crisis, one with global, even existential, implications? If we take the decision for what it is—an attempt to chip away at the right to strike until it becomes unrecognizable as a right at all—we can strategize to combat it. This means not only clearly understanding the threat, but also elucidating the ways in which strikes are integral to democratic formations—both at work and in the broader polity. The right to strike is not just a tool of the workplace, but a tool that the working class can use to fight economic and<i> </i>political authoritarianism.</p>
+<p>The right to strike, as a manifestation of collective solidarity, is central to creating and wielding countervailing power to concentrations of wealth, racialized inequality, and anti-democratic governance. We don’t have control over the litigation plans of the Chamber of Commerce or the decisions of the Supreme Court, but we can grow public knowledge, self-determination, and power within our communities. As Sean O’Brien, the reformist president of the Teamsters, put it clearly, “[<i>Glacier</i>] is simply one more reminder that the . . . people cannot rely on their government or their courts to protect them . . . We must rely on each other. We must engage in organized, collective action. We can only rely on the protections inherent in the power of our unions.”</p>
+<p>Like brother O’Brien, I am not confident that workers will find their power in statutes or legal decisions in the coming years. But rights do not make strikes possible, though they make them easier. Some of the most effective strike activity of late has been unlawful strikes, including the wildcat strikes of public-sector teachers in 2018 and the University of California graduate student strikes in 2020. In these instances, labor law has lurked in the background, but has not destabilized workers’ commitment to wield their collective power against injustice. As we consider what to do in response to <i>Glacier Northwest </i>and the international wave of attacks on labor, one thing is clear: militant organizing, in which strikes are recognized as essential to class power, must be central to our movement.</p>
+<hr />
+<p><strong>Veena Dubal</strong> is a Professor of Law and (by courtesy) of Anthropology at the University of California, Irvine.<span></span></p>
+<div class='yarpp yarpp-related yarpp-related-website yarpp-template-yarpp-template-dissent'>
+
+
+<fieldset><legend><h3>Read Next</h3></legend>
+<ul>
+		<h4><a href="https://www.dissentmagazine.org/article/structure-and-solidarity/" rel="bookmark norewrite" title="Structure and Solidarity" >Structure and Solidarity</a></h4>
+	<div class="article-meta">
+      <span class="author">
+          <a href="https://www.dissentmagazine.org/author/leocasey/" title="Posts by Leo Casey" class="author url fn" rel="author">Leo Casey</a>        </span>
+       &squarf; <a href="https://www.dissentmagazine.org/issue/spring-2023/">Spring 2023</a>              
+    </div>
+	<p>Lasting labor victories depend on coordinating diverse strategies and building the relationships to sustain them.</p>
+	<br>
+
+		<h4><a href="https://www.dissentmagazine.org/article/our-segregation-problem/" rel="bookmark norewrite" title="Our Segregation Problem" >Our Segregation Problem</a></h4>
+	<div class="article-meta">
+      <span class="author">
+          <a href="https://www.dissentmagazine.org/author/aziz-rana/" title="Posts by Aziz Rana" class="author url fn" rel="author">Aziz Rana</a>        </span>
+       &squarf; <a href="https://www.dissentmagazine.org/issue/fall-2022/">Fall 2022</a>              
+    </div>
+	<p>Throughout the United States, racial separation remains a common feature of collective life. The consequences are significant for left political organizing aimed at building a multiracial working-class majority.</p>
+	<br>
+
+		<h4><a href="https://www.dissentmagazine.org/article/from-the-ashes-of-the-old-a-new-deal-for-wildland-firefighters/" rel="bookmark norewrite" title="From the Ashes of the Old: A New Deal for Wildland Firefighters" >From the Ashes of the Old: A New Deal for Wildland Firefighters</a></h4>
+	<div class="article-meta">
+      <span class="author">
+          <a href="https://www.dissentmagazine.org/author/danielboguslaw/" title="Posts by Daniel Boguslaw" class="author url fn" rel="author">Daniel Boguslaw</a>        </span>
+       &squarf; <a href="https://www.dissentmagazine.org/issue/spring-2021/">Spring 2021</a>              
+    </div>
+	<p>A massive overhaul and expansion of the wildland workforce is the best hope we have to confront the firestorm that threatens to engulf the West Coast.</p>
+	<br>
+
+		</ul></fieldset>
+</div>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_40 addtoany_list" data-a2a-url="https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/" data-a2a-title="Chipping Away at the Right to Strike"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fchipping-away-at-the-right-to-strike%2F&amp;linkname=Chipping%20Away%20at%20the%20Right%20to%20Strike" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fchipping-away-at-the-right-to-strike%2F&amp;linkname=Chipping%20Away%20at%20the%20Right%20to%20Strike" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fchipping-away-at-the-right-to-strike%2F&amp;linkname=Chipping%20Away%20at%20the%20Right%20to%20Strike" title="Email" rel="nofollow noopener" target="_blank"></a></div></div>  
+
+    <footer>
+<!--
+      <div class="social">
+        <div class="fb-share-button"  data-href="https://www.dissentmagazine.org/article/chipping-away-at-the-right-to-strike/" data-send="false" data-layout="button" data-width="100" data-show-faces="false"></div>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="dissentmag" data-related="dissentmag">Tweet</a>
+        <g:plusone size="medium" count="false"></g:plusone>
+      </div>
+-->
+    </footer>
+      </article>
+
+  
+ <div class="col hide-on-med-and-down l4">
+  <div class="sidebar">
+<div class="hidden">New issue and subscribe button</div><div class="textwidget custom-html-widget">		<div class="issue_subscribe">
+			<div class="issue_image"><a href="https://www.dissentmagazine.org/issue/fall-2023"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/files_mf/1693323648350x500cover.png?w=240&#038;ssl=1" alt="Fall 2023" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/files_mf/1693323648350x500cover.png?w=240&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/files_mf/1693323648350x500cover.png?w=240&#038;ssl=1" alt="Fall 2023" data-recalc-dims="1" /></noscript></a></div>
+<br>
+			<a href="https://www.dissentmagazine.org/subscribe?src=sidebar-text" id="subscribe_link"><h3 style="margin-top:-10px;">Subscribe</h3></a>
+		</div>
+</div><div class="hidden">Social media buttons &#8212; updated</div><div class="textwidget custom-html-widget"><div style="margin-top:-8px">
+<table width="240" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="left"><a href="https://www.facebook.com/dissentmag" target="_blank" rel="noopener"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/fb-logo-black-square.png?w=55" alt="Facebook" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/fb-logo-black-square.png?w=55&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/fb-logo-black-square.png?w=55" alt="Facebook" px" data-recalc-dims="1" /></noscript></a></td>
+
+<td align="center"><a href="https://twitter.com/DissentMag" target="_blank" rel="noopener"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/twitter-logo-black-square.png?w=55" alt="Facebook" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/twitter-logo-black-square.png?w=55&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/twitter-logo-black-square.png?w=55" alt="Facebook" px" data-recalc-dims="1" /></noscript></a></td>
+
+<td align="center"><a href="https://www.instagram.com/dissentmag/" target="_blank" rel="noopener"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/images/ig_logo_black.png?w=55" alt="Instagram" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/images/ig_logo_black.png?w=55&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/images/ig_logo_black.png?w=55" alt="Instagram" px" data-recalc-dims="1" /></noscript></a></td>
+
+
+</tr></table>
+</div></div><div class="hidden">Newsletter</div><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.9.4 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-57366" method="post" data-id="57366" data-name="Sidebar newsletter signup" ><div class="mc4wp-form-fields">	<p style="font-size:10pt;margin-top:-20px;margin-bottom:10px">Sign up for the <em>Dissent</em> newsletter: </p>
+    
+	<input type="email" name="EMAIL" style="width:240px;margin-bottom:10px"  placeholder="Your email address" required />
+
+	<input type="submit" value="&rarr;  Subscribe" style="width:240px;color:white;background-color:black;margin-bottom:12px;text-align:right;" />
+
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1700355134" /><input type="hidden" name="_mc4wp_form_id" value="57366" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --><div class="hidden">sidebar ads</div><div class="textwidget custom-html-widget"><div style="padding-bottom:6px;margin-top:-18px;margin-bottom:40px;"><a href="https://www.cambridge.org/core/books/asian-americans-in-an-antiblack-world/E438F8D779BFFEEE3DB7D88C8194DC67?utm_source=DissentMag&utm_medium=banner&utm_campaign=PWE_Poli_A6_Advert_Dissent_August2023_AsianAmericans_Kim#fndtn-information" target="_blank" rel="noopener"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/3023_240x360_Asian-Americans-in-an-Anti-Black-World-jpg.webp?w=240&#038;ssl=1" alt="Claire Jean Kim book" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/3023_240x360_Asian-Americans-in-an-Anti-Black-World-jpg.webp?w=240&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/3023_240x360_Asian-Americans-in-an-Anti-Black-World-jpg.webp?w=240&#038;ssl=1" alt="Claire Jean Kim book" data-recalc-dims="1"  /></noscript></a></div>
+<div style="padding-bottom:6px;margin-top:-18px;margin-bottom:40px;"><a href="https://www.editingforscholars.com/" target="_blank" rel="noopener"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/240x360_EditingForScholars_V4_OPT-1.gif?w=240&#038;ssl=1" alt="Editing for Scholars" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/240x360_EditingForScholars_V4_OPT-1.gif?w=240&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/240x360_EditingForScholars_V4_OPT-1.gif?w=240&#038;ssl=1" alt="Editing for Scholars" data-recalc-dims="1"  /></noscript></a></div>
+<div style="padding-bottom:6px;margin-top:-18px;margin-bottom:40px;"><a href="https://www.press.uillinois.edu/books/?id=p087332" target="_blank" rel="noopener"><img src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/Dissent_Erlich-1-jpg.webp?w=240&#038;ssl=1" alt="Erlich book" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/Dissent_Erlich-1-jpg.webp?w=240&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i0.wp.com/www.dissentmagazine.org/wp-content/uploads/Dissent_Erlich-1-jpg.webp?w=240&#038;ssl=1" alt="Erlich book" data-recalc-dims="1"  /></noscript></a></div></div></div>
+</div>
+    <div class="col hide-on-large-only m12"> 
+    <br />
+               
+         </div>
+    </div>
+</section>
+<!-- [bc_random_banner] -->
+<!-- Banner Ad Code -->
+<!-- <p><a href="https://ezsubscription.com/dis/subscribe?key=DLARB"><img src="https://www.dissentmagazine.org/wp-content/uploads/LARBxDissent-billboard.png" alt="" width="666" height="172" class="alignnone wp-image-83820 size-full" /></a></p> -->
+
+<footer class="footer">
+  <div class="navigationd">
+    <ul>
+      <!--<li class="col_header">INFO</li>-->
+      <li><a href="/about-dissent-magazine">About</a></li>
+      <li><a href="/about-dissent-magazine/contact">Contact</a></li>
+      <li><a href="/about-dissent-magazine/advertising">Advertise</a></li>
+    </ul>
+  </div>
+
+  <div class="navigationd">
+    <ul>
+      <!--<li class="col_header">SERVICE</li>-->
+      <li><a href="/donate?src=page-footer">Donate</a></li>
+              <li><a  href="https://www.ezsubscription.com/dis/subscribe">Subscribe</a></li>
+        <!--      <li><a href="https://subscribe.dissentmagazine.org/settings?src=page-footer">My subscription</a></li>-->
+    </ul>
+  </div>
+
+  <div class="navigationd">
+    <ul>
+      <!--<li class="col_header">CONNECT</li>-->
+      <li><a href="https://www.facebook.com/dissentmag" target="_blank">Facebook</a></li>
+      <li><a href="https://twitter.com/dissentmag" target="_blank">Twitter</a></li>
+      <li><a href="http://bit.ly/dissent-newsletter" target="_blank">Newsletter</a></li>
+    </ul>
+  </div>
+
+  <aside class="copyright">
+    This website and its content &copy; Dissent Magazine 2023. All rights reserved.
+    <br />
+    <br />
+  </aside>
+</footer>
+
+</div>
+
+<script>window.jQuery || document.write('<script src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/javascript/min/jquery-local-min.js">\x3C/script>')</script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><link rel='stylesheet' id='yarppRelatedCss-css' href='https://www.dissentmagazine.org/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=5.30.3' type='text/css' media='all' />
+<script type='text/javascript' id='global-js-extra'>
+/* <![CDATA[ */
+var DM_Root = {"root_url":"https:\/\/www.dissentmagazine.org"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/javascript/global.js' id='global-js'></script>
+<script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors-Mobile/javascript/materialize.min.js' id='materializejs-js'></script>
+<script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/jetpack-boost/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false&#038;ver=132249e245926ae3e188' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/jetpack-boost/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&#038;ver=83ec8aa758f883d6da14' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/jetpack-boost/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=2e29137590434abf5fbe' id='jetpack-lazy-images-js'></script>
+<script type='text/javascript' defer src='https://www.dissentmagazine.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.4' id='mc4wp-forms-api-js'></script>
+	<script src='https://stats.wp.com/e-202346.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'91290765',post:'83678',tz:'-5',srv:'www.dissentmagazine.org',j:'1:12.0.1'} ]);
+		_stq.push([ 'clickTrackerInit', '91290765', '83678' ]);
+	</script>
+<div id="fb-root"></div>
+      
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=214067098624442";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<script> // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  //$('.collapsible').collapsible();
+        </script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<!-- <div class="donate-ad center-align show-on-medium-and-up "><a href="https://www.dissentmagazine.org/donate-general?src=footer-bar" target="_blank" class="waves-effect white-text pad-up center-align">Movements need ideas. And <i>Dissent</i> needs your support. <strong>Donate now.</strong> </a></div>
+<div class="donate-ad center-align hide-on-med-and-up"><a href="https://www.dissentmagazine.org/donate-general?src=footer-bar" target="_blank" class="waves-effect white-text pad-up center-align">Movements need ideas. <strong>Donate now.</strong> </a></div> -->
+
+</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 3851 objects (5 MB) from Redis using PhpRedis (v5.3.7).
+-->
+
+<!-- Dynamic page generated in 1.092 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-11-18 19:52:15 -->
+
+<!-- super cache -->

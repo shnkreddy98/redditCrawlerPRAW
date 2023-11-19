@@ -1,0 +1,419 @@
+<!DOCTYPE html><html lang=en-US prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# article: https://ogp.me/ns/article#"><head><style>img.lazy{min-height:1px}</style><link rel=preload href=https://cdn.internationalcbc.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js?x76502 as=script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel=icon href=https://cdn.internationalcbc.com/wp-content/uploads/2019/04/favicon.png sizes=any><link rel=apple-touch-icon href=https://cdn.internationalcbc.com/wp-content/uploads/2019/04/apple-touch-icon.png?x76502><meta name="wpsso-begin" content="wpsso meta tags and schema markup begin"><meta name="generator" content="WPSSO Core 16.4.0/L*"><meta name="generator" content="WPSSO WPSM 6.0.0/S"><meta name="generator" content="WPSSO UM 4.18.0/S"><link rel=shortlink href="https://internationalcbc.com/?p=55546"><meta property="fb:app_id" content="966242223397117"><meta property="og:locale" content="en_US"><meta property="og:site_name" content="International Cannabis Business Conference"><meta property="og:description" content="France&#039;s 2024 Social Security Financing Bill (PLFSS) will reportedly not include provisions to legalize medical cannabis nationwide due to a lack of support by the Macron administration."><meta property="og:updated_time" content="2023-10-01T17:02:57+00:00"><meta property="og:image" content="https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min.jpg?x76502"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="900"><meta property="og:image:alt" content="france flag"><meta name="twitter:domain" content="internationalcbc.com"><meta name="twitter:site" content="@IntlCBC"><meta name="twitter:title" content="French Medical Cannabis Legalization Is Not Expected In 2024"><meta name="twitter:description" content="France&#039;s 2024 Social Security Financing Bill (PLFSS) will reportedly not include provisions to legalize medical cannabis nationwide due to a lack of support by the Macron administration."><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-800x600.jpg?x76502&amp;p=55546"><meta name="twitter:image:alt" content="france flag"><meta name="twitter:label1" content="Written by"><meta name="twitter:data1" content="Hazel Norman"><meta name="twitter:label2" content="Est. reading time"><meta name="twitter:data2" content="2 minutes"><meta name="author" content="Hazel Norman"><meta name="thumbnail" content="https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-600x315-cropped.jpg?x76502"> <script type=application/ld+json id=wpsso-schema-json>{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@id": "/french-medical-cannabis-legalization-is-not-expected-in-2024/#sso/blog-posting/55546",
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "url": "https://internationalcbc.com/french-medical-cannabis-legalization-is-not-expected-in-2024/",
+            "sameAs": [
+                "https://internationalcbc.com/?p=55546"
+            ],
+            "name": "French Medical Cannabis Legalization Is Not Expected In 2024",
+            "description": "France&#039;s 2024 Social Security Financing Bill (PLFSS) will reportedly not include provisions to legalize medical cannabis nationwide due to a lack of support by the Macron administration.",
+            "image": [
+                {
+                    "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-1200x1200-cropped.jpg#sso/image-object"
+                },
+                {
+                    "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min.jpg#sso/image-object"
+                },
+                {
+                    "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-1200x675-cropped.jpg#sso/image-object"
+                }
+            ],
+            "publisher": [
+                {
+                    "@id": "/#sso/organization/site/org-banner-url"
+                }
+            ],
+            "headline": "French Medical Cannabis Legalization Is Not Expected In 2024",
+            "keywords": "France",
+            "inLanguage": "en_US",
+            "dateCreated": "2023-10-01T17:02:57+00:00",
+            "datePublished": "2023-10-01T17:02:57+00:00",
+            "dateModified": "2023-10-01T17:02:57+00:00",
+            "author": {
+                "@id": "/d92adafcce79bcc46d21f0b2550bd062#sso/person"
+            },
+            "thumbnailUrl": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-600x315-cropped.jpg?x76502",
+            "timeRequired": "PT2M",
+            "speakable": {
+                "@context": "https://schema.org",
+                "@type": "SpeakableSpecification",
+                "cssSelector": [
+                    ".wp-block-post-title",
+                    ".speakable"
+                ]
+            }
+        },
+        {
+            "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-1200x1200-cropped.jpg#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-1200x1200-cropped.jpg?x76502",
+            "identifier": "40109-wpsso-schema-1x1",
+            "name": "france flag &ndash; International Cannabis Business Conference",
+            "alternativeHeadline": "france flag",
+            "description": "france flag",
+            "encodingFormat": "image/jpeg",
+            "uploadDate": "2019-10-28T01:54:38+00:00",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-1200"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-1200"
+                }
+            ]
+        },
+        {
+            "@id": "#sso/qv-width-px-1200",
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "name": "Width",
+            "unitText": "px",
+            "unitCode": "E37",
+            "value": "1200"
+        },
+        {
+            "@id": "#sso/qv-height-px-1200",
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "name": "Height",
+            "unitText": "px",
+            "unitCode": "E37",
+            "value": "1200"
+        },
+        {
+            "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min.jpg#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min.jpg?x76502",
+            "identifier": "40109-wpsso-schema-4x3",
+            "name": "france flag &ndash; International Cannabis Business Conference",
+            "alternativeHeadline": "france flag",
+            "description": "france flag",
+            "encodingFormat": "image/jpeg",
+            "uploadDate": "2019-10-28T01:54:38+00:00",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-1200"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-900"
+                }
+            ]
+        },
+        {
+            "@id": "#sso/qv-height-px-900",
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "name": "Height",
+            "unitText": "px",
+            "unitCode": "E37",
+            "value": "900"
+        },
+        {
+            "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-1200x675-cropped.jpg#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min-1200x675-cropped.jpg?x76502",
+            "identifier": "40109-wpsso-schema-16x9",
+            "name": "france flag &ndash; International Cannabis Business Conference",
+            "alternativeHeadline": "france flag",
+            "description": "france flag",
+            "encodingFormat": "image/jpeg",
+            "uploadDate": "2019-10-28T01:54:38+00:00",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-1200"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-675"
+                }
+            ]
+        },
+        {
+            "@id": "#sso/qv-height-px-675",
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "name": "Height",
+            "unitText": "px",
+            "unitCode": "E37",
+            "value": "675"
+        },
+        {
+            "@id": "/#sso/organization/site/org-banner-url",
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://internationalcbc.com/",
+            "name": "International Cannabis Business Conference",
+            "description": "USA Canada And Europe&#039;s International Cannabis Business Conference",
+            "image": [
+                {
+                    "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900.jpg#sso/image-object"
+                }
+            ],
+            "logo": {
+                "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2016/09/ICBC600x60.png#sso/image-object"
+            },
+            "sameAs": [
+                "https://www.facebook.com/internationalcbc",
+                "https://twitter.com/IntlCBC"
+            ]
+        },
+        {
+            "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900.jpg#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900.jpg?x76502",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-1200"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-900"
+                }
+            ]
+        },
+        {
+            "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2016/09/ICBC600x60.png#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://cdn.internationalcbc.com/wp-content/uploads/2016/09/ICBC600x60.png?x76502",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-600"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-60"
+                }
+            ]
+        },
+        {
+            "@id": "#sso/qv-width-px-600",
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "name": "Width",
+            "unitText": "px",
+            "unitCode": "E37",
+            "value": "600"
+        },
+        {
+            "@id": "#sso/qv-height-px-60",
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "name": "Height",
+            "unitText": "px",
+            "unitCode": "E37",
+            "value": "60"
+        },
+        {
+            "@id": "/d92adafcce79bcc46d21f0b2550bd062#sso/person",
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Hazel Norman",
+            "givenName": "Hazel",
+            "familyName": "Norman",
+            "description": "Author archive page for Hazel Norman.",
+            "image": [
+                {
+                    "@id": "https://secure.gravatar.com/avatar/ed1f3f82c95043a492412f901822e87d.jpg?d=mp&s=1200#sso/image-object"
+                },
+                {
+                    "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900.jpg#sso/image-object"
+                },
+                {
+                    "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900-1200x675-cropped.jpg#sso/image-object"
+                }
+            ]
+        },
+        {
+            "@id": "https://secure.gravatar.com/avatar/ed1f3f82c95043a492412f901822e87d.jpg?d=mp&s=1200#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/ed1f3f82c95043a492412f901822e87d.jpg?d=mp&s=1200",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-1200"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-1200"
+                }
+            ]
+        },
+        {
+            "@id": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900-1200x675-cropped.jpg#sso/image-object",
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://cdn.internationalcbc.com/wp-content/uploads/2022/12/ICBC1200-900-1200x675-cropped.jpg?x76502",
+            "identifier": "52281-wpsso-schema-16x9",
+            "name": "International Cannabis Business Conference &ndash; International...",
+            "alternateName": "International Cannabis Business Conference &ndash; International Cannabis Business Conference",
+            "alternativeHeadline": "International Cannabis Business Conference",
+            "description": "Image: International Cannabis Business Conference.",
+            "encodingFormat": "image/jpeg",
+            "uploadDate": "2022-12-26T09:40:52+00:00",
+            "width": [
+                {
+                    "@id": "#sso/qv-width-px-1200"
+                }
+            ],
+            "height": [
+                {
+                    "@id": "#sso/qv-height-px-675"
+                }
+            ]
+        }
+    ]
+}</script> <meta name="wpsso-end" content="wpsso meta tags and schema markup end"><meta name="wpsso-cached" content="2023-10-31T21:12:52+00:00"><meta name="wpsso-added" content="2023-11-19T06:12:36+00:00 in 0.000685 secs for internationalcbc.com"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'> <script data-cfasync=false data-pagespeed-no-defer>var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];</script> <title>French Medical Cannabis Legalization Is Not Expected In 2024</title><meta name="description" content="France&#039;s 2024 Social Security Financing Bill (PLFSS) will reportedly not include provisions to legalize medical cannabis nationwide due to a lack of support by the Macron administration."><link rel=canonical href=https://internationalcbc.com/french-medical-cannabis-legalization-is-not-expected-in-2024/ > <script type=application/ld+json class=yoast-schema-graph>{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https://internationalcbc.com/french-medical-cannabis-legalization-is-not-expected-in-2024/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://internationalcbc.com/"},{"@type":"ListItem","position":2,"name":"French Medical Cannabis Legalization Is Not Expected In 2024"}]}]}</script> <link rel=stylesheet id=wp-block-library-css href='https://cdn.internationalcbc.com/wp-includes/css/dist/block-library/style.min.css?x76502&amp;ver=6.4.1' type=text/css media=all><style id=classic-theme-styles-inline-css>/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style><style id=global-styles-inline-css>/*<![CDATA[*/body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}/*]]>*/</style><link rel=stylesheet id=geot-css-css href='https://cdn.internationalcbc.com/wp-content/plugins/geotargetingwp/public/css/geotarget-public.min.css?x76502&amp;ver=6.4.1' type=text/css media=all><link rel=stylesheet id=tp_twitter_plugin_css-css href='https://cdn.internationalcbc.com/wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css?x76502&amp;ver=1.0' type=text/css media=screen><link rel=stylesheet id=ct-style-css href='https://cdn.internationalcbc.com/wp-content/plugins/vc-countdown-timer/assets/css/custom.css?x76502&amp;ver=6.4.1' type=text/css media=all><link rel=stylesheet id=widgetopts-styles-css href=https://cdn.internationalcbc.com/wp-content/plugins/widget-options/assets/css/widget-options.css?x76502 type=text/css media=all><link rel=stylesheet id=wordpress-popular-posts-css-css href='https://cdn.internationalcbc.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?x76502&amp;ver=6.3.4' type=text/css media=all><link rel=stylesheet id=dflip-style-css href='https://cdn.internationalcbc.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?x76502&amp;ver=2.0.86' type=text/css media=all><link rel=stylesheet id=cff-css href='https://cdn.internationalcbc.com/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css?x76502&amp;ver=4.2' type=text/css media=all><link rel=stylesheet id=sb-font-awesome-css href='https://cdn.internationalcbc.com/wp-content/plugins/custom-facebook-feed/assets/css/font-awesome.min.css?x76502&amp;ver=4.7.0' type=text/css media=all><link rel=stylesheet id=photonic-slider-css href='https://cdn.internationalcbc.com/wp-content/plugins/photonic/include/ext/splide/splide.min.css?x76502&amp;ver=20230428-201001' type=text/css media=all><link rel=stylesheet id=photonic-lightbox-css href='https://cdn.internationalcbc.com/wp-content/plugins/photonic/include/ext/baguettebox/baguettebox.min.css?x76502&amp;ver=20230428-201001' type=text/css media=all><link rel=stylesheet id=photonic-css href='https://cdn.internationalcbc.com/wp-content/plugins/photonic/include/css/front-end/core/photonic.min.css?x76502&amp;ver=20230428-201001' type=text/css media=all><style id=photonic-inline-css>/* Retrieved from saved CSS */
+.photonic-panel { background:  rgb(17,17,17)  !important;
+
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+ }
+.photonic-flickr-stream .photonic-pad-photosets { margin: 10px; }
+.photonic-flickr-stream .photonic-pad-galleries { margin: 10px; }
+.photonic-flickr-stream .photonic-pad-photos { padding: 5px 10px; }
+.photonic-google-stream .photonic-pad-photos { padding: 5px 10px; }
+.photonic-zenfolio-stream .photonic-pad-photos { padding: 5px 10px; }
+.photonic-zenfolio-stream .photonic-pad-photosets { margin: 5px 10px; }
+.photonic-smug-stream .photonic-pad-albums { margin: 10px; }
+.photonic-smug-stream .photonic-pad-photos { padding: 5px 10px; }
+.photonic-random-layout .photonic-thumb { padding: 2px}
+.photonic-masonry-layout .photonic-thumb { padding: 2px}
+.photonic-mosaic-layout .photonic-thumb { padding: 2px}</style><link rel=stylesheet id=__EPYT__style-css href='https://cdn.internationalcbc.com/wp-content/plugins/youtube-embed-plus-pro/styles/ytprefs.min.css?x76502&amp;ver=14.2' type=text/css media=all><style id=__EPYT__style-inline-css>.epyt-gallery-thumb {
+                        width: 33.333%;
+                }</style><link rel=stylesheet id=__disptype__-css href='https://cdn.internationalcbc.com/wp-content/plugins/youtube-embed-plus-pro/scripts/lity.min.css?x76502&amp;ver=14.2' type=text/css media=all><link href="https://internationalcbc.com/wp-content/themes/yootheme/css/theme.1.css?x76502&amp;ver=1698289354" rel=stylesheet><link href="https://internationalcbc.com/wp-content/themes/yootheme/css/theme.update.css?x76502&amp;ver=4.0.4" rel=stylesheet> <script src="https://cdn.internationalcbc.com/wp-includes/js/jquery/jquery.min.js?x76502&amp;ver=3.7.1" id=jquery-core-js></script> <script src="https://cdn.internationalcbc.com/wp-includes/js/jquery/jquery-migrate.min.js?x76502&amp;ver=3.4.1" id=jquery-migrate-js></script> <script type=application/json id=wpp-json>{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/internationalcbc.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/internationalcbc.com\/wp-json\/wordpress-popular-posts","ID":55546,"token":"00803f172d","lang":0,"debug":0}</script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?x76502&amp;ver=6.3.4" id=wpp-js-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/youtube-embed-plus-pro/scripts/lity.min.js?x76502&amp;ver=14.2" id=__dispload__-js></script> <script id=__ytprefs__-js-extra>var _EPYT_ = {"ajaxurl":"https:\/\/internationalcbc.com\/wp-admin\/admin-ajax.php","security":"10fb790a5a","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/internationalcbc.com\/wp-content\/plugins\/youtube-embed-plus-pro\/scripts\/","eppath":"https:\/\/internationalcbc.com\/wp-content\/plugins\/youtube-embed-plus-pro\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","not_live_showtime":"180","vi_active":"","vi_js_posttypes":[]};</script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/youtube-embed-plus-pro/scripts/ytprefs.min.js?x76502&amp;ver=14.2" id=__ytprefs__-js></script> <link rel=https://api.w.org/ href=https://internationalcbc.com/wp-json/ ><link rel=alternate type=application/json href=https://internationalcbc.com/wp-json/wp/v2/posts/55546><meta name="generator" content="WordPress 6.4.1"><link rel=alternate type=application/json+oembed href="https://internationalcbc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finternationalcbc.com%2Ffrench-medical-cannabis-legalization-is-not-expected-in-2024%2F"><link rel=alternate type=text/xml+oembed href="https://internationalcbc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finternationalcbc.com%2Ffrench-medical-cannabis-legalization-is-not-expected-in-2024%2F&#038;format=xml"> <script>function expand(param) {
+		param.style.display = (param.style.display == "none") ? "block" : "none";
+	}
+	function read_toggle(id, more, less) {
+		el = document.getElementById("readlink" + id);
+		el.innerHTML = (el.innerHTML == more) ? less : more;
+		expand(document.getElementById("read" + id));
+	}</script>   <script data-cfasync=false data-pagespeed-no-defer>var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["policy"],"pageAttributes":["france"],"pagePostAuthor":"Hazel Norman"};
+	dataLayer.push( dataLayer_content );</script> <script data-cfasync=false>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXB4SKK');</script>  <style id=wpp-loading-animation-styles>@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style> <script data-cfasync=false>var dFlipLocation = "https://internationalcbc.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share","mailSubject":"I wanted you to see this FlipBook","mailBody":"Check out this site {{url}}","loading":"DearFlip: Loading "},"moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"false","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","enableAnnotation":false,"enableAnalytics":"false","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false","linkTarget":"2","sharePrefix":"dearflip-"};</script><script src="https://internationalcbc.com/wp-content/themes/yootheme/vendor/yootheme/theme-analytics/app/analytics.min.js?x76502&amp;ver=4.0.4" defer></script> <script src="https://internationalcbc.com/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit.min.js?x76502&amp;ver=4.0.4"></script> <script src="https://internationalcbc.com/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit-icons.min.js?x76502&amp;ver=4.0.4"></script> <script src="https://internationalcbc.com/wp-content/themes/yootheme/js/theme.js?x76502&amp;ver=4.0.4"></script> <script>window.yootheme = window.yootheme || {}; var $theme = yootheme.theme = {"i18n":{"close":{"label":"Close"},"totop":{"label":"Back to top"},"marker":{"label":"Open"},"navbarToggleIcon":{"label":"Open menu"},"paginationPrevious":{"label":"Next page"},"paginationNext":{"label":"Previous page"},"searchIcon":{"toggle":"Open Search","submit":"Submit Search"},"slider":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"slideshow":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"lightboxPanel":{"next":"Next slide","previous":"Previous slide","slideLabel":"%s of %s","close":"Close"}},"google_analytics":"UA-298403-21","google_analytics_anonymize":""};</script> <script>UIkit.util.ready(function () {
+    // add all URL parts you need to this array in the same order as the switcher items are
+    var switcherItems = [ 'berlin', 'barcelona'];
+
+    var itemIndex = switcherItems.indexOf(window.location.href.split('#')[1]);
+    if (itemIndex > 0) {
+        UIkit.tab('#mySwitcher [uk-tab]').show(itemIndex);
+    }
+});
+
+UIkit.icon.add('gcircle','{https://internationalcbc.com/wp-content/uploads/2022/04/gcircle.svg}');
+
+UIkit.icon.add('twitter','<svg xmlns=http://www.w3.org/2000/svg height=20 width=20 viewBox="0 0 512 512"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>');</script><style>*[id^='readlink'] {
+ font-weight: bold;
+ color: #df7719;
+ background: #ffffff;
+ padding: 2px;
+ border-bottom: 0px solid #df7719;
+ -webkit-box-shadow: none !important;
+ box-shadow: none !important;
+ -webkit-transition: none !important;
+}
+
+*[id^='readlink']:hover {
+ font-weight: bold;
+ color: #4a7489;
+ padding: 2px;
+ border-bottom: 0px solid #df7719;
+}
+
+*[id^='readlink']:focus {
+ outline: none;
+ color: #df7719;
+}</style><style id=wp-custom-css>.mylandingbutton {
+background-color: #75a0ae;
+border: none;
+color: #ffffff;
+padding: 10px 10px;
+font-size: 24px;
+}
+.mylandingbutton2 {
+background-color: #D17C35;
+border: none;
+color: #ffffff;
+padding: 10px 10px;
+font-size: 24px;
+}
+
+
+.uk-notification {
+display:none;
+}</style></head><body class="post-template-default single single-post postid-55546 single-format-standard "><div class="uk-hidden-visually uk-notification uk-notification-top-left uk-width-auto"><div class=uk-notification-message> <a href=#tm-main>Skip to main content</a></div></div><div class="tm-page-container uk-clearfix"><div class="tm-page uk-margin-auto"><header class="tm-header-mobile uk-hidden@m" uk-header><div class=uk-navbar-container><div class="uk-container uk-container-expand"><nav class=uk-navbar uk-navbar={&quot;container&quot;:&quot;.tm-header-mobile&quot;}><div class=uk-navbar-left> <a uk-toggle href=#tm-dialog-mobile class=uk-navbar-toggle><div uk-navbar-toggle-icon></div> </a></div><div class=uk-navbar-center><a href=https://internationalcbc.com/ aria-label="Back to home" class="uk-logo uk-navbar-item"> <picture> <source type=image/webp srcset="/wp-content/themes/yootheme/cache/60/logo-ICBC-International-Cannabis-Business-Conference-no-bkgd-mobile-6092a760.webp 76w, /wp-content/themes/yootheme/cache/77/logo-ICBC-International-Cannabis-Business-Conference-no-bkgd-mobile-777d019a.webp 152w" sizes="(min-width: 76px) 76px"> <img alt="International Cannabis Business Conference" loading=eager src=/wp-content/themes/yootheme/cache/b4/logo-ICBC-International-Cannabis-Business-Conference-no-bkgd-mobile-b47902ba.png?x76502 width=76 height=72> </picture></a></div></nav></div></div><div id=tm-dialog-mobile uk-offcanvas="container: true; overlay: true" mode=slide><div class="uk-offcanvas-bar uk-flex uk-flex-column"><button class="uk-offcanvas-close uk-close-large" type=button uk-close uk-toggle="cls: uk-close-large; mode: media; media: @s"></button><div class=uk-margin-auto-bottom><div class="uk-grid uk-child-width-1-1"><div><div class="uk-panel widget widget_nav_menu" id=nav_menu-16><ul class="uk-nav uk-nav-default uk-nav-accordion" uk-nav="targets: &gt; .js-accordion"> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href=https://internationalcbc.com/ > HOME</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children js-accordion uk-parent"><a href> CONFERENCES <span uk-nav-parent-icon></span></a><ul class=uk-nav-sub><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/barcelona/ > BARCELONA B2B</a><ul><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/barcelona/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/barcelona/schedule/ > Schedule</a></li> <li class="uk-hidden menu-item menu-item-type-post_type menu-item-object-page"><a href="https://internationalcbc.com/?page_id=40792"> Hotel</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/barcelona/exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href=https://internationalcbc.com/icbc-buy-tickets/#barcelona uk-scroll> Register</a></li></ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/berlin/ > BERLIN B2B</a><ul><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/schedule/ > Schedule</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/hotel/ > Hotel</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/icbc-berlin-b2b-2023-program-book/ > 2023 Program Book</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href=https://internationalcbc.com/icbc-buy-tickets/#berlinb2b uk-scroll> Register</a></li></ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/berlin-gif/ > BERLIN GIF</a><ul><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/schedule/ > Schedule</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/sponsors-exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/investors/ > Investors</a></li></ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/slovenia/ > SLOVENIA SCIENCE & TECHNOLOGY</a><ul><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/schedule/ > Schedule</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/hotel/ > Hotel</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/sponsors-and-exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/slovenia-epk/ > Conference One Sheet</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href=https://internationalcbc.com/icbc-buy-tickets/#slovenia uk-scroll> Register</a></li></ul></li></ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children js-accordion uk-parent"><a href> MEDIA <span uk-nav-parent-icon></span></a><ul class=uk-nav-sub><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/media-kit/ > Media Kit</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/photos/ > Photos</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/articles/ > Articles</a></li></ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent uk-active"><a href=https://internationalcbc.com/blog/ > NEWS</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/press-releases/ > PRESS RELEASES</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/contact-us/ > CONTACT</a></li></ul></div></div></div></div></div></div></header><header class="tm-header uk-visible@m" uk-header><div class="tm-headerbar-default tm-headerbar tm-headerbar-top"><div class=uk-container><div class="uk-position-relative uk-flex uk-flex-center uk-flex-middle"><div class="uk-position-center-left tm-position-z-index-high"><div class="uk-panel widget widget_builderwidget" id=builderwidget-3><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin"><div class=uk-width-1-1><div class=uk-margin> <a class="el-content uk-button uk-button-default uk-button-small" href=/exhibitor-sponsor/ > Exhibit / Sponsor </a></div></div></div></div></div> <a href=https://internationalcbc.com/ aria-label="Back to home" class=uk-logo> <picture> <source type=image/webp srcset="/wp-content/themes/yootheme/cache/ca/ICBC-International-Cannabis-Business-Conference-logo-ca1b1a26.webp 196w" sizes="(min-width: 196px) 196px"> <img alt="International Cannabis Business Conference" loading=eager src=/wp-content/themes/yootheme/cache/3e/ICBC-International-Cannabis-Business-Conference-logo-3ee11a63.png?x76502 width=196 height=185> </picture></a><div class="uk-position-center-right tm-position-z-index-high"><div class="uk-panel widget widget_builderwidget" id=builderwidget-4><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin"><div class=uk-width-1-1><div class=uk-margin> <a class="el-content uk-button uk-button-primary uk-button-small" href=/icbc-buy-tickets/ > Register </a></div></div></div></div></div></div></div></div><div class=uk-navbar-container><div class=uk-container><nav class=uk-navbar uk-navbar="{&quot;align&quot;:&quot;left&quot;,&quot;container&quot;:&quot;.tm-header&quot;,&quot;boundary&quot;:&quot;.tm-header .uk-navbar-container&quot;,&quot;dropbar&quot;:true,&quot;target-y&quot;:&quot;.tm-header .uk-navbar-container&quot;,&quot;dropbar-anchor&quot;:&quot;.tm-header .uk-navbar-container&quot;}"><div class=uk-navbar-center><ul class=uk-navbar-nav> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href=https://internationalcbc.com/ > HOME</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a role=button> CONFERENCES</a><div class=uk-navbar-dropdown uk-drop="{&quot;clsDrop&quot;:&quot;uk-navbar-dropdown&quot;,&quot;flip&quot;:&quot;false&quot;,&quot;container&quot;:&quot;.tm-header&quot;,&quot;target-y&quot;:&quot;.tm-header .uk-navbar-container&quot;,&quot;mode&quot;:&quot;hover&quot;,&quot;pos&quot;:&quot;bottom-center&quot;,&quot;stretch&quot;:&quot;x&quot;,&quot;boundary&quot;:&quot;.tm-header .uk-navbar&quot;}"><div class="uk-drop-grid uk-child-width-1-4" uk-grid><div><ul class="uk-nav uk-navbar-dropdown-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/barcelona/ > BARCELONA B2B</a><ul class=uk-nav-sub><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/barcelona/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/barcelona/schedule/ > Schedule</a></li> <li class="uk-hidden menu-item menu-item-type-post_type menu-item-object-page"><a href="https://internationalcbc.com/?page_id=40792"> Hotel</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/barcelona/exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href=https://internationalcbc.com/icbc-buy-tickets/#barcelona uk-scroll> Register</a></li></ul></li></ul></div><div><ul class="uk-nav uk-navbar-dropdown-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/berlin/ > BERLIN B2B</a><ul class=uk-nav-sub><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/schedule/ > Schedule</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/hotel/ > Hotel</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin/icbc-berlin-b2b-2023-program-book/ > 2023 Program Book</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href=https://internationalcbc.com/icbc-buy-tickets/#berlinb2b uk-scroll> Register</a></li></ul></li></ul></div><div><ul class="uk-nav uk-navbar-dropdown-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/berlin-gif/ > BERLIN GIF</a><ul class=uk-nav-sub><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/schedule/ > Schedule</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/sponsors-exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/berlin-gif/investors/ > Investors</a></li></ul></li></ul></div><div><ul class="uk-nav uk-navbar-dropdown-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href=https://internationalcbc.com/slovenia/ > SLOVENIA SCIENCE & TECHNOLOGY</a><ul class=uk-nav-sub><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/speakers/ > Speakers</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/schedule/ > Schedule</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/hotel/ > Hotel</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/sponsors-and-exhibitors/ > Sponsors/Exhibitors</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/slovenia/slovenia-epk/ > Conference One Sheet</a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href=https://internationalcbc.com/icbc-buy-tickets/#slovenia uk-scroll> Register</a></li></ul></li></ul></div></div></div></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a role=button> MEDIA</a><div class=uk-navbar-dropdown uk-drop="{&quot;clsDrop&quot;:&quot;uk-navbar-dropdown&quot;,&quot;flip&quot;:&quot;false&quot;,&quot;container&quot;:&quot;.tm-header&quot;,&quot;target-y&quot;:&quot;.tm-header .uk-navbar-container&quot;,&quot;mode&quot;:&quot;hover&quot;,&quot;pos&quot;:&quot;bottom-left&quot;}"><div><ul class="uk-nav uk-navbar-dropdown-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/media-kit/ > Media Kit</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/photos/ > Photos</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/articles/ > Articles</a></li></ul></div></div></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent uk-active"><a href=https://internationalcbc.com/blog/ > NEWS</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/press-releases/ > PRESS RELEASES</a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=https://internationalcbc.com/contact-us/ > CONTACT</a></li></ul></div></nav></div></div></header><div class=builder><div class="uk-section-default uk-section uk-section-xsmall uk-padding-remove-bottom"><div class="uk-container uk-container-expand"><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin"><div class=uk-width-1-1><nav aria-label=Breadcrumb><ul class="uk-breadcrumb uk-margin-remove-bottom" vocab=https://schema.org/ typeof=BreadcrumbList> <li property=itemListElement typeof=ListItem>  <a href=https://internationalcbc.com property=item typeof=WebPage><span property=name>Home</span></a><meta property="position" content="0"> </li> <li property=itemListElement typeof=ListItem>  <a href=https://internationalcbc.com/blog/ property=item typeof=WebPage><span property=name>ICBC Blog</span></a><meta property="position" content="1"> </li> <li property=itemListElement typeof=ListItem>  <a href=https://internationalcbc.com/category/policy/ property=item typeof=WebPage><span property=name>Policy</span></a><meta property="position" content="2"> </li> <li property=itemListElement typeof=ListItem>  <span property=name>French Medical Cannabis Legalization Is Not Expected In 2024</span><meta property="position" content="3"> </li></ul></nav></div></div></div></div></div><main id=tm-main  class="tm-main uk-section uk-section-default uk-section-small" uk-height-viewport="expand: true"><div class=uk-container><div class=uk-grid uk-grid><div class=uk-width-expand@m><article id=post-55546 class="uk-article post-55546 post type-post status-publish format-standard has-post-thumbnail hentry category-policy tag-france" typeof=Article vocab=https://schema.org/ ><meta property="name" content="French Medical Cannabis Legalization Is Not Expected In 2024"><meta property="author" typeof="Person" content="Hazel Norman"><meta property="dateModified" content="2023-10-01T10:02:57-07:00"><meta class="uk-margin-remove-adjacent" property="datePublished" content="2023-10-01T10:02:57-07:00"><h1 property="headline" class="uk-margin-top uk-margin-remove-bottom uk-article-title">French Medical Cannabis Legalization Is Not Expected In 2024</h1><p class="uk-margin-top uk-margin-remove-bottom uk-article-meta"> Written by <a href=https://internationalcbc.com/author/hazel/ >Hazel Norman</a> on <time datetime=2023-10-01T10:02:57-07:00>October 1, 2023</time>.                Posted in <a href=https://internationalcbc.com/category/policy/ rel="category tag">Policy</a>.</p><div class="uk-text-center uk-margin-small-top" property=image typeof=ImageObject><meta property="url" content="https://cdn.internationalcbc.com/wp-content/uploads/2019/10/france-min.jpg?x76502"> <picture> <source type=image/webp data-srcset="/wp-content/themes/yootheme/cache/f8/france-min-f89a916a.webp 768w, /wp-content/themes/yootheme/cache/ab/france-min-abdd4271.webp 1024w, /wp-content/themes/yootheme/cache/25/france-min-25b69896.webp 1199w, /wp-content/themes/yootheme/cache/6e/france-min-6e51cdc5.webp 1200w" data-sizes="(min-width: 1200px) 1200px"> <img class=lazy alt="france flag" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20900'%3E%3C/svg%3E" data-src=/wp-content/themes/yootheme/cache/db/france-min-dbeeb68a.jpeg?x76502 width=1200 height=900> </picture></div><div class=uk-margin-medium-top property=text><p>France&#8217;s government is expected to refrain from recommending national medical cannabis legalization after the European nation&#8217;s medical cannabis experiment is over.</p><p>In March 2021, France launched a limited medical cannabis experiment involving between 2,000 and 3,000 suffering patients with the goal of gaining insight to possibly craft national medical cannabis policies and regulations. Initially slated for a two-year period, France&#8217;s medical cannabis experiment was eventually granted a one-year extension and is set to end in 2024.</p><p>According to <a href=https://www.newsweed.fr/pas-legalisation-cannabis-medical-france-2024/ target=_blank rel=noopener>domestic reporting</a>, the 2024 Social Security Financing Bill (PLFSS) will not include provisions to legalize medical cannabis nationwide due to a lack of support by the Macron administration.</p><p>The French medical cannabis experiment received initial approval from the federal Senate back in 2019, however, the launch of the trial was delayed until the spring of 2021 due to various reasons. Cannabis producer LaFleur was eventually selected as the cultivator for the program and has supplied participating patients since the launch of the experiment.</p><p>Limited cannabis access is not a new public policy concept in Europe, with limited adult use cannabis commerce now permitted in parts of Switzerland, and soon, the Netherlands. Germany is another jurisdiction that is working towards launching adult-use pilot programs.</p><p>France is somewhat rare in that most European nations now permit medical cannabis access. France, on the other hand, has historically been much more hesitant to reform its medical cannabis policies.</p><p>If the French government does not adopt national medical cannabis reform at the conclusion of the experiment, and the pilot program does not receive another extension, medical cannabis patients will have no safe access to their medications. Instead, they will be forced to either go without medical cannabis or obtain their medical cannabis from unregulated sources.</p><p>CBD products containing less than 0.3% THC are legal in France, however, many suffering cannabis patients require treatment regimens involving products that have higher levels of THC.</p><p>According to data analyzed by the <a href=https://www.lemonde.fr/en/france/article/2022/12/20/average-age-of-french-marijuana-users-has-increased-study-shows_6008420_7.html target=_blank rel=noopener>French Observatory of Drugs and Addictive Tendencies</a>, roughly 10.6% of France&#8217;s adult population has consumed cannabis within the last year, and 47.3% have reported using cannabis at least once in their lifetimes.</p></div><p> <a href=https://internationalcbc.com/tag/france/ >France</a></p><ul class="uk-pagination uk-margin-medium"> <li><a href=https://internationalcbc.com/survey-finds-athletes-report-using-cannabis-products-to-promote-exercise-recovery/ rel=prev><span uk-pagination-previous></span> Previous</a></li> <li class=uk-margin-auto-left><a href=https://internationalcbc.com/attend-the-2023-cultiva-hanfexpo-in-vienna-october-6th-8th/ rel=next>Next <span uk-pagination-next></span></a></li></ul></article></div><aside id=tm-sidebar class="tm-sidebar uk-width-1-4@m"><div class="uk-grid uk-child-width-1-1" uk-grid><div><div class="uk-panel widget widget_search" id=search-3><form id=search-6055 action=https://internationalcbc.com method=get role=search class="uk-search uk-search-default uk-width-1-1"><span uk-search-icon></span><input name=s placeholder=Search required aria-label=Search type=search class=uk-search-input></form></div></div><div><div class="uk-panel widget widget_media_image" id=media_image-3> <a href=https://internationalcbc.com/icbc-buy-tickets/#berlin><img width=600 height=1200 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%201200'%3E%3C/svg%3E" data-src=https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1.jpg class="image wp-image-55310  attachment-full size-full lazy" alt="ICBC Berlin B2B 2024 Save before Dec 6" style="max-width: 100%; height: auto;" title="Ticket ad" decoding=async data-srcset="https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1.jpg?x76502 600w, https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1-150x300.jpg?x76502 150w, https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1-512x1024.jpg?x76502 512w, https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1-315x630.jpg?x76502 315w" data-sizes="(max-width: 600px) 100vw, 600px" data-wp-pid=55310></a></div></div><div><div class="uk-panel uk-text-left tm-child-list tm-child-list-divider widget widget_recent-posts" id=recent-posts-6><h3 class="uk-h4 uk-heading-line"><span>RECENT POSTS</span></h3><ul> <li> <a href=https://internationalcbc.com/australian-medical-association-opposes-cannabis-legalization-measure/ >Australian Medical Association Opposes Cannabis Legalization Measure</a> </li> <li> <a href=https://internationalcbc.com/expomedeweed-is-coming-to-colombia-on-november-24th-26th/ >ExpoMedeWeed Is Coming To Colombia On November 24th-26th</a> </li> <li> <a href=https://internationalcbc.com/support-for-canadian-legalization-is-strong-5-years-after-legalization/ >Support For Canadian Legalization Is Strong 5 Years After Legalization</a> </li></ul></div></div><div><div class="uk-panel uk-text-left tm-child-list widget widget_categories" id=categories-9><h3 class="uk-h4 uk-heading-line"><span>CATEGORIES</span></h3><ul> <li class="cat-item cat-item-1613"><a href=https://internationalcbc.com/category/trending-news/ >Trending News</a> </li> <li class="cat-item cat-item-270"><a href=https://internationalcbc.com/category/medical/ >Medical</a> </li> <li class="cat-item cat-item-407"><a href=https://internationalcbc.com/category/icbc-portland/ >ICBC Portland</a> </li> <li class="cat-item cat-item-1150"><a href=https://internationalcbc.com/category/icbc-zurich/ >ICBC Zurich</a> </li> <li class="cat-item cat-item-1389"><a href=https://internationalcbc.com/category/icbc-bern/ >ICBC Bern</a> </li> <li class="cat-item cat-item-1390"><a href=https://internationalcbc.com/category/icbc-switzerland/ >ICBC Switzerland</a> </li> <li class="cat-item cat-item-1517"><a href=https://internationalcbc.com/category/icbc-virtual-symposium/ >ICBC Virtual Symposium</a> </li> <li class="cat-item cat-item-1544"><a href=https://internationalcbc.com/category/icbc-austin/ >ICBC Austin</a> </li> <li class="cat-item cat-item-1592"><a href=https://internationalcbc.com/category/archives/ >Archives</a> </li> <li class="cat-item cat-item-1593"><a href=https://internationalcbc.com/category/policy/ >Policy</a> </li> <li class="cat-item cat-item-253"><a href=https://internationalcbc.com/category/cultural/ >Cultural</a> </li> <li class="cat-item cat-item-214"><a href=https://internationalcbc.com/category/science/ >Science</a> </li> <li class="cat-item cat-item-21"><a href=https://internationalcbc.com/category/icbc-vancouver/ >ICBC Vancouver</a> </li> <li class="cat-item cat-item-57"><a href=https://internationalcbc.com/category/icbc-san-francisco/ >ICBC San Francisco</a> </li> <li class="cat-item cat-item-111"><a href=https://internationalcbc.com/category/business/ >Business</a> </li> <li class="cat-item cat-item-112"><a href=https://internationalcbc.com/category/social/ >Social</a> </li> <li class="cat-item cat-item-113"><a href=https://internationalcbc.com/category/entertainment/ >Entertainment</a> </li> <li class="cat-item cat-item-143"><a href=https://internationalcbc.com/category/icbc-kauai/ >ICBC Kauai</a> </li> <li class="cat-item cat-item-168"><a href=https://internationalcbc.com/category/politics/ >Politics</a> </li> <li class="cat-item cat-item-191"><a href=https://internationalcbc.com/category/ombc/ >OMBC</a> </li> <li class="cat-item cat-item-44"><a href=https://internationalcbc.com/category/icbc-berlin/ >ICBC Berlin</a> </li> <li class="cat-item cat-item-672"><a href=https://internationalcbc.com/category/icbc-barcelona-2/ >ICBC Barcelona</a> </li> <li class="cat-item cat-item-1"><a href=https://internationalcbc.com/category/uncategorized/ >Uncategorized</a> </li></ul></div></div><div><div class="uk-panel widget widget_media_image" id=media_image-4> <a href=https://internationalcbc.com/icbc-buy-tickets/#berlin><img width=600 height=1200 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%201200'%3E%3C/svg%3E" data-src=https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1.jpg class="image wp-image-55310  attachment-full size-full lazy" alt="ICBC Berlin B2B 2024 Save before Dec 6" style="max-width: 100%; height: auto;" title="Ticket Ad 2" decoding=async data-srcset="https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1.jpg?x76502 600w, https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1-150x300.jpg?x76502 150w, https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1-512x1024.jpg?x76502 512w, https://cdn.internationalcbc.com/wp-content/uploads/2023/08/ICBC-Berlin-B2B-Sidebar-2024-1-315x630.jpg?x76502 315w" data-sizes="(max-width: 600px) 100vw, 600px" data-wp-pid=55310></a></div></div></div></aside></div></div></main><footer> <style class=uk-margin-remove-adjacent>#footer\#0 .el-item .uk-button {padding-left:40px; padding-right:40px;} @media (max-width: 639px) { #footer\#0 .el-item {width:100%;} #footer\#0 .uk-button {height:36px!important; font-size:1em!important; line-height:32px!important;} } #footer\#1 {font-weight:300; color:#ccc;} #footer\#2 .el-link .uk-grid-column-small>*, #footer\#2 .uk-grid-small>* {padding-left:10px;} #footer\#3 {font-weight:300; color:#ccc;} #footer\#4 input[type=email] { border: 1px solid #666; height: 32px; padding: 0 10px; width: calc(60%); vertical-align: top; } #footer\#4 input[type=submit] { background-color: #6ba2b2; border: 0; color: #fff; height: 34px; margin-left: -10px; letter-spacing: 1px; width: 70px; position: relative; vertical-align: top; -webkit-appearance: none; } #footer\#5 .el-link {color:#6ba2b2;} #footer\#5 .el-link:hover {color:#e9eaeb;} #footer\#6 .el-link {color:#6ba2b2;} #footer\#6 .el-link:hover {color:#e9eaeb;} #footer\#6 {margin-top:10px!important;} #footer\#7 {color:#949598;}</style><div id=footer class="uk-section-secondary uk-preserve-color uk-section uk-section-xsmall uk-padding-remove-top"><div class=uk-container><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin"><div class=uk-width-1-1><div id=footer#0 class="uk-margin uk-text-center"><div class="uk-flex-middle uk-grid-small uk-child-width-auto uk-flex-center" uk-grid><div class=el-item> <a class="el-content uk-button uk-button-primary uk-button-small" href=/icbc-buy-tickets/ > Register </a></div><div class=el-item> <a class="el-content uk-button uk-button-default uk-button-small" href=/exhibitor-sponsor/ > Exhibit / Sponsor </a></div></div></div></div></div><div class="uk-grid-margin uk-container"><div class="uk-grid tm-grid-expand" uk-grid><div class=uk-width-1-3@m><h3 class="uk-h2 uk-font-default uk-light uk-margin-small uk-text-center" id="footer#1"> Find us</h3><div id=footer#2 class="uk-margin-small uk-margin-remove-top uk-text-center" uk-scrollspy="target: [uk-scrollspy-class];"><div class="uk-child-width-auto uk-grid-small uk-flex-inline" uk-grid><div> <a class="el-link uk-icon-button" href=https://www.facebook.com/internationalcbc target=_blank rel=noreferrer><span uk-icon="icon: facebook;"></span></a></div><div> <a class="el-link uk-icon-button" href=https://twitter.com/IntlCBC target=_blank rel=noreferrer><span uk-icon="icon: twitter;"></span></a></div><div> <a class="el-link uk-icon-button" href=https://www.instagram.com/internationalcbc/ target=_blank rel=noreferrer><span uk-icon="icon: instagram;"></span></a></div><div> <a class="el-link uk-icon-button" href=https://www.youtube.com/channel/UC_JOg4kWvum5psC0UuyIiFQ target=_blank rel=noreferrer><span uk-icon="icon: youtube;"></span></a></div><div> <a class="el-link uk-icon-button" href=https://www.linkedin.com/company/internationalcbc/ target=_blank rel=noreferrer><span uk-icon="icon: linkedin;"></span></a></div></div></div></div><div class=uk-width-1-3@m><div class="uk-margin uk-text-center"> <picture> <source type=image/webp data-srcset="/wp-content/themes/yootheme/cache/f1/logo-ICBC-600x556-f1460430.webp 155w, /wp-content/themes/yootheme/cache/2d/logo-ICBC-600x556-2dff1e0e.webp 310w" data-sizes="(min-width: 155px) 155px"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20155%20144'%3E%3C/svg%3E" data-src=/wp-content/themes/yootheme/cache/65/logo-ICBC-600x556-65db746b.png?x76502 width=155 height=144 class="el-image lazy" alt="ICBC - International Cannabis Business Conference"> </picture></div></div><div class=uk-width-1-3@m><h3 class="uk-h2 uk-font-default uk-light uk-margin-small uk-text-center" id="footer#3"> Join us</h3><div id=footer#4 class=uk-text-center><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();</script><form id=mc4wp-form-1 class="mc4wp-form mc4wp-form-344" method=post data-id=344 data-name=Footer ><div class=mc4wp-form-fields><div class=footer-newsletter> <input type=email name=EMAIL placeholder="Your e-mail address" required> <input type=hidden name=FROMSOURCE value=https://internationalcbc.com/french-medical-cannabis-legalization-is-not-expected-in-2024/ > <input type=submit value=JOIN></div></div><label style="display: none !important;">Leave this field empty if you're human: <input type=text name=_mc4wp_honeypot value tabindex=-1 autocomplete=off></label><input type=hidden name=_mc4wp_timestamp value=1700374356><input type=hidden name=_mc4wp_form_id value=344><input type=hidden name=_mc4wp_form_element_id value=mc4wp-form-1><div class=mc4wp-response></div></form></div></div></div></div><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin"><div class=uk-width-1-1><div id=footer#5 class="uk-light uk-margin-medium uk-margin-remove-bottom uk-text-center"><ul class="uk-margin-remove-bottom uk-subnav uk-flex-center" uk-margin>  <li class="el-item "> <a class=el-link href=https://internationalcbc.com/ >HOME</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/barcelona/ >BARCELONA B2B</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/berlin-gif/ >BERLIN GIF</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/berlin/ >BERLIN B2B</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/slovenia/ >SLOVENIA SCIENCE & TECHNOLOGY</a></li></ul></div><div id=footer#6 class="uk-light uk-margin-medium uk-text-center"><ul class="uk-margin-remove-bottom uk-subnav uk-flex-center" uk-margin>  <li class="el-item "> <a class=el-link href=https://internationalcbc.com/icbc-buy-tickets/ >TICKETS</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/exhibit/ >EXHIBIT</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/media-kit/ >MEDIA</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/blog/ >NEWS</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/contact-us/ >CONTACT</a></li> <li class="el-item "> <a class=el-link href=https://internationalcbc.com/terms-and-conditions/ >EXHIBITOR TERMS & CONDITIONS</a></li></ul></div><div id=footer#7 class="uk-light uk-text-meta uk-text-center uk-margin-top"><p>&copy; 2014-<script>var year = new Date();document.write(year.getFullYear());</script> International Conferences Group | All rights reserved | Site developed and hosted by <a href=http://www.roguewebworks.com target=_blank style=color:inherit;>Rogue Web Works</a>.</p></div></div></div></div></div></footer></div></div>  <script>var cffajaxurl = "https://internationalcbc.com/wp-admin/admin-ajax.php";
+var cfflinkhashtags = "true";</script> <script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXB4SKK" height=0 width=0 style=display:none;visibility:hidden aria-hidden=true></iframe></noscript><div class=geotr-ajax style="display: none"><div> <img class="aligncenter lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src=https://internationalcbc.com/wp-content/plugins/geotargetingwp/addons/geo-redirects/public/img/loading.svg?x76502 alt=loading><p style="text-align: center">Please wait while you are redirected to the right page...</p></div></div><style>.geotr-ajax {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		background: #fff;
+		top: 0;
+		left: 0;
+		z-index: 9999999999;
+		color: #000;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.geotr-ajax img {
+		display: block;
+		margin: auto;
+	}
+
+	.geotr-ajax div {
+		margin: 20px;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}</style> <script id=geot-js-js-extra>var geot = {"ajax_url":"https:\/\/internationalcbc.com\/wp-admin\/admin-ajax.php","ajax":"1","pid":"55546","is_archive":"","is_search":"","is_singular":"1","is_front_page":"","is_category":"","is_page":"","is_single":"1","disable_remove_on_singular":"1","is_builder":"","has_geo_posts":"","dropdown_search":"","dropdown_redirect":"","elementor_popup":"1","hide_class":"","hide_override_class":"","remove_class":"","remove_override_class":"","disable_console":"","geoloc_enable":"by_ip","geoloc_force":"","geoloc_fail":"Geolocation is not supported by this browser","geot_cookies_duration":"999"};</script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/geotargetingwp/public/js/geotarget-public.js?x76502&amp;ver=3.5.1.1" id=geot-js-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/geotargetingwp/public/js/min/selectize.min.js?x76502&amp;ver=3.5.1.1" id=geot-slick-js></script> <script id=countdown-script-js-extra>var tCountAjax = {"ajaxurl":"https:\/\/internationalcbc.com\/wp-admin\/admin-ajax.php","api_nonce":"00803f172d","api_url":"https:\/\/internationalcbc.com\/wp-json\/tminus\/v1\/","countdownNonce":"f3ece173d0","tminusnow":"{\"now\":\"11\\\/18\\\/2023 22:12:36\"}"};</script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/t-countdown/js/jquery.t-countdown.min.js?x76502&amp;ver=2.4.6" id=countdown-script-js></script> <script src=https://cdn.internationalcbc.com/wp-content/plugins/vc-countdown-timer/assets/js/jquery.lwtCountdown-1.0.js?x76502 id=ct-countdown-js></script> <script src=https://cdn.internationalcbc.com/wp-content/plugins/vc-countdown-timer/assets/js/custom.js?x76502 id=ct-custom-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?x76502&amp;ver=1.18.1" id=gtm4wp-contact-form-7-tracker-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?x76502&amp;ver=2.0.86" id=dflip-script-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js?x76502&amp;ver=4.2" id=cffscripts-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/youtube-embed-plus-pro/scripts/fitvids.min.js?x76502&amp;ver=14.2" id=__ytprefsfitvids__-js></script> <script id=wpforms-user-journey-js-extra>var wpforms_user_journey = {"is_ssl":"1","page_id":"55546"};</script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/wpforms-user-journey/assets/js/wpforms-user-journey.min.js?x76502&amp;ver=1.2.0" id=wpforms-user-journey-js></script> <script src="https://cdn.internationalcbc.com/wp-content/plugins/widgetkit/assets/js/maps.js?x76502&amp;ver=6.4.1" id=widgetkit-maps-js></script> <script defer src="https://cdn.internationalcbc.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?x76502&amp;ver=4.9.9" id=mc4wp-forms-api-js></script> <script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src=https://cdn.internationalcbc.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js?x76502></script></body></html>

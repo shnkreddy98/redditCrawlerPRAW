@@ -11,7 +11,7 @@ def extractImage(path):
     try:
         img = cv2.imread(path)
 
-        if img not in None:
+        if img is not None:
             text = str(pytesseract.image_to_string(img))
 
         else:
@@ -34,11 +34,11 @@ def DownloadImage(index, url):
     if os.path.exists(save_path):
         # Your code to process the existing file goes here
         print("Already Exists")
-        return extractImage(save_path)
+        pass
 
     else:        
         try:
-            response = requests.get(url, timeout = 0.001)
+            response = requests.get(url, timeout = 10)
             response.raise_for_status()  # Raise an exception for bad responses
 
             with open(save_path, 'wb') as file:

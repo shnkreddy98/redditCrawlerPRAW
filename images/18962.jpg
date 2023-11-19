@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="date" content="2023-09-28" />
+<meta http-equiv="last-modified" content="2023-09-29" />
+<link rel="author" href="https://plus.google.com/101416803710397935669" />
+<link rel="shortcut icon" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.doi.gov/sites/all/themes/custom/doi_gov/apple-touch-icon-precomposed.png" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda",
+            "description": "The Department of the Interior today announced up to $328 million in funding opportunities available through President Biden’s Investing in America agenda, a key pillar of Bidenomics, to help communities address impacts of climate change through water recycling, water storage and desalination projects. The funds come primarily from the Bipartisan Infrastructure Law’s WaterSMART and Small Storage programs, as well as through annual appropriations, and the Water Infrastructure Improvements for the Nation Act.",
+            "author": {
+                "@type": "Organization",
+                "@id": "https://www.doi.gov/",
+                "name": "U.S. Department of the Interior",
+                "url": "https://www.doi.gov/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/logo.png"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.doi.gov/",
+                "name": "U.S. Department of the Interior",
+                "url": "https://www.doi.gov/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/logo.png"
+                }
+            },
+            "datePublished": "2023-09-28",
+            "dateModified": "2023-09-29T16:08:30-04:00",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/2022-09-26%20Watersmart%20Trujillo%20El%20Paso%20%5Bjpg%5D"
+            },
+            "mainEntityOfPage": "https://www.doi.gov/node/53996"
+        },
+        {
+            "@id": "https://www.doi.gov/node/53996",
+            "@type": "WebPage",
+            "name": "Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda",
+            "description": "The Department of the Interior today announced up to $328 million in funding opportunities available through President Biden’s Investing in America agenda, a key pillar of Bidenomics, to help communities address impacts of climate change through water recycling, water storage and desalination projects. The funds come primarily from the Bipartisan Infrastructure Law’s WaterSMART and Small Storage programs, as well as through annual appropriations, and the Water Infrastructure Improvements for the Nation Act."
+        },
+        {
+            "@type": "WebSite",
+            "name": "U.S. Department of the Interior",
+            "url": "https://www.doi.gov/",
+            "publisher": {
+                "@type": "Organization",
+                "name": "U.S. Department of the Interior"
+            }
+        }
+    ]
+}</script>
+<meta name="description" content="The Department of the Interior today announced up to $328 million in funding opportunities available through President Biden’s Investing in America agenda, a key pillar of Bidenomics, to help communities address impacts of climate change through water recycling, water storage and desalination projects. The funds come primarily from the Bipartisan Infrastructure Law’s" />
+<meta name="robots" content="follow, index" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="http://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency" />
+<link rel="shortlink" href="https://www.doi.gov/node/53996" />
+<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOI"></script>
+<meta property="og:url" content="https://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency" />
+<meta property="og:title" content="Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda" />
+<meta property="og:description" content="The Department of the Interior today announced up to $328 million in funding opportunities available through President Biden’s Investing in America agenda, a key pillar of Bidenomics, to help communities address impacts of climate change through water recycling, water storage and desalination projects. The funds come primarily from the Bipartisan Infrastructure Law’s WaterSMART and Small Storage programs, as well as through annual appropriations, and the Water Infrastructure Improvements for the Nation Act." />
+<meta property="og:updated_time" content="2023-09-29T16:08:30-04:00" />
+<meta property="og:image" content="https://www.doi.gov/sites/doi.gov/files/styles/social_media_1200x627/public/press-release/thumbnail-images/2022-09-26-watersmart-trujillo-el-paso.jpg?itok=o79Bxtwa" />
+<meta property="og:image:url" content="https://www.doi.gov/sites/all/themes/custom/doi.gov/images/background/DOI_Seal_on_bkgnd900x519.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Interior" />
+<meta name="twitter:creator" content="@Interior" />
+<meta name="twitter:title" content="Biden-Harris Administration Makes $328 Million Available for Drought" />
+<meta name="twitter:description" content="The Department of the Interior today announced up to $328 million in funding opportunities available through President Biden’s Investing in America agenda, a key pillar of Bidenomics, to help" />
+<meta name="twitter:image" content="https://www.doi.gov/sites/doi.gov/files/styles/social_media_1200x627/public/press-release/thumbnail-images/2022-09-26-watersmart-trujillo-el-paso.jpg?itok=o79Bxtwa" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:published_time" content="2023-09-28T10:44:38-04:00" />
+<meta property="article:modified_time" content="2023-09-29T16:08:30-04:00" />
+  <title>Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda | U.S. Department of the Interior</title>
+  <link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_BXIWhYOBSnF4nYFo92-uiAiVUkfimED06A89H3ApbSw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_aqwqc4fsbq4kLvX9T7rjcmz6t5jDsTdTmVCkiQhFyic.css" media="all" />
+<style type="text/css">.panels-flexible-new .panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-new .panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-new .panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-new .panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-new .panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-new .panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-new .panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-new .panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-new .panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-new .panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-new-main {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-new-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-new {
+  width: auto;
+}
+
+.panels-flexible-region-new-center {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-new-main-row-inside {
+  padding-right: 0px;
+}
+
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_zdrAAQ2p4jYw8HD_Ej8-BGwo-0Lh1feWySjeyLI3GKI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_LTOfmZmw2b43_n0yaxk6jfEL90Uqf9N1j6WWDJFpxJo.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.doi.gov/sites/doi.gov/files/css/css_RfnJ2xmeGbvtAKlDRwKcWXWtASprbkJPeVqAv-52gGM.css" media="all" />
+<![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.12/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_9sGTPBGcOGZjLiSLGrYEnuUf8VdvLmL_DEZNNNbnHXk.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_-E7HiI44qSMVs4QAIMRwv7ZKITRBSSt5Um6Jq_6LO5o.js"></script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_QezGuXNhbjBjQg7-2NLaZqEYdWyScvyNhhvV0Lkd2sA.js"></script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_ayeC6goGQZHMNPUAvo_-eRlvOXFAtLITw0SgdG2a9Rw.js"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-44JE7ECGDQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);ga('set', 'forceSSL', true);gtag("config", "G-44JE7ECGDQ", {"groups":"default","anonymize_ip":true,"link_attribution":true});</script>
+<script>var usasearch_config = { siteHandle:'doi.gov' };
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//search.usa.gov/javascripts/remote.loader.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_3dgRKpxi_FSPQ0YcJci1K1kxvd_4PvXrsV2_NuskXJE.js"></script>
+<script src="https://www.doi.gov/sites/doi.gov/files/js/js_tZWG6EiGqLGyYdsOOvfTr3EVUJOoCiT7pI5tj-yEDi8.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/doi.gov\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"photo_gallery":{"displays":{"attachment_1":{"filters":[]},"standard_block":{"filters":[]}}},"related_content":{"displays":{"related_content_pane":{"filters":{"type":{"required":false}}}}}}},"states":{"#edit-helpfulness-no-options":{"visible":{":input[name=\u0022helpfulness_rating\u0022]":{"value":"0"}},"required":{":input[name=\u0022helpfulness_rating\u0022]":{"value":"0"}}}},"urlIsAjaxTrusted":{"\/pressreleases\/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency":true,"\/\/search.usa.gov\/search":true},"ckeditor_accordion":{"collapseAll":1},"googleanalytics":{"account":["G-44JE7ECGDQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":1,"extExclude":"(.*\\.gov)|(.*\\.mil)|(.*\\.docksal)","extInclude":"","extCssExclude":".pane-doi-gov-twitter-toggle-browser","extCssExplicit":"","extAlert":"_blank","extAlertText":"This link will direct you to a non-government website that may have different privacy policies from those of the Department of the Interior.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-53996 node-type-press-release site-subsection section-pressreleases page-manager-node-view">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page">
+  <header class="l-header" role="banner">
+          <div class="l-region l-region--header">
+    <div id="block-panels-mini-doi-header" class="block block--panels-mini block--panels-mini-doi-header">
+        <div class="block__content">
+    <div class="one-column panels-container" id="mini-panel-doi_header">
+  
+      <div class="main one-column--main">
+      <div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img typeof="foaf:Image" src="https://www.doi.gov/sites/all/themes/custom/doi_gov/logo.png" alt="Home" /></a>    </div>
+<div class="panel-pane pane-custom pane-2 pane-page-site-name">
+            <p><a href="/">U.S. Department of the Interior</a></p>
+    </div>
+<div class="panel-pane pane-block pane-menu-menu-social">
+            <ul class="menu"><li class="first leaf"><a href="https://www.instagram.com/usinterior/" title="DOI on Instagram">Instagram</a></li>
+<li class="leaf"><a href="https://www.facebook.com/USInterior" title="DOI on Facebook">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/interior" title="DOI on Twitter">Twitter</a></li>
+<li class="leaf"><a href="https://americasgreatoutdoors.tumblr.com/" title="DOI on Tumblr">Tumblr</a></li>
+<li class="leaf"><a href="https://www.flickr.com/photos/usinterior" title="DOI on Flickr">Flickr</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/USInterior" title="DOI on YouTube">YouTube</a></li>
+</ul>    </div>
+<div class="panel-pane pane-block pane-search-form">
+            <form class="search-block-form" action="//search.usa.gov/search" method="get" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <span class="element-invisible">Search form</span>
+    <div class="form-item form-type-textfield form-item-query">
+  <label class="element-invisible" for="edit-search-block-form--2">Search using USASearch </label>
+ <input class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all form-text" autocomplete="off" placeholder="Search" type="text" id="edit-search-block-form--2" name="query" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="affiliate" value="doi.gov" />
+</div>
+</div></form>    </div>
+<div class="panel-pane pane-accessibility">
+            <a class="button pane-accessibility--toggle" href="#" title="Accessibility Menu"><span class="element-hidden">Accessibility Menu Toggle</span></a>
+<ul class="button pane-accessibility--menu"><li><a href="#" class="font-size-toggle" title="Toggle Font Size">Toggle Font Size</a></li>
+<li><a href="#" class="opendyslexic-toggle" title="Toggle OpenDyslexic">Toggle OpenDyslexic</a></li>
+<li><a href="#" class="dyslexia-color-scheme-toggle" title="Toggle black-on-creme color scheme">Toggle Dyslexia-friendly black-on-creme color scheme</a></li>
+<li><a href="/contact-us" class="contact-us-header-link" title="Contact Us">Contact Us</a></li>
+</ul>    </div>
+    </div>
+  
+  </div>
+  </div>
+</div>
+  </div>
+      <div class="l-region l-region--navigation">
+    <div id="block-doi-gov-menu-doi-megamenu" class="block block--doi-gov-menu block--doi-gov-menu-doi-megamenu">
+        <div class="block__content">
+    <div id="mini-panel-doi_navigation" data-menu-name="menu-section-82">
+    <div class="pane-section-label"><span>Press Releases</span></div>
+      <div class="pane-mega-menu">
+    <div class="bean-mega-menu clearfix">
+      <ul class="menu main-menu">
+                        <li  class="first odd">
+                    <a class="menu-link-parent" href="/news/newsroom">Newsroom</a>
+                            </li>
+                        <li  class="even">
+                    <a class="menu-link-parent" href="/news">Press Releases</a>
+                            </li>
+                        <li  class="odd">
+                    <a class="menu-link-parent" href="/video">Video</a>
+                              <div class="menu-link-dropdown">
+                          <div class="menu-columns--wrapper clearfix">
+                <div  class="menu-column menu-column--0"><ul class="links"><li class="0 first last"><a href="/video">All DOI News Video</a></li>
+</ul></div>              </div>
+                      </div>
+                  </li>
+                        <li  class="even">
+                    <a class="menu-link-parent" href="/photos">Photos</a>
+                            </li>
+                        <li  class="odd">
+                    <a class="menu-link-parent" href="/blog">Blog</a>
+                            </li>
+                        <li  class="last even">
+                    <a class="menu-link-parent" href="/news/archive">Archive</a>
+                              <div class="menu-link-dropdown">
+                          <div class="menu-columns--wrapper clearfix">
+                <div  class="menu-column menu-column--0"><ul class="links"><li class="0 first last"><a href="/news/archive">2009-2017 News Archive (searchable)</a></li>
+</ul></div><div  class="menu-column menu-column--1"><ul class="links"><li class="0 first last"><a href="/secretarys-schedule-archive">Secretarial Schedules (July 2018-July 2019)</a></li>
+</ul></div>              </div>
+                      </div>
+                  </li>
+              </ul>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+  </div>
+  </header>
+
+  
+  <div class="l-main">
+    <div class="l-information">
+                </div>
+
+    <div class="l-content" role="main">
+      <a id="main-content"></a>
+      <div class="content-wrapper">
+<div class="two-column panels-container no-sidebar" >
+
+      <div class="top two-column--top">
+      <div class="panel-pane pane-panels-mini pane-doi-content-topbar">
+            <div class="content-wrapper">
+<div class="two-column panels-container no-sidebar" id="mini-panel-doi_content_topbar">
+
+  
+    
+      <div class="main two-column--main">
+      <div class="panel-pane pane-widget">
+            <div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency&amp;text=Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency&amp;title=Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency&amp;title=Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency&amp;title=Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+    </div>
+    </div>
+  
+  </div>
+</div>
+    </div>
+    </div>
+  
+    
+      <div class="main two-column--main">
+      <div class="panel-pane pane-page-title">
+            <h1 class="section-page-title">Biden-Harris Administration Makes $328 Million Available for Drought and Climate Resiliency Projects as Part of President’s Investing in America Agenda</h1>    </div>
+<div class="panel-pane pane-panels-mini pane-doi-press-publication-info">
+            <div class="panel-display panel-2col clearfix" id="mini-panel-doi_press_publication_info">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-node-publication-info">
+            <div class="publication-date">9/28/2023</div><div class="changed-date">Last edited 9/29/2023</div>    </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-entity-field pane-node-field-document">
+            <div class="field field--name-field-document field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><a href="https://www.doi.gov/sites/doi.gov/files/press-release/es/release-328-million-for-drought-and-climate-resiliency-projects-es.pdf" class="">Comunicado de prensa en español</a></div></div></div>    </div>
+</div>
+  </div>
+</div>
+    </div>
+<div class="panel-pane pane-entity-field pane-node-body">
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p data-ogsc="rgb(0, 0, 0)" style="text-align: right;">Date: Thursday, September 28, 2023<br />
+Contact: <a href="mailto:Interior_Press@ios.doi.gov">Interior_Press@ios.doi.gov</a></p>
+<p align="left" data-ogsc="rgb(0, 0, 0)"><strong data-ogsc="">WASHINGTON</strong> — The Department of the Interior today announced up to $328 million in funding opportunities available through President Biden’s Investing in America agenda, a key pillar of Bidenomics, to help communities address impacts of climate change through water recycling, water storage and desalination projects. The funds come primarily from the Bipartisan Infrastructure Law’s WaterSMART and Small Storage programs, as well as through annual appropriations, and the Water Infrastructure Improvements for the Nation Act.</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">President Biden’s Investing in America agenda represents the largest investment in climate resilience in the nation’s history and is providing much-needed resources to enhance Western communities’ resilience to drought and climate change, including protecting the short- and long-term sustainability of the Colorado River System. Through the <a data-auth="NotApplicable" data-linkindex="1" data-ogsc="rgb(0, 0, 238)" href="/priorities/investing-americas-infrastructure/addressing-drought" rel="noopener noreferrer" target="_blank">Bipartisan Infrastructure Law</a>, Reclamation is investing a total of $8.3 billion over five years for water infrastructure projects, including water purification and reuse, water storage and conveyance, desalination and dam safety. The Inflation Reduction Act is investing an additional $4.6 billion to address the historic drought.</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">“In the wake of severe drought conditions throughout the West, the Department is bringing every tool and resource to bear — including significant investments through President Biden’s Investing America agenda — to help build community resilience to drought and climate change for generations to come,” said <strong data-ogsc="">Secretary Deb Haaland</strong>. “Through today’s funding, we are partnering with local communities to advance innovative solutions for water conservation and expand local water storage supplies.”</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">“Through President Biden’s historic investments in climate resilience, Reclamation is offering a variety of opportunities to assist communities and irrigation districts in fully utilizing their current water supplies and tapping into potential new supplies,” sai<strong data-ogsc="">d Bureau of Reclamation Commissioner Camille Calimlim Touton</strong>. “As we work with our stakeholders to address impacts of climate change, these projects will diversify water portfolios and help provide flexibility.”</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">Reclamation is implementing an overall $1 billion investment for WaterSMART grants and $100 million for Small Storage Program grants from the Bipartisan Infrastructure Law to provide financial assistance to water managers to help conserve and use water more efficiently, implement renewable energy projects, investigate and develop water marketing strategies, mitigate conflict risk in areas at a high risk of future water conflict, and accomplish other benefits that contribute to sustainability in the Western United States.</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">These programs also advance the <a data-auth="Verified" data-linkindex="2" data-ogsc="rgb(0, 0, 238)" href="https://www.whitehouse.gov/environmentaljustice/justice40/" originalsrc="https://www.whitehouse.gov/environmentaljustice/justice40/" rel="noopener noreferrer" shash="y45XuQy/vx7JOuhiTLCmTw/ls50chYaQeCyNcHM0LuEjxVBNarkV8PVTwvAkTzXcjOke/zdiY2RXXr9E7p7KOKTb7gDDoQwxf4GU6JHpHpSgUO8ffWg183eHv3nj1TmSBcv1XxkfruQJ2ODm22q/Jih47hnzHbUPDLWJd5koSAw=" target="_blank" title="Original URL: https://www.whitehouse.gov/environmentaljustice/justice40/. Click or tap if you trust this link.">Justice40 Initiative</a>, part of the Biden-Harris administration’s historic commitment to environmental justice, which aims to ensure 40 percent of the overall benefits of certain climate, clean energy and other federal investments flow to disadvantaged communities that have been marginalized by underinvestment and overburdened by pollution.</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">As part of today’s announcement, Reclamation is opening three funding opportunities for water recycling and reuse, desalination construction and small water storage projects:</p>
+<h2 align="left" data-ogsc="rgb(0, 0, 0)"><strong data-ogsc="">Water Recycling Projects</strong></h2>
+<p align="left" data-ogsc="rgb(0, 0, 0)">Through Reclamation’s Title XVI Program, a total of $239 million is available for water reclamation and reuse projects. Reclamation will provide financial assistance to local water agencies for the planning, design, and construction of water reclamation and reuse projects. Water recycling is an important tool used to stretch limited water supplies.</p>
+<h2 align="left" data-ogsc="rgb(0, 0, 0)"><strong data-ogsc="">Desalination Construction Projects</strong></h2>
+<p align="left" data-ogsc="rgb(0, 0, 0)">Reclamation is making up to $64 million available for desalination construction projects. Desalination projects develop and supplement municipal and irrigation water supplies through the treatment of ocean or brackish water, thereby providing a local supply, providing flexibility during water shortages, and diversifying the water supply. These projects provide growing communities with new sources of clean water and increase water management flexibility, making water supplies more reliable.</p>
+<h2 align="left" data-ogsc="rgb(0, 0, 0)"><strong data-ogsc="">Small Water Storage Projects</strong></h2>
+<p align="left" data-ogsc="rgb(0, 0, 0)">Reclamation is making up to $25 million available for small surface water and groundwater storage projects in the 17 Western states, Hawaii and Alaska. Surface water and groundwater storage projects are essential tools in stretching the limited water supplies caused by a changing climate. Funding is available for projects with a water storage capacity between 200 and 30,000 acre-feet that increase surface water or groundwater storage.</p>
+<p align="left" data-ogsc="rgb(0, 0, 0)">Information on these funding opportunities is available at <a data-auth="Verified" data-linkindex="3" data-ogsc="rgb(0, 0, 238)" href="https://www.grants.gov/" originalsrc="https://www.grants.gov/" rel="noopener noreferrer" shash="bwHx3bZFzTDLoOmEyMRNgL+c5QyLm/k/BLERggT57Z+fc7RBgonjBn+4irlVciKhaeDV+576MLx1ojFVK+E3o1d8DHoMJpAGTrgOSUTTeWTaZNPMEMh/3WcIBTeqUhpKcYl71TPKaxpRCROfPd4cPg6m1F9TuBwlJ4IQdtabw5g=" target="_blank" title="Original URL: https://www.grants.gov/. Click or tap if you trust this link.">grants.gov</a> or <a data-auth="Verified" data-linkindex="4" data-ogsc="rgb(0, 0, 238)" href="https://www.usbr.gov/bil/" originalsrc="https://www.usbr.gov/bil/" rel="noopener noreferrer" shash="Aav78/J5lNol7sE3o/NwHGWYgmtXhfvJRqN7gmWJrPY85b9nCtCwwP9/6hnIRH3KsIUe4y9AOOHieUmRTw3GtAbo7mkoEmM9u8GSQvufMDgpy2wxz4Lavk5MdqPdPFonhJcFuuxqs+3X52cQo2rLsAqhSmBnDJMWudA/KSQ0aw4=" target="_blank" title="Original URL: https://www.usbr.gov/bil/. Click or tap if you trust this link.">Reclamation's Bipartisan Infrastructure Law webpage</a>.</p>
+<p align="center" data-ogsc="rgb(0, 0, 0)">###</p>
+</div></div></div>    </div>
+<div class="panel-pane pane-block pane-helpfulness-helpfulness">
+          <h2 class="pane-title">Was this page helpful?</h2>
+        <form class="helpfulness-form" action="/pressreleases/biden-harris-administration-makes-328-million-available-drought-and-climate-resiliency" method="post" id="helpfulness-form" accept-charset="UTF-8"><div><div id="edit-helpfulness-rating" class="form-radios"><div class="form-item form-type-radio form-item-helpfulness-rating">
+ <input type="radio" id="edit-helpfulness-rating-1" name="helpfulness_rating" value="1" class="form-radio" />  <label class="option" for="edit-helpfulness-rating-1">Yes </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-rating">
+ <input type="radio" id="edit-helpfulness-rating-0" name="helpfulness_rating" value="0" class="form-radio" />  <label class="option" for="edit-helpfulness-rating-0">No </label>
+
+</div>
+</div><div class="form-item form-type-radios form-item-helpfulness-no-options">
+  <label for="edit-helpfulness-no-options">This page was not helpful because the content: </label>
+ <div id="edit-helpfulness-no-options" class="form-radios"><div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-0" name="helpfulness_no_options" value="0" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-0">Has too little information </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-1" name="helpfulness_no_options" value="1" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-1">Has too much information </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-2" name="helpfulness_no_options" value="2" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-2">Is confusing </label>
+
+</div>
+<div class="form-item form-type-radio form-item-helpfulness-no-options">
+ <input type="radio" id="edit-helpfulness-no-options-3" name="helpfulness_no_options" value="3" class="form-radio" />  <label class="option" for="edit-helpfulness-no-options-3">Is out-of-date </label>
+
+</div>
+</div>
+</div>
+<input class="helpfulness_submit_button form-submit" id="feedbacksubmit" type="submit" name="op" value="Submit" /><input type="hidden" name="form_build_id" value="form-u2CsRN6cbWkT1FqyrDTXrCUM7jMnJRd1j8f1SWvGyQM" />
+<input type="hidden" name="form_id" value="helpfulness_form" />
+<div class="webforms-textfield"><div class="form-item form-type-textfield form-item-webforms">
+  <label for="edit-webforms">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-webforms" name="webforms" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>    </div>
+<div class="panel-pane pane-views-panes pane-related-content-related-content-pane">
+            <div class="view view-related-content view-id-related_content view-display-id-related_content_pane view-dom-id-2c67a89f4d4c2a55cc66fe669ca85f77">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div about="/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water" typeof="sioc:Item foaf:Document" role="article" class="node node--press-release node-teaser node--teaser node--press-release--teaser">
+  <div class="node__content">
+    <span property="dc:title" content="Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="rdf-meta element-hidden"></span><div class="content-type-label">Press Release</div><div class="field field--name-field-thumbnail-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water"><img typeof="foaf:Image" src="https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/bor-water-resources.jpg?itok=vHftoW2v" width="540" height="324" alt="Body of water reflecting green evergreen trees and mountains" title="President Biden’s Bipartisan Infrastructure Law investing in environmental projects to increase water availability" /></a></div></div></div><div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;text=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;title=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;title=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water&amp;title=Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+<div class="node-title"><a href="/pressreleases/biden-harris-administration-announces-51-million-investing-america-agenda-water">Biden-Harris Administration Announces $51 Million from Investing in America Agenda for Water Resources and Ecosystem Health</a></div>  </div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div about="/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly" typeof="sioc:Item foaf:Document" role="article" class="node node--press-release node-teaser node--teaser node--press-release--teaser">
+  <div class="node__content">
+    <span property="dc:title" content="Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="rdf-meta element-hidden"></span><div class="content-type-label">Press Release</div><div class="field field--name-field-thumbnail-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly"><img typeof="foaf:Image" src="https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/bil-secretary-haaland.jpeg?itok=d4u_7cQa" width="540" height="324" alt="Secretary Haaland speaking at DOI podium in front of a construction site. " title="Bipartisan Infrastructure Law" /></a></div></div></div><div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;text=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;title=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;title=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly&amp;title=Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+<div class="node-title"><a href="/pressreleases/bipartisan-infrastructure-law-projects-stewarded-interior-department-support-nearly">Bipartisan Infrastructure Law Projects Stewarded by Interior Department Support Nearly 18,000 Jobs, $2 Billion to the Economy Annually</a></div>  </div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div about="/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy" typeof="sioc:Item foaf:Document" role="article" class="node node--press-release node-teaser node--teaser node--press-release--teaser">
+  <div class="node__content">
+    <span property="dc:title" content="President Biden’s Investing in America Agenda Provides $50 Million for Water and Energy Efficiency Projects" class="rdf-meta element-hidden"></span><div class="content-type-label">Press Release</div><div class="field field--name-field-thumbnail-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy"><img typeof="foaf:Image" src="https://www.doi.gov/sites/doi.gov/files/styles/featured_image/public/press-release/thumbnail-images/weeg-program.jpg?itok=-EfC27b5" width="540" height="324" alt="Western canal surrounded by high desert landscape. " title="Bipartisan Infrastructure Law investments will fund water conservation and renewable energy projects" /></a></div></div></div><div class="doi-gov-social-widget">
+  <a href="#" class="share-trigger">Share</a>
+  <div class="share-links">
+    <ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy" class="doi-share-link facebook" title="Share on Facebook" data-label="Facebook">Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?via=interior&amp;url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy&amp;text=President Biden’s Investing in America Agenda Provides $50 Million for Water and Energy Efficiency Projects" class="doi-share-link twitter" title="Share on Twitter" data-label="Twitter">Twitter</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy&amp;title=President Biden’s Investing in America Agenda Provides $50 Million for Water and Energy Efficiency Projects" class="doi-share-link linkedin" title="Share on LinkedIn" data-label="LinkedIn">LinkedIn</a></li>
+<li><a href="https://reddit.com/submit?&amp;url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy&amp;title=President Biden’s Investing in America Agenda Provides $50 Million for Water and Energy Efficiency Projects" class="doi-share-link reddit" title="Share on Reddit" data-label="Reddit">Reddit</a></li>
+<li><a href="https://pinterest.com/pin/create/button/?url=https://www.doi.gov/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy&amp;title=President Biden’s Investing in America Agenda Provides $50 Million for Water and Energy Efficiency Projects" class="doi-share-link pinterest" title="Share on Pinterest" data-label="Pinterest">Pinterest</a></li>
+</ul>  </div>
+</div>
+<div class="node-title"><a href="/pressreleases/president-bidens-investing-america-agenda-provides-50-million-water-and-energy">President Biden’s Investing in America Agenda Provides $50 Million for Water and Energy Efficiency Projects</a></div>  </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+    </div>
+  
+      <div class="bottom two-column--bottom">
+      <div class="panel-pane pane-panels-mini pane-doi-back-to-top">
+            <div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-doi_back_to_top">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1">
+            <p><a class="back-to-top" href="#main-content">Back to top</a></p>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+
+    <footer class="l-footer" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-panels-mini-doi-footer-branding" class="block block--panels-mini block--panels-mini-doi-footer-branding">
+        <div class="block__content">
+    <div class="content-wrapper">
+<div class="two-column-flipped panels-container " id="mini-panel-doi_footer_branding">
+
+  
+      <div class="main two-column-flipped--main">
+      <div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img typeof="foaf:Image" src="https://www.doi.gov/sites/all/themes/custom/doi_gov/logo.png" alt="Home" /></a>    </div>
+<div class="panel-pane pane-page-site-name">
+            U.S. Department of the Interior    </div>
+<div class="panel-pane pane-page-slogan">
+            Stewarding Conservation and Powering Our Future    </div>
+    </div>
+  
+      <div class="sidebar two-column-flipped--sidebar">
+      <div class="panel-pane pane-block pane-menu-menu-social">
+            <ul class="menu"><li class="first leaf"><a href="https://www.instagram.com/usinterior/" title="DOI on Instagram">Instagram</a></li>
+<li class="leaf"><a href="https://www.facebook.com/USInterior" title="DOI on Facebook">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/interior" title="DOI on Twitter">Twitter</a></li>
+<li class="leaf"><a href="https://americasgreatoutdoors.tumblr.com/" title="DOI on Tumblr">Tumblr</a></li>
+<li class="leaf"><a href="https://www.flickr.com/photos/usinterior" title="DOI on Flickr">Flickr</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/USInterior" title="DOI on YouTube">YouTube</a></li>
+</ul>    </div>
+    </div>
+  
+  </div>
+</div>
+  </div>
+</div>
+<div id="block-panels-mini-doi-footer-supporting-links" class="block block--panels-mini block--panels-mini-doi-footer-supporting-links">
+        <div class="block__content">
+    <div class="one-column panels-container" id="mini-panel-doi_footer_supporting_links">
+      <div class="top one-column--top">
+      <div class="panel-pane pane-block pane-menu-menu-secondary">
+            <ul class="menu"><li class="first leaf"><a href="/bpp" title="">Budget &amp; Performance</a></li>
+<li class="leaf"><a href="/coronavirus" title="Coronavirus Updates">Coronavirus Updates</a></li>
+<li class="leaf"><a href="/cummings-act-notices" title="">Cummings Act Notices</a></li>
+<li class="leaf"><a href="/pmb/eeo" title="">Diversity, Inclusion &amp; Civil Rights</a></li>
+<li class="leaf"><a href="/foia" title="">FOIA</a></li>
+<li class="leaf"><a href="https://www.doioig.gov" title="">Inspector General</a></li>
+<li class="last leaf"><a href="/pmb/eeo/reports-repository" title="No Fear Act reports">No Fear Act</a></li>
+</ul>    </div>
+    </div>
+  
+      <div class="main one-column--main">
+      <div class="panel-pane pane-block pane-menu-menu-tertiary">
+            <ul class="menu"><li class="first leaf"><a href="/about" title="">About DOI</a></li>
+<li class="leaf"><a href="/accessibility" title="">Accessibility</a></li>
+<li class="leaf"><a href="/contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="/copyright" title="">Copyright</a></li>
+<li class="leaf"><a href="/disclaimer" title="">Disclaimer</a></li>
+<li class="leaf"><a href="/ocio/policy-mgmt-support/information-and-records-management/iq" title="">Information Quality</a></li>
+<li class="leaf"><a href="/privacy" title="">Privacy Policy</a></li>
+<li class="leaf"><a href="/sitemap" title="">Site Map</a></li>
+<li class="last leaf"><a href="/vulnerability-disclosure-policy" title="Report DOI system vulnerabilities">Vulnerability Disclosure Policy</a></li>
+</ul>    </div>
+    </div>
+  
+  </div>
+  </div>
+</div>
+<div id="block-panels-mini-doi-footer-information" class="block block--panels-mini block--panels-mini-doi-footer-information">
+        <div class="block__content">
+    <div class="content-wrapper">
+<div class="two-column-flipped panels-container no-sidebar" id="mini-panel-doi_footer_information">
+
+  
+      <div class="main two-column-flipped--main">
+      <div class="panel-pane pane-custom pane-3">
+            <p>U.S. Department of the Interior, 1849 C Street NW, Washington, DC 20240.</p>
+    </div>
+    </div>
+  
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+  </footer>
+  </div>
+  <a href="#skip-link" class="element-invisible element-focusable">Back to Top</a><script>/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_76378.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/</script>
+</body>
+</html>

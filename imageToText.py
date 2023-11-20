@@ -6,7 +6,7 @@ import cv2
 import pytesseract
 import time
 
-def extractImage(path):
+def extractText(path):
 
     try:
         img = cv2.imread(path)
@@ -45,7 +45,7 @@ def DownloadImage(index, url):
                 file.write(response.content)
 
             print(f"Image downloaded successfully and saved at {save_path}")
-            return extractImage(save_path)
+            return extractText(save_path)
             
 
         except requests.exceptions.RequestException as e:
